@@ -3,7 +3,7 @@ import { existsSync, readdirSync } from 'node:fs';
 import path from 'node:path';
 import type { FastifyInstance } from 'fastify';
 import { z } from 'zod';
-import { VERSIONS, analyzeBuild, entityRef, versionBit, type VersionKey } from '@isaac-codex/shared';
+import { VERSIONS, analyzeBuild, entityRef, versionBit, type VersionKey } from '../../../../packages/shared/src/index.js';
 import type { AppContext } from '../app.js';
 import { badRequest, parse } from '../lib/errors.js';
 
@@ -18,11 +18,19 @@ export async function toolRoutes(app: FastifyInstance, ctx: AppContext) {
       ctx.handle.sqlite.prepare('SELECT 1').get();
     } catch {
       db = 'error';
-      reply.status(503);
     }
+    let profilesDb = 'ok';
+    try {
+      await ctx.profiles.execute('SELECT 1');
+    } catch {
+      profilesDb = 'error';
+    }
+    if (db !== 'ok' || profilesDb !== 'ok') reply.status(503);
     const store = ctx.store();
     return {
-      status: db === 'ok' ? 'ok' : 'degraded',
+      status: db === 'ok' && profilesDb === 'ok' ? 'ok' : 'degraded',
+      profilesDb,
+      profilesPersistent: !ctx.profilesEphemeral,
       app: 'isaac-codex',
       version: process.env.npm_package_version ?? '1.0.0',
       datasetVersion: store.meta.datasetVersion,

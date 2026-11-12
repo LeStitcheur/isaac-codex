@@ -5,7 +5,7 @@
  */
 import { readFileSync, existsSync } from 'node:fs';
 import path from 'node:path';
-import { dataset as datasetSchema, type Dataset, VERSIONS } from '@isaac-codex/shared';
+import { dataset as datasetSchema, type Dataset, VERSIONS } from '../../../../packages/shared/src/index.js';
 import type { DbHandle } from './client.js';
 
 export function datasetPath(rootDir: string): string {

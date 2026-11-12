@@ -45,6 +45,25 @@ npm run build && npm run test:e2e     # Playwright sur l'application compilée (
 npm run typecheck
 ```
 
+## Déploiement sur Vercel (GitHub)
+
+Le dépôt est prêt pour Vercel (`vercel.json`) :
+
+- **Frontend** : `npm run build:web` → fichiers statiques `dist/web` servis par le CDN de Vercel (fallback SPA vers `index.html`).
+- **API** : fonction serverless `api/index.ts` (Fastify) ; toutes les routes `/api/*` y sont réécrites.
+- **Données du jeu** : importées en mémoire depuis `packages/game-data/generated/dataset.json` à chaque démarrage à froid (~0,4 s).
+- **Profils** : base [Turso](https://turso.tech) (libSQL) via `TURSO_DATABASE_URL` et `TURSO_AUTH_TOKEN`. Les tables sont créées automatiquement au premier appel. **Sans ces variables, les profils sont perdus à chaque démarrage à froid** (`/api/health` indique alors `"profilesPersistent": false`).
+
+Mise en place :
+
+1. vercel.com → *Add New… → Project* → importer `LeStitcheur/isaac-codex` (aucun réglage à modifier : `vercel.json` fournit tout).
+2. Onglet *Storage* (ou *Integrations*) → **Turso** → créer une base et la connecter au projet : `TURSO_DATABASE_URL` et `TURSO_AUTH_TOKEN` sont ajoutées automatiquement. (Alternative : `turso db create isaac-codex`, `turso db show --url isaac-codex`, `turso db tokens create isaac-codex`, puis saisir les deux variables à la main.)
+3. *Redeploy*. Vérifier `https://<projet>.vercel.app/api/health` → `"profilesPersistent": true`.
+
+Chaque `git push` sur `main` redéploie la production ; les autres branches obtiennent une URL de prévisualisation.
+
+Hors Vercel (local, Pterodactyl), rien ne change : sans variable Turso, les profils restent dans le fichier SQLite `DATABASE_PATH`.
+
 ## Déploiement sur Pterodactyl
 
 1. Panel → Admin → Nests → **Import Egg** → `pterodactyl/egg-isaac-codex.json`.
@@ -70,6 +89,7 @@ Détails : [`pterodactyl/README.md`](pterodactyl/README.md) · [`docs/DEPLOIEMEN
 | `BACKUP_ON_START` / `BACKUP_KEEP` | `true` / `7` | sauvegardes automatiques |
 | `RATE_LIMIT_MAX` / `AUTH_RATE_LIMIT_MAX` | `300` / `10` | limitation de débit |
 | `SPRITES_DIR` | `data/sprites` | sprites fournis par l'utilisateur |
+| `TURSO_DATABASE_URL` / `TURSO_AUTH_TOKEN` | — | base des profils libSQL/Turso (obligatoire sur Vercel ; sinon fichier local) |
 
 ## Données et sources
 

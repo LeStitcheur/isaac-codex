@@ -4,7 +4,7 @@ import { z } from 'zod';
 import {
   VERSIONS, computeStatuses, markupToText, versionBit, type Achievement, type Character, type EntityRef, type Item,
   type Synergy, type VersionKey,
-} from '@isaac-codex/shared';
+} from '../../../../packages/shared/src/index.js';
 import type { AppContext } from '../app.js';
 import type { GameStore } from '../lib/game-store.js';
 import { notFound, parse } from '../lib/errors.js';
@@ -186,9 +186,9 @@ export async function gameRoutes(app: FastifyInstance, ctx: AppContext) {
     if (q.transformation) list = list.filter((i) => i.transformations.includes(q.transformation!));
     if (q.tag) list = list.filter((i) => i.tags.includes(q.tag!));
     if (q.unlocked || q.favorites) {
-      const profileId = optionalProfileId(ctx.handle, req);
+      const profileId = await optionalProfileId(ctx.profiles, req);
       if (profileId) {
-        const progress = loadProgress(ctx.handle, profileId);
+        const progress = await loadProgress(ctx.profiles, profileId);
         if (q.favorites === 'yes') {
           const fav = new Set(progress.favorites.filter((f) => f.kind === 'item').map((f) => f.key));
           list = list.filter((i) => fav.has(String(i.id)));

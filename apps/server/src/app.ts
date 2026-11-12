@@ -8,6 +8,7 @@ import compress from '@fastify/compress';
 import fastifyStatic from '@fastify/static';
 import type { AppConfig } from './config.js';
 import type { DbHandle } from './db/client.js';
+import type { ProfileDb } from './db/profile-db.js';
 import type { GameStore } from './lib/game-store.js';
 import { registerErrorHandler } from './lib/errors.js';
 import { gameRoutes } from './routes/game.js';
@@ -16,7 +17,12 @@ import { toolRoutes } from './routes/tools.js';
 
 export interface AppContext {
   config: AppConfig;
+  /** Données du jeu (lecture seule, better-sqlite3). */
   handle: DbHandle;
+  /** Profils (libSQL : Turso ou fichier local). */
+  profiles: ProfileDb;
+  /** Vrai si les profils ne survivent pas au redémarrage (base en mémoire). */
+  profilesEphemeral?: boolean;
   store: () => GameStore;
 }
 

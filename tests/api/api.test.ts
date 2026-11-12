@@ -9,6 +9,7 @@ import { openDatabase, runMigrations, type DbHandle } from '../../apps/server/sr
 import { datasetPath, loadDatasetFile, seedGameData } from '../../apps/server/src/db/seed';
 import { loadGameStore } from '../../apps/server/src/lib/game-store';
 import { buildApp } from '../../apps/server/src/app';
+import { migrateProfileDb, openProfileDb, type ProfileDb } from '../../apps/server/src/db/profile-db';
 import type { Dataset } from '@isaac-codex/shared';
 
 const dir = mkdtempSync(path.join(tmpdir(), 'isaac-codex-test-'));
@@ -16,25 +17,34 @@ const dbFile = path.join(dir, 'test.sqlite');
 const config = { ...loadConfig({ ...process.env, NODE_ENV: 'test', DATABASE_PATH: dbFile, RATE_LIMIT_MAX: '10000', AUTH_RATE_LIMIT_MAX: '1000' }), databasePath: dbFile };
 let data: Dataset;
 
-async function start(): Promise<{ app: FastifyInstance; handle: DbHandle }> {
+async function start(): Promise<{ app: FastifyInstance; handle: DbHandle; profiles: ProfileDb }> {
   const handle = openDatabase(dbFile);
   runMigrations(handle, config.rootDir);
   seedGameData(handle, data);
   const store = loadGameStore(handle);
-  const app = await buildApp({ config, handle, store: () => store });
-  return { app, handle };
+  // Base des profils via libSQL sur le même fichier (comme en local hors Vercel).
+  const profiles = openProfileDb(config);
+  await migrateProfileDb(profiles, config.rootDir);
+  const app = await buildApp({ config, handle, profiles, store: () => store });
+  return { app, handle, profiles };
 }
 
 let app: FastifyInstance;
 let handle: DbHandle;
+let profiles: ProfileDb;
 beforeAll(async () => {
   data = loadDatasetFile(datasetPath(config.rootDir));
-  ({ app, handle } = await start());
+  ({ app, handle, profiles } = await start());
 });
 afterAll(async () => {
   await app?.close();
+  profiles?.close();
   handle?.sqlite.close();
-  rmSync(dir, { recursive: true, force: true });
+  try {
+    rmSync(dir, { recursive: true, force: true, maxRetries: 10, retryDelay: 100 });
+  } catch {
+    /* Windows : le fichier peut rester verrouillé brièvement après fermeture ; dossier temporaire laissé au système */
+  }
 });
 
 const createProfile = async (name: string, password?: string) => {
@@ -179,6 +189,26 @@ describe('profils : sécurité et progression', () => {
     expect(ok.statusCode).toBe(200);
     expect(ok.json().token).toBeTypeOf('string');
   });
+  it('supprime un profil et toutes ses données', async () => {
+    const p = await createProfile('Supprimé');
+    await app.inject({ method: 'PATCH', url: `/api/profiles/${p.profile.id}/progress`, headers: auth(p.token), payload: { donations: { donation: 3 }, favorites: [{ kind: 'item', key: '1', favorite: true }] } });
+    expect((await app.inject({ method: 'DELETE', url: `/api/profiles/${p.profile.id}`, headers: auth(p.token) })).statusCode).toBe(204);
+    for (const t of ['profiles', 'profile_tokens', 'profile_settings', 'profile_donations', 'profile_favorites']) {
+      const col = t === 'profiles' ? 'id' : 'profile_id';
+      const n = (await profiles.execute({ sql: `SELECT COUNT(*) AS n FROM ${t} WHERE ${col} = ?`, args: [p.profile.id] })).rows[0]!.n;
+      expect(n, t).toBe(0);
+    }
+  });
+  it('importe en mode « remplacer » de façon atomique', async () => {
+    const p = await createProfile('Remplace');
+    await app.inject({ method: 'PATCH', url: `/api/profiles/${p.profile.id}/progress`, headers: auth(p.token), payload: { donations: { donation: 50 }, favorites: [{ kind: 'item', key: '1', favorite: true }] } });
+    const exp = (await app.inject({ method: 'POST', url: `/api/profiles/${p.profile.id}/export`, headers: auth(p.token) })).json();
+    const r = await app.inject({ method: 'POST', url: '/api/profiles/import', headers: auth(p.token), payload: { data: { ...exp, favorites: [], donations: { donation: 7, greed: 0 } }, mode: 'replace' } });
+    expect(r.statusCode).toBe(200);
+    const prog = (await app.inject({ url: `/api/profiles/${p.profile.id}/progress`, headers: auth(p.token) })).json();
+    expect(prog.donations.donation).toBe(7);
+    expect(prog.favorites).toEqual([]);
+  });
 });
 
 describe('persistance', () => {
@@ -186,8 +216,9 @@ describe('persistance', () => {
     const p = await createProfile('Persistant');
     await app.inject({ method: 'PATCH', url: `/api/profiles/${p.profile.id}/progress`, headers: auth(p.token), payload: { donations: { greed: 640 } } });
     await app.close();
+    profiles.close();
     handle.sqlite.close();
-    ({ app, handle } = await start());
+    ({ app, handle, profiles } = await start());
     const prog = (await app.inject({ url: `/api/profiles/${p.profile.id}/progress`, headers: auth(p.token) })).json();
     expect(prog.donations.greed).toBe(640);
   });

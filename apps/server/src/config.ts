@@ -6,6 +6,7 @@
 import { existsSync, readFileSync } from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { defaultProfileDbUrl } from './db/profile-db.js';
 
 function findRoot(start: string): string {
   let dir = start;
@@ -32,13 +33,17 @@ export function loadConfig(env: NodeJS.ProcessEnv = process.env) {
   if (!Number.isInteger(port) || port <= 0 || port > 65535) throw new Error(`Port invalide : ${portRaw}`);
   const nodeEnv = env.NODE_ENV || 'development';
   const dbPath = env.DATABASE_PATH || 'data/isaac-codex.sqlite';
+  const databasePath = dbPath === ':memory:' ? dbPath : path.resolve(rootDir, dbPath);
   return {
     rootDir,
     nodeEnv,
     isProd: nodeEnv === 'production',
     host: env.HOST || '0.0.0.0',
     port,
-    databasePath: dbPath === ':memory:' ? dbPath : path.resolve(rootDir, dbPath),
+    databasePath,
+    /** Base des profils : Turso si configuré (TURSO_DATABASE_URL, posée par l'intégration Vercel), sinon le fichier local. */
+    profileDbUrl: env.TURSO_DATABASE_URL || env.PROFILE_DATABASE_URL || defaultProfileDbUrl(databasePath),
+    profileDbAuthToken: env.TURSO_AUTH_TOKEN || env.PROFILE_DATABASE_AUTH_TOKEN || undefined,
     logLevel: env.LOG_LEVEL || 'info',
     logFormat: (env.LOG_FORMAT || 'pretty') as 'pretty' | 'json',
     appBaseUrl: env.APP_BASE_URL || '',

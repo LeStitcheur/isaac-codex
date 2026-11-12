@@ -9,6 +9,7 @@ import { loadConfig } from './config.js';
 import { openDatabase, runMigrations } from './db/client.js';
 import { datasetPath, loadDatasetFile, seedGameData, currentDatasetVersion } from './db/seed.js';
 import { createBackup, latestBackupAge } from './db/backup.js';
+import { isRemoteProfileDb, migrateProfileDb, openProfileDb } from './db/profile-db.js';
 import { loadGameStore, type GameStore } from './lib/game-store.js';
 import { buildApp } from './app.js';
 
@@ -45,8 +46,12 @@ async function main() {
     return;
   }
 
+  const profiles = openProfileDb(config);
+  await migrateProfileDb(profiles, config.rootDir);
+  log(`Base des profils : ${isRemoteProfileDb(config.profileDbUrl) ? 'libSQL distante (Turso)' : 'fichier local'}`);
+
   let store: GameStore = loadGameStore(handle);
-  const app = await buildApp({ config, handle, store: () => store });
+  const app = await buildApp({ config, handle, profiles, profilesEphemeral: config.profileDbUrl === ':memory:', store: () => store });
   void (store = loadGameStore(handle));
 
   let closing = false;
@@ -56,6 +61,7 @@ async function main() {
     log(`Signal ${signal} reçu : arrêt propre…`);
     try {
       await app.close();
+      profiles.close();
       handle.sqlite.pragma('wal_checkpoint(TRUNCATE)');
       handle.sqlite.close();
       log('Arrêt terminé.');

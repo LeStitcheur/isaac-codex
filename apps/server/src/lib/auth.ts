@@ -6,7 +6,7 @@
  */
 import { createHash, randomBytes, randomUUID, scryptSync, timingSafeEqual } from 'node:crypto';
 import type { FastifyRequest } from 'fastify';
-import type { DbHandle } from '../db/client.js';
+import type { InStatement, ProfileDb } from '../db/profile-db.js';
 import { notFound, unauthorized } from './errors.js';
 
 export const newProfileId = () => randomUUID();
@@ -28,17 +28,22 @@ export function verifyPassword(password: string, stored: string | null): boolean
   return actual.length === expected.length && timingSafeEqual(actual, expected);
 }
 
-export function issueToken(handle: DbHandle, profileId: string): string {
-  const token = newToken();
+/** Insertion d'un jeton + révocation des plus anciens (au plus 20 jetons actifs par profil). */
+export function issueTokenStatements(profileId: string, token: string): InStatement[] {
   const now = new Date().toISOString();
-  handle.sqlite.prepare('INSERT INTO profile_tokens (token_hash, profile_id, created_at, last_used_at) VALUES (?,?,?,?)').run(hashToken(token), profileId, now, now);
-  // Limite le nombre de jetons actifs par profil (les plus anciens sont révoqués).
-  handle.sqlite
-    .prepare(
-      `DELETE FROM profile_tokens WHERE profile_id = ? AND token_hash NOT IN (
+  return [
+    { sql: 'INSERT INTO profile_tokens (token_hash, profile_id, created_at, last_used_at) VALUES (?,?,?,?)', args: [hashToken(token), profileId, now, now] },
+    {
+      sql: `DELETE FROM profile_tokens WHERE profile_id = ? AND token_hash NOT IN (
          SELECT token_hash FROM profile_tokens WHERE profile_id = ? ORDER BY last_used_at DESC LIMIT 20)`,
-    )
-    .run(profileId, profileId);
+      args: [profileId, profileId],
+    },
+  ];
+}
+
+export async function issueToken(profiles: ProfileDb, profileId: string): Promise<string> {
+  const token = newToken();
+  await profiles.batch(issueTokenStatements(profileId, token), 'write');
   return token;
 }
 
@@ -50,28 +55,27 @@ function bearer(request: FastifyRequest): string | null {
 }
 
 /** Profil associé au jeton, ou null (sans erreur). */
-export function optionalProfileId(handle: DbHandle, request: FastifyRequest): string | null {
+export async function optionalProfileId(profiles: ProfileDb, request: FastifyRequest): Promise<string | null> {
   const token = bearer(request);
   if (!token) return null;
-  const row = handle.sqlite.prepare('SELECT profile_id, last_used_at FROM profile_tokens WHERE token_hash = ?').get(hashToken(token)) as
-    | { profile_id: string; last_used_at: string }
-    | undefined;
+  const hash = hashToken(token);
+  const row = (await profiles.execute({ sql: 'SELECT profile_id, last_used_at FROM profile_tokens WHERE token_hash = ?', args: [hash] })).rows[0];
   if (!row) return null;
-  if (Date.now() - Date.parse(row.last_used_at) > 3_600_000) {
-    handle.sqlite.prepare('UPDATE profile_tokens SET last_used_at = ? WHERE token_hash = ?').run(new Date().toISOString(), hashToken(token));
+  if (Date.now() - Date.parse(row.last_used_at as string) > 3_600_000) {
+    await profiles.execute({ sql: 'UPDATE profile_tokens SET last_used_at = ? WHERE token_hash = ?', args: [new Date().toISOString(), hash] });
   }
-  return row.profile_id;
+  return row.profile_id as string;
 }
 
 /** Exige un jeton valide pour le profil demandé. Répond 404 (et non 403) pour ne pas révéler l'existence des profils. */
-export function requireProfile(handle: DbHandle, request: FastifyRequest, profileId?: string): string {
-  const id = optionalProfileId(handle, request);
+export async function requireProfile(profiles: ProfileDb, request: FastifyRequest, profileId?: string): Promise<string> {
+  const id = await optionalProfileId(profiles, request);
   if (!id) throw unauthorized();
   if (profileId !== undefined && id !== profileId) throw notFound('Profil');
   return id;
 }
 
-export function revokeToken(handle: DbHandle, request: FastifyRequest) {
+export async function revokeToken(profiles: ProfileDb, request: FastifyRequest): Promise<void> {
   const token = bearer(request);
-  if (token) handle.sqlite.prepare('DELETE FROM profile_tokens WHERE token_hash = ?').run(hashToken(token));
+  if (token) await profiles.execute({ sql: 'DELETE FROM profile_tokens WHERE token_hash = ?', args: [hashToken(token)] });
 }

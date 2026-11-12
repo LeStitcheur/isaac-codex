@@ -20,6 +20,6 @@
       "@isaac-codex/shared": ["packages/shared/src/index.ts"]
     }
   },
-  "include": ["apps/server/src", "apps/server/*.ts", "packages/shared/src", "scripts", "tests", "e2e", "*.ts"],
+  "include": ["api", "apps/server/src", "apps/server/*.ts", "packages/shared/src", "scripts", "tests", "e2e", "*.ts"],
   "exclude": ["node_modules", "dist", "apps/web"]
 }

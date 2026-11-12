@@ -8,7 +8,7 @@ import {
   type Achievement, type Boss, type Challenge, type Character, type CompletionMark, type Consumable, type DatasetMeta,
   type DonationMilestone, type EntityRef, type Floor, type Guide, type Item, type MarkUnlock, type PlannerPath, type Pool,
   type Route, type SourceRef, type Synergy, type Transformation, type Trinket, markupToText,
-} from '@isaac-codex/shared';
+} from '../../../../packages/shared/src/index.js';
 import type { DbHandle } from '../db/client.js';
 
 type Row = Record<string, unknown>;

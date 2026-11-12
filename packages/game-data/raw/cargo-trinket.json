@@ -1,0 +1,1694 @@
+[
+ {
+  "_pageName": "???'s Soul",
+  "alias": "???'s Soul",
+  "description": "Spawns a [[familiar]] that floats slowly around the room on a zig-zag pattern similar to <span class=\"tooltip\" data-tooltip=\"i%2Ftooltip%7CThe+Peeper\" data-tooltip-dlc=\"31\"><span class=\"tb-icon tb-link-icon\" style=\"--tb-icon-size: 1.4em\">[[File:Collectible The Peeper icon.png|link=The Peeper|alt=|The Peeper]]&zwj;</span>[[:The Peeper|The Peeper]]</span> and fires [[spectral]] and [[homing]] tears.",
+  "dlc": "31",
+  "id": "57",
+  "link": "???'s Soul",
+  "unlocked_by": "???'s Soul"
+ },
+ {
+  "_pageName": "'M",
+  "alias": "'M",
+  "description": "Using an [[activated item]] rerolls it.",
+  "dlc": "24",
+  "id": "138",
+  "link": "'M",
+  "unlocked_by": "'M"
+ },
+ {
+  "_pageName": "A Lighter",
+  "alias": "A Lighter",
+  "description": "Adds a chance for enemies to [[burn]] upon entering a room.",
+  "dlc": "24",
+  "id": "135",
+  "link": "A Lighter",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "A Missing Page",
+  "alias": "A Missing Page",
+  "description": "5% chance to induce <span class=\"tooltip\" data-tooltip=\"i%2Ftooltip%7CThe+Necronomicon\" data-tooltip-dlc=\"31\"><span style=\"--tb-icon-size: 1.4em\">[[File:Collectible The Necronomicon icon.png|link=The Necronomicon|class=tb-icon tb-link-icon|alt=|The Necronomicon]]</span>[[:The Necronomicon|The Necronomicon]]</span>'s effect upon taking damage. [[File:Dlc r indicator.png|link=|class=dlc cf-tag cf-val-24 |alt=(in Repentance and Repentance+)|Added in Repentance]][[Category:Modified in Repentance]] Adds +40 damage to [[File:Black Heart.png|link=Hearts#Black Heart|class=tb-icon tb-link-icon|alt=|Black Heart]][[:Hearts#Black Heart|Black Heart]]s and The Necromonicon-like effects.",
+  "dlc": "31",
+  "id": "48",
+  "link": "A Missing Page",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "AAA Battery",
+  "alias": "AAA Battery",
+  "description": "Automatically recharges the last energy slot of an [[activated item]], effectively reducing recharge rates by one.",
+  "dlc": "31",
+  "id": "3",
+  "link": "AAA Battery",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Ace of Spades",
+  "alias": "Ace of Spades",
+  "description": "Increases the chance of [[Cards and Runes|tarot cards or playing cards]] dropping after clearing a room, and the chance of finding cards when opening a <span class=\"tb-icon tb-link-icon\" >[[File:Chest.png|link=Chests|alt=|Chest]]&zwj;</span>[[:Chests|Chest]].",
+  "dlc": "31",
+  "id": "45",
+  "link": "Ace of Spades",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Adoption Papers",
+  "alias": "Adoption Papers",
+  "description": "[[File:Shop Icon.png|link=Shop|class=tb-icon tb-link-icon|alt=|]][[:Shop|Shop]]s can sell [[familiar]]s, which will always be at a discounted price.",
+  "dlc": "24",
+  "id": "184",
+  "link": "Adoption Papers",
+  "unlocked_by": "Adoption Papers"
+ },
+ {
+  "_pageName": "Apollyon's Best Friend",
+  "alias": "Apollyon's Best Friend",
+  "description": "Spawns an <span class=\"tooltip\" data-tooltip=\"i%2Ftooltip%7CAbyss\" data-tooltip-dlc=\"24\"><span style=\"--tb-icon-size: 1.4em\">[[File:Collectible Abyss icon.png|link=Abyss|class=tb-icon tb-link-icon|alt=|Abyss]]</span>[[:Abyss|Abyss]]</span> locust [[familiar]] which will fly forward while Isaac shoots.",
+  "dlc": "24",
+  "id": "186",
+  "link": "Apollyon's Best Friend",
+  "unlocked_by": "Apollyon's Best Friend"
+ },
+ {
+  "_pageName": "Apple of Sodom",
+  "alias": "Apple of Sodom",
+  "description": "Picking up [[File:Red Heart.png|link=Hearts#Red Heart|class=tb-icon tb-link-icon|alt=|Red Heart]][[:Hearts#Red Heart|Red Heart]]s, even while at full health, can convert them into [[blue spider]]s. The effect may consume hearts needed for healing.",
+  "dlc": "24",
+  "id": "140",
+  "link": "Apple of Sodom",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Azazel's Stump",
+  "alias": "Azazel's Stump",
+  "description": "When clearing a room, adds a 33% chance to turn into <span style=\"--tb-icon-size: 1.4em\">[[File:Character Azazel icon.png|link=Azazel|class=tb-icon tb-link-icon|alt=|]]</span>[[:Azazel|Azazel]] until clearing another.",
+  "dlc": "24",
+  "id": "162",
+  "link": "Azazel's Stump",
+  "unlocked_by": "Azazel's Stump"
+ },
+ {
+  "_pageName": "Baby-Bender",
+  "alias": "Baby-Bender",
+  "description": "Grants Isaac's [[familiar]]s [[Tear Effects#Homing|homing shots]].",
+  "dlc": "28",
+  "id": "127",
+  "link": "Baby-Bender",
+  "unlocked_by": "Baby-Bender"
+ },
+ {
+  "_pageName": "Bag Lunch",
+  "alias": "Bag Lunch",
+  "description": "Taking damage has a small chance to destroy the trinket and spawn <span class=\"tooltip\" data-tooltip=\"i%2Ftooltip%7CLunch\" data-tooltip-dlc=\"28\"><span style=\"--tb-icon-size: 1.4em\">[[File:Collectible Lunch icon.png|link=Lunch|class=tb-icon tb-link-icon|alt=|Lunch]]</span>[[:Lunch|Lunch]]</span>.",
+  "dlc": "28",
+  "id": "105",
+  "link": "Bag Lunch",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Bat Wing",
+  "alias": "Bat Wing",
+  "description": "Upon killing an enemy, has a 5% chance to grant [[flight]] for the rest of the room.",
+  "dlc": "28",
+  "id": "118",
+  "link": "Bat Wing",
+  "unlocked_by": "Bat Wing"
+ },
+ {
+  "_pageName": "Beth's Essence",
+  "alias": "Beth's Essence",
+  "description": "Upon entering an <span class=\"tb-icon tb-link-icon\" >[[File:Angel Room Icon.png|link=Angel Room|alt=|]]&zwj;</span>[[:Angel Room|Angel Room]], spawns 5 wisp orbitals. Giving money to <span class=\"tb-icon tb-link-icon\" >[[File:Beggar.png|link=Beggar|alt=|Beggar]]&zwj;</span>[[:Beggar|Beggar]]s can spawn wisps.",
+  "dlc": "24",
+  "id": "182",
+  "link": "Beth's Essence",
+  "unlocked_by": "Beth's Essence"
+ },
+ {
+  "_pageName": "Beth's Faith",
+  "alias": "Beth's Faith",
+  "description": "At the beginning of each floor, spawn 4-8 wisps that orbit Isaac and fires tears alongside him.",
+  "dlc": "24",
+  "id": "142",
+  "link": "Beth's Faith",
+  "unlocked_by": "Beth's Faith"
+ },
+ {
+  "_pageName": "Bible Tract",
+  "alias": "Bible Tract",
+  "description": "Increases the chance of <span class=\"tb-icon tb-link-icon\" >[[File:Eternal Heart.png|link=Hearts#Eternal Heart|Eternal Heart|alt=]]</span>[[:Hearts#Eternal Heart|Eternal Heart]]s appearing.",
+  "dlc": "31",
+  "id": "18",
+  "link": "Bible Tract",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Black Feather",
+  "alias": "Black Feather",
+  "description": "Increases Isaac's [[Damage]] for each 'evil' [[item]] or [[trinket]] he possesses.",
+  "dlc": "30",
+  "id": "80",
+  "link": "Black Feather",
+  "unlocked_by": "Black Feather"
+ },
+ {
+  "_pageName": "Black Lipstick",
+  "alias": "Black Lipstick",
+  "description": "Increases the chance of <span class=\"tb-icon tb-link-icon\" >[[File:Black Heart.png|link=Hearts#Black Heart|Black Heart|alt=]]</span>[[:Hearts#Black Heart|Black Heart]]s appearing.",
+  "dlc": "31",
+  "id": "17",
+  "link": "Black Lipstick",
+  "unlocked_by": "Black Lipstick"
+ },
+ {
+  "_pageName": "Black Tooth",
+  "alias": "Black Tooth",
+  "description": "Adds a chance to fire a black tooth that deals double [[damage]] and [[poison]]s enemies.",
+  "dlc": "28",
+  "id": "95",
+  "link": "Black Tooth",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Blasting Cap",
+  "alias": "Blasting Cap",
+  "description": "Exploding [[File:Bomb.png|link=Bombs|class=tb-icon tb-link-icon|alt=|Bomb]][[:Bombs|Bomb]]s have a chance to drop another Bomb pickup.",
+  "dlc": "30",
+  "id": "73",
+  "link": "Blasting Cap",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Blessed Penny",
+  "alias": "Blessed Penny",
+  "description": "Gives a chance to drop a [[File:Half Soul Heart.png|link=Hearts#Half Soul Heart|class=tb-icon tb-link-icon|alt=|Half Soul Heart]][[:Hearts#Half Soul Heart|Half Soul Heart]] when a [[Coins|coin]] is collected.",
+  "dlc": "24",
+  "id": "131",
+  "link": "Blessed Penny",
+  "unlocked_by": "Blessed Penny"
+ },
+ {
+  "_pageName": "Blind Rage",
+  "alias": "Blind Rage",
+  "description": "Increases invincibility time after getting hit.",
+  "dlc": "30",
+  "id": "81",
+  "link": "Blind Rage",
+  "unlocked_by": "Blind Rage"
+ },
+ {
+  "_pageName": "Blister",
+  "alias": "Blister",
+  "description": "Increases knockback of tears.",
+  "dlc": "30",
+  "id": "77",
+  "link": "Blister",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Bloody Crown",
+  "alias": "Bloody Crown",
+  "description": "<span class=\"tb-icon tb-link-icon\" >[[File:Treasure Room Icon.png|link=Treasure Room||alt=]]</span>[[:Treasure Room|Treasure Room]]s appear in [[Chapter 4]].",
+  "dlc": "28",
+  "id": "111",
+  "link": "Bloody Crown",
+  "unlocked_by": "Bloody Crown"
+ },
+ {
+  "_pageName": "Bloody Penny",
+  "alias": "Bloody Penny",
+  "description": "Gives a chance to drop a [[File:Half Red Heart.png|link=Hearts#Half Red Heart|class=tb-icon tb-link-icon|alt=|Half Red Heart]][[:Hearts#Half Red Heart|Half Red Heart]] when a [[Coins|coin]] is collected.",
+  "dlc": "31",
+  "id": "49",
+  "link": "Bloody Penny",
+  "unlocked_by": "Blood Penny"
+ },
+ {
+  "_pageName": "Blue Key",
+  "alias": "Blue Key",
+  "description": "Doors can be unlocked without using [[File:Key.png|link=Keys|class=tb-icon tb-link-icon|alt=|Key]][[:Keys|Key]]s. Opening a door this way brings Isaac to an in-between room that resembles [[File:Stage Blue Womb icon.png|link=??? (Floor)|class=tb-icon tb-link-icon|alt=|???]][[:??? (Floor)|???]], with a few [[monster]]s.",
+  "dlc": "24",
+  "id": "150",
+  "link": "Blue Key",
+  "unlocked_by": "Blue Key"
+ },
+ {
+  "_pageName": "Bob's Bladder",
+  "alias": "Bob's Bladder",
+  "description": "Leaves a pool of [[green creep]] under all [[File:Bomb.png|link=Bombs|class=tb-icon tb-link-icon|alt=|Bomb]][[:Bombs|Bomb]]s Isaac places, which damages enemies that walk over it.",
+  "dlc": "30",
+  "id": "71",
+  "link": "Bob's Bladder",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Brain Worm",
+  "alias": "Brain Worm",
+  "description": "Tears snap 90 degrees to target enemies that they may have missed.",
+  "dlc": "24",
+  "id": "144",
+  "link": "Brain Worm",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Broken Ankh",
+  "alias": "Broken Ankh",
+  "description": "When held, Isaac has a 22.22% chance to be revived as <span style=\"--tb-icon-size: 1.4em\">[[File:Character ??? icon.png|link=??? (Character)|class=tb-icon tb-link-icon|alt=|???]]</span>[[:??? (Character)|???]] in the most recent non-hostile room. Can occur multiple times in the same run.",
+  "dlc": "31",
+  "id": "28",
+  "link": "Broken Ankh",
+  "unlocked_by": "Broken Ankh"
+ },
+ {
+  "_pageName": "Broken Glasses",
+  "alias": "Broken Glasses",
+  "description": "Gives a 50% chance to add a '?' item to [[File:Treasure Room Icon.png|link=Treasure Room|class=tb-icon tb-link-icon|alt=|]][[:Treasure Room|Treasure Room]]s. Only one item can be taken. The extra items on the alt path are revealed instead.",
+  "dlc": "24",
+  "id": "187",
+  "link": "Broken Glasses",
+  "unlocked_by": "Broken Glasses"
+ },
+ {
+  "_pageName": "Broken Magnet",
+  "alias": "Broken Magnet",
+  "description": "Pulls [[coin]]s towards Isaac, but ignores other [[pickup]]s.",
+  "dlc": "31",
+  "id": "6",
+  "link": "Broken Magnet",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Broken Padlock",
+  "alias": "Broken Padlock",
+  "description": "Locks can be opened with explosions.",
+  "dlc": "24",
+  "id": "136",
+  "link": "Broken Padlock",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Broken Remote",
+  "alias": "Broken Remote",
+  "description": "Triggers the <span class=\"tooltip\" data-tooltip=\"i%2Ftooltip%7CTeleport%21\" data-tooltip-dlc=\"31\"><span style=\"--tb-icon-size: 1.4em\">[[File:Collectible Teleport! icon.png|link=Teleport!|class=tb-icon tb-link-icon|alt=|Teleport!]]</span>[[:Teleport!|Teleport!]]</span> effect whenever an [[activated item]] is used.",
+  "dlc": "31",
+  "id": "4",
+  "link": "Broken Remote",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Broken Syringe",
+  "alias": "Broken Syringe",
+  "description": "Grants a chance to gain a random [[syringe]] effect for the current room.",
+  "dlc": "24",
+  "id": "132",
+  "link": "Broken Syringe",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Brown Cap",
+  "alias": "Brown Cap",
+  "description": "<span class=\"tb-icon tb-link-icon\" >[[File:Poop.png|link=Poop (Disambiguation)|alt=|Poop]]&zwj;</span>[[:Poop (Disambiguation)|Poop]]s explode upon being destroyed.",
+  "dlc": "30",
+  "id": "90",
+  "link": "Brown Cap",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Burnt Penny",
+  "alias": "Burnt Penny",
+  "description": "Gives a chance to drop a <span class=\"tb-icon tb-link-icon\" >[[File:Bomb.png|link=Bombs|alt=|Bomb]]&zwj;</span>[[:Bombs|Bomb]] when a [[Coins|coin]] is collected.",
+  "dlc": "31",
+  "id": "50",
+  "link": "Burnt Penny",
+  "unlocked_by": "Burnt Penny"
+ },
+ {
+  "_pageName": "Butt Penny",
+  "alias": "Butt Penny",
+  "description": "Isaac will fart when he picks up a [[Coins|coin]]. Coins have a higher chance to drop from <span class=\"tb-icon tb-link-icon\" >[[File:Poop.png|link=Poop (Disambiguation)|alt=|Poop]]&zwj;</span>[[:Poop (Disambiguation)|Poop]]s.",
+  "dlc": "31",
+  "id": "24",
+  "link": "Butt Penny",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Butter!",
+  "alias": "Butter!",
+  "description": "Using an active item will drop it onto a pedestal on the ground. Taking damage may result in dropping an owned passive item.",
+  "dlc": "28",
+  "id": "122",
+  "link": "Butter!",
+  "unlocked_by": "Butter!"
+ },
+ {
+  "_pageName": "Cain's Eye",
+  "alias": "Cain's Eye",
+  "description": "When starting a floor, 25% chance to gain the effect of <span class=\"tooltip\" data-tooltip=\"i%2Ftooltip%7CThe+Compass\" data-tooltip-dlc=\"31\"><span style=\"--tb-icon-size: 1.4em\">[[File:Collectible The Compass icon.png|link=The Compass|class=tb-icon tb-link-icon|alt=|The Compass]]</span>[[:The Compass|The Compass]]</span> for the duration of the floor.",
+  "dlc": "31",
+  "id": "59",
+  "link": "Cain's Eye",
+  "unlocked_by": "Cain's Eye"
+ },
+ {
+  "_pageName": "Callus",
+  "alias": "Callus",
+  "description": "Prevents damage from [[creep]] and [[spikes]].",
+  "dlc": "31",
+  "id": "14",
+  "link": "Callus",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Cancer (Trinket)",
+  "alias": "Cancer",
+  "description": "[[File:Dlc nr indicator.png|link=|class=dlc cf-tag cf-val-7 |alt=(except in Repentance and Repentance+)|Removed in Repentance]][[Category:Modified in Repentance]] -2 [[tear delay]] (effectively increases fire rate of tears).<br>[[File:Dlc r indicator.png|link=|class=dlc cf-tag cf-val-24 |alt=(in Repentance and Repentance+)|Added in Repentance]][[Category:Modified in Repentance]] +1.0 [[fire rate]].",
+  "dlc": "31",
+  "id": "39",
+  "link": "Cancer (Trinket)",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Cartridge",
+  "alias": "Cartridge",
+  "description": "Chance to trigger <span class=\"tooltip\" data-tooltip=\"i%2Ftooltip%7CThe+Gamekid\" data-tooltip-dlc=\"31\"><span class=\"tb-icon tb-link-icon\" style=\"--tb-icon-size: 1.4em\">[[File:collectible The Gamekid icon.png|link=The Gamekid|The Gamekid|alt=]]</span>[[:The Gamekid|The Gamekid]]</span> effect upon taking damage.",
+  "dlc": "31",
+  "id": "8",
+  "link": "Cartridge",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Charged Penny",
+  "alias": "Charged Penny",
+  "description": "Picking up [[coin]]s has a chance to give an Active Item charge.",
+  "dlc": "24",
+  "id": "147",
+  "link": "Charged Penny",
+  "unlocked_by": "Charged Penny"
+ },
+ {
+  "_pageName": "Chewed Pen",
+  "alias": "Chewed Pen",
+  "description": "Adds a chance to fire tears that [[slow]] enemies.",
+  "dlc": "24",
+  "id": "130",
+  "link": "Chewed Pen",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Child Leash",
+  "alias": "Child Leash",
+  "description": "Causes [[familiar]]s to stay closer to each other. [[File:Dlc r+ indicator.png|link=|class=dlc cf-tag cf-val-16 |alt=(in Repentance+)|Added in Repentance+]][[Category:Modified in Repentance+]] Increases damage and size of all [[familiar]]s by 25%.",
+  "dlc": "30",
+  "id": "89",
+  "link": "Child Leash",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Child's Heart",
+  "alias": "Child's Heart",
+  "description": "Increases the chance of a <span class=\"tb-icon tb-link-icon\" >[[File:Red Heart.png|link=Hearts#Red Heart|alt=|Heart]]&zwj;</span>[[:Hearts#Red Heart|Heart]] dropping after clearing a room, and the chance of finding a heart when opening a <span class=\"tb-icon tb-link-icon\" >[[File:Chest.png|link=Chests|alt=|Chest]]&zwj;</span>[[:Chests|Chest]].",
+  "dlc": "31",
+  "id": "34",
+  "link": "Child's Heart",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Counterfeit Penny",
+  "alias": "Counterfeit Penny",
+  "description": "Gives a 50% chance of increasing the value of every [[Coins|coin]] pickup by one.",
+  "dlc": "31",
+  "id": "52",
+  "link": "Counterfeit Penny",
+  "unlocked_by": "Counterfeit Coin"
+ },
+ {
+  "_pageName": "Cracked Crown",
+  "alias": "Cracked Crown",
+  "description": "[[File:Dlc nr indicator.png|link=|class=dlc cf-tag cf-val-7 |alt=(except in Repentance and Repentance+)|Removed in Repentance]][[Category:Modified in Repentance]] Decreases Isaac's [[tear delay]] by 20%, and improves the effectiveness of his other [[stat]] upgrades by 33%.<br>[[File:Dlc r indicator.png|link=|class=dlc cf-tag cf-val-24 |alt=(in Repentance and Repentance+)|Added in Repentance]][[Category:Modified in Repentance]] Improves the effectiveness of stat upgrades by 20%.",
+  "dlc": "28",
+  "id": "92",
+  "link": "Cracked Crown",
+  "unlocked_by": "The Marathon"
+ },
+ {
+  "_pageName": "Cracked Dice",
+  "alias": "Cracked Dice",
+  "description": "[[Category:Modified in Repentance]][[File:Dlc nr indicator.png|link=|class=dlc cf-tag cf-val-7 |alt=(except in Repentance and Repentance+)|Removed in Repentance]] Activates [[Category:Modified in Repentance]][[File:Dlc r indicator.png|link=|class=dlc cf-tag cf-val-24 |alt=(in Repentance and Repentance+)|Added in Repentance]] Has a chance to activate the effect of <span class=\"tooltip\" data-tooltip=\"i%2Ftooltip%7CThe+D6\" data-tooltip-dlc=\"30\"><span class=\"tb-icon tb-link-icon\" style=\"--tb-icon-size: 1.4em\">[[File:Collectible The D6 icon.png|link=The D6|alt=|The D6]]&zwj;</span>[[:The D6|The D6]]</span>, <span class=\"tooltip\" data-tooltip=\"i%2Ftooltip%7CD8\" data-tooltip-dlc=\"30\"><span class=\"tb-icon tb-link-icon\" style=\"--tb-icon-size: 1.4em\">[[File:Collectible D8 icon.png|link=D8|alt=|D8]]&zwj;</span>[[:D8|D8]]</span>, [[Category:Modified in Repentance]][[File:Dlc r indicator.png|link=|class=dlc cf-tag cf-val-24 |alt=(in Repentance and Repentance+)|Added in Repentance]]<span class=\"tooltip\" data-tooltip=\"i%2Ftooltip%7CD10\" data-tooltip-dlc=\"24\"><span class=\"tb-icon tb-link-icon\" style=\"--tb-icon-size: 1.4em\">[[File:Collectible D10 icon.png|link=D10|alt=|D10]]&zwj;</span>[[:D10|D10]]</span>, <span class=\"tooltip\" data-tooltip=\"i%2Ftooltip%7CD12\" data-tooltip-dlc=\"30\"><span class=\"tb-icon tb-link-icon\" style=\"--tb-icon-size: 1.4em\">[[File:Collectible D12 icon.png|link=D12|alt=|D12]]&zwj;</span>[[:D12|D12]]</span>, or <span class=\"tooltip\" data-tooltip=\"i%2Ftooltip%7CD20\" data-tooltip-dlc=\"30\"><span class=\"tb-icon tb-link-icon\" style=\"--tb-icon-size: 1.4em\">[[File:Collectible D20 icon.png|link=D20|alt=|D20]]&zwj;</span>[[:D20|D20]]</span> (chosen randomly) whenever Isaac takes damage.",
+  "dlc": "30",
+  "id": "67",
+  "link": "Cracked Dice",
+  "unlocked_by": "Cracked Dice"
+ },
+ {
+  "_pageName": "Cricket Leg",
+  "alias": "Cricket Leg",
+  "description": "Adds a 1/6 chance to spawn a random [[locust]] when killing an enemy.",
+  "dlc": "24",
+  "id": "185",
+  "link": "Cricket Leg",
+  "unlocked_by": "Cricket Leg"
+ },
+ {
+  "_pageName": "Crow Heart",
+  "alias": "Crow Heart",
+  "description": "[[File:Red Heart.png|link=Hearts#Red Heart|class=tb-icon tb-link-icon|alt=|Red Heart]][[:Hearts#Red Heart|Red Heart]] damage will be taken before [[File:Soul Heart.png|link=Hearts#Soul Heart|class=tb-icon tb-link-icon|alt=|Soul Heart]][[:Hearts#Soul Heart|Soul Heart]], [[File:Black Heart.png|link=Hearts#Black Heart|class=tb-icon tb-link-icon|alt=|Black Heart]][[:Hearts#Black Heart|Black Heart]], and [[File:Dlc r indicator.png|link=|class=dlc cf-tag cf-val-24 |alt=(in Repentance and Repentance+)|Added in Repentance]][[Category:Modified in Repentance]][[File:Rotten Heart.png|link=Hearts#Rotten Heart|class=tb-icon tb-link-icon|alt=|Rotten Heart]][[:Hearts#Rotten Heart|Rotten Heart]] damage.",
+  "dlc": "28",
+  "id": "107",
+  "link": "Crow Heart",
+  "unlocked_by": "Crow Heart"
+ },
+ {
+  "_pageName": "Crystal Key",
+  "alias": "Crystal Key",
+  "description": "Whenever Isaac clears a room, has a chance to open a neighboring [[File:Red Room Icon.png|link=Red Room|class=tb-icon tb-link-icon|alt=|]][[:Red Key|Red Room]].",
+  "dlc": "24",
+  "id": "170",
+  "link": "Crystal Key",
+  "unlocked_by": "Crystal Key"
+ },
+ {
+  "_pageName": "Cursed Penny",
+  "alias": "Cursed Penny",
+  "description": "Picking up [[coin]]s teleports Isaac to a random room. [[File:Dlc r+ indicator.png|link=|class=dlc cf-tag cf-val-16 |alt=(in Repentance+)|Added in Repentance+]][[Category:Modified in Repentance+]] The type of the coin picked up affects the teleport destination.",
+  "dlc": "24",
+  "id": "172",
+  "link": "Cursed Penny",
+  "unlocked_by": "Cursed Penny"
+ },
+ {
+  "_pageName": "Cursed Skull",
+  "alias": "Cursed Skull",
+  "description": "If Isaac has less than one full [[File:Red Heart.png|link=Hearts#Red Heart|class=tb-icon tb-link-icon|alt=|Red Heart]][[:Hearts#Red Heart|Red Heart]] after taking damage, he will be immediately teleported to a random room.",
+  "dlc": "31",
+  "id": "43",
+  "link": "Cursed Skull",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Curved Horn",
+  "alias": "Curved Horn",
+  "description": "+2 flat [[damage]].",
+  "dlc": "31",
+  "id": "35",
+  "link": "Curved Horn",
+  "unlocked_by": "Curved Horn"
+ },
+ {
+  "_pageName": "Daemon's Tail",
+  "alias": "Daemon's Tail",
+  "description": "Most non-specific <span class=\"tb-icon tb-link-icon\" >[[File:Red Heart.png|link=Hearts#Red Heart|alt=|Heart]]&zwj;</span>[[:Hearts#Red Heart|Heart]] drops become <span class=\"tb-icon tb-link-icon\" >[[File:Black Heart.png|link=Hearts#Black Heart|alt=|Black Heart]]&zwj;</span>[[:Hearts#Black Heart|Black Heart]]s, but most heart drops are replaced by <span class=\"tb-icon tb-link-icon\" >[[File:Key.png|link=Keys|alt=|Key]]&zwj;</span>[[:Keys|Key]]s.",
+  "dlc": "31",
+  "id": "22",
+  "link": "Daemon's Tail",
+  "unlocked_by": "Daemon's Tail"
+ },
+ {
+  "_pageName": "Devil's Crown",
+  "alias": "Devil's Crown",
+  "description": "[[File:Treasure Room Icon.png|link=Treasure Room|class=tb-icon tb-link-icon|alt=|]][[:Treasure Room|Treasure Room]]s are replaced with unique Red Treasure Rooms, offering a Deal with the Devil in place of an item.",
+  "dlc": "24",
+  "id": "146",
+  "link": "Devil's Crown",
+  "unlocked_by": "Devil's Crown"
+ },
+ {
+  "_pageName": "Dice Bag",
+  "alias": "Dice Bag",
+  "description": "When Isaac enters a new room, has a chance to give him a Dice item as a consumable for the current room.",
+  "dlc": "24",
+  "id": "154",
+  "link": "Dice Bag",
+  "unlocked_by": "Dice Bag"
+ },
+ {
+  "_pageName": "Dim Bulb",
+  "alias": "Dim Bulb",
+  "description": "Provides a boost to all [[Attributes|stats]] when Isaac's active item is completely uncharged.",
+  "dlc": "28",
+  "id": "101",
+  "link": "Dim Bulb",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Dingle Berry",
+  "alias": "Dingle Berry",
+  "description": "Spawns a [[Familiar#Dips|Dip Familiar]] upon clearing a room.",
+  "dlc": "24",
+  "id": "163",
+  "link": "Dingle Berry",
+  "unlocked_by": "Dingle Berry"
+ },
+ {
+  "_pageName": "Door Stop",
+  "alias": "Door Stop",
+  "description": "The last door Isaac went through stays open, allowing him to leave the room even if enemies are in it.",
+  "dlc": "28",
+  "id": "124",
+  "link": "Door Stop",
+  "unlocked_by": "Door Stop"
+ },
+ {
+  "_pageName": "Duct Tape",
+  "alias": "Duct Tape",
+  "description": "Holds Isaac's [[familiar]]s in place relative to his position.",
+  "dlc": "28",
+  "id": "109",
+  "link": "Duct Tape",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Endless Nameless",
+  "alias": "Endless Nameless",
+  "description": "Has a 25% chance of creating a duplicate of any [[pill]], [[card]], or [[rune]] Isaac uses.",
+  "dlc": "30",
+  "id": "79",
+  "link": "Endless Nameless",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Equality!",
+  "alias": "Equality!",
+  "description": "Turns pickups into their doubled versions while Isaac's numbers of coins, bombs, and keys are equal.",
+  "dlc": "28",
+  "id": "103",
+  "link": "Equality!",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Error",
+  "alias": "Error",
+  "description": "Gives a random [[trinket]] effect each room.",
+  "dlc": "30",
+  "id": "75",
+  "link": "Error",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Eve's Bird Foot",
+  "alias": "Eve's Bird Foot",
+  "description": "Has a chance to spawn a <span class=\"tooltip\" data-tooltip=\"i%2Ftooltip%7CDead+Bird\" data-tooltip-dlc=\"31\"><span style=\"--tb-icon-size: 1.4em\">[[File:Collectible Dead Bird icon.png|link=Dead Bird|class=tb-icon tb-link-icon|alt=|Dead Bird]]</span>[[:Dead Bird|Dead Bird]]</span> [[familiar]] for the current [[Rooms|room]] each time an enemy dies.",
+  "dlc": "31",
+  "id": "60",
+  "link": "Eve's Bird Foot",
+  "unlocked_by": "Eve's Bird Foot"
+ },
+ {
+  "_pageName": "Expansion Pack",
+  "alias": "Expansion Pack",
+  "description": "Once per room, using an active item triggers another random active item effect.",
+  "dlc": "24",
+  "id": "181",
+  "link": "Expansion Pack",
+  "unlocked_by": "Expansion Pack"
+ },
+ {
+  "_pageName": "Extension Cord",
+  "alias": "Extension Cord",
+  "description": "Bolts of electricity arc between Isaac and his [[familiar]]s, damaging any enemies between them.",
+  "dlc": "28",
+  "id": "125",
+  "link": "Extension Cord",
+  "unlocked_by": "Extension Cord"
+ },
+ {
+  "_pageName": "Faded Polaroid",
+  "alias": "Faded Polaroid",
+  "description": "Occasionally causes Isaac to blend into the ground, which briefly [[confusion|confuses]] all enemies in the room. [[File:Dlc r indicator.png|link=|class=dlc cf-tag cf-val-24 |alt=(in Repentance and Repentance+)|Added in Repentance]][[Category:Modified in Repentance]] Can be used to open the [[A Strange Door|Strange Door]] in The Depths.",
+  "dlc": "30",
+  "id": "69",
+  "link": "Faded Polaroid",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Filigree Feather",
+  "alias": "Filigree Feather",
+  "description": "[[Angel]]s drop [[Angel Room (Item Pool)|Angel Room items]] instead of key pieces when defeated.",
+  "dlc": "28",
+  "id": "123",
+  "link": "Filigree Feather",
+  "unlocked_by": "Filigree Feather"
+ },
+ {
+  "_pageName": "Finger Bone",
+  "alias": "Finger Bone",
+  "description": "Grants a chance to gain a <span class=\"tb-icon tb-link-icon\" >[[File:Bone Heart.png|link=Hearts#Bone Heart|Bone Heart|alt=]]</span>[[:Hearts#Bone Heart|Bone Heart]] upon taking damage.",
+  "dlc": "28",
+  "id": "128",
+  "link": "Finger Bone",
+  "unlocked_by": "Finger Bone"
+ },
+ {
+  "_pageName": "Fish Head",
+  "alias": "Fish Head",
+  "description": "Spawns a [[Blue Fly]] every time Isaac takes damage.",
+  "dlc": "31",
+  "id": "29",
+  "link": "Fish Head",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Fish Tail",
+  "alias": "Fish Tail",
+  "description": "Items and trinkets that generate [[Blue Fly|Blue Flies]] or [[Locust]]s will generate twice as many.",
+  "dlc": "28",
+  "id": "94",
+  "link": "Fish Tail",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Flat File",
+  "alias": "Flat File",
+  "description": "Causes most spikes to retract, making them harmless. This includes the door to [[File:Curse Room Icon.png|link=Curse Room|class=tb-icon tb-link-icon|alt=|]][[:Curse Room|Curse Room]]s, [[File:Spiked Chest.png|link=Chests#Spiked Chest|class=tb-icon tb-link-icon|alt=|Spiked Chest]][[:Chests#Spiked Chest|Spiked Chest]]s, [[File:Poky.png|link=Poky|class=tb-icon tb-link-icon|alt=|Pokies]][[:Poky|Pokies]] and their variants.",
+  "dlc": "24",
+  "id": "151",
+  "link": "Flat File",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Flat Penny",
+  "alias": "Flat Penny",
+  "description": "Gives a chance to drop a [[File:Key.png|link=Keys|class=tb-icon tb-link-icon|alt=|Key]][[:Keys|Key]] when a [[coin]] is collected.",
+  "dlc": "31",
+  "id": "51",
+  "link": "Flat Penny",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Flat Worm",
+  "alias": "Flat Worm",
+  "description": "Isaac's tears take on an oblong appearance. They also [[Knockback|push enemies back]].",
+  "dlc": "31",
+  "id": "12",
+  "link": "Flat Worm",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Forgotten Lullaby",
+  "alias": "Forgotten Lullaby",
+  "description": "Improves the fire rate of Isaac's [[familiar]]s.",
+  "dlc": "24",
+  "id": "141",
+  "link": "Forgotten Lullaby",
+  "unlocked_by": "Forgotten Lullaby"
+ },
+ {
+  "_pageName": "Found Soul",
+  "alias": "Found Soul",
+  "description": "Spawns a [[familiar]] that copies Isaac's movements and scales with [[damage]] and [[tears]]. If it takes damage, it will die and respawn on the next floor.",
+  "dlc": "24",
+  "id": "180",
+  "link": "Found Soul",
+  "unlocked_by": "Found Soul"
+ },
+ {
+  "_pageName": "Fragmented Card",
+  "alias": "Fragmented Card",
+  "description": "Makes two [[File:Secret Room Icon.png|link=Secret Room|class=tb-icon tb-link-icon|alt=|]][[:Secret Room|Secret Room]]s spawn on each floor.",
+  "dlc": "28",
+  "id": "102",
+  "link": "Fragmented Card",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Friendship Necklace",
+  "alias": "Friendship Necklace",
+  "description": "Causes [[familiars]] to orbit Isaac.",
+  "dlc": "24",
+  "id": "148",
+  "link": "Friendship Necklace",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Gigante Bean",
+  "alias": "Gigante Bean",
+  "description": "Increases the size of Isaac's farts.",
+  "dlc": "24",
+  "id": "134",
+  "link": "Gigante Bean",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Gilded Key",
+  "alias": "Gilded Key",
+  "description": "Replaces all new chests, except [[File:Mega Chest.png|link=Chests#Mega Chest|class=tb-icon tb-link-icon|alt=|Mega Chest]][[:Chests#Mega Chest|Mega Chest]]s and [[File:Old Chest.png|link=Chests#Old Chest|class=tb-icon tb-link-icon|alt=|Old Chest]][[:Chests#Old Chest|Old Chest]]s, with [[File:Locked Chest.png|link=Chests#Locked Chest|class=tb-icon tb-link-icon|alt=|Locked Chest]][[:Chests#Locked Chest|Locked Chest]]s. Grants one [[File:Key.png|link=Keys|class=tb-icon tb-link-icon|alt=|Key]][[:Keys|Key]] on pickup.",
+  "dlc": "24",
+  "id": "159",
+  "link": "Gilded Key",
+  "unlocked_by": "Gilded Key"
+ },
+ {
+  "_pageName": "Goat Hoof",
+  "alias": "Goat Hoof",
+  "description": "+0.15 [[speed]].",
+  "dlc": "31",
+  "id": "37",
+  "link": "Goat Hoof",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Golden Horse Shoe",
+  "alias": "Golden Horse Shoe",
+  "description": "+15% chance for [[File:Treasure Room Icon.png|link=Treasure Room|class=tb-icon tb-link-icon|alt=|]][[:Treasure Room|Treasure Room]]s to have two [[items]]. Only one item can be taken.",
+  "dlc": "30",
+  "id": "82",
+  "link": "Golden Horse Shoe",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Hairpin",
+  "alias": "Hairpin",
+  "description": "Fully recharges Isaac's active item upon entering a boss fight.",
+  "dlc": "28",
+  "id": "120",
+  "link": "Hairpin",
+  "unlocked_by": "Hairpin"
+ },
+ {
+  "_pageName": "Hollow Heart",
+  "alias": "Hollow Heart",
+  "description": "Grants an empty [[File:Bone Heart.png|link=Hearts#Bone Heart|class=tb-icon tb-link-icon|alt=|Bone Heart]][[:Hearts#Bone Heart|Bone Heart]] upon entering a new floor.",
+  "dlc": "24",
+  "id": "168",
+  "link": "Hollow Heart",
+  "unlocked_by": "Hollow Heart"
+ },
+ {
+  "_pageName": "Holy Crown",
+  "alias": "Holy Crown",
+  "description": "A [[File:Treasure Room Icon.png|link=Treasure Room|class=tb-icon tb-link-icon|alt=|]][[:Treasure Room|Treasure Room]] and [[File:Shop Icon.png|link=Shop|class=tb-icon tb-link-icon|alt=|]][[:Shop|Shop]] appear in the [[File:Stage Cathedral icon.png|link=Cathedral|class=tb-icon tb-link-icon|alt=|Cathedral]][[:Cathedral|Cathedral]].",
+  "dlc": "24",
+  "id": "155",
+  "link": "Holy Crown",
+  "unlocked_by": "Holy Crown"
+ },
+ {
+  "_pageName": "Hook Worm",
+  "alias": "Hook Worm",
+  "description": "[[File:Dlc nr indicator.png|link=|class=dlc cf-tag cf-val-7 |alt=(except in Repentance and Repentance+)|Removed in Repentance]][[Category:Modified in Repentance]] Tears move shifting left to right on a square-wave-like path. +10 [[Range]] (effective Range remains about the same).<br>[[File:Dlc r indicator.png|link=|class=dlc cf-tag cf-val-24 |alt=(in Repentance and Repentance+)|Added in Repentance]][[Category:Modified in Repentance]] Tears move shifting left to right on a square-wave-like path. +0.4 [[Tears]], +1.5 Range (effective Range is slightly lower).",
+  "dlc": "31",
+  "id": "26",
+  "link": "Hook Worm",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Ice Cube",
+  "alias": "Ice Cube",
+  "description": "Adds a chance to [[petrify]] enemies when entering the room. Killing the petrified enemy [[freeze]]s it.",
+  "dlc": "24",
+  "id": "188",
+  "link": "Ice Cube",
+  "unlocked_by": "Ice Cube"
+ },
+ {
+  "_pageName": "Isaac's Fork",
+  "alias": "Isaac's Fork",
+  "description": "Isaac has a chance to heal for a [[File:Half Red Heart.png|link=Hearts#Half Red Heart|class=tb-icon tb-link-icon|alt=|Half Red Heart]][[:Hearts#Half Red Heart|Half Red Heart]] upon clearing a room.",
+  "dlc": "31",
+  "id": "46",
+  "link": "Isaac's Fork",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Isaac's Head",
+  "alias": "Isaac's Head",
+  "description": "Spawns Isaac's severed head as a tear-firing [[familiar]]. Fires [[Tear Effects|piercing]] tears.",
+  "dlc": "31",
+  "id": "54",
+  "link": "Isaac's Head",
+  "unlocked_by": "Isaac's Head"
+ },
+ {
+  "_pageName": "Jawbreaker",
+  "alias": "Jawbreaker",
+  "description": "Adds the chance to fire teeth that deal 3.2× damage; mechanically identical to the passive item <span class=\"tooltip\" data-tooltip=\"i%2Ftooltip%7CTough+Love\" data-tooltip-dlc=\"24\"><span style=\"--tb-icon-size: 1.4em\">[[File:Collectible Tough Love icon.png|link=Tough Love|class=tb-icon tb-link-icon|alt=|Tough Love]]</span>[[:Tough Love|Tough Love]]</span>.",
+  "dlc": "24",
+  "id": "129",
+  "link": "Jawbreaker",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Judas' Tongue",
+  "alias": "Judas' Tongue",
+  "description": "[[Devil Deal]]s only cost 1 [[Health#Red Heart Containers|heart]]. [[File:Soul Heart.png|link=Hearts#Soul Heart|class=tb-icon tb-link-icon|alt=|Soul Heart]][[:Hearts#Soul Heart|Soul Heart]] trades still cost 3 soul hearts.",
+  "dlc": "31",
+  "id": "56",
+  "link": "Judas' Tongue",
+  "unlocked_by": "Judas' Tongue"
+ },
+ {
+  "_pageName": "Karma",
+  "alias": "Karma",
+  "description": "Donating to a <span class=\"tb-icon tb-link-icon\" >[[File:Donation Machine.png|link=Donation Machine|alt=|Donation Machine]]&zwj;</span>[[:Donation Machine|Donation Machine]], [[Category:Modified in Repentance+]][[File:Dlc r+ indicator.png|link=|class=dlc cf-tag cf-val-16 |alt=(in Repentance+)|Added in Repentance+]]<span class=\"tb-icon tb-link-icon\" >[[File:Blood Donation Machine.png|link=Machines#Blood Donation Machine|alt=|Blood Donation Machine]]&zwj;</span>[[:Machines#Blood Donation Machine|Blood Donation Machine]], or [[Category:Modified in Repentance+]][[File:Dlc r+ indicator.png|link=|class=dlc cf-tag cf-val-16 |alt=(in Repentance+)|Added in Repentance+]]<span class=\"tb-icon tb-link-icon\" >[[File:Confessional.png|link=Machines#Confessional|alt=|Confessional]]&zwj;</span>[[:Machines#Confessional|Confessional]] has a chance to heal Isaac for a full <span class=\"tb-icon tb-link-icon\" >[[File:Red Heart.png|link=Hearts#Red Heart|alt=|Red Heart]]&zwj;</span>[[:Hearts#Red Heart|Red Heart]] or spawn a <span class=\"tb-icon tb-link-icon\" >[[File:Beggar.png|link=Beggar|alt=|Beggar]]&zwj;</span>[[:Beggar|Beggar]]. Increases the chance that donating to a Donation Machine will increase Isaac's [[luck]].[[Category:Modified in Repentance+]][[File:Dlc r+ indicator.png|link=|class=dlc cf-tag cf-val-16 |alt=(in Repentance+)|Added in Repentance+]] Reduces the chance of the Donation Machine jamming. Donating to a <span class=\"tb-icon tb-link-icon\" >[[File:Beggar.png|link=Beggar|alt=|Beggar]]&zwj;</span>[[:Beggar|Beggar]] has a chance to heal Isaac for a full <span class=\"tb-icon tb-link-icon\" >[[File:Red Heart.png|link=Hearts#Red Heart|alt=|Red Heart]]&zwj;</span>[[:Hearts#Red Heart|Red Heart]] or increase luck.",
+  "dlc": "30",
+  "id": "85",
+  "link": "Karma",
+  "unlocked_by": "Karma"
+ },
+ {
+  "_pageName": "Keeper's Bargain",
+  "alias": "Keeper's Bargain",
+  "description": "Adds a chance for [[Devil Room|Devil Deals]] to cost [[Coins|money]] instead of [[health]].",
+  "dlc": "24",
+  "id": "171",
+  "link": "Keeper's Bargain",
+  "unlocked_by": "Keeper's Bargain"
+ },
+ {
+  "_pageName": "Kid's Drawing",
+  "alias": "Kid's Drawing",
+  "description": "While held, counts as one of three items needed to transform into <span class=\"tooltip\" data-tooltip=\"tf%2Ftooltip%7CGuppy\" data-tooltip-dlc=\"24\">[[File:Transformation Guppy appearance.png|link=Guppy|class=tb-icon tb-link-icon|alt=|Guppy]][[:Guppy|Guppy]]</span>.",
+  "dlc": "24",
+  "id": "169",
+  "link": "Kid's Drawing",
+  "unlocked_by": "Kid's Drawing"
+ },
+ {
+  "_pageName": "Lazy Worm",
+  "alias": "Lazy Worm",
+  "description": "Decreases [[shot speed]] by 0.5. [[File:Dlc nr indicator.png|link=|class=dlc cf-tag cf-val-7 |alt=(except in Repentance and Repentance+)|Removed in Repentance]][[Category:Modified in Repentance]] Increases [[range]] by 4. [[File:Dlc r+ indicator.png|link=|class=dlc cf-tag cf-val-16 |alt=(in Repentance+)|Added in Repentance+]][[Category:Modified in Repentance+]] Increases [[damage]] by 0.5.",
+  "dlc": "30",
+  "id": "66",
+  "link": "Lazy Worm",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Liberty Cap",
+  "alias": "Liberty Cap",
+  "description": "[[File:Dlc nr indicator.png|link=|class=dlc cf-tag cf-val-7 |alt=(except in Repentance and Repentance+)|Removed in Repentance]][[Category:Modified in Repentance]] Adds a chance when entering a room to gain <span class=\"tooltip\" data-tooltip=\"i%2Ftooltip%7CMini+Mush\" data-tooltip-dlc=\"31\"><span style=\"--tb-icon-size: 1.4em\">[[File:Collectible Mini Mush icon.png|link=Mini Mush|class=tb-icon tb-link-icon|alt=|Mini Mush]]</span>[[:Mini Mush|Mini Mush]]</span>, <span class=\"tooltip\" data-tooltip=\"i%2Ftooltip%7COdd+Mushroom+%28Large%29\" data-tooltip-dlc=\"31\"><span style=\"--tb-icon-size: 1.4em\">[[File:Collectible Odd Mushroom (Large) icon.png|link=Odd Mushroom (Large)|class=tb-icon tb-link-icon|alt=|Odd Mushroom]]</span>[[:Odd Mushroom (Large)|Odd Mushroom]]</span>, <span class=\"tooltip\" data-tooltip=\"i%2Ftooltip%7COdd+Mushroom+%28Thin%29\" data-tooltip-dlc=\"31\"><span style=\"--tb-icon-size: 1.4em\">[[File:Collectible Odd Mushroom (Thin) icon.png|link=Odd Mushroom (Thin)|class=tb-icon tb-link-icon|alt=|Odd Mushroom]]</span>[[:Odd Mushroom (Thin)|Odd Mushroom]]</span>, or <span class=\"tooltip\" data-tooltip=\"i%2Ftooltip%7CThe+Compass\" data-tooltip-dlc=\"31\"><span style=\"--tb-icon-size: 1.4em\">[[File:Collectible The Compass icon.png|link=The Compass|class=tb-icon tb-link-icon|alt=|The Compass]]</span>[[:The Compass|The Compass]]</span> for one room.<br>[[File:Dlc r indicator.png|link=|class=dlc cf-tag cf-val-24 |alt=(in Repentance and Repentance+)|Added in Repentance]][[Category:Modified in Repentance]] Adds a chance when entering a room to gain a random passive mushroom item for one room.",
+  "dlc": "31",
+  "id": "32",
+  "link": "Liberty Cap",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Lil Clot",
+  "alias": "Lil Clot",
+  "description": "Spawns a clot [[familiar]] that mimics Isaac's movements and tears. It dies for the current room after taking too much damage.",
+  "dlc": "24",
+  "id": "176",
+  "link": "Lil Clot",
+  "unlocked_by": "Lil Clot"
+ },
+ {
+  "_pageName": "Lil Larva",
+  "alias": "Lil Larva",
+  "description": "Spawns a [[Familiar#Blue Flies|Blue Fly]] from every pile of <span class=\"tb-icon tb-link-icon\" >[[File:Poop.png|link=Poop (Disambiguation)|alt=|Poop]]&zwj;</span>[[:Poop (Disambiguation)|Poop]] that Isaac destroys.",
+  "dlc": "30",
+  "id": "86",
+  "link": "Lil Larva",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Locust of Conquest",
+  "alias": "Locust of Conquest",
+  "description": "Upon entering a room with enemies, spawns 1-4 [[Locust|White Locusts]] which damage enemies.",
+  "dlc": "28",
+  "id": "117",
+  "link": "Locust of Conquest",
+  "unlocked_by": "Locust of Conquest"
+ },
+ {
+  "_pageName": "Locust of Death",
+  "alias": "Locust of Death",
+  "description": "Upon entering a room with enemies, spawns a [[Locust|Black Locust]] that does a very high amount of damage.",
+  "dlc": "28",
+  "id": "116",
+  "link": "Locust of Death",
+  "unlocked_by": "Locust of Death"
+ },
+ {
+  "_pageName": "Locust of Famine",
+  "alias": "Locust of Famine",
+  "description": "Upon entering a room with enemies, spawns a [[Locust|Yellow Locust]] that damages and slows enemies.",
+  "dlc": "28",
+  "id": "115",
+  "link": "Locust of Famine",
+  "unlocked_by": "Locust of Famine"
+ },
+ {
+  "_pageName": "Locust of Pestilence",
+  "alias": "Locust of Pestilence",
+  "description": "Upon entering a room with enemies, spawns a [[Locust|Green Locust]] which damages and poisons enemies.",
+  "dlc": "28",
+  "id": "114",
+  "link": "Locust of Pestilence",
+  "unlocked_by": "Locust of Pestilence"
+ },
+ {
+  "_pageName": "Locust of War",
+  "alias": "Locust of War",
+  "description": "Upon entering a room with enemies for the first time, spawns a [[Locust|Red Locust]] which detonates upon impact with enemies.",
+  "dlc": "28",
+  "id": "113",
+  "link": "Locust of War",
+  "unlocked_by": "Locust of Wrath"
+ },
+ {
+  "_pageName": "Lost Cork",
+  "alias": "Lost Cork",
+  "description": "Increases the radius of any [[creep]] produced by Isaac.",
+  "dlc": "28",
+  "id": "106",
+  "link": "Lost Cork",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Louse",
+  "alias": "Louse",
+  "description": "Occasionally spawns a [[Blue Spider]]. [[File:Dlc r+ indicator.png|link=|class=dlc cf-tag cf-val-16 |alt=(in Repentance+)|Added in Repentance+]][[Category:Modified in Repentance+]] Spawns a Blue Spider when completing a combat room.",
+  "dlc": "30",
+  "id": "70",
+  "link": "Louse",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Lucky Rock",
+  "alias": "Lucky Rock",
+  "description": "[[File:Dlc nr indicator.png|link=|class=dlc cf-tag cf-val-7 |alt=(except in Repentance and Repentance+)|Removed in Repentance]][[Category:Modified in Repentance]] [[Rocks]] and their variants drop 1 [[File:Penny.png|link=Penny (Disambiguation)|class=tb-icon tb-link-icon|alt=|Penny]][[:Penny (Disambiguation)|Penny]] when destroyed.<br/>[[File:Dlc r indicator.png|link=|class=dlc cf-tag cf-val-24 |alt=(in Repentance and Repentance+)|Added in Repentance]][[Category:Modified in Repentance]] [[Rocks]] and their variants have a 33% chance to drop 1 [[File:Penny.png|link=Penny (Disambiguation)|class=tb-icon tb-link-icon|alt=|Penny]][[:Penny (Disambiguation)|Penny]] when destroyed.",
+  "dlc": "31",
+  "id": "15",
+  "link": "Lucky Rock",
+  "unlocked_by": "Lucky Rock"
+ },
+ {
+  "_pageName": "Lucky Sack",
+  "alias": "Lucky Sack",
+  "description": "Spawns a [[File:Grab Bag.png|link=Sacks#Grab Bag|class=tb-icon tb-link-icon|alt=|Grab Bag]][[:Sacks#Grab Bag|Grab Bag]] upon traveling to the next floor.",
+  "dlc": "24",
+  "id": "160",
+  "link": "Lucky Sack",
+  "unlocked_by": "Lucky Sack"
+ },
+ {
+  "_pageName": "Lucky Toe",
+  "alias": "Lucky Toe",
+  "description": "+1 [[Luck]]. Adds a chance to drop an extra pickup when opening a <span class=\"tb-icon tb-link-icon\" >[[File:Chest.png|link=Chests|alt=|Chest]]&zwj;</span>[[:Chests|Chest]], destroying a [[machine]], or blowing up a [[tinted rock]].",
+  "dlc": "31",
+  "id": "42",
+  "link": "Lucky Toe",
+  "unlocked_by": "Lucky Toe"
+ },
+ {
+  "_pageName": "Maggy's Faith",
+  "alias": "Maggy's Faith",
+  "description": "Gives an [[File:Eternal Heart.png|link=Hearts#Eternal Heart|class=tb-icon tb-link-icon|alt=|Eternal Heart]][[:Hearts#Eternal Heart|Eternal Heart]] at the start of every floor.",
+  "dlc": "31",
+  "id": "55",
+  "link": "Maggy's Faith",
+  "unlocked_by": "Maggy's Faith"
+ },
+ {
+  "_pageName": "Match Stick",
+  "alias": "Match Stick",
+  "description": "Increases the chance of <span class=\"tb-icon tb-link-icon\" >[[File:Bomb.png|link=Bombs|alt=|Bomb]]&zwj;</span>[[:Bombs|Bomb]]s dropping after clearing a room, and the chance of finding Bombs when opening a <span class=\"tb-icon tb-link-icon\" >[[File:Chest.png|link=Chests|alt=|Chest]]&zwj;</span>[[:Chests|Chest]].",
+  "dlc": "31",
+  "id": "41",
+  "link": "Match Stick",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Meconium",
+  "alias": "Meconium",
+  "description": "<span class=\"tb-icon tb-link-icon\" >[[File:Black Poop.png|link=Poops#Black Poop|alt=|Black Poop]]&zwj;</span>[[:Poops#Black Poop|Black Poop]]s can drop <span class=\"tb-icon tb-link-icon\" >[[File:Black Heart.png|link=Hearts#Black Heart|alt=|Black Hearts]]&zwj;</span>[[:Hearts#Black Heart|Black Hearts]] when destroyed. <span class=\"tb-icon tb-link-icon\" >[[File:Poop.png|link=Poop (Disambiguation)|alt=|Poop]]&zwj;</span>[[:Poop (Disambiguation)|Poop]] has a chance to turn into <span class=\"tb-icon tb-link-icon\" >[[File:Black Poop.png|link=Poops#Black Poop|alt=|Black Poop]]&zwj;</span>[[:Poops#Black Poop|Black Poop]].",
+  "dlc": "28",
+  "id": "91",
+  "link": "Meconium",
+  "unlocked_by": "Meconium"
+ },
+ {
+  "_pageName": "Missing Poster",
+  "alias": "Missing Poster",
+  "description": "[[File:Dlc na indicator.png|link=|class=dlc cf-tag cf-val-1 |alt=(in Rebirth)|Removed in Afterbirth]][[Category:Modified in Afterbirth]] If Isaac dies to a [[File:Sacrifice Room Icon.png|link=Sacrifice Room|class=tb-icon tb-link-icon|alt=|]][[:Sacrifice Room|Sacrifice Room]]'s spikes, a puzzle piece will appear on his [[Isaac's last will|last will]].<br>[[File:Dlc a indicator.png|link=|class=dlc cf-tag cf-val-30 |alt=(except in Rebirth)|Added in Afterbirth]][[Category:Modified in Afterbirth]] Dying in a [[File:Sacrifice Room Icon.png|link=Sacrifice Room|class=tb-icon tb-link-icon|alt=|]][[:Sacrifice Room|Sacrifice Room]] while holding it unlocks <span style=\"--tb-icon-size: 1.4em\">[[File:Character The Lost icon.png|link=The Lost|class=tb-icon tb-link-icon|alt=|]]</span>[[:The Lost|The Lost]]. If The Lost is already unlocked, revives Isaac as The Lost if he dies anywhere, then disappears. [[File:Dlc r+ indicator.png|link=|class=dlc cf-tag cf-val-16 |alt=(in Repentance+)|Added in Repentance+]][[Category:Modified in Repentance+]] Also has a 33% chance to reveal the [[File:Super Secret Room Icon.png|link=Super Secret Room|class=tb-icon tb-link-icon|alt=|]][[:Secret Room#Super Secret Rooms|Super Secret Room]] when entering a new floor.",
+  "dlc": "31",
+  "id": "23",
+  "link": "Missing Poster",
+  "unlocked_by": "Missing Poster"
+ },
+ {
+  "_pageName": "Modeling Clay",
+  "alias": "Modeling Clay",
+  "description": "50% chance to grant the effect of a random passive [[Item]] each room.",
+  "dlc": "24",
+  "id": "166",
+  "link": "Modeling Clay",
+  "unlocked_by": "Modeling Clay"
+ },
+ {
+  "_pageName": "Mom's Lock",
+  "alias": "Mom's Lock",
+  "description": "Grants the effects of a random [[Item Tags mom#Passive Collectibles|Mom item]] each room.",
+  "dlc": "24",
+  "id": "153",
+  "link": "Mom's Lock",
+  "unlocked_by": "Mom's Lock"
+ },
+ {
+  "_pageName": "Mom's Locket",
+  "alias": "Mom's Locket",
+  "description": "Grants a <span class=\"tb-icon tb-link-icon\" >[[File:Half Red Heart.png|link=Hearts#Half Red Heart|alt=|Half Red Heart]]&zwj;</span>[[:Hearts#Half Red Heart|Half Red Heart]] each time a <span class=\"tb-icon tb-link-icon\" >[[File:Key.png|link=Keys|alt=|Key]]&zwj;</span>[[:Keys|Key]] is used. Converts <span class=\"tb-icon tb-link-icon\" >[[File:Half Red Heart.png|link=Hearts#Half Red Heart|alt=|Half Red Heart]]&zwj;</span>[[:Hearts#Half Red Heart|Half Red Heart]] pickups into <span class=\"tb-icon tb-link-icon\" >[[File:Red Heart.png|link=Hearts#Red Heart|alt=|Red Heart]]&zwj;</span>[[:Hearts#Red Heart|Red Heart]]s.",
+  "dlc": "30",
+  "id": "87",
+  "link": "Mom's Locket",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Mom's Pearl",
+  "alias": "Mom's Pearl",
+  "description": "Grants a secondary 10% chance of any non-specific [[Hearts|heart drop]] turning into a [[File:Soul Heart.png|link=Hearts#Soul Heart|class=tb-icon tb-link-icon|alt=|Soul Heart]][[:Hearts#Soul Heart|Soul Heart]], [[File:Dlc r+ indicator.png|link=|class=dlc cf-tag cf-val-16 |alt=(in Repentance+)|Added in Repentance+]][[Category:Modified in Repentance+]] [[File:Black Heart.png|link=Hearts#Black Heart|class=tb-icon tb-link-icon|alt=|Black Heart]][[:Hearts#Black Heart|Black Heart]] or [[File:Bone Heart.png|link=Hearts#Bone Heart|class=tb-icon tb-link-icon|alt=|Bone Heart]][[:Hearts#Bone Heart|Bone Heart]].",
+  "dlc": "31",
+  "id": "38",
+  "link": "Mom's Pearl",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Mom's Toenail",
+  "alias": "Mom's Toenail",
+  "description": "[[File:Dlc nr+ indicator.png|link=|class=dlc cf-tag cf-val-15 |alt=(except in Repentance+)|Removed in Repentance+]][[Category:Modified in Afterbirth]][[Category:Modified in Repentance+]] Once [[File:Dlc nr indicator.png|link=|class=dlc cf-tag cf-val-7 |alt=(except in Repentance and Repentance+)|Removed in Repentance]][[Category:Modified in Repentance]] a minute / [[File:Dlc r indicator.png|link=|class=dlc cf-tag cf-val-24 |alt=(in Repentance and Repentance+)|Added in Repentance]][[Category:Modified in Repentance]] every 20 seconds, Mom's foot randomly stomps down somewhere in the room. [[File:Dlc r+ indicator.png|link=|class=dlc cf-tag cf-val-16 |alt=(in Repentance+)|Added in Repentance+]][[Category:Modified in Repentance+]] During combat, dropping this trinket will cause Mom's foot to stomp on its location.",
+  "dlc": "31",
+  "id": "16",
+  "link": "Mom's Toenail",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Monkey Paw",
+  "alias": "Monkey Paw",
+  "description": "If Isaac has half a heart after taking damage, drops a <span class=\"tb-icon tb-link-icon\" >[[File:Black Heart.png|link=Hearts#Black Heart|Black Heart|alt=]]</span>[[:Hearts#Black Heart|Black Heart]]. The effect can trigger up to three times, after which the trinket will disappear.",
+  "dlc": "31",
+  "id": "20",
+  "link": "Monkey Paw",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Mother's Kiss",
+  "alias": "Mother's Kiss",
+  "description": "Grants one [[Health#Red Heart Containers|heart container]].",
+  "dlc": "24",
+  "id": "156",
+  "link": "Mother's Kiss",
+  "unlocked_by": "Mother's Kiss"
+ },
+ {
+  "_pageName": "Myosotis",
+  "alias": "Myosotis",
+  "description": "When entering a new floor, up to four uncollected [[pickups]] from the previous floor spawn in the starting room.",
+  "dlc": "24",
+  "id": "137",
+  "link": "Myosotis",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Mysterious Candy",
+  "alias": "Mysterious Candy",
+  "description": "Isaac farts or poops at random intervals. [[File:Dlc nr indicator.png|link=|class=dlc cf-tag cf-val-7 |alt=(except in Repentance and Repentance+)|Removed in Repentance]][[Category:Modified in Repentance]] Getting hit can also trigger the effect.",
+  "dlc": "31",
+  "id": "25",
+  "link": "Mysterious Candy",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Mysterious Paper",
+  "alias": "Mysterious Paper",
+  "description": "Has a chance to replicate the effects of <span class=\"tooltip\" data-tooltip=\"t%2Ftooltip%7CA+Missing+Page\" data-tooltip-dlc=\"31\"><span style=\"--tb-icon-size: 1.4em\">[[File:Trinket A Missing Page icon.png|link=A Missing Page|class=tb-icon tb-link-icon|alt=|A Missing Page]]</span>[[:A Missing Page|A Missing Page]]</span>, <span class=\"tooltip\" data-tooltip=\"i%2Ftooltip%7CThe+Polaroid\" data-tooltip-dlc=\"31\"><span style=\"--tb-icon-size: 1.4em\">[[File:Collectible The Polaroid icon.png|link=The Polaroid|class=tb-icon tb-link-icon|alt=|The Polaroid]]</span>[[:The Polaroid|The Polaroid]]</span>, <span class=\"tooltip\" data-tooltip=\"i%2Ftooltip%7CThe+Negative\" data-tooltip-dlc=\"31\"><span style=\"--tb-icon-size: 1.4em\">[[File:Collectible The Negative icon.png|link=The Negative|class=tb-icon tb-link-icon|alt=|The Negative]]</span>[[:The Negative|The Negative]]</span>, or <span class=\"tooltip\" data-tooltip=\"t%2Ftooltip%7CMissing+Poster\" data-tooltip-dlc=\"31\"><span style=\"--tb-icon-size: 1.4em\">[[File:Trinket Missing Poster icon.png|link=Missing Poster|class=tb-icon tb-link-icon|alt=|Missing Poster]]</span>[[:Missing Poster|Missing Poster]]</span>.",
+  "dlc": "31",
+  "id": "21",
+  "link": "Mysterious Paper",
+  "unlocked_by": "Mysterious Paper"
+ },
+ {
+  "_pageName": "NO!",
+  "alias": "NO!",
+  "description": "Prevents [[Items#Activated Collectibles|active items]] from being generated, if possible.",
+  "dlc": "30",
+  "id": "88",
+  "link": "NO!",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Nose Goblin",
+  "alias": "Nose Goblin",
+  "description": "Chance to fire a homing booger that sticks to enemies and deals damage over time.",
+  "dlc": "28",
+  "id": "98",
+  "link": "Nose Goblin",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Nuh Uh!",
+  "alias": "Nuh Uh!",
+  "description": "Replaces [[File:Key.png|link=Keys|class=tb-icon tb-link-icon|alt=|Key]][[:Keys|Key]]s and [[coin]]s that spawn in Chapter 4 and beyond with more useful pickups.",
+  "dlc": "24",
+  "id": "165",
+  "link": "Nuh Uh!",
+  "unlocked_by": "Nuh Uh!"
+ },
+ {
+  "_pageName": "Number Magnet",
+  "alias": "Number Magnet",
+  "description": "Increases the chance of earning a [[File:Devil Room Icon.png|link=Devil Room|class=tb-icon tb-link-icon|alt=|]][[:Devil Room|Devil Room]] by 10%, prevents [[File:Boss Krampus  ingame.png|link=Krampus|class=tb-icon tb-link-icon|alt=|Krampus]][[:Krampus|Krampus]] from spawning, and generates special Devil Room layouts.",
+  "dlc": "24",
+  "id": "174",
+  "link": "Number Magnet",
+  "unlocked_by": "Number Magnet"
+ },
+ {
+  "_pageName": "Old Capacitor",
+  "alias": "Old Capacitor",
+  "description": "Active items don't charge when clearing rooms. Adds a chance to spawn a [[File:Lil' Battery.png|link=Batteries#Lil' Battery|class=tb-icon tb-link-icon|alt=|Lil' Battery]][[:Batteries#Lil' Battery|Lil' Battery]] when clearing a room, independent of the room's original drop.",
+  "dlc": "24",
+  "id": "143",
+  "link": "Old Capacitor",
+  "unlocked_by": "Old Capacitor"
+ },
+ {
+  "_pageName": "Ouroboros Worm",
+  "alias": "Ouroboros Worm",
+  "description": "Tears travel in a large spiral pattern and gain [[spectral]], with a small chance to gain [[homing]]. [[File:Dlc r indicator.png|link=|class=dlc cf-tag cf-val-24 |alt=(in Repentance and Repentance+)|Added in Repentance]][[Category:Modified in Repentance]] Also adds +0.4 [[Tears]].",
+  "dlc": "28",
+  "id": "96",
+  "link": "Ouroboros Worm",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Panic Button",
+  "alias": "Panic Button",
+  "description": "Activates Isaac's active item just before he takes damage.",
+  "dlc": "24",
+  "id": "149",
+  "link": "Panic Button",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Paper Clip",
+  "alias": "Paper Clip",
+  "description": "<span class=\"tb-icon tb-link-icon\" >[[File:Locked Chest.png|link=Chests#Locked Chest|alt=|Locked Chest]]&zwj;</span>[[:Chests#Locked Chest|Locked Chest]]s can be opened without using a <span class=\"tb-icon tb-link-icon\" >[[File:Key.png|link=Keys|alt=|Key]]&zwj;</span>[[:Keys|Key]].",
+  "dlc": "31",
+  "id": "19",
+  "link": "Paper Clip",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Pay to Win",
+  "alias": "Pay to Win",
+  "description": "<span class=\"tb-icon tb-link-icon\" >[[File:Shop Restock Machine.png|link=Machines#Shop Restock Machine|alt=|Shop Restock Machine]]&zwj;</span>[[:Machines#Shop Restock Machine|Shop Restock Machine]]s always spawn in <span class=\"tb-icon tb-link-icon\" >[[File:Treasure Room Icon.png|link=Treasure Room|alt=|]]&zwj;</span>[[:Treasure Room|Treasure Room]]s.",
+  "dlc": "28",
+  "id": "112",
+  "link": "Pay to Win",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Perfection",
+  "alias": "Perfection",
+  "description": "+10 [[Luck]]. If Isaac takes damage, the trinket is destroyed and its effect is removed.",
+  "dlc": "24",
+  "id": "145",
+  "link": "Perfection",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Petrified Poop",
+  "alias": "Petrified Poop",
+  "description": "Greatly increases the chances of a [[pickup]] dropping when destroying <span class=\"tb-icon tb-link-icon\" >[[File:Poop.png|link=Poop (Disambiguation)|alt=|Poop]]&zwj;</span>[[:Poop (Disambiguation)|Poop]].",
+  "dlc": "31",
+  "id": "2",
+  "link": "Petrified Poop",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Pinky Eye",
+  "alias": "Pinky Eye",
+  "description": "Adds a 10% chance to shoot a [[Poison|poison tear]], dealing damage over time when inflicted.",
+  "dlc": "31",
+  "id": "30",
+  "link": "Pinky Eye",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Poker Chip",
+  "alias": "Poker Chip",
+  "description": "Chests have a 50% chance of paying out with extra pickups and a 50% chance of replacing all of its contents with an <span class=\"tb-icon tb-link-icon\" >[[File:Attack Fly.png|link=Fly#Attack Fly|alt=|Attack Fly]]&zwj;</span>[[:Fly#Attack Fly|Attack Fly]]. [[Category:Modified in Repentance+]][[File:Dlc r+ indicator.png|link=|class=dlc cf-tag cf-val-16 |alt=(in Repentance+)|Added in Repentance+]] If the chest would contain an item of [[quality]] 0-2, it is rechosen to get a +1 quality bonus. Slightly increases the payout chance from <span class=\"tb-icon tb-link-icon\" >[[File:Slot Machine.png|link=Machines#Slot Machine|alt=|Slot Machine]]&zwj;</span>[[:Machines#Slot Machine|Slot Machine]]s, <span class=\"tb-icon tb-link-icon\" >[[File:Fortune Telling Machine.png|link=Machines#Fortune Telling Machine|alt=|Fortune Telling Machine]]&zwj;</span>[[:Machines#Fortune Telling Machine|Fortune Telling Machine]]s, [[Category:Modified in Repentance]][[File:Dlc r indicator.png|link=|class=dlc cf-tag cf-val-24 |alt=(in Repentance and Repentance+)|Added in Repentance]]<span class=\"tb-icon tb-link-icon\" >[[File:Crane Game.png|link=Machines#Crane Game|alt=|Crane Game]]&zwj;</span>[[:Machines#Crane Game|Crane Game]]s, <span class=\"tb-icon tb-link-icon\" >[[File:Shell Game.png|link=Beggar#Shell Game|alt=|Shell Game]]&zwj;</span>[[:Beggar#Shell Game|Shell Game]]s and <span class=\"tb-icon tb-link-icon\" >[[File:Shop Restock Machine.png|link=Machines#Shop Restock Machine|alt=|Shop Restock Machine]]&zwj;</span>[[:Machines#Shop Restock Machine|Shop Restock Machine]]s.",
+  "dlc": "30",
+  "id": "76",
+  "link": "Poker Chip",
+  "unlocked_by": "Poker Chip"
+ },
+ {
+  "_pageName": "Polished Bone",
+  "alias": "Polished Bone",
+  "description": "After clearing a room, adds a 25% chance to spawn a [[friendly]] [[File:Bony.png|link=Bony|class=tb-icon tb-link-icon|alt=|Bony]][[:Bony|Bony]].",
+  "dlc": "24",
+  "id": "167",
+  "link": "Polished Bone",
+  "unlocked_by": "Polished Bone"
+ },
+ {
+  "_pageName": "Pulse Worm",
+  "alias": "Pulse Worm",
+  "description": "Tears pulsate in size as they travel.",
+  "dlc": "31",
+  "id": "9",
+  "link": "Pulse Worm",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Purple Heart",
+  "alias": "Purple Heart",
+  "description": "Increases the chance of encountering [[Monsters#Champions|champion enemies]] and [[boss]]es. [[File:Dlc r+ indicator.png|link=|class=dlc cf-tag cf-val-16 |alt=(in Repentance+)|Added in Repentance+]][[Category:Modified in Repentance+]] The chance for champion enemies to drop special or double loot is increased to 50%.",
+  "dlc": "31",
+  "id": "5",
+  "link": "Purple Heart",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Push Pin",
+  "alias": "Push Pin",
+  "description": "Adds a 10% chance to shoot a [[Piercing tears|piercing]] and [[Spectral tears|spectral]] tear.",
+  "dlc": "31",
+  "id": "31",
+  "link": "Push Pin",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Rainbow Worm",
+  "alias": "Rainbow Worm",
+  "description": "Isaac's tears gain a worm effect that changes every 3 seconds.",
+  "dlc": "30",
+  "id": "64",
+  "link": "Rainbow Worm",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "RC Remote",
+  "alias": "RC Remote",
+  "description": "Instead of trailing behind Isaac, [[familiar]]s are directly controlled by the same inputs as Isaac's.",
+  "dlc": "24",
+  "id": "179",
+  "link": "RC Remote",
+  "unlocked_by": "RC Remote"
+ },
+ {
+  "_pageName": "Red Patch",
+  "alias": "Red Patch",
+  "description": "Grants a chance to gain +1.8 [[damage]] for the current room upon taking damage.",
+  "dlc": "31",
+  "id": "40",
+  "link": "Red Patch",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Rib of Greed",
+  "alias": "Rib of Greed",
+  "description": "Prevents [[File:Greed.png|link=Greed|class=tb-icon tb-link-icon|alt=|Greed]][[:Greed|Greed]] and [[File:Super Greed.png|link=Super Greed|class=tb-icon tb-link-icon|alt=|Super Greed]][[:Super Greed|Super Greed]] from appearing in [[File:Shop Icon.png|link=Shop|class=tb-icon tb-link-icon|alt=|]][[:Shop|Shop]]s and [[File:Secret Room Icon.png|link=Secret Room|class=tb-icon tb-link-icon|alt=|]][[:Secret Room|Secret Room]]s, and makes [[Coins|coin]] drops after clearing rooms more likely.",
+  "dlc": "30",
+  "id": "84",
+  "link": "Rib of Greed",
+  "unlocked_by": "Rib of Greed"
+ },
+ {
+  "_pageName": "Ring Cap",
+  "alias": "Ring Cap",
+  "description": "Placing a [[File:Bomb.png|link=Bombs|class=tb-icon tb-link-icon|alt=|Bomb]][[:Bombs|Bomb]] spawns an extra bomb for free.",
+  "dlc": "24",
+  "id": "164",
+  "link": "Ring Cap",
+  "unlocked_by": "Ring Cap"
+ },
+ {
+  "_pageName": "Ring Worm",
+  "alias": "Ring Worm",
+  "description": "Isaac fires in a fast spiraling pattern. [[File:Dlc r indicator.png|link=|class=dlc cf-tag cf-val-24 |alt=(in Repentance and Repentance+)|Added in Repentance]][[Category:Modified in Repentance]] Also grants +0.4 [[Tears]] and [[spectral tears]].",
+  "dlc": "31",
+  "id": "11",
+  "link": "Ring Worm",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Rosary Bead",
+  "alias": "Rosary Bead",
+  "description": "Increases the chance of finding <span class=\"tooltip\" data-tooltip=\"i%2Ftooltip%7CThe+Bible\" data-tooltip-dlc=\"31\"><span style=\"--tb-icon-size: 1.4em\">[[File:Collectible The Bible icon.png|link=The Bible|class=tb-icon tb-link-icon|alt=|The Bible]]</span>[[:The Bible|The Bible]]</span> in the [[File:Library Icon.png|link=Library|class=tb-icon tb-link-icon|alt=|]][[:Library|Library]] and [[File:Shop Icon.png|link=Shop|class=tb-icon tb-link-icon|alt=|]][[:Shop|Shop]], and [[File:Dlc nr+ indicator.png|link=|class=dlc cf-tag cf-val-15 |alt=(except in Repentance+)|Removed in Repentance+]][[Category:Modified in Afterbirth]][[Category:Modified in Repentance+]] increases the chance of [[File:Angel Room Icon.png|link=Angel Room|class=tb-icon tb-link-icon|alt=|]][[:Angel Room|Angel Room]]s appearing / [[File:Dlc r+ indicator.png|link=|class=dlc cf-tag cf-val-16 |alt=(in Repentance+)|Added in Repentance+]][[Category:Modified in Repentance+]] guarantees Angel Rooms instead of [[File:Devil Room Icon.png|link=Devil Room|class=tb-icon tb-link-icon|alt=|]][[:Devil Room|Devil Room]]s.",
+  "dlc": "31",
+  "id": "7",
+  "link": "Rosary Bead",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Rotten Penny",
+  "alias": "Rotten Penny",
+  "description": "Spawns a [[Blue Fly]] every time a [[coin]] is picked up.",
+  "dlc": "28",
+  "id": "126",
+  "link": "Rotten Penny",
+  "unlocked_by": "Rotten Penny"
+ },
+ {
+  "_pageName": "Rusted Key",
+  "alias": "Rusted Key",
+  "description": "Increases the chance of <span class=\"tb-icon tb-link-icon\" >[[File:Key.png|link=Keys|alt=|Key]]&zwj;</span>[[:Keys|Key]]s dropping after clearing a room, and the chance of finding keys when opening a <span class=\"tb-icon tb-link-icon\" >[[File:Chest.png|link=Chests|alt=|Chest]]&zwj;</span>[[:Chests|Chest]].",
+  "dlc": "31",
+  "id": "36",
+  "link": "Rusted Key",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Safety Cap",
+  "alias": "Safety Cap",
+  "description": "Increases the chance of [[pills]] dropping after clearing a room, and the chance of finding a pill when opening a <span class=\"tb-icon tb-link-icon\" >[[File:Chest.png|link=Chests|alt=|Chest]]&zwj;</span>[[:Chests|Chest]].",
+  "dlc": "31",
+  "id": "44",
+  "link": "Safety Cap",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Safety Scissors",
+  "alias": "Safety Scissors",
+  "description": "<span class=\"tb-icon tb-link-icon\" >[[File:Troll Bomb.png|link=Bombs#Troll Bomb|alt=|Troll Bomb]]&zwj;</span>[[:Bombs#Troll Bomb|Troll Bomb]]s turn into <span class=\"tb-icon tb-link-icon\" >[[File:Bomb.png|link=Bombs|alt=|Bomb]]&zwj;</span>[[:Bombs|Bomb]] pickups before they explode. <span class=\"tb-icon tb-link-icon\" >[[File:Mega Troll Bomb.png|link=Bombs#Mega Troll Bombs|alt=|Mega Troll Bomb]]&zwj;</span>[[:Bombs#Mega Troll Bombs|Mega Troll Bomb]]s turn into <span class=\"tb-icon tb-link-icon\" >[[File:Double Bomb.png|link=Bombs#Double Bomb|alt=|Double Bomb]]&zwj;</span>[[:Bombs#Double Bomb|Double Bomb]]s before they explode.",
+  "dlc": "30",
+  "id": "63",
+  "link": "Safety Scissors",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Samson's Lock",
+  "alias": "Samson's Lock",
+  "description": "1/15 chance to gain +0.5 [[damage]] for the current room each time an enemy dies.",
+  "dlc": "31",
+  "id": "58",
+  "link": "Samson's Lock",
+  "unlocked_by": "Samson's Lock"
+ },
+ {
+  "_pageName": "Second Hand",
+  "alias": "Second Hand",
+  "description": "Increases the time that [[status effect]]s stay on enemies.",
+  "dlc": "30",
+  "id": "78",
+  "link": "Second Hand",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Shiny Rock",
+  "alias": "Shiny Rock",
+  "description": "[[Tinted rock]]s and rocks with [[File:Crawl Space Icon.png|link=Crawl Space|class=tb-icon tb-link-icon|alt=|]][[:Crawl Space|Crawl Space]]s underneath flash white upon entering the room and every 10 seconds afterward.",
+  "dlc": "30",
+  "id": "62",
+  "link": "Shiny Rock",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Short Fuse",
+  "alias": "Short Fuse",
+  "description": "<span class=\"tb-icon tb-link-icon\" >[[File:Bomb.png|link=Bombs|Bomb|alt=]]</span>[[:Bombs|Bomb]]s placed by Isaac explode quicker. [[File:Dlc r+ indicator.png|link=|class=dlc cf-tag cf-val-16 |alt=(in Repentance+)|Added in Repentance+]][[Category:Modified in Repentance+]] Bombs also deal +15 more damage.",
+  "dlc": "24",
+  "id": "133",
+  "link": "Short Fuse",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Sigil of Baphomet",
+  "alias": "Sigil of Baphomet",
+  "description": "Grants an invulnerability shield for 1 second after killing an enemy.",
+  "dlc": "24",
+  "id": "189",
+  "link": "Sigil of Baphomet",
+  "unlocked_by": "Sigil of Baphomet"
+ },
+ {
+  "_pageName": "Silver Dollar",
+  "alias": "Silver Dollar",
+  "description": "<span class=\"tb-icon tb-link-icon\" >[[File:Shop Icon.png|link=Shop||alt=]]</span>[[:Shop|Shop]]s appear in [[Chapters|Chapter 4]].",
+  "dlc": "28",
+  "id": "110",
+  "link": "Silver Dollar",
+  "unlocked_by": "Silver Dollar"
+ },
+ {
+  "_pageName": "Stem Cell",
+  "alias": "Stem Cell",
+  "description": "[[File:Dlc nr indicator.png|link=|class=dlc cf-tag cf-val-7 |alt=(except in Repentance and Repentance+)|Removed in Repentance]][[Category:Modified in Repentance]] Heals Isaac for a [[File:Half Red Heart.png|link=Hearts#Half Red Heart|class=tb-icon tb-link-icon|alt=|Half Red Heart]][[:Hearts#Half Red Heart|Half Red Heart]] upon traveling to the next floor.<br>[[File:Dlc r indicator.png|link=|class=dlc cf-tag cf-val-24 |alt=(in Repentance and Repentance+)|Added in Repentance]][[Category:Modified in Repentance]] Heals 50% of Isaac's empty [[File:Red Heart.png|link=Hearts#Red Heart|class=tb-icon tb-link-icon|alt=|Red Heart]][[:Hearts#Red Heart|Red Heart]] containers upon traveling to the next floor.",
+  "dlc": "28",
+  "id": "119",
+  "link": "Stem Cell",
+  "unlocked_by": "Stem Cell"
+ },
+ {
+  "_pageName": "Store Credit",
+  "alias": "Store Credit",
+  "description": "The next [[File:Shop Icon.png|link=Shop|class=tb-icon tb-link-icon|alt=|]][[:Shop|Shop]] purchase is free. The trinket disappears after purchasing anything there.",
+  "dlc": "31",
+  "id": "13",
+  "link": "Store Credit",
+  "unlocked_by": "Store Credit"
+ },
+ {
+  "_pageName": "Store Key",
+  "alias": "Store Key",
+  "description": "[[File:Shop Icon.png|link=Shop|class=tb-icon tb-link-icon|alt=|]][[:Shop|Shop]]s can be opened without using [[File:Key.png|link=Keys|class=tb-icon tb-link-icon|alt=|Key]][[:Keys|Key]]s.",
+  "dlc": "30",
+  "id": "83",
+  "link": "Store Key",
+  "unlocked_by": "Store Key"
+ },
+ {
+  "_pageName": "Strange Key",
+  "alias": "Strange Key",
+  "description": "Unlocks the passageway to [[File:Stage Blue Womb icon.png|link=??? (Floor)|class=tb-icon tb-link-icon|alt=|???]][[:??? (Floor)|???]] and the [[File:Boss Hush ingame.png|link=Hush|class=tb-icon tb-link-icon|alt=|Hush]][[:Hush|Hush]] fight, regardless of the run duration. Using <span class=\"tooltip\" data-tooltip=\"i%2Ftooltip%7CPandora%27s+Box\" data-tooltip-dlc=\"24\"><span style=\"--tb-icon-size: 1.4em\">[[File:Collectible Pandora's Box icon.png|link=Pandora's Box|class=tb-icon tb-link-icon|alt=|Pandora's Box]]</span>[[:Pandora's Box|Pandora's Box]]</span> grants it a special effect, consuming the key.",
+  "dlc": "24",
+  "id": "175",
+  "link": "Strange Key",
+  "unlocked_by": "Strange Key"
+ },
+ {
+  "_pageName": "Stud Finder",
+  "alias": "Stud Finder",
+  "description": "Increases the chance to spawn a [[File:Crawl Space Icon.png|link=Crawl Space|class=tb-icon tb-link-icon|alt=|]][[:Crawl Space|Crawl Space]] when a rock is destroyed.",
+  "dlc": "30",
+  "id": "74",
+  "link": "Stud Finder",
+  "unlocked_by": "Stud Finder"
+ },
+ {
+  "_pageName": "Super Ball",
+  "alias": "Super Ball",
+  "description": "Makes tears have a chance to bounce off enemies and obstacles.",
+  "dlc": "28",
+  "id": "99",
+  "link": "Super Ball",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Super Magnet",
+  "alias": "Super Magnet",
+  "description": "Pulls [[Monsters|enemies]] and [[pickups]] towards Isaac.",
+  "dlc": "30",
+  "id": "68",
+  "link": "Super Magnet",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Swallowed M80",
+  "alias": "Swallowed M80",
+  "description": "Isaac explodes upon taking damage.",
+  "dlc": "24",
+  "id": "178",
+  "link": "Swallowed M80",
+  "unlocked_by": "Swallowed M80"
+ },
+ {
+  "_pageName": "Swallowed Penny",
+  "alias": "Swallowed Penny",
+  "description": "Upon taking damage, Isaac drops a [[coin]].",
+  "dlc": "31",
+  "id": "1",
+  "link": "Swallowed Penny",
+  "unlocked_by": "Swallowed Penny"
+ },
+ {
+  "_pageName": "Tape Worm",
+  "alias": "Tape Worm",
+  "description": "[[File:Dlc nr indicator.png|link=|class=dlc cf-tag cf-val-7 |alt=(except in Repentance and Repentance+)|Removed in Repentance]][[Category:Modified in Repentance]] Doubles Isaac's [[range]] and halves his [[tear falling speed]].<br>[[File:Dlc r indicator.png|link=|class=dlc cf-tag cf-val-24 |alt=(in Repentance and Repentance+)|Added in Repentance]][[Category:Modified in Repentance]] +3 [[range]].",
+  "dlc": "30",
+  "id": "65",
+  "link": "Tape Worm",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Teardrop Charm",
+  "alias": "Teardrop Charm",
+  "description": "[[Luck#Luck-based tear effects|Luck-based tear effects]] have a higher chance of occurring.",
+  "dlc": "24",
+  "id": "139",
+  "link": "Teardrop Charm",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Telescope Lens",
+  "alias": "Telescope Lens",
+  "description": "Increases the chance for <span class=\"tb-icon tb-link-icon\" >[[File:Planetarium Icon.png|link=Planetarium||alt=]]</span>[[:Planetarium|Planetarium]]s to spawn even if one has been visited and allows Planetariums to spawn in [[Chapter 4]].",
+  "dlc": "24",
+  "id": "152",
+  "link": "Telescope Lens",
+  "unlocked_by": "The Planetarium"
+ },
+ {
+  "_pageName": "Temporary Tattoo",
+  "alias": "Temporary Tattoo",
+  "description": "Drops a [[File:Chest.png|link=Chests|class=tb-icon tb-link-icon|alt=|Chest]][[:Chests|Chest]] after clearing a [[File:Challenge Room Icon.png|link=Challenge Room|class=tb-icon tb-link-icon|alt=|]][[:Challenge Room|Challenge Room]], or an extra [[Boss (Item Pool)|Boss item]] after clearing a [[File:Boss Challenge Room Icon.png|link=Boss Challenge Room|class=tb-icon tb-link-icon|alt=|]][[:Challenge Room#Boss Challenge Room|Boss Challenge Room]].",
+  "dlc": "24",
+  "id": "177",
+  "link": "Temporary Tattoo",
+  "unlocked_by": "Temporary Tattoo"
+ },
+ {
+  "_pageName": "The Left Hand",
+  "alias": "The Left Hand",
+  "description": "Replaces all types of [[Chest]]s with [[File:Red Chest.png|link=Chests#Red Chest|class=tb-icon tb-link-icon|alt=|Red Chest]][[:Chests#Red Chest|Red Chest]]s.",
+  "dlc": "31",
+  "id": "61",
+  "link": "The Left Hand",
+  "unlocked_by": "The Left Hand"
+ },
+ {
+  "_pageName": "The Twins",
+  "alias": "The Twins",
+  "description": "Adds a chance to duplicate one of Isaac's [[familiar]]s when entering a new room.",
+  "dlc": "24",
+  "id": "183",
+  "link": "The Twins",
+  "unlocked_by": "The Twins"
+ },
+ {
+  "_pageName": "Tick",
+  "alias": "Tick",
+  "description": "Drains 15% health from enemies with more than 60 HP. Restores one [[File:Red Heart.png|link=Hearts#Red Heart|class=tb-icon tb-link-icon|alt=|Red Heart]][[:Hearts#Red Heart|Red Heart]] when entering an uncleared [[File:Boss Room Icon.png|link=Boss Room|class=tb-icon tb-link-icon|alt=|]][[:Boss Room|Boss Room]]. The Tick cannot be dropped or swapped for another trinket.",
+  "dlc": "31",
+  "id": "53",
+  "link": "Tick",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Tonsil",
+  "alias": "Tonsil",
+  "description": "When hit, there is a small chance to spawn a permanent tonsil [[familiar]] that blocks enemy shots. This can happen twice, after which the trinket is destroyed.",
+  "dlc": "28",
+  "id": "97",
+  "link": "Tonsil",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Torn Card",
+  "alias": "Torn Card",
+  "description": "Every 15 shots, Isaac shoots an <span class=\"tooltip\" data-tooltip=\"i%2Ftooltip%7CIpecac\" data-tooltip-dlc=\"24\"><span class=\"tb-icon tb-link-icon\" style=\"--tb-icon-size: 1.4em\">[[File:collectible Ipecac icon.png|link=Ipecac|Ipecac|alt=]]</span>[[:Ipecac|Ipecac]]</span> + <span class=\"tooltip\" data-tooltip=\"i%2Ftooltip%7CMy+Reflection\" data-tooltip-dlc=\"24\"><span class=\"tb-icon tb-link-icon\" style=\"--tb-icon-size: 1.4em\">[[File:collectible My Reflection icon.png|link=My Reflection|My Reflection|alt=]]</span>[[:My Reflection|My Reflection]]</span> tear.",
+  "dlc": "24",
+  "id": "157",
+  "link": "Torn Card",
+  "unlocked_by": "Torn Card"
+ },
+ {
+  "_pageName": "Torn Pocket",
+  "alias": "Torn Pocket",
+  "description": "Upon taking damage, Isaac drops 2 random [[Pickups]] from among those he's currently holding. Pickups of higher amounts have more chance to drop.",
+  "dlc": "24",
+  "id": "158",
+  "link": "Torn Pocket",
+  "unlocked_by": "Torn Pocket"
+ },
+ {
+  "_pageName": "Umbilical Cord",
+  "alias": "Umbilical Cord",
+  "description": "When brought down to only a [[File:Half Red Heart.png|link=Hearts#Half Red Heart|class=tb-icon tb-link-icon|alt=|Half Red Heart]][[:Hearts#Half Red Heart|Half Red Heart]], spawns a <span class=\"tooltip\" data-tooltip=\"i%2Ftooltip%7CLittle+Steven\" data-tooltip-dlc=\"31\"><span style=\"--tb-icon-size: 1.4em\">[[File:Collectible Little Steven icon.png|link=Little Steven|class=tb-icon tb-link-icon|alt=|Little Steven]]</span>[[:Little Steven|Little Steven]]</span> [[familiar]] for the current room. [[File:Dlc r indicator.png|link=|class=dlc cf-tag cf-val-24 |alt=(in Repentance and Repentance+)|Added in Repentance]][[Category:Modified in Repentance]] Adds a high chance to spawn a <span class=\"tooltip\" data-tooltip=\"i%2Ftooltip%7CGemini\" data-tooltip-dlc=\"31\"><span style=\"--tb-icon-size: 1.4em\">[[File:Collectible Gemini icon.png|link=Gemini (Item)|class=tb-icon tb-link-icon|alt=|Gemini]]</span>[[:Gemini (Item)|Gemini]]</span> familiar for the current room after taking damage.",
+  "dlc": "31",
+  "id": "33",
+  "link": "Umbilical Cord",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Used Diaper",
+  "alias": "Used Diaper",
+  "description": "Grants the <span class=\"tooltip\" data-tooltip=\"i%2Ftooltip%7CSkatole\" data-tooltip-dlc=\"28\"><span style=\"--tb-icon-size: 1.4em\">[[File:Collectible Skatole icon.png|link=Skatole|class=tb-icon tb-link-icon|alt=|Skatole]]</span>[[:Skatole|Skatole]]</span> effect in some rooms. [[File:Dlc r+ indicator.png|link=|class=dlc cf-tag cf-val-16 |alt=(in Repentance+)|Added in Repentance+]][[Category:Modified in Repentance+]] Spawns a blue fly when entering a new combat room.",
+  "dlc": "28",
+  "id": "93",
+  "link": "Used Diaper",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Vibrant Bulb",
+  "alias": "Vibrant Bulb",
+  "description": "Provides a boost to all [[Attributes|stats]] when Isaac's active item is fully charged.",
+  "dlc": "28",
+  "id": "100",
+  "link": "Vibrant Bulb",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Walnut",
+  "alias": "Walnut",
+  "description": "Being hit by explosions will eventually destroy the trinket and spawn various [[pickups]].",
+  "dlc": "28",
+  "id": "108",
+  "link": "Walnut",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Watch Battery",
+  "alias": "Watch Battery",
+  "description": "Increased chance of [[File:Lil' Battery.png|link=Batteries#Lil' Battery|class=tb-icon tb-link-icon|alt=|Lil' Batteries]][[:Batteries#Lil' Battery|Lil' Batteries]] spawning. Has a chance to add an extra charge to Isaac's activated item upon completing a room.",
+  "dlc": "30",
+  "id": "72",
+  "link": "Watch Battery",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Whip Worm",
+  "alias": "Whip Worm",
+  "description": "Increases [[shot speed]] by 0.5.",
+  "dlc": "31",
+  "id": "27",
+  "link": "Whip Worm",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Wicked Crown",
+  "alias": "Wicked Crown",
+  "description": "A [[File:Treasure Room Icon.png|link=Treasure Room|class=tb-icon tb-link-icon|alt=|]][[:Treasure Room|Treasure Room]] and [[File:Shop Icon.png|link=Shop|class=tb-icon tb-link-icon|alt=|]][[:Shop|Shop]] appear in [[File:Stage Sheol icon.png|link=Sheol|class=tb-icon tb-link-icon|alt=|Sheol]][[:Sheol|Sheol]].",
+  "dlc": "24",
+  "id": "161",
+  "link": "Wicked Crown",
+  "unlocked_by": "Wicked Crown"
+ },
+ {
+  "_pageName": "Wiggle Worm",
+  "alias": "Wiggle Worm",
+  "description": "Isaac's tears travel in a wave-like pattern. +0.4 [[Tears]] up. [[File:Dlc r indicator.png|link=|class=dlc cf-tag cf-val-24 |alt=(in Repentance and Repentance+)|Added in Repentance]][[Category:Modified in Repentance]] Also grants [[spectral tears]].",
+  "dlc": "31",
+  "id": "10",
+  "link": "Wiggle Worm",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Wish Bone",
+  "alias": "Wish Bone",
+  "description": "Taking damage has a small chance to destroy the trinket and spawn a random [[item]].",
+  "dlc": "28",
+  "id": "104",
+  "link": "Wish Bone",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Wooden Cross",
+  "alias": "Wooden Cross",
+  "description": "Grants a shield that negates the first damage taken once per floor.",
+  "dlc": "28",
+  "id": "121",
+  "link": "Wooden Cross",
+  "unlocked_by": "Wooden Cross"
+ },
+ {
+  "_pageName": "Your Soul",
+  "alias": "Your Soul",
+  "description": "Can be used to pay for a [[Devil Room|Devil deal]] without losing [[Health#Red Heart Containers|hearts]], and is then consumed.",
+  "dlc": "24",
+  "id": "173",
+  "link": "Your Soul",
+  "unlocked_by": "Your Soul"
+ }
+]

@@ -1,0 +1,10460 @@
+[
+ {
+  "_pageName": "???'s Only Friend",
+  "dlc": "31",
+  "collectible": "???'s Only Friend",
+  "tag": "fly"
+ },
+ {
+  "_pageName": "???'s Only Friend",
+  "dlc": "31",
+  "collectible": "???'s Only Friend",
+  "tag": "monstermanual"
+ },
+ {
+  "_pageName": "???'s Only Friend",
+  "dlc": "31",
+  "collectible": "???'s Only Friend",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "???'s Only Friend",
+  "dlc": "31",
+  "collectible": "???'s Only Friend",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "120 Volt",
+  "dlc": "31",
+  "collectible": "120 Volt",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "120 Volt",
+  "dlc": "31",
+  "collectible": "120 Volt",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "1up!",
+  "dlc": "15",
+  "collectible": "1up!",
+  "tag": ""
+ },
+ {
+  "_pageName": "1up!",
+  "dlc": "16",
+  "collectible": "1up!",
+  "tag": "uniquefamiliar"
+ },
+ {
+  "_pageName": "1up!",
+  "dlc": "31",
+  "collectible": "1up!",
+  "tag": "mushroom"
+ },
+ {
+  "_pageName": "20/20",
+  "dlc": "31",
+  "collectible": "20/20",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "20/20",
+  "dlc": "31",
+  "collectible": "20/20",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "2Spooky",
+  "dlc": "15",
+  "collectible": "2Spooky",
+  "tag": ""
+ },
+ {
+  "_pageName": "2Spooky",
+  "dlc": "16",
+  "collectible": "2Spooky",
+  "tag": "tearsup"
+ },
+ {
+  "_pageName": "2Spooky",
+  "dlc": "31",
+  "collectible": "2Spooky",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "3 Dollar Bill",
+  "dlc": "31",
+  "collectible": "3 Dollar Bill",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "3 Dollar Bill",
+  "dlc": "31",
+  "collectible": "3 Dollar Bill",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "4.5 Volt",
+  "dlc": "31",
+  "collectible": "4.5 Volt",
+  "tag": "battery"
+ },
+ {
+  "_pageName": "4.5 Volt",
+  "dlc": "31",
+  "collectible": "4.5 Volt",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "4.5 Volt",
+  "dlc": "31",
+  "collectible": "4.5 Volt",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "4.5 Volt",
+  "dlc": "31",
+  "collectible": "4.5 Volt",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "7 Seals",
+  "dlc": "16",
+  "collectible": "7 Seals",
+  "tag": "monstermanual"
+ },
+ {
+  "_pageName": "7 Seals",
+  "dlc": "28",
+  "collectible": "7 Seals",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "7 Seals",
+  "dlc": "28",
+  "collectible": "7 Seals",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "8 Inch Nails",
+  "dlc": "31",
+  "collectible": "8 Inch Nails",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "8 Inch Nails",
+  "dlc": "31",
+  "collectible": "8 Inch Nails",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "9 Volt",
+  "dlc": "31",
+  "collectible": "9 Volt",
+  "tag": "battery"
+ },
+ {
+  "_pageName": "9 Volt",
+  "dlc": "31",
+  "collectible": "9 Volt",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "9 Volt",
+  "dlc": "31",
+  "collectible": "9 Volt",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "9 Volt",
+  "dlc": "31",
+  "collectible": "9 Volt",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "A Bar of Soap",
+  "dlc": "24",
+  "collectible": "A Bar of Soap",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "A Bar of Soap",
+  "dlc": "24",
+  "collectible": "A Bar of Soap",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "A Bar of Soap",
+  "dlc": "24",
+  "collectible": "A Bar of Soap",
+  "tag": "tearsup"
+ },
+ {
+  "_pageName": "A Dollar",
+  "dlc": "31",
+  "collectible": "A Dollar",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "A Dollar",
+  "dlc": "31",
+  "collectible": "A Dollar",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "A Lump of Coal",
+  "dlc": "31",
+  "collectible": "A Lump of Coal",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "A Lump of Coal",
+  "dlc": "31",
+  "collectible": "A Lump of Coal",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "A Pony",
+  "dlc": "31",
+  "collectible": "A Pony",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "A Pound of Flesh",
+  "dlc": "15",
+  "collectible": "A Pound of Flesh",
+  "tag": ""
+ },
+ {
+  "_pageName": "A Pound of Flesh",
+  "dlc": "16",
+  "collectible": "A Pound of Flesh",
+  "tag": "devilsacrifice"
+ },
+ {
+  "_pageName": "A Pound of Flesh",
+  "dlc": "31",
+  "collectible": "A Pound of Flesh",
+  "tag": "nogreed"
+ },
+ {
+  "_pageName": "A Pound of Flesh",
+  "dlc": "31",
+  "collectible": "A Pound of Flesh",
+  "tag": "nokeeper"
+ },
+ {
+  "_pageName": "A Pound of Flesh",
+  "dlc": "31",
+  "collectible": "A Pound of Flesh",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "A Quarter",
+  "dlc": "31",
+  "collectible": "A Quarter",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "A Quarter",
+  "dlc": "31",
+  "collectible": "A Quarter",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "A Snack",
+  "dlc": "31",
+  "collectible": "A Snack",
+  "tag": "food"
+ },
+ {
+  "_pageName": "A Snack",
+  "dlc": "31",
+  "collectible": "A Snack",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Abaddon",
+  "dlc": "31",
+  "collectible": "Abaddon",
+  "tag": "devil"
+ },
+ {
+  "_pageName": "Abaddon",
+  "dlc": "31",
+  "collectible": "Abaddon",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Abaddon",
+  "dlc": "31",
+  "collectible": "Abaddon",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Abel",
+  "dlc": "15",
+  "collectible": "Abel",
+  "tag": ""
+ },
+ {
+  "_pageName": "Abel",
+  "dlc": "16",
+  "collectible": "Abel",
+  "tag": "monstermanual"
+ },
+ {
+  "_pageName": "Abel",
+  "dlc": "31",
+  "collectible": "Abel",
+  "tag": "baby"
+ },
+ {
+  "_pageName": "Abel",
+  "dlc": "31",
+  "collectible": "Abel",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Abel",
+  "dlc": "31",
+  "collectible": "Abel",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Abyss",
+  "dlc": "24",
+  "collectible": "Abyss",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Abyss",
+  "dlc": "24",
+  "collectible": "Abyss",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Acid Baby",
+  "dlc": "28",
+  "collectible": "Acid Baby",
+  "tag": "baby"
+ },
+ {
+  "_pageName": "Acid Baby",
+  "dlc": "28",
+  "collectible": "Acid Baby",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Acid Baby",
+  "dlc": "28",
+  "collectible": "Acid Baby",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Act of Contrition",
+  "dlc": "24",
+  "collectible": "Act of Contrition",
+  "tag": "lazarussharedglobal"
+ },
+ {
+  "_pageName": "Act of Contrition",
+  "dlc": "24",
+  "collectible": "Act of Contrition",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Act of Contrition",
+  "dlc": "24",
+  "collectible": "Act of Contrition",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Act of Contrition",
+  "dlc": "24",
+  "collectible": "Act of Contrition",
+  "tag": "tearsup"
+ },
+ {
+  "_pageName": "Adrenaline",
+  "dlc": "28",
+  "collectible": "Adrenaline",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Adrenaline",
+  "dlc": "28",
+  "collectible": "Adrenaline",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Adrenaline",
+  "dlc": "28",
+  "collectible": "Adrenaline",
+  "tag": "syringe"
+ },
+ {
+  "_pageName": "Akeldama",
+  "dlc": "24",
+  "collectible": "Akeldama",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Akeldama",
+  "dlc": "24",
+  "collectible": "Akeldama",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Alabaster Box",
+  "dlc": "24",
+  "collectible": "Alabaster Box",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Alabaster Box",
+  "dlc": "24",
+  "collectible": "Alabaster Box",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Almond Milk",
+  "dlc": "24",
+  "collectible": "Almond Milk",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Almond Milk",
+  "dlc": "24",
+  "collectible": "Almond Milk",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Almond Milk",
+  "dlc": "24",
+  "collectible": "Almond Milk",
+  "tag": "tearsup"
+ },
+ {
+  "_pageName": "Analog Stick",
+  "dlc": "31",
+  "collectible": "Analog Stick",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Analog Stick",
+  "dlc": "31",
+  "collectible": "Analog Stick",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Analog Stick",
+  "dlc": "31",
+  "collectible": "Analog Stick",
+  "tag": "tearsup"
+ },
+ {
+  "_pageName": "Anarchist Cookbook",
+  "dlc": "31",
+  "collectible": "Anarchist Cookbook",
+  "tag": "book"
+ },
+ {
+  "_pageName": "Anarchist Cookbook",
+  "dlc": "31",
+  "collectible": "Anarchist Cookbook",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Anemic",
+  "dlc": "31",
+  "collectible": "Anemic",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Anemic",
+  "dlc": "31",
+  "collectible": "Anemic",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Angelic Prism",
+  "dlc": "28",
+  "collectible": "Angelic Prism",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Angelic Prism",
+  "dlc": "28",
+  "collectible": "Angelic Prism",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Angry Fly",
+  "dlc": "28",
+  "collectible": "Angry Fly",
+  "tag": "fly"
+ },
+ {
+  "_pageName": "Angry Fly",
+  "dlc": "28",
+  "collectible": "Angry Fly",
+  "tag": "monstermanual"
+ },
+ {
+  "_pageName": "Angry Fly",
+  "dlc": "28",
+  "collectible": "Angry Fly",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Angry Fly",
+  "dlc": "28",
+  "collectible": "Angry Fly",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Anima Sola",
+  "dlc": "31",
+  "collectible": "Anima Sola",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Ankh",
+  "dlc": "31",
+  "collectible": "Ankh",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Ankh",
+  "dlc": "31",
+  "collectible": "Ankh",
+  "tag": "nochallenge"
+ },
+ {
+  "_pageName": "Ankh",
+  "dlc": "31",
+  "collectible": "Ankh",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Anti-Gravity",
+  "dlc": "31",
+  "collectible": "Anti-Gravity",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Anti-Gravity",
+  "dlc": "31",
+  "collectible": "Anti-Gravity",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Anti-Gravity",
+  "dlc": "31",
+  "collectible": "Anti-Gravity",
+  "tag": "tearsup"
+ },
+ {
+  "_pageName": "Apple!",
+  "dlc": "31",
+  "collectible": "Apple!",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Apple!",
+  "dlc": "31",
+  "collectible": "Apple!",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Apple!",
+  "dlc": "31",
+  "collectible": "Apple!",
+  "tag": "tearsup"
+ },
+ {
+  "_pageName": "Aquarius",
+  "dlc": "31",
+  "collectible": "Aquarius",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Aquarius",
+  "dlc": "31",
+  "collectible": "Aquarius",
+  "tag": "stars"
+ },
+ {
+  "_pageName": "Aquarius",
+  "dlc": "31",
+  "collectible": "Aquarius",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Aries",
+  "dlc": "31",
+  "collectible": "Aries",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Aries",
+  "dlc": "31",
+  "collectible": "Aries",
+  "tag": "stars"
+ },
+ {
+  "_pageName": "Aries",
+  "dlc": "31",
+  "collectible": "Aries",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Astral Projection",
+  "dlc": "24",
+  "collectible": "Astral Projection",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Astral Projection",
+  "dlc": "24",
+  "collectible": "Astral Projection",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Athame",
+  "dlc": "30",
+  "collectible": "Athame",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Athame",
+  "dlc": "30",
+  "collectible": "Athame",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Azazel's Rage",
+  "dlc": "31",
+  "collectible": "Azazel's Rage",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Azazel's Rage",
+  "dlc": "31",
+  "collectible": "Azazel's Rage",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Backstabber",
+  "dlc": "31",
+  "collectible": "Backstabber",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Backstabber",
+  "dlc": "31",
+  "collectible": "Backstabber",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Bag of Crafting",
+  "dlc": "16",
+  "collectible": "Bag of Crafting",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Bag of Crafting",
+  "dlc": "24",
+  "collectible": "Bag of Crafting",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Ball of Bandages",
+  "dlc": "31",
+  "collectible": "Ball of Bandages",
+  "tag": "monstermanual"
+ },
+ {
+  "_pageName": "Ball of Bandages",
+  "dlc": "31",
+  "collectible": "Ball of Bandages",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Ball of Tar",
+  "dlc": "31",
+  "collectible": "Ball of Tar",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Ball of Tar",
+  "dlc": "31",
+  "collectible": "Ball of Tar",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Battery Pack",
+  "dlc": "31",
+  "collectible": "Battery Pack",
+  "tag": "battery"
+ },
+ {
+  "_pageName": "Battery Pack",
+  "dlc": "31",
+  "collectible": "Battery Pack",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "BBF",
+  "dlc": "31",
+  "collectible": "BBF",
+  "tag": "fly"
+ },
+ {
+  "_pageName": "BBF",
+  "dlc": "31",
+  "collectible": "BBF",
+  "tag": "monstermanual"
+ },
+ {
+  "_pageName": "BBF",
+  "dlc": "31",
+  "collectible": "BBF",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "BBF",
+  "dlc": "31",
+  "collectible": "BBF",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Belly Button",
+  "dlc": "31",
+  "collectible": "Belly Button",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Belly Button",
+  "dlc": "31",
+  "collectible": "Belly Button",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Belly Jelly",
+  "dlc": "31",
+  "collectible": "Belly Jelly",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Berserk!",
+  "dlc": "16",
+  "collectible": "Berserk!",
+  "tag": "devilsacrifice"
+ },
+ {
+  "_pageName": "Berserk!",
+  "dlc": "24",
+  "collectible": "Berserk!",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Best Bud",
+  "dlc": "31",
+  "collectible": "Best Bud",
+  "tag": "fly"
+ },
+ {
+  "_pageName": "Best Bud",
+  "dlc": "31",
+  "collectible": "Best Bud",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Best Bud",
+  "dlc": "31",
+  "collectible": "Best Bud",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Best Friend",
+  "dlc": "31",
+  "collectible": "Best Friend",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Betrayal",
+  "dlc": "30",
+  "collectible": "Betrayal",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Betrayal",
+  "dlc": "30",
+  "collectible": "Betrayal",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "BFFS!",
+  "dlc": "31",
+  "collectible": "BFFS!",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "BFFS!",
+  "dlc": "31",
+  "collectible": "BFFS!",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Big Chubby",
+  "dlc": "31",
+  "collectible": "Big Chubby",
+  "tag": "monstermanual"
+ },
+ {
+  "_pageName": "Big Chubby",
+  "dlc": "31",
+  "collectible": "Big Chubby",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Big Chubby",
+  "dlc": "31",
+  "collectible": "Big Chubby",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Big Fan",
+  "dlc": "31",
+  "collectible": "Big Fan",
+  "tag": "fly"
+ },
+ {
+  "_pageName": "Big Fan",
+  "dlc": "31",
+  "collectible": "Big Fan",
+  "tag": "monstermanual"
+ },
+ {
+  "_pageName": "Big Fan",
+  "dlc": "31",
+  "collectible": "Big Fan",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Binge Eater",
+  "dlc": "31",
+  "collectible": "Binge Eater",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Binky",
+  "dlc": "30",
+  "collectible": "Binky",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Binky",
+  "dlc": "30",
+  "collectible": "Binky",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Binky",
+  "dlc": "30",
+  "collectible": "Binky",
+  "tag": "tearsup"
+ },
+ {
+  "_pageName": "Bird Cage",
+  "dlc": "31",
+  "collectible": "Bird Cage",
+  "tag": "dead"
+ },
+ {
+  "_pageName": "Bird Cage",
+  "dlc": "31",
+  "collectible": "Bird Cage",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Bird Cage",
+  "dlc": "31",
+  "collectible": "Bird Cage",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Bird's Eye",
+  "dlc": "16",
+  "collectible": "Bird's Eye",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Bird's Eye",
+  "dlc": "31",
+  "collectible": "Bird's Eye",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Birthright",
+  "dlc": "24",
+  "collectible": "Birthright",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Birthright",
+  "dlc": "24",
+  "collectible": "Birthright",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Birthright",
+  "dlc": "24",
+  "collectible": "Birthright",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Black Candle",
+  "dlc": "31",
+  "collectible": "Black Candle",
+  "tag": "lazarussharedglobal"
+ },
+ {
+  "_pageName": "Black Candle",
+  "dlc": "31",
+  "collectible": "Black Candle",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Black Candle",
+  "dlc": "31",
+  "collectible": "Black Candle",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Black Hole",
+  "dlc": "31",
+  "collectible": "Black Hole",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Black Lotus",
+  "dlc": "31",
+  "collectible": "Black Lotus",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Black Powder",
+  "dlc": "30",
+  "collectible": "Black Powder",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Black Powder",
+  "dlc": "30",
+  "collectible": "Black Powder",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Blank Card",
+  "dlc": "31",
+  "collectible": "Blank Card",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Blank Card",
+  "dlc": "31",
+  "collectible": "Blank Card",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Blanket",
+  "dlc": "28",
+  "collectible": "Blanket",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Blood Bag",
+  "dlc": "31",
+  "collectible": "Blood Bag",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Blood Bombs",
+  "dlc": "24",
+  "collectible": "Blood Bombs",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Blood Bombs",
+  "dlc": "24",
+  "collectible": "Blood Bombs",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Blood Clot",
+  "dlc": "31",
+  "collectible": "Blood Clot",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Blood Clot",
+  "dlc": "31",
+  "collectible": "Blood Clot",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Blood Oath",
+  "dlc": "16",
+  "collectible": "Blood Oath",
+  "tag": "devilsacrifice"
+ },
+ {
+  "_pageName": "Blood Oath",
+  "dlc": "24",
+  "collectible": "Blood Oath",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Blood Oath",
+  "dlc": "24",
+  "collectible": "Blood Oath",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Blood Oath",
+  "dlc": "24",
+  "collectible": "Blood Oath",
+  "tag": "uniquefamiliar"
+ },
+ {
+  "_pageName": "Blood of the Martyr",
+  "dlc": "31",
+  "collectible": "Blood of the Martyr",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Blood of the Martyr",
+  "dlc": "31",
+  "collectible": "Blood of the Martyr",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Blood Puppy",
+  "dlc": "16",
+  "collectible": "Blood Puppy",
+  "tag": "monstermanual"
+ },
+ {
+  "_pageName": "Blood Puppy",
+  "dlc": "16",
+  "collectible": "Blood Puppy",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Blood Puppy",
+  "dlc": "24",
+  "collectible": "Blood Puppy",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Blood Rights",
+  "dlc": "16",
+  "collectible": "Blood Rights",
+  "tag": "devilsacrifice"
+ },
+ {
+  "_pageName": "Blood Rights",
+  "dlc": "31",
+  "collectible": "Blood Rights",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Bloodshot Eye",
+  "dlc": "31",
+  "collectible": "Bloodshot Eye",
+  "tag": "monstermanual"
+ },
+ {
+  "_pageName": "Bloodshot Eye",
+  "dlc": "31",
+  "collectible": "Bloodshot Eye",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Bloody Gust",
+  "dlc": "15",
+  "collectible": "Bloody Gust",
+  "tag": ""
+ },
+ {
+  "_pageName": "Bloody Gust",
+  "dlc": "16",
+  "collectible": "Bloody Gust",
+  "tag": "devilsacrifice"
+ },
+ {
+  "_pageName": "Bloody Gust",
+  "dlc": "16",
+  "collectible": "Bloody Gust",
+  "tag": "tearsup"
+ },
+ {
+  "_pageName": "Bloody Gust",
+  "dlc": "31",
+  "collectible": "Bloody Gust",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Bloody Gust",
+  "dlc": "31",
+  "collectible": "Bloody Gust",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Bloody Lust",
+  "dlc": "15",
+  "collectible": "Bloody Lust",
+  "tag": ""
+ },
+ {
+  "_pageName": "Bloody Lust",
+  "dlc": "16",
+  "collectible": "Bloody Lust",
+  "tag": "devilsacrifice"
+ },
+ {
+  "_pageName": "Bloody Lust",
+  "dlc": "31",
+  "collectible": "Bloody Lust",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Bloody Lust",
+  "dlc": "31",
+  "collectible": "Bloody Lust",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Blue Cap",
+  "dlc": "31",
+  "collectible": "Blue Cap",
+  "tag": "mushroom"
+ },
+ {
+  "_pageName": "Blue Cap",
+  "dlc": "31",
+  "collectible": "Blue Cap",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Blue Cap",
+  "dlc": "31",
+  "collectible": "Blue Cap",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Blue Cap",
+  "dlc": "31",
+  "collectible": "Blue Cap",
+  "tag": "tearsup"
+ },
+ {
+  "_pageName": "Blue Map",
+  "dlc": "31",
+  "collectible": "Blue Map",
+  "tag": "lazarussharedglobal"
+ },
+ {
+  "_pageName": "Blue Map",
+  "dlc": "31",
+  "collectible": "Blue Map",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Blue Map",
+  "dlc": "31",
+  "collectible": "Blue Map",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Bob's Brain",
+  "dlc": "31",
+  "collectible": "Bob's Brain",
+  "tag": "bob"
+ },
+ {
+  "_pageName": "Bob's Brain",
+  "dlc": "31",
+  "collectible": "Bob's Brain",
+  "tag": "monstermanual"
+ },
+ {
+  "_pageName": "Bob's Brain",
+  "dlc": "31",
+  "collectible": "Bob's Brain",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Bob's Brain",
+  "dlc": "31",
+  "collectible": "Bob's Brain",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Bob's Curse",
+  "dlc": "31",
+  "collectible": "Bob's Curse",
+  "tag": "bob"
+ },
+ {
+  "_pageName": "Bob's Curse",
+  "dlc": "31",
+  "collectible": "Bob's Curse",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Bob's Curse",
+  "dlc": "31",
+  "collectible": "Bob's Curse",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Bob's Rotten Head",
+  "dlc": "31",
+  "collectible": "Bob's Rotten Head",
+  "tag": "bob"
+ },
+ {
+  "_pageName": "Bob's Rotten Head",
+  "dlc": "31",
+  "collectible": "Bob's Rotten Head",
+  "tag": "dead"
+ },
+ {
+  "_pageName": "Bob's Rotten Head",
+  "dlc": "31",
+  "collectible": "Bob's Rotten Head",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Bobby-Bomb",
+  "dlc": "31",
+  "collectible": "Bobby-Bomb",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Bobby-Bomb",
+  "dlc": "31",
+  "collectible": "Bobby-Bomb",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "BOGO Bombs",
+  "dlc": "31",
+  "collectible": "BOGO Bombs",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "BOGO Bombs",
+  "dlc": "31",
+  "collectible": "BOGO Bombs",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "BOGO Bombs",
+  "dlc": "31",
+  "collectible": "BOGO Bombs",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Boiled Baby",
+  "dlc": "24",
+  "collectible": "Boiled Baby",
+  "tag": "baby"
+ },
+ {
+  "_pageName": "Boiled Baby",
+  "dlc": "24",
+  "collectible": "Boiled Baby",
+  "tag": "monstermanual"
+ },
+ {
+  "_pageName": "Boiled Baby",
+  "dlc": "24",
+  "collectible": "Boiled Baby",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Boiled Baby",
+  "dlc": "24",
+  "collectible": "Boiled Baby",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Bomb Bag",
+  "dlc": "31",
+  "collectible": "Bomb Bag",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Bomb Bag",
+  "dlc": "31",
+  "collectible": "Bomb Bag",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Bomb Bag",
+  "dlc": "31",
+  "collectible": "Bomb Bag",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Bomber Boy",
+  "dlc": "30",
+  "collectible": "Bomber Boy",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Bomber Boy",
+  "dlc": "30",
+  "collectible": "Bomber Boy",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Bone Spurs",
+  "dlc": "24",
+  "collectible": "Bone Spurs",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Bone Spurs",
+  "dlc": "24",
+  "collectible": "Bone Spurs",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Book of Revelations",
+  "dlc": "31",
+  "collectible": "Book of Revelations",
+  "tag": "book"
+ },
+ {
+  "_pageName": "Book of Revelations",
+  "dlc": "31",
+  "collectible": "Book of Revelations",
+  "tag": "lazarussharedglobal"
+ },
+ {
+  "_pageName": "Book of Revelations",
+  "dlc": "31",
+  "collectible": "Book of Revelations",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Book of Secrets",
+  "dlc": "31",
+  "collectible": "Book of Secrets",
+  "tag": "book"
+ },
+ {
+  "_pageName": "Book of Secrets",
+  "dlc": "31",
+  "collectible": "Book of Secrets",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Book of Shadows",
+  "dlc": "15",
+  "collectible": "Book of Shadows",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Book of Shadows",
+  "dlc": "31",
+  "collectible": "Book of Shadows",
+  "tag": "book"
+ },
+ {
+  "_pageName": "Book of the Dead",
+  "dlc": "28",
+  "collectible": "Book of the Dead",
+  "tag": "book"
+ },
+ {
+  "_pageName": "Book of the Dead",
+  "dlc": "28",
+  "collectible": "Book of the Dead",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Book of Virtues",
+  "dlc": "24",
+  "collectible": "Book of Virtues",
+  "tag": "book"
+ },
+ {
+  "_pageName": "Book of Virtues",
+  "dlc": "24",
+  "collectible": "Book of Virtues",
+  "tag": "lazarussharedglobal"
+ },
+ {
+  "_pageName": "Book of Virtues",
+  "dlc": "24",
+  "collectible": "Book of Virtues",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Boom!",
+  "dlc": "31",
+  "collectible": "Boom!",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Booster Pack (Item)",
+  "dlc": "24",
+  "collectible": "Booster Pack",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Bot Fly",
+  "dlc": "31",
+  "collectible": "Bot Fly",
+  "tag": "fly"
+ },
+ {
+  "_pageName": "Bot Fly",
+  "dlc": "31",
+  "collectible": "Bot Fly",
+  "tag": "monstermanual"
+ },
+ {
+  "_pageName": "Bot Fly",
+  "dlc": "31",
+  "collectible": "Bot Fly",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Box",
+  "dlc": "31",
+  "collectible": "Box",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Box of Friends",
+  "dlc": "30",
+  "collectible": "Box of Friends",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Box of Spiders",
+  "dlc": "31",
+  "collectible": "Box of Spiders",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Box of Spiders",
+  "dlc": "31",
+  "collectible": "Box of Spiders",
+  "tag": "spider"
+ },
+ {
+  "_pageName": "Bozo",
+  "dlc": "28",
+  "collectible": "Bozo",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Bozo",
+  "dlc": "28",
+  "collectible": "Bozo",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Breakfast",
+  "dlc": "31",
+  "collectible": "Breakfast",
+  "tag": "food"
+ },
+ {
+  "_pageName": "Breakfast",
+  "dlc": "31",
+  "collectible": "Breakfast",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Breakfast",
+  "dlc": "31",
+  "collectible": "Breakfast",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Breath of Life",
+  "dlc": "31",
+  "collectible": "Breath of Life",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Breath of Life",
+  "dlc": "31",
+  "collectible": "Breath of Life",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Brimstone",
+  "dlc": "31",
+  "collectible": "Brimstone",
+  "tag": "devil"
+ },
+ {
+  "_pageName": "Brimstone",
+  "dlc": "31",
+  "collectible": "Brimstone",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Brimstone",
+  "dlc": "31",
+  "collectible": "Brimstone",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Brimstone Bombs",
+  "dlc": "24",
+  "collectible": "Brimstone Bombs",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Brimstone Bombs",
+  "dlc": "24",
+  "collectible": "Brimstone Bombs",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Brittle Bones",
+  "dlc": "12",
+  "collectible": "Brittle Bones",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Brittle Bones",
+  "dlc": "16",
+  "collectible": "Brittle Bones",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Brittle Bones",
+  "dlc": "16",
+  "collectible": "Brittle Bones",
+  "tag": "tearsup"
+ },
+ {
+  "_pageName": "Broken Glass Cannon",
+  "dlc": "15",
+  "collectible": "Broken Glass Cannon",
+  "tag": ""
+ },
+ {
+  "_pageName": "Broken Glass Cannon",
+  "dlc": "16",
+  "collectible": "Broken Glass Cannon",
+  "tag": "noeden"
+ },
+ {
+  "_pageName": "Broken Modem",
+  "dlc": "31",
+  "collectible": "Broken Modem",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Broken Shovel",
+  "dlc": "28",
+  "collectible": "Broken Shovel 1",
+  "tag": "lazarussharedglobal"
+ },
+ {
+  "_pageName": "Broken Shovel",
+  "dlc": "28",
+  "collectible": "Broken Shovel 1",
+  "tag": "noeden"
+ },
+ {
+  "_pageName": "Broken Shovel",
+  "dlc": "28",
+  "collectible": "Broken Shovel 1",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Broken Shovel",
+  "dlc": "28",
+  "collectible": "Broken Shovel 1",
+  "tag": "quest"
+ },
+ {
+  "_pageName": "Broken Shovel",
+  "dlc": "28",
+  "collectible": "Broken Shovel 2",
+  "tag": "lazarussharedglobal"
+ },
+ {
+  "_pageName": "Broken Shovel",
+  "dlc": "28",
+  "collectible": "Broken Shovel 2",
+  "tag": "noeden"
+ },
+ {
+  "_pageName": "Broken Shovel",
+  "dlc": "28",
+  "collectible": "Broken Shovel 2",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Broken Shovel",
+  "dlc": "28",
+  "collectible": "Broken Shovel 2",
+  "tag": "quest"
+ },
+ {
+  "_pageName": "Broken Watch",
+  "dlc": "31",
+  "collectible": "Broken Watch",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Broken Watch",
+  "dlc": "31",
+  "collectible": "Broken Watch",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Brother Bobby",
+  "dlc": "31",
+  "collectible": "Brother Bobby",
+  "tag": "baby"
+ },
+ {
+  "_pageName": "Brother Bobby",
+  "dlc": "31",
+  "collectible": "Brother Bobby",
+  "tag": "monstermanual"
+ },
+ {
+  "_pageName": "Brother Bobby",
+  "dlc": "31",
+  "collectible": "Brother Bobby",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Brother Bobby",
+  "dlc": "31",
+  "collectible": "Brother Bobby",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Brown Nugget",
+  "dlc": "28",
+  "collectible": "Brown Nugget",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Brown Nugget",
+  "dlc": "28",
+  "collectible": "Brown Nugget",
+  "tag": "poop"
+ },
+ {
+  "_pageName": "Bucket of Lard",
+  "dlc": "31",
+  "collectible": "Bucket of Lard",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Buddy in a Box",
+  "dlc": "16",
+  "collectible": "Buddy in a Box",
+  "tag": "monstermanual"
+ },
+ {
+  "_pageName": "Buddy in a Box",
+  "dlc": "28",
+  "collectible": "Buddy in a Box",
+  "tag": "baby"
+ },
+ {
+  "_pageName": "Buddy in a Box",
+  "dlc": "28",
+  "collectible": "Buddy in a Box",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Buddy in a Box",
+  "dlc": "28",
+  "collectible": "Buddy in a Box",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Bum Friend",
+  "dlc": "31",
+  "collectible": "Bum Friend",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Bum Friend",
+  "dlc": "31",
+  "collectible": "Bum Friend",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Bumbo",
+  "dlc": "30",
+  "collectible": "Bumbo",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Bumbo",
+  "dlc": "30",
+  "collectible": "Bumbo",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Bursting Sack",
+  "dlc": "31",
+  "collectible": "Bursting Sack",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Bursting Sack",
+  "dlc": "31",
+  "collectible": "Bursting Sack",
+  "tag": "spider"
+ },
+ {
+  "_pageName": "Bursting Sack",
+  "dlc": "31",
+  "collectible": "Bursting Sack",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Butt Bombs",
+  "dlc": "31",
+  "collectible": "Butt Bombs",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Butt Bombs",
+  "dlc": "31",
+  "collectible": "Butt Bombs",
+  "tag": "poop"
+ },
+ {
+  "_pageName": "Butt Bombs",
+  "dlc": "31",
+  "collectible": "Butt Bombs",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Butter Bean",
+  "dlc": "31",
+  "collectible": "Butter Bean",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "C Section",
+  "dlc": "24",
+  "collectible": "C Section",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "C Section",
+  "dlc": "24",
+  "collectible": "C Section",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Caffeine Pill",
+  "dlc": "31",
+  "collectible": "Caffeine Pill",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Caffeine Pill",
+  "dlc": "31",
+  "collectible": "Caffeine Pill",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Cain's Other Eye",
+  "dlc": "31",
+  "collectible": "Cain's Other Eye",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Cain's Other Eye",
+  "dlc": "31",
+  "collectible": "Cain's Other Eye",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Cambion Conception",
+  "dlc": "30",
+  "collectible": "Cambion Conception",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Cambion Conception",
+  "dlc": "30",
+  "collectible": "Cambion Conception",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Camo Undies",
+  "dlc": "28",
+  "collectible": "Camo Undies",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Camo Undies",
+  "dlc": "28",
+  "collectible": "Camo Undies",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Cancer",
+  "dlc": "31",
+  "collectible": "Cancer",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Cancer",
+  "dlc": "31",
+  "collectible": "Cancer",
+  "tag": "stars"
+ },
+ {
+  "_pageName": "Cancer",
+  "dlc": "31",
+  "collectible": "Cancer",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Candy Heart",
+  "dlc": "24",
+  "collectible": "Candy Heart",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Candy Heart",
+  "dlc": "24",
+  "collectible": "Candy Heart",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Capricorn",
+  "dlc": "31",
+  "collectible": "Capricorn",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Capricorn",
+  "dlc": "31",
+  "collectible": "Capricorn",
+  "tag": "stars"
+ },
+ {
+  "_pageName": "Capricorn",
+  "dlc": "31",
+  "collectible": "Capricorn",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Capricorn",
+  "dlc": "31",
+  "collectible": "Capricorn",
+  "tag": "tearsup"
+ },
+ {
+  "_pageName": "Car Battery",
+  "dlc": "30",
+  "collectible": "Car Battery",
+  "tag": "battery"
+ },
+ {
+  "_pageName": "Car Battery",
+  "dlc": "30",
+  "collectible": "Car Battery",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Car Battery",
+  "dlc": "30",
+  "collectible": "Car Battery",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Car Battery",
+  "dlc": "30",
+  "collectible": "Car Battery",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Card Reading",
+  "dlc": "31",
+  "collectible": "Card Reading",
+  "tag": "lazarussharedglobal"
+ },
+ {
+  "_pageName": "Card Reading",
+  "dlc": "31",
+  "collectible": "Card Reading",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Card Reading",
+  "dlc": "31",
+  "collectible": "Card Reading",
+  "tag": "nogreed"
+ },
+ {
+  "_pageName": "Card Reading",
+  "dlc": "31",
+  "collectible": "Card Reading",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Card Reading",
+  "dlc": "31",
+  "collectible": "Card Reading",
+  "tag": "stars"
+ },
+ {
+  "_pageName": "Card Reading",
+  "dlc": "31",
+  "collectible": "Card Reading",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Cat-o-nine-tails",
+  "dlc": "31",
+  "collectible": "Cat-o-nine-tails",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Cat-o-nine-tails",
+  "dlc": "31",
+  "collectible": "Cat-o-nine-tails",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Celtic Cross",
+  "dlc": "31",
+  "collectible": "Celtic Cross",
+  "tag": "angel"
+ },
+ {
+  "_pageName": "Celtic Cross",
+  "dlc": "31",
+  "collectible": "Celtic Cross",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Celtic Cross",
+  "dlc": "31",
+  "collectible": "Celtic Cross",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Censer",
+  "dlc": "30",
+  "collectible": "Censer",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Ceremonial Robes",
+  "dlc": "31",
+  "collectible": "Ceremonial Robes",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Ceremonial Robes",
+  "dlc": "31",
+  "collectible": "Ceremonial Robes",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Champion Belt",
+  "dlc": "31",
+  "collectible": "Champion Belt",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Champion Belt",
+  "dlc": "31",
+  "collectible": "Champion Belt",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Chaos",
+  "dlc": "30",
+  "collectible": "Chaos",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Chaos",
+  "dlc": "30",
+  "collectible": "Chaos",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Chaos",
+  "dlc": "30",
+  "collectible": "Chaos",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Charged Baby",
+  "dlc": "31",
+  "collectible": "Charged Baby",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Charged Baby",
+  "dlc": "31",
+  "collectible": "Charged Baby",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Charged Baby",
+  "dlc": "31",
+  "collectible": "Charged Baby",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Charm of the Vampire",
+  "dlc": "31",
+  "collectible": "Charm of the Vampire",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Charm of the Vampire",
+  "dlc": "31",
+  "collectible": "Charm of the Vampire",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Charm of the Vampire",
+  "dlc": "31",
+  "collectible": "Charm of the Vampire",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Chemical Peel",
+  "dlc": "31",
+  "collectible": "Chemical Peel",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Chemical Peel",
+  "dlc": "31",
+  "collectible": "Chemical Peel",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Chocolate Milk",
+  "dlc": "31",
+  "collectible": "Chocolate Milk",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Chocolate Milk",
+  "dlc": "31",
+  "collectible": "Chocolate Milk",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Circle of Protection",
+  "dlc": "30",
+  "collectible": "Circle of Protection",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Clear Rune",
+  "dlc": "31",
+  "collectible": "Clear Rune",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Clear Rune",
+  "dlc": "31",
+  "collectible": "Clear Rune",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Clicker",
+  "dlc": "12",
+  "collectible": "Clicker",
+  "tag": "nodaily"
+ },
+ {
+  "_pageName": "Clicker",
+  "dlc": "28",
+  "collectible": "Clicker",
+  "tag": "nochallenge"
+ },
+ {
+  "_pageName": "Clicker",
+  "dlc": "28",
+  "collectible": "Clicker",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Compost",
+  "dlc": "31",
+  "collectible": "Compost",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Compound Fracture",
+  "dlc": "28",
+  "collectible": "Compound Fracture",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Compound Fracture",
+  "dlc": "28",
+  "collectible": "Compound Fracture",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Cone Head",
+  "dlc": "28",
+  "collectible": "Cone Head",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Consolation Prize",
+  "dlc": "24",
+  "collectible": "Consolation Prize",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Consolation Prize",
+  "dlc": "24",
+  "collectible": "Consolation Prize",
+  "tag": "tearsup"
+ },
+ {
+  "_pageName": "Contagion",
+  "dlc": "31",
+  "collectible": "Contagion",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Contagion",
+  "dlc": "31",
+  "collectible": "Contagion",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Continuum",
+  "dlc": "30",
+  "collectible": "Continuum",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Continuum",
+  "dlc": "30",
+  "collectible": "Continuum",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Contract From Below",
+  "dlc": "31",
+  "collectible": "Contract From Below",
+  "tag": "nogreed"
+ },
+ {
+  "_pageName": "Contract From Below",
+  "dlc": "31",
+  "collectible": "Contract From Below",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Contract From Below",
+  "dlc": "31",
+  "collectible": "Contract From Below",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Converter",
+  "dlc": "31",
+  "collectible": "Converter",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Coupon",
+  "dlc": "31",
+  "collectible": "Coupon",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Coupon",
+  "dlc": "31",
+  "collectible": "Coupon",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Crack Jacks",
+  "dlc": "30",
+  "collectible": "Crack Jacks",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Crack the Sky",
+  "dlc": "31",
+  "collectible": "Crack the Sky",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Cracked Orb",
+  "dlc": "24",
+  "collectible": "Cracked Orb",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Cracked Orb",
+  "dlc": "24",
+  "collectible": "Cracked Orb",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Cricket's Body",
+  "dlc": "31",
+  "collectible": "Cricket's Body",
+  "tag": "dead"
+ },
+ {
+  "_pageName": "Cricket's Body",
+  "dlc": "31",
+  "collectible": "Cricket's Body",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Cricket's Body",
+  "dlc": "31",
+  "collectible": "Cricket's Body",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Cricket's Body",
+  "dlc": "31",
+  "collectible": "Cricket's Body",
+  "tag": "tearsup"
+ },
+ {
+  "_pageName": "Cricket's Head",
+  "dlc": "31",
+  "collectible": "Cricket's Head",
+  "tag": "dead"
+ },
+ {
+  "_pageName": "Cricket's Head",
+  "dlc": "31",
+  "collectible": "Cricket's Head",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Cricket's Head",
+  "dlc": "31",
+  "collectible": "Cricket's Head",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Crooked Penny",
+  "dlc": "28",
+  "collectible": "Crooked Penny",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Crown Of Light",
+  "dlc": "30",
+  "collectible": "Crown Of Light",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Crown Of Light",
+  "dlc": "30",
+  "collectible": "Crown Of Light",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Crystal Ball",
+  "dlc": "31",
+  "collectible": "Crystal Ball",
+  "tag": "lazarussharedglobal"
+ },
+ {
+  "_pageName": "Crystal Ball",
+  "dlc": "31",
+  "collectible": "Crystal Ball",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Crystal Ball",
+  "dlc": "31",
+  "collectible": "Crystal Ball",
+  "tag": "stars"
+ },
+ {
+  "_pageName": "Cube Baby",
+  "dlc": "16",
+  "collectible": "Cube Baby",
+  "tag": "monstermanual"
+ },
+ {
+  "_pageName": "Cube Baby",
+  "dlc": "16",
+  "collectible": "Cube Baby",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Cube Baby",
+  "dlc": "16",
+  "collectible": "Cube Baby",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Cube Baby",
+  "dlc": "24",
+  "collectible": "Cube Baby",
+  "tag": "baby"
+ },
+ {
+  "_pageName": "Cube of Meat",
+  "dlc": "31",
+  "collectible": "Cube of Meat",
+  "tag": "monstermanual"
+ },
+ {
+  "_pageName": "Cube of Meat",
+  "dlc": "31",
+  "collectible": "Cube of Meat",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Cupid's Arrow",
+  "dlc": "31",
+  "collectible": "Cupid's Arrow",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Cupid's Arrow",
+  "dlc": "31",
+  "collectible": "Cupid's Arrow",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Curse of the Tower",
+  "dlc": "30",
+  "collectible": "Curse of the Tower",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Curse of the Tower",
+  "dlc": "30",
+  "collectible": "Curse of the Tower",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Cursed Eye",
+  "dlc": "31",
+  "collectible": "Cursed Eye",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Cursed Eye",
+  "dlc": "31",
+  "collectible": "Cursed Eye",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "D infinity",
+  "dlc": "28",
+  "collectible": "D infinity",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "D1",
+  "dlc": "28",
+  "collectible": "D1",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "D10",
+  "dlc": "31",
+  "collectible": "D10",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "D100",
+  "dlc": "31",
+  "collectible": "D100",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "D100",
+  "dlc": "31",
+  "collectible": "D100",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "D12",
+  "dlc": "30",
+  "collectible": "D12",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "D20",
+  "dlc": "31",
+  "collectible": "D20",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "D4",
+  "dlc": "31",
+  "collectible": "D4",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "D4",
+  "dlc": "31",
+  "collectible": "D4",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "D7",
+  "dlc": "16",
+  "collectible": "D7",
+  "tag": "nogreed"
+ },
+ {
+  "_pageName": "D7",
+  "dlc": "30",
+  "collectible": "D7",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "D8",
+  "dlc": "30",
+  "collectible": "D8",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Dad's Key",
+  "dlc": "31",
+  "collectible": "Dad's Key",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Dad's Lost Coin",
+  "dlc": "3",
+  "collectible": "Dad's Lost Coin",
+  "tag": ""
+ },
+ {
+  "_pageName": "Dad's Lost Coin",
+  "dlc": "28",
+  "collectible": "Dad's Lost Coin",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Dad's Lost Coin",
+  "dlc": "28",
+  "collectible": "Dad's Lost Coin",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Dad's Note",
+  "dlc": "24",
+  "collectible": "Dad's Note",
+  "tag": "lazarusshared"
+ },
+ {
+  "_pageName": "Dad's Note",
+  "dlc": "24",
+  "collectible": "Dad's Note",
+  "tag": "noeden"
+ },
+ {
+  "_pageName": "Dad's Note",
+  "dlc": "24",
+  "collectible": "Dad's Note",
+  "tag": "quest"
+ },
+ {
+  "_pageName": "Dad's Ring",
+  "dlc": "3",
+  "collectible": "Dad's Ring",
+  "tag": ""
+ },
+ {
+  "_pageName": "Dad's Ring",
+  "dlc": "28",
+  "collectible": "Dad's Ring",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Daddy Longlegs",
+  "dlc": "15",
+  "collectible": "Daddy Longlegs",
+  "tag": ""
+ },
+ {
+  "_pageName": "Daddy Longlegs",
+  "dlc": "16",
+  "collectible": "Daddy Longlegs",
+  "tag": "monstermanual"
+ },
+ {
+  "_pageName": "Daddy Longlegs",
+  "dlc": "31",
+  "collectible": "Daddy Longlegs",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Daddy Longlegs",
+  "dlc": "31",
+  "collectible": "Daddy Longlegs",
+  "tag": "spider"
+ },
+ {
+  "_pageName": "Daddy Longlegs",
+  "dlc": "31",
+  "collectible": "Daddy Longlegs",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Damocles",
+  "dlc": "24",
+  "collectible": "Damocles",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Damocles",
+  "dlc": "24",
+  "collectible": "Damocles",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Dark Arts",
+  "dlc": "24",
+  "collectible": "Dark Arts",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Dark Bum",
+  "dlc": "16",
+  "collectible": "Dark Bum",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Dark Bum",
+  "dlc": "31",
+  "collectible": "Dark Bum",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Dark Matter",
+  "dlc": "31",
+  "collectible": "Dark Matter",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Dark Matter",
+  "dlc": "31",
+  "collectible": "Dark Matter",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Dark Prince's Crown",
+  "dlc": "31",
+  "collectible": "Dark Prince's Crown",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Dark Prince's Crown",
+  "dlc": "31",
+  "collectible": "Dark Prince's Crown",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Dark Prince's Crown",
+  "dlc": "31",
+  "collectible": "Dark Prince's Crown",
+  "tag": "tearsup"
+ },
+ {
+  "_pageName": "Dataminer",
+  "dlc": "28",
+  "collectible": "Dataminer",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Dead Bird",
+  "dlc": "31",
+  "collectible": "Dead Bird",
+  "tag": "dead"
+ },
+ {
+  "_pageName": "Dead Bird",
+  "dlc": "31",
+  "collectible": "Dead Bird",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Dead Bird",
+  "dlc": "31",
+  "collectible": "Dead Bird",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Dead Cat",
+  "dlc": "31",
+  "collectible": "Dead Cat",
+  "tag": "dead"
+ },
+ {
+  "_pageName": "Dead Cat",
+  "dlc": "31",
+  "collectible": "Dead Cat",
+  "tag": "guppy"
+ },
+ {
+  "_pageName": "Dead Cat",
+  "dlc": "31",
+  "collectible": "Dead Cat",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Dead Cat",
+  "dlc": "31",
+  "collectible": "Dead Cat",
+  "tag": "uniquefamiliar"
+ },
+ {
+  "_pageName": "Dead Dove",
+  "dlc": "31",
+  "collectible": "Dead Dove",
+  "tag": "angel"
+ },
+ {
+  "_pageName": "Dead Dove",
+  "dlc": "31",
+  "collectible": "Dead Dove",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Dead Dove",
+  "dlc": "31",
+  "collectible": "Dead Dove",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Dead Eye",
+  "dlc": "30",
+  "collectible": "Dead Eye",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Dead Eye",
+  "dlc": "30",
+  "collectible": "Dead Eye",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Dead Onion",
+  "dlc": "31",
+  "collectible": "Dead Onion",
+  "tag": "dead"
+ },
+ {
+  "_pageName": "Dead Onion",
+  "dlc": "31",
+  "collectible": "Dead Onion",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Dead Onion",
+  "dlc": "31",
+  "collectible": "Dead Onion",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Dead Sea Scrolls",
+  "dlc": "31",
+  "collectible": "Dead Sea Scrolls",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Dead Tooth",
+  "dlc": "31",
+  "collectible": "Dead Tooth",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Dead Tooth",
+  "dlc": "31",
+  "collectible": "Dead Tooth",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Death Certificate",
+  "dlc": "24",
+  "collectible": "Death Certificate",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Death Certificate",
+  "dlc": "24",
+  "collectible": "Death Certificate",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Death's List",
+  "dlc": "16",
+  "collectible": "Death's List",
+  "tag": "lazarusshared"
+ },
+ {
+  "_pageName": "Death's List",
+  "dlc": "28",
+  "collectible": "Death's List",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Death's List",
+  "dlc": "28",
+  "collectible": "Death's List",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Death's Touch",
+  "dlc": "31",
+  "collectible": "Death's Touch",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Death's Touch",
+  "dlc": "31",
+  "collectible": "Death's Touch",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Decap Attack",
+  "dlc": "31",
+  "collectible": "Decap Attack",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Deck of Cards",
+  "dlc": "31",
+  "collectible": "Deck of Cards",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Deck of Cards",
+  "dlc": "31",
+  "collectible": "Deck of Cards",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Deck of Cards",
+  "dlc": "31",
+  "collectible": "Deck of Cards",
+  "tag": "stars"
+ },
+ {
+  "_pageName": "Deep Pockets",
+  "dlc": "30",
+  "collectible": "Deep Pockets",
+  "tag": "lazarussharedglobal"
+ },
+ {
+  "_pageName": "Deep Pockets",
+  "dlc": "30",
+  "collectible": "Deep Pockets",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Deep Pockets",
+  "dlc": "30",
+  "collectible": "Deep Pockets",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Deep Pockets",
+  "dlc": "30",
+  "collectible": "Deep Pockets",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Delirious",
+  "dlc": "31",
+  "collectible": "Delirious",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Demon Baby",
+  "dlc": "31",
+  "collectible": "Demon Baby",
+  "tag": "baby"
+ },
+ {
+  "_pageName": "Demon Baby",
+  "dlc": "31",
+  "collectible": "Demon Baby",
+  "tag": "monstermanual"
+ },
+ {
+  "_pageName": "Demon Baby",
+  "dlc": "31",
+  "collectible": "Demon Baby",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Demon Baby",
+  "dlc": "31",
+  "collectible": "Demon Baby",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Depression",
+  "dlc": "31",
+  "collectible": "Depression",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Depression",
+  "dlc": "31",
+  "collectible": "Depression",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Dessert",
+  "dlc": "31",
+  "collectible": "Dessert",
+  "tag": "food"
+ },
+ {
+  "_pageName": "Dessert",
+  "dlc": "31",
+  "collectible": "Dessert",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Dessert",
+  "dlc": "31",
+  "collectible": "Dessert",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Dinner",
+  "dlc": "31",
+  "collectible": "Dinner",
+  "tag": "food"
+ },
+ {
+  "_pageName": "Dinner",
+  "dlc": "31",
+  "collectible": "Dinner",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Dinner",
+  "dlc": "31",
+  "collectible": "Dinner",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Diplopia",
+  "dlc": "30",
+  "collectible": "Diplopia",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Dirty Mind",
+  "dlc": "24",
+  "collectible": "Dirty Mind",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Dirty Mind",
+  "dlc": "24",
+  "collectible": "Dirty Mind",
+  "tag": "poop"
+ },
+ {
+  "_pageName": "Dirty Mind",
+  "dlc": "24",
+  "collectible": "Dirty Mind",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Distant Admiration",
+  "dlc": "31",
+  "collectible": "Distant Admiration",
+  "tag": "fly"
+ },
+ {
+  "_pageName": "Distant Admiration",
+  "dlc": "31",
+  "collectible": "Distant Admiration",
+  "tag": "monstermanual"
+ },
+ {
+  "_pageName": "Distant Admiration",
+  "dlc": "31",
+  "collectible": "Distant Admiration",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Distant Admiration",
+  "dlc": "31",
+  "collectible": "Distant Admiration",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Divine Intervention",
+  "dlc": "31",
+  "collectible": "Divine Intervention",
+  "tag": "angel"
+ },
+ {
+  "_pageName": "Divorce Papers",
+  "dlc": "16",
+  "collectible": "Divorce Papers",
+  "tag": "tearsup"
+ },
+ {
+  "_pageName": "Divorce Papers",
+  "dlc": "28",
+  "collectible": "Divorce Papers",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Divorce Papers",
+  "dlc": "28",
+  "collectible": "Divorce Papers",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Doctor's Remote",
+  "dlc": "31",
+  "collectible": "Doctor's Remote",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Dog Tooth",
+  "dlc": "31",
+  "collectible": "Dog Tooth",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Dog Tooth",
+  "dlc": "31",
+  "collectible": "Dog Tooth",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Dogma (Item)",
+  "dlc": "24",
+  "collectible": "Dogma",
+  "tag": "lazarusshared"
+ },
+ {
+  "_pageName": "Dogma (Item)",
+  "dlc": "24",
+  "collectible": "Dogma",
+  "tag": "noeden"
+ },
+ {
+  "_pageName": "Dogma (Item)",
+  "dlc": "24",
+  "collectible": "Dogma",
+  "tag": "quest"
+ },
+ {
+  "_pageName": "Dr. Fetus",
+  "dlc": "31",
+  "collectible": "Dr. Fetus",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Dr. Fetus",
+  "dlc": "31",
+  "collectible": "Dr. Fetus",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Dream Catcher",
+  "dlc": "24",
+  "collectible": "Dream Catcher",
+  "tag": "lazarussharedglobal"
+ },
+ {
+  "_pageName": "Dream Catcher",
+  "dlc": "24",
+  "collectible": "Dream Catcher",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Dream Catcher",
+  "dlc": "24",
+  "collectible": "Dream Catcher",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Dream Catcher",
+  "dlc": "24",
+  "collectible": "Dream Catcher",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Dry Baby",
+  "dlc": "31",
+  "collectible": "Dry Baby",
+  "tag": "baby"
+ },
+ {
+  "_pageName": "Dry Baby",
+  "dlc": "31",
+  "collectible": "Dry Baby",
+  "tag": "monstermanual"
+ },
+ {
+  "_pageName": "Dry Baby",
+  "dlc": "31",
+  "collectible": "Dry Baby",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Duality",
+  "dlc": "28",
+  "collectible": "Duality",
+  "tag": "lazarussharedglobal"
+ },
+ {
+  "_pageName": "Duality",
+  "dlc": "28",
+  "collectible": "Duality",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Duality",
+  "dlc": "28",
+  "collectible": "Duality",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "E. Coli",
+  "dlc": "31",
+  "collectible": "E. Coli",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "E. Coli",
+  "dlc": "31",
+  "collectible": "E. Coli",
+  "tag": "poop"
+ },
+ {
+  "_pageName": "E. Coli",
+  "dlc": "31",
+  "collectible": "E. Coli",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Echo Chamber",
+  "dlc": "31",
+  "collectible": "Echo Chamber",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Echo Chamber",
+  "dlc": "31",
+  "collectible": "Echo Chamber",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Echo Chamber",
+  "dlc": "31",
+  "collectible": "Echo Chamber",
+  "tag": "stars"
+ },
+ {
+  "_pageName": "Echo Chamber",
+  "dlc": "31",
+  "collectible": "Echo Chamber",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Eden's Blessing",
+  "dlc": "30",
+  "collectible": "Eden's Blessing",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Eden's Blessing",
+  "dlc": "30",
+  "collectible": "Eden's Blessing",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Eden's Blessing",
+  "dlc": "30",
+  "collectible": "Eden's Blessing",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Eden's Blessing",
+  "dlc": "30",
+  "collectible": "Eden's Blessing",
+  "tag": "tearsup"
+ },
+ {
+  "_pageName": "Eden's Soul",
+  "dlc": "31",
+  "collectible": "Eden's Soul",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Empty Heart",
+  "dlc": "24",
+  "collectible": "Empty Heart",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Empty Heart",
+  "dlc": "24",
+  "collectible": "Empty Heart",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Empty Vessel",
+  "dlc": "30",
+  "collectible": "Empty Vessel",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Epic Fetus",
+  "dlc": "31",
+  "collectible": "Epic Fetus",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Epic Fetus",
+  "dlc": "31",
+  "collectible": "Epic Fetus",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Epiphora",
+  "dlc": "15",
+  "collectible": "Epiphora",
+  "tag": ""
+ },
+ {
+  "_pageName": "Epiphora",
+  "dlc": "16",
+  "collectible": "Epiphora",
+  "tag": "tearsup"
+ },
+ {
+  "_pageName": "Epiphora",
+  "dlc": "31",
+  "collectible": "Epiphora",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Epiphora",
+  "dlc": "31",
+  "collectible": "Epiphora",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Eraser",
+  "dlc": "31",
+  "collectible": "Eraser",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Esau Jr.",
+  "dlc": "31",
+  "collectible": "Esau Jr.",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Esau Jr.",
+  "dlc": "31",
+  "collectible": "Esau Jr.",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Eternal D6",
+  "dlc": "24",
+  "collectible": "Eternal D6",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Eternal D6",
+  "dlc": "24",
+  "collectible": "Eternal D6",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Eucharist",
+  "dlc": "28",
+  "collectible": "Eucharist",
+  "tag": "lazarussharedglobal"
+ },
+ {
+  "_pageName": "Eucharist",
+  "dlc": "28",
+  "collectible": "Eucharist",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Eucharist",
+  "dlc": "28",
+  "collectible": "Eucharist",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Euthanasia",
+  "dlc": "31",
+  "collectible": "Euthanasia",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Euthanasia",
+  "dlc": "31",
+  "collectible": "Euthanasia",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Euthanasia",
+  "dlc": "31",
+  "collectible": "Euthanasia",
+  "tag": "syringe"
+ },
+ {
+  "_pageName": "Eve's Mascara",
+  "dlc": "31",
+  "collectible": "Eve's Mascara",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Eve's Mascara",
+  "dlc": "31",
+  "collectible": "Eve's Mascara",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Everything Jar",
+  "dlc": "24",
+  "collectible": "Everything Jar",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Evil Charm",
+  "dlc": "31",
+  "collectible": "Evil Charm",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Evil Charm",
+  "dlc": "31",
+  "collectible": "Evil Charm",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Evil Eye",
+  "dlc": "30",
+  "collectible": "Evil Eye",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Evil Eye",
+  "dlc": "30",
+  "collectible": "Evil Eye",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Experimental Treatment",
+  "dlc": "31",
+  "collectible": "Experimental Treatment",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Experimental Treatment",
+  "dlc": "31",
+  "collectible": "Experimental Treatment",
+  "tag": "syringe"
+ },
+ {
+  "_pageName": "Explosivo",
+  "dlc": "30",
+  "collectible": "Explosivo",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Explosivo",
+  "dlc": "30",
+  "collectible": "Explosivo",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Eye Drops",
+  "dlc": "31",
+  "collectible": "Eye Drops",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Eye Drops",
+  "dlc": "31",
+  "collectible": "Eye Drops",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Eye Drops",
+  "dlc": "31",
+  "collectible": "Eye Drops",
+  "tag": "tearsup"
+ },
+ {
+  "_pageName": "Eye of Belial",
+  "dlc": "31",
+  "collectible": "Eye of Belial",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Eye of Belial",
+  "dlc": "31",
+  "collectible": "Eye of Belial",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Eye of Greed",
+  "dlc": "28",
+  "collectible": "Eye of Greed",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Eye of Greed",
+  "dlc": "28",
+  "collectible": "Eye of Greed",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Eye of the Occult",
+  "dlc": "24",
+  "collectible": "Eye of the Occult",
+  "tag": "devil"
+ },
+ {
+  "_pageName": "Eye of the Occult",
+  "dlc": "24",
+  "collectible": "Eye of the Occult",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Eye of the Occult",
+  "dlc": "24",
+  "collectible": "Eye of the Occult",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Eye Sore",
+  "dlc": "24",
+  "collectible": "Eye Sore",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Eye Sore",
+  "dlc": "24",
+  "collectible": "Eye Sore",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "False PHD",
+  "dlc": "31",
+  "collectible": "False PHD",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "False PHD",
+  "dlc": "31",
+  "collectible": "False PHD",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "False PHD",
+  "dlc": "31",
+  "collectible": "False PHD",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Fanny Pack",
+  "dlc": "31",
+  "collectible": "Fanny Pack",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Fanny Pack",
+  "dlc": "31",
+  "collectible": "Fanny Pack",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Farting Baby",
+  "dlc": "31",
+  "collectible": "Farting Baby",
+  "tag": "baby"
+ },
+ {
+  "_pageName": "Farting Baby",
+  "dlc": "31",
+  "collectible": "Farting Baby",
+  "tag": "monstermanual"
+ },
+ {
+  "_pageName": "Farting Baby",
+  "dlc": "31",
+  "collectible": "Farting Baby",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Fast Bombs",
+  "dlc": "28",
+  "collectible": "Fast Bombs",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Fast Bombs",
+  "dlc": "28",
+  "collectible": "Fast Bombs",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Fate",
+  "dlc": "31",
+  "collectible": "Fate",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Fate",
+  "dlc": "31",
+  "collectible": "Fate",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Fate's Reward",
+  "dlc": "31",
+  "collectible": "Fate's Reward",
+  "tag": "monstermanual"
+ },
+ {
+  "_pageName": "Fate's Reward",
+  "dlc": "31",
+  "collectible": "Fate's Reward",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Fate's Reward",
+  "dlc": "31",
+  "collectible": "Fate's Reward",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Finger!",
+  "dlc": "28",
+  "collectible": "Finger!",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Finger!",
+  "dlc": "28",
+  "collectible": "Finger!",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Fire Mind",
+  "dlc": "31",
+  "collectible": "Fire Mind",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Fire Mind",
+  "dlc": "31",
+  "collectible": "Fire Mind",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Flat Stone",
+  "dlc": "28",
+  "collectible": "Flat Stone",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Flat Stone",
+  "dlc": "28",
+  "collectible": "Flat Stone",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Flip",
+  "dlc": "31",
+  "collectible": "Flip",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Flip",
+  "dlc": "31",
+  "collectible": "Flip",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Flush!",
+  "dlc": "31",
+  "collectible": "Flush!",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Flush!",
+  "dlc": "31",
+  "collectible": "Flush!",
+  "tag": "poop"
+ },
+ {
+  "_pageName": "Forever alone",
+  "dlc": "31",
+  "collectible": "Forever alone",
+  "tag": "fly"
+ },
+ {
+  "_pageName": "Forever alone",
+  "dlc": "31",
+  "collectible": "Forever alone",
+  "tag": "monstermanual"
+ },
+ {
+  "_pageName": "Forever alone",
+  "dlc": "31",
+  "collectible": "Forever alone",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Forever alone",
+  "dlc": "31",
+  "collectible": "Forever alone",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Forget Me Now",
+  "dlc": "31",
+  "collectible": "Forget Me Now",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Forget Me Now",
+  "dlc": "31",
+  "collectible": "Forget Me Now",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Fortune Cookie",
+  "dlc": "24",
+  "collectible": "Fortune Cookie",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Free Lemonade",
+  "dlc": "31",
+  "collectible": "Free Lemonade",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Freezer Baby",
+  "dlc": "24",
+  "collectible": "Freezer Baby",
+  "tag": "baby"
+ },
+ {
+  "_pageName": "Freezer Baby",
+  "dlc": "24",
+  "collectible": "Freezer Baby",
+  "tag": "monstermanual"
+ },
+ {
+  "_pageName": "Freezer Baby",
+  "dlc": "24",
+  "collectible": "Freezer Baby",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Freezer Baby",
+  "dlc": "24",
+  "collectible": "Freezer Baby",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Friend Finder",
+  "dlc": "24",
+  "collectible": "Friend Finder",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Friend Zone",
+  "dlc": "30",
+  "collectible": "Friend Zone",
+  "tag": "fly"
+ },
+ {
+  "_pageName": "Friend Zone",
+  "dlc": "30",
+  "collectible": "Friend Zone",
+  "tag": "monstermanual"
+ },
+ {
+  "_pageName": "Friend Zone",
+  "dlc": "30",
+  "collectible": "Friend Zone",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Friend Zone",
+  "dlc": "30",
+  "collectible": "Friend Zone",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Friendly Ball",
+  "dlc": "31",
+  "collectible": "Friendly Ball",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Friendly Ball",
+  "dlc": "31",
+  "collectible": "Friendly Ball",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Fruit Cake",
+  "dlc": "30",
+  "collectible": "Fruit Cake",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Fruit Cake",
+  "dlc": "30",
+  "collectible": "Fruit Cake",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Fruity Plum",
+  "dlc": "24",
+  "collectible": "Fruity Plum",
+  "tag": "fly"
+ },
+ {
+  "_pageName": "Fruity Plum",
+  "dlc": "24",
+  "collectible": "Fruity Plum",
+  "tag": "monstermanual"
+ },
+ {
+  "_pageName": "Fruity Plum",
+  "dlc": "24",
+  "collectible": "Fruity Plum",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Fruity Plum",
+  "dlc": "24",
+  "collectible": "Fruity Plum",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "GB Bug",
+  "dlc": "31",
+  "collectible": "GB Bug",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "GB Bug",
+  "dlc": "31",
+  "collectible": "GB Bug",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Gello",
+  "dlc": "24",
+  "collectible": "Gello",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Gemini (Item)",
+  "dlc": "31",
+  "collectible": "Gemini",
+  "tag": "monstermanual"
+ },
+ {
+  "_pageName": "Gemini (Item)",
+  "dlc": "31",
+  "collectible": "Gemini",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Gemini (Item)",
+  "dlc": "31",
+  "collectible": "Gemini",
+  "tag": "stars"
+ },
+ {
+  "_pageName": "Gemini (Item)",
+  "dlc": "31",
+  "collectible": "Gemini",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Genesis",
+  "dlc": "24",
+  "collectible": "Genesis",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Genesis",
+  "dlc": "24",
+  "collectible": "Genesis",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Ghost Baby",
+  "dlc": "31",
+  "collectible": "Ghost Baby",
+  "tag": "baby"
+ },
+ {
+  "_pageName": "Ghost Baby",
+  "dlc": "31",
+  "collectible": "Ghost Baby",
+  "tag": "monstermanual"
+ },
+ {
+  "_pageName": "Ghost Baby",
+  "dlc": "31",
+  "collectible": "Ghost Baby",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Ghost Baby",
+  "dlc": "31",
+  "collectible": "Ghost Baby",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Ghost Bombs",
+  "dlc": "31",
+  "collectible": "Ghost Bombs",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Ghost Bombs",
+  "dlc": "31",
+  "collectible": "Ghost Bombs",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Ghost Pepper",
+  "dlc": "28",
+  "collectible": "Ghost Pepper",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Ghost Pepper",
+  "dlc": "28",
+  "collectible": "Ghost Pepper",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Giant Cell",
+  "dlc": "31",
+  "collectible": "Giant Cell",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Giant Cell",
+  "dlc": "31",
+  "collectible": "Giant Cell",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Gimpy",
+  "dlc": "15",
+  "collectible": "Gimpy",
+  "tag": ""
+ },
+ {
+  "_pageName": "Gimpy",
+  "dlc": "16",
+  "collectible": "Gimpy",
+  "tag": "devilsacrifice"
+ },
+ {
+  "_pageName": "Gimpy",
+  "dlc": "31",
+  "collectible": "Gimpy",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Gimpy",
+  "dlc": "31",
+  "collectible": "Gimpy",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Glass Cannon",
+  "dlc": "30",
+  "collectible": "Glass Cannon",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Glass Eye",
+  "dlc": "31",
+  "collectible": "Glass Eye",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Glaucoma",
+  "dlc": "28",
+  "collectible": "Glaucoma",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Glaucoma",
+  "dlc": "28",
+  "collectible": "Glaucoma",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Glitched Crown",
+  "dlc": "31",
+  "collectible": "Glitched Crown",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Glitched Crown",
+  "dlc": "31",
+  "collectible": "Glitched Crown",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Glitched Crown",
+  "dlc": "31",
+  "collectible": "Glitched Crown",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Glitter Bombs",
+  "dlc": "31",
+  "collectible": "Glitter Bombs",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Glitter Bombs",
+  "dlc": "31",
+  "collectible": "Glitter Bombs",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Glowing Hourglass",
+  "dlc": "14",
+  "collectible": "Glowing Hourglass",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Glowing Hourglass",
+  "dlc": "30",
+  "collectible": "Glowing Hourglass",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Glyph of Balance",
+  "dlc": "31",
+  "collectible": "Glyph of Balance",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Glyph of Balance",
+  "dlc": "31",
+  "collectible": "Glyph of Balance",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Gnawed Leaf",
+  "dlc": "31",
+  "collectible": "Gnawed Leaf",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Goat Head",
+  "dlc": "16",
+  "collectible": "Goat Head",
+  "tag": "nogreed"
+ },
+ {
+  "_pageName": "Goat Head",
+  "dlc": "31",
+  "collectible": "Goat Head",
+  "tag": "lazarussharedglobal"
+ },
+ {
+  "_pageName": "Goat Head",
+  "dlc": "31",
+  "collectible": "Goat Head",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Goat Head",
+  "dlc": "31",
+  "collectible": "Goat Head",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "God's Flesh",
+  "dlc": "30",
+  "collectible": "God's Flesh",
+  "tag": "mushroom"
+ },
+ {
+  "_pageName": "God's Flesh",
+  "dlc": "30",
+  "collectible": "God's Flesh",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "God's Flesh",
+  "dlc": "30",
+  "collectible": "God's Flesh",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Godhead",
+  "dlc": "31",
+  "collectible": "Godhead",
+  "tag": "angel"
+ },
+ {
+  "_pageName": "Godhead",
+  "dlc": "31",
+  "collectible": "Godhead",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Godhead",
+  "dlc": "31",
+  "collectible": "Godhead",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Golden Razor",
+  "dlc": "24",
+  "collectible": "Golden Razor",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Greed's Gullet",
+  "dlc": "31",
+  "collectible": "Greed's Gullet",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Greed's Gullet",
+  "dlc": "31",
+  "collectible": "Greed's Gullet",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Growth Hormones",
+  "dlc": "31",
+  "collectible": "Growth Hormones",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Growth Hormones",
+  "dlc": "31",
+  "collectible": "Growth Hormones",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Growth Hormones",
+  "dlc": "31",
+  "collectible": "Growth Hormones",
+  "tag": "syringe"
+ },
+ {
+  "_pageName": "Guardian Angel",
+  "dlc": "31",
+  "collectible": "Guardian Angel",
+  "tag": "baby"
+ },
+ {
+  "_pageName": "Guardian Angel",
+  "dlc": "31",
+  "collectible": "Guardian Angel",
+  "tag": "monstermanual"
+ },
+ {
+  "_pageName": "Guardian Angel",
+  "dlc": "31",
+  "collectible": "Guardian Angel",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Guillotine",
+  "dlc": "31",
+  "collectible": "Guillotine",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Guillotine",
+  "dlc": "31",
+  "collectible": "Guillotine",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Guillotine",
+  "dlc": "31",
+  "collectible": "Guillotine",
+  "tag": "tearsup"
+ },
+ {
+  "_pageName": "Guppy's Collar",
+  "dlc": "31",
+  "collectible": "Guppy's Collar",
+  "tag": "guppy"
+ },
+ {
+  "_pageName": "Guppy's Eye",
+  "dlc": "16",
+  "collectible": "Guppy's Eye",
+  "tag": "dead"
+ },
+ {
+  "_pageName": "Guppy's Eye",
+  "dlc": "24",
+  "collectible": "Guppy's Eye",
+  "tag": "guppy"
+ },
+ {
+  "_pageName": "Guppy's Eye",
+  "dlc": "24",
+  "collectible": "Guppy's Eye",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Guppy's Hairball",
+  "dlc": "31",
+  "collectible": "Guppy's Hairball",
+  "tag": "guppy"
+ },
+ {
+  "_pageName": "Guppy's Hairball",
+  "dlc": "31",
+  "collectible": "Guppy's Hairball",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Guppy's Hairball",
+  "dlc": "31",
+  "collectible": "Guppy's Hairball",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Guppy's Head",
+  "dlc": "31",
+  "collectible": "Guppy's Head",
+  "tag": "dead"
+ },
+ {
+  "_pageName": "Guppy's Head",
+  "dlc": "31",
+  "collectible": "Guppy's Head",
+  "tag": "guppy"
+ },
+ {
+  "_pageName": "Guppy's Head",
+  "dlc": "31",
+  "collectible": "Guppy's Head",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Guppy's Paw",
+  "dlc": "31",
+  "collectible": "Guppy's Paw",
+  "tag": "dead"
+ },
+ {
+  "_pageName": "Guppy's Paw",
+  "dlc": "31",
+  "collectible": "Guppy's Paw",
+  "tag": "guppy"
+ },
+ {
+  "_pageName": "Guppy's Paw",
+  "dlc": "31",
+  "collectible": "Guppy's Paw",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Guppy's Tail",
+  "dlc": "31",
+  "collectible": "Guppy's Tail",
+  "tag": "dead"
+ },
+ {
+  "_pageName": "Guppy's Tail",
+  "dlc": "31",
+  "collectible": "Guppy's Tail",
+  "tag": "guppy"
+ },
+ {
+  "_pageName": "Guppy's Tail",
+  "dlc": "31",
+  "collectible": "Guppy's Tail",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Guppy's Tail",
+  "dlc": "31",
+  "collectible": "Guppy's Tail",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Habit",
+  "dlc": "31",
+  "collectible": "Habit",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Habit",
+  "dlc": "31",
+  "collectible": "Habit",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Habit",
+  "dlc": "31",
+  "collectible": "Habit",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Haemolacria",
+  "dlc": "31",
+  "collectible": "Haemolacria",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Haemolacria",
+  "dlc": "31",
+  "collectible": "Haemolacria",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Hallowed Ground",
+  "dlc": "28",
+  "collectible": "Hallowed Ground",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Hallowed Ground",
+  "dlc": "28",
+  "collectible": "Hallowed Ground",
+  "tag": "poop"
+ },
+ {
+  "_pageName": "Hallowed Ground",
+  "dlc": "28",
+  "collectible": "Hallowed Ground",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Halo of Flies",
+  "dlc": "15",
+  "collectible": "Halo of Flies",
+  "tag": "monstermanual"
+ },
+ {
+  "_pageName": "Halo of Flies",
+  "dlc": "31",
+  "collectible": "Halo of Flies",
+  "tag": "fly"
+ },
+ {
+  "_pageName": "Halo of Flies",
+  "dlc": "31",
+  "collectible": "Halo of Flies",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Harlequin Baby",
+  "dlc": "31",
+  "collectible": "Harlequin Baby",
+  "tag": "baby"
+ },
+ {
+  "_pageName": "Harlequin Baby",
+  "dlc": "31",
+  "collectible": "Harlequin Baby",
+  "tag": "monstermanual"
+ },
+ {
+  "_pageName": "Harlequin Baby",
+  "dlc": "31",
+  "collectible": "Harlequin Baby",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Harlequin Baby",
+  "dlc": "31",
+  "collectible": "Harlequin Baby",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Head of Krampus",
+  "dlc": "31",
+  "collectible": "Head of Krampus",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Head of the Keeper",
+  "dlc": "31",
+  "collectible": "Head of the Keeper",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Head of the Keeper",
+  "dlc": "31",
+  "collectible": "Head of the Keeper",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Headless Baby",
+  "dlc": "31",
+  "collectible": "Headless Baby",
+  "tag": "baby"
+ },
+ {
+  "_pageName": "Headless Baby",
+  "dlc": "31",
+  "collectible": "Headless Baby",
+  "tag": "monstermanual"
+ },
+ {
+  "_pageName": "Headless Baby",
+  "dlc": "31",
+  "collectible": "Headless Baby",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Headless Baby",
+  "dlc": "31",
+  "collectible": "Headless Baby",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Heartbreak",
+  "dlc": "24",
+  "collectible": "Heartbreak",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Hemoptysis",
+  "dlc": "31",
+  "collectible": "Hemoptysis",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Hemoptysis",
+  "dlc": "31",
+  "collectible": "Hemoptysis",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Hive Mind",
+  "dlc": "31",
+  "collectible": "Hive Mind",
+  "tag": "fly"
+ },
+ {
+  "_pageName": "Hive Mind",
+  "dlc": "31",
+  "collectible": "Hive Mind",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Hive Mind",
+  "dlc": "31",
+  "collectible": "Hive Mind",
+  "tag": "spider"
+ },
+ {
+  "_pageName": "Hive Mind",
+  "dlc": "31",
+  "collectible": "Hive Mind",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Hold",
+  "dlc": "31",
+  "collectible": "Hold",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Hold",
+  "dlc": "31",
+  "collectible": "Hold",
+  "tag": "noeden"
+ },
+ {
+  "_pageName": "Holy Grail",
+  "dlc": "31",
+  "collectible": "Holy Grail",
+  "tag": "angel"
+ },
+ {
+  "_pageName": "Holy Grail",
+  "dlc": "31",
+  "collectible": "Holy Grail",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Holy Grail",
+  "dlc": "31",
+  "collectible": "Holy Grail",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Holy Light",
+  "dlc": "30",
+  "collectible": "Holy Light",
+  "tag": "angel"
+ },
+ {
+  "_pageName": "Holy Light",
+  "dlc": "30",
+  "collectible": "Holy Light",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Holy Light",
+  "dlc": "30",
+  "collectible": "Holy Light",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Holy Mantle",
+  "dlc": "31",
+  "collectible": "Holy Mantle",
+  "tag": "angel"
+ },
+ {
+  "_pageName": "Holy Mantle",
+  "dlc": "31",
+  "collectible": "Holy Mantle",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Holy Water",
+  "dlc": "31",
+  "collectible": "Holy Water",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Holy Water",
+  "dlc": "31",
+  "collectible": "Holy Water",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Host Hat",
+  "dlc": "31",
+  "collectible": "Host Hat",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Hot Bombs",
+  "dlc": "31",
+  "collectible": "Hot Bombs",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Hot Bombs",
+  "dlc": "31",
+  "collectible": "Hot Bombs",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "How to Jump",
+  "dlc": "15",
+  "collectible": "How to Jump",
+  "tag": ""
+ },
+ {
+  "_pageName": "How to Jump",
+  "dlc": "16",
+  "collectible": "How to Jump",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "How to Jump",
+  "dlc": "16",
+  "collectible": "How to Jump",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "How to Jump",
+  "dlc": "31",
+  "collectible": "How to Jump",
+  "tag": "book"
+ },
+ {
+  "_pageName": "Humbleing Bundle",
+  "dlc": "31",
+  "collectible": "Humbleing Bundle",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Humbleing Bundle",
+  "dlc": "31",
+  "collectible": "Humbleing Bundle",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Humbleing Bundle",
+  "dlc": "31",
+  "collectible": "Humbleing Bundle",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Hungry Soul",
+  "dlc": "31",
+  "collectible": "Hungry Soul",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Hungry Soul",
+  "dlc": "31",
+  "collectible": "Hungry Soul",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Hushy",
+  "dlc": "28",
+  "collectible": "Hushy",
+  "tag": "monstermanual"
+ },
+ {
+  "_pageName": "Hushy",
+  "dlc": "28",
+  "collectible": "Hushy",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Hushy",
+  "dlc": "28",
+  "collectible": "Hushy",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Hypercoagulation",
+  "dlc": "24",
+  "collectible": "Hypercoagulation",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Hypercoagulation",
+  "dlc": "24",
+  "collectible": "Hypercoagulation",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "IBS",
+  "dlc": "16",
+  "collectible": "IBS",
+  "tag": "poop"
+ },
+ {
+  "_pageName": "IBS",
+  "dlc": "24",
+  "collectible": "IBS",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "IBS",
+  "dlc": "24",
+  "collectible": "IBS",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Immaculate Conception",
+  "dlc": "31",
+  "collectible": "Immaculate Conception",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Immaculate Conception",
+  "dlc": "31",
+  "collectible": "Immaculate Conception",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Immaculate Heart",
+  "dlc": "24",
+  "collectible": "Immaculate Heart",
+  "tag": "angel"
+ },
+ {
+  "_pageName": "Immaculate Heart",
+  "dlc": "24",
+  "collectible": "Immaculate Heart",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Immaculate Heart",
+  "dlc": "24",
+  "collectible": "Immaculate Heart",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Incubus",
+  "dlc": "31",
+  "collectible": "Incubus",
+  "tag": "baby"
+ },
+ {
+  "_pageName": "Incubus",
+  "dlc": "31",
+  "collectible": "Incubus",
+  "tag": "monstermanual"
+ },
+ {
+  "_pageName": "Incubus",
+  "dlc": "31",
+  "collectible": "Incubus",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Incubus",
+  "dlc": "31",
+  "collectible": "Incubus",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Infamy",
+  "dlc": "31",
+  "collectible": "Infamy",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Infestation",
+  "dlc": "15",
+  "collectible": "Infestation",
+  "tag": ""
+ },
+ {
+  "_pageName": "Infestation",
+  "dlc": "16",
+  "collectible": "Infestation",
+  "tag": "fly"
+ },
+ {
+  "_pageName": "Infestation",
+  "dlc": "31",
+  "collectible": "Infestation",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Infestation",
+  "dlc": "31",
+  "collectible": "Infestation",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Infestation 2",
+  "dlc": "31",
+  "collectible": "Infestation 2",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Infestation 2",
+  "dlc": "31",
+  "collectible": "Infestation 2",
+  "tag": "spider"
+ },
+ {
+  "_pageName": "Infestation 2",
+  "dlc": "31",
+  "collectible": "Infestation 2",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Inner Child",
+  "dlc": "31",
+  "collectible": "Inner Child",
+  "tag": ""
+ },
+ {
+  "_pageName": "Ipecac",
+  "dlc": "31",
+  "collectible": "Ipecac",
+  "tag": "bob"
+ },
+ {
+  "_pageName": "Ipecac",
+  "dlc": "31",
+  "collectible": "Ipecac",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Ipecac",
+  "dlc": "31",
+  "collectible": "Ipecac",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Iron Bar",
+  "dlc": "31",
+  "collectible": "Iron Bar",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Iron Bar",
+  "dlc": "31",
+  "collectible": "Iron Bar",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Isaac's Heart",
+  "dlc": "31",
+  "collectible": "Isaac's Heart",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Isaac's Heart",
+  "dlc": "31",
+  "collectible": "Isaac's Heart",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Isaac's Heart",
+  "dlc": "31",
+  "collectible": "Isaac's Heart",
+  "tag": "uniquefamiliar"
+ },
+ {
+  "_pageName": "Isaac's Tears",
+  "dlc": "31",
+  "collectible": "Isaac's Tears",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Isaac's Tomb",
+  "dlc": "31",
+  "collectible": "Isaac's Tomb",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Isaac's Tomb",
+  "dlc": "31",
+  "collectible": "Isaac's Tomb",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "It Hurts",
+  "dlc": "15",
+  "collectible": "It Hurts",
+  "tag": ""
+ },
+ {
+  "_pageName": "It Hurts",
+  "dlc": "16",
+  "collectible": "It Hurts",
+  "tag": "tearsup"
+ },
+ {
+  "_pageName": "It Hurts",
+  "dlc": "31",
+  "collectible": "It Hurts",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "It Hurts",
+  "dlc": "31",
+  "collectible": "It Hurts",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "IV Bag",
+  "dlc": "31",
+  "collectible": "IV Bag",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Jacob's Ladder",
+  "dlc": "28",
+  "collectible": "Jacob's Ladder",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Jacob's Ladder",
+  "dlc": "28",
+  "collectible": "Jacob's Ladder",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Jar of Flies",
+  "dlc": "31",
+  "collectible": "Jar of Flies",
+  "tag": "fly"
+ },
+ {
+  "_pageName": "Jar of Flies",
+  "dlc": "31",
+  "collectible": "Jar of Flies",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Jar of Flies",
+  "dlc": "31",
+  "collectible": "Jar of Flies",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Jar of Wisps",
+  "dlc": "31",
+  "collectible": "Jar of Wisps",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Jaw Bone",
+  "dlc": "28",
+  "collectible": "Jaw Bone",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Jaw Bone",
+  "dlc": "28",
+  "collectible": "Jaw Bone",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Jesus Juice",
+  "dlc": "31",
+  "collectible": "Jesus Juice",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Jesus Juice",
+  "dlc": "31",
+  "collectible": "Jesus Juice",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Judas' Shadow",
+  "dlc": "31",
+  "collectible": "Judas' Shadow",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Judas' Shadow",
+  "dlc": "31",
+  "collectible": "Judas' Shadow",
+  "tag": "nochallenge"
+ },
+ {
+  "_pageName": "Judas' Shadow",
+  "dlc": "31",
+  "collectible": "Judas' Shadow",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Juicy Sack",
+  "dlc": "31",
+  "collectible": "Juicy Sack",
+  "tag": "monstermanual"
+ },
+ {
+  "_pageName": "Juicy Sack",
+  "dlc": "31",
+  "collectible": "Juicy Sack",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Juicy Sack",
+  "dlc": "31",
+  "collectible": "Juicy Sack",
+  "tag": "spider"
+ },
+ {
+  "_pageName": "Juicy Sack",
+  "dlc": "31",
+  "collectible": "Juicy Sack",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Jumper Cables",
+  "dlc": "28",
+  "collectible": "Jumper Cables",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Jumper Cables",
+  "dlc": "28",
+  "collectible": "Jumper Cables",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Jumper Cables",
+  "dlc": "28",
+  "collectible": "Jumper Cables",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Jupiter",
+  "dlc": "24",
+  "collectible": "Jupiter",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Jupiter",
+  "dlc": "24",
+  "collectible": "Jupiter",
+  "tag": "stars"
+ },
+ {
+  "_pageName": "Jupiter",
+  "dlc": "24",
+  "collectible": "Jupiter",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Kamikaze!",
+  "dlc": "31",
+  "collectible": "Kamikaze!",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Keeper's Box",
+  "dlc": "24",
+  "collectible": "Keeper's Box",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Keeper's Kin",
+  "dlc": "24",
+  "collectible": "Keeper's Kin",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Keeper's Kin",
+  "dlc": "24",
+  "collectible": "Keeper's Kin",
+  "tag": "spider"
+ },
+ {
+  "_pageName": "Keeper's Kin",
+  "dlc": "24",
+  "collectible": "Keeper's Kin",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Keeper's Sack",
+  "dlc": "31",
+  "collectible": "Keeper's Sack",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Keeper's Sack",
+  "dlc": "31",
+  "collectible": "Keeper's Sack",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Key Bum",
+  "dlc": "30",
+  "collectible": "Key Bum",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Key Bum",
+  "dlc": "30",
+  "collectible": "Key Bum",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Key Piece 1",
+  "dlc": "31",
+  "collectible": "Key Piece 1",
+  "tag": "lazarusshared"
+ },
+ {
+  "_pageName": "Key Piece 1",
+  "dlc": "31",
+  "collectible": "Key Piece 1",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Key Piece 1",
+  "dlc": "31",
+  "collectible": "Key Piece 1",
+  "tag": "noeden"
+ },
+ {
+  "_pageName": "Key Piece 1",
+  "dlc": "31",
+  "collectible": "Key Piece 1",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Key Piece 1",
+  "dlc": "31",
+  "collectible": "Key Piece 1",
+  "tag": "quest"
+ },
+ {
+  "_pageName": "Key Piece 1",
+  "dlc": "31",
+  "collectible": "Key Piece 1",
+  "tag": "uniquefamiliar"
+ },
+ {
+  "_pageName": "Key Piece 2",
+  "dlc": "31",
+  "collectible": "Key Piece 2",
+  "tag": "lazarusshared"
+ },
+ {
+  "_pageName": "Key Piece 2",
+  "dlc": "31",
+  "collectible": "Key Piece 2",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Key Piece 2",
+  "dlc": "31",
+  "collectible": "Key Piece 2",
+  "tag": "noeden"
+ },
+ {
+  "_pageName": "Key Piece 2",
+  "dlc": "31",
+  "collectible": "Key Piece 2",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Key Piece 2",
+  "dlc": "31",
+  "collectible": "Key Piece 2",
+  "tag": "quest"
+ },
+ {
+  "_pageName": "Key Piece 2",
+  "dlc": "31",
+  "collectible": "Key Piece 2",
+  "tag": "uniquefamiliar"
+ },
+ {
+  "_pageName": "Kidney Bean",
+  "dlc": "31",
+  "collectible": "Kidney Bean",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Kidney Stone",
+  "dlc": "30",
+  "collectible": "Kidney Stone",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Kidney Stone",
+  "dlc": "30",
+  "collectible": "Kidney Stone",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "King Baby",
+  "dlc": "31",
+  "collectible": "King Baby",
+  "tag": "baby"
+ },
+ {
+  "_pageName": "King Baby",
+  "dlc": "31",
+  "collectible": "King Baby",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "King Baby",
+  "dlc": "31",
+  "collectible": "King Baby",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Knife Piece 1",
+  "dlc": "31",
+  "collectible": "Knife Piece 1",
+  "tag": "lazarusshared"
+ },
+ {
+  "_pageName": "Knife Piece 1",
+  "dlc": "31",
+  "collectible": "Knife Piece 1",
+  "tag": "noeden"
+ },
+ {
+  "_pageName": "Knife Piece 1",
+  "dlc": "31",
+  "collectible": "Knife Piece 1",
+  "tag": "quest"
+ },
+ {
+  "_pageName": "Knife Piece 1",
+  "dlc": "31",
+  "collectible": "Knife Piece 1",
+  "tag": "uniquefamiliar"
+ },
+ {
+  "_pageName": "Knife Piece 2",
+  "dlc": "31",
+  "collectible": "Knife Piece 2",
+  "tag": "lazarusshared"
+ },
+ {
+  "_pageName": "Knife Piece 2",
+  "dlc": "31",
+  "collectible": "Knife Piece 2",
+  "tag": "noeden"
+ },
+ {
+  "_pageName": "Knife Piece 2",
+  "dlc": "31",
+  "collectible": "Knife Piece 2",
+  "tag": "quest"
+ },
+ {
+  "_pageName": "Knife Piece 2",
+  "dlc": "31",
+  "collectible": "Knife Piece 2",
+  "tag": "uniquefamiliar"
+ },
+ {
+  "_pageName": "Knockout Drops",
+  "dlc": "31",
+  "collectible": "Knockout Drops",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Knockout Drops",
+  "dlc": "31",
+  "collectible": "Knockout Drops",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Lachryphagy",
+  "dlc": "28",
+  "collectible": "Lachryphagy",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Lachryphagy",
+  "dlc": "28",
+  "collectible": "Lachryphagy",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Large Zit",
+  "dlc": "28",
+  "collectible": "Large Zit",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Large Zit",
+  "dlc": "28",
+  "collectible": "Large Zit",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Larynx",
+  "dlc": "24",
+  "collectible": "Larynx",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Latch Key",
+  "dlc": "31",
+  "collectible": "Latch Key",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Latch Key",
+  "dlc": "31",
+  "collectible": "Latch Key",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Lazarus' Rags",
+  "dlc": "31",
+  "collectible": "Lazarus' Rags",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Lazarus' Rags",
+  "dlc": "31",
+  "collectible": "Lazarus' Rags",
+  "tag": "nochallenge"
+ },
+ {
+  "_pageName": "Lazarus' Rags",
+  "dlc": "31",
+  "collectible": "Lazarus' Rags",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Lead Pencil",
+  "dlc": "28",
+  "collectible": "Lead Pencil",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Lead Pencil",
+  "dlc": "28",
+  "collectible": "Lead Pencil",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Leech",
+  "dlc": "31",
+  "collectible": "Leech",
+  "tag": "monstermanual"
+ },
+ {
+  "_pageName": "Leech",
+  "dlc": "31",
+  "collectible": "Leech",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Leech",
+  "dlc": "31",
+  "collectible": "Leech",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Lemegeton",
+  "dlc": "31",
+  "collectible": "Lemegeton",
+  "tag": "book"
+ },
+ {
+  "_pageName": "Lemegeton",
+  "dlc": "31",
+  "collectible": "Lemegeton",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Lemon Mishap",
+  "dlc": "31",
+  "collectible": "Lemon Mishap",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Leo",
+  "dlc": "31",
+  "collectible": "Leo",
+  "tag": "stars"
+ },
+ {
+  "_pageName": "Leo",
+  "dlc": "31",
+  "collectible": "Leo",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Leprosy",
+  "dlc": "31",
+  "collectible": "Leprosy",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Leprosy",
+  "dlc": "31",
+  "collectible": "Leprosy",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Less Than Three",
+  "dlc": "31",
+  "collectible": "<3",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Libra",
+  "dlc": "31",
+  "collectible": "Libra",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Libra",
+  "dlc": "31",
+  "collectible": "Libra",
+  "tag": "stars"
+ },
+ {
+  "_pageName": "Libra",
+  "dlc": "31",
+  "collectible": "Libra",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Lil Abaddon",
+  "dlc": "24",
+  "collectible": "Lil Abaddon",
+  "tag": "baby"
+ },
+ {
+  "_pageName": "Lil Abaddon",
+  "dlc": "24",
+  "collectible": "Lil Abaddon",
+  "tag": "monstermanual"
+ },
+ {
+  "_pageName": "Lil Abaddon",
+  "dlc": "24",
+  "collectible": "Lil Abaddon",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Lil Abaddon",
+  "dlc": "24",
+  "collectible": "Lil Abaddon",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Lil Brimstone",
+  "dlc": "31",
+  "collectible": "Lil Brimstone",
+  "tag": "baby"
+ },
+ {
+  "_pageName": "Lil Brimstone",
+  "dlc": "31",
+  "collectible": "Lil Brimstone",
+  "tag": "monstermanual"
+ },
+ {
+  "_pageName": "Lil Brimstone",
+  "dlc": "31",
+  "collectible": "Lil Brimstone",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Lil Brimstone",
+  "dlc": "31",
+  "collectible": "Lil Brimstone",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Lil Chest",
+  "dlc": "31",
+  "collectible": "Lil Chest",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Lil Chest",
+  "dlc": "31",
+  "collectible": "Lil Chest",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Lil Delirium",
+  "dlc": "16",
+  "collectible": "Lil Delirium",
+  "tag": "baby"
+ },
+ {
+  "_pageName": "Lil Delirium",
+  "dlc": "28",
+  "collectible": "Lil Delirium",
+  "tag": "monstermanual"
+ },
+ {
+  "_pageName": "Lil Delirium",
+  "dlc": "28",
+  "collectible": "Lil Delirium",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Lil Delirium",
+  "dlc": "28",
+  "collectible": "Lil Delirium",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Lil Dumpy",
+  "dlc": "16",
+  "collectible": "Lil Dumpy",
+  "tag": "monstermanual"
+ },
+ {
+  "_pageName": "Lil Dumpy",
+  "dlc": "24",
+  "collectible": "Lil Dumpy",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Lil Gurdy",
+  "dlc": "31",
+  "collectible": "Lil Gurdy",
+  "tag": "monstermanual"
+ },
+ {
+  "_pageName": "Lil Gurdy",
+  "dlc": "31",
+  "collectible": "Lil Gurdy",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Lil Gurdy",
+  "dlc": "31",
+  "collectible": "Lil Gurdy",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Lil Haunt",
+  "dlc": "31",
+  "collectible": "Lil Haunt",
+  "tag": "monstermanual"
+ },
+ {
+  "_pageName": "Lil Haunt",
+  "dlc": "31",
+  "collectible": "Lil Haunt",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Lil Haunt",
+  "dlc": "31",
+  "collectible": "Lil Haunt",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Lil Loki",
+  "dlc": "31",
+  "collectible": "Lil Loki",
+  "tag": "baby"
+ },
+ {
+  "_pageName": "Lil Loki",
+  "dlc": "31",
+  "collectible": "Lil Loki",
+  "tag": "monstermanual"
+ },
+ {
+  "_pageName": "Lil Loki",
+  "dlc": "31",
+  "collectible": "Lil Loki",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Lil Loki",
+  "dlc": "31",
+  "collectible": "Lil Loki",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Lil Monstro",
+  "dlc": "31",
+  "collectible": "Lil Monstro",
+  "tag": "monstermanual"
+ },
+ {
+  "_pageName": "Lil Monstro",
+  "dlc": "31",
+  "collectible": "Lil Monstro",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Lil Monstro",
+  "dlc": "31",
+  "collectible": "Lil Monstro",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Lil Portal",
+  "dlc": "24",
+  "collectible": "Lil Portal",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Lil Portal",
+  "dlc": "24",
+  "collectible": "Lil Portal",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Lil Spewer",
+  "dlc": "31",
+  "collectible": "Lil Spewer",
+  "tag": "monstermanual"
+ },
+ {
+  "_pageName": "Lil Spewer",
+  "dlc": "31",
+  "collectible": "Lil Spewer",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Lil Spewer",
+  "dlc": "31",
+  "collectible": "Lil Spewer",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Linger Bean",
+  "dlc": "28",
+  "collectible": "Linger Bean",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Linger Bean",
+  "dlc": "28",
+  "collectible": "Linger Bean",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Little Baggy",
+  "dlc": "31",
+  "collectible": "Little Baggy",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Little Baggy",
+  "dlc": "31",
+  "collectible": "Little Baggy",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Little Baggy",
+  "dlc": "31",
+  "collectible": "Little Baggy",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Little C.H.A.D.",
+  "dlc": "31",
+  "collectible": "Little C.H.A.D.",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Little C.H.A.D.",
+  "dlc": "31",
+  "collectible": "Little C.H.A.D.",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Little C.H.A.D.",
+  "dlc": "31",
+  "collectible": "Little C.H.A.D.",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Little Chubby",
+  "dlc": "31",
+  "collectible": "Little Chubby",
+  "tag": "monstermanual"
+ },
+ {
+  "_pageName": "Little Chubby",
+  "dlc": "31",
+  "collectible": "Little Chubby",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Little Chubby",
+  "dlc": "31",
+  "collectible": "Little Chubby",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Little Gish",
+  "dlc": "31",
+  "collectible": "Little Gish",
+  "tag": "monstermanual"
+ },
+ {
+  "_pageName": "Little Gish",
+  "dlc": "31",
+  "collectible": "Little Gish",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Little Gish",
+  "dlc": "31",
+  "collectible": "Little Gish",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Little Horn (Item)",
+  "dlc": "31",
+  "collectible": "Little Horn",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Little Horn (Item)",
+  "dlc": "31",
+  "collectible": "Little Horn",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Little Steven",
+  "dlc": "31",
+  "collectible": "Little Steven",
+  "tag": "baby"
+ },
+ {
+  "_pageName": "Little Steven",
+  "dlc": "31",
+  "collectible": "Little Steven",
+  "tag": "monstermanual"
+ },
+ {
+  "_pageName": "Little Steven",
+  "dlc": "31",
+  "collectible": "Little Steven",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Little Steven",
+  "dlc": "31",
+  "collectible": "Little Steven",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Lodestone",
+  "dlc": "31",
+  "collectible": "Lodestone",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Lodestone",
+  "dlc": "31",
+  "collectible": "Lodestone",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Loki's Horns",
+  "dlc": "31",
+  "collectible": "Loki's Horns",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Loki's Horns",
+  "dlc": "31",
+  "collectible": "Loki's Horns",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Lord of the Pit",
+  "dlc": "31",
+  "collectible": "Lord of the Pit",
+  "tag": "devil"
+ },
+ {
+  "_pageName": "Lord of the Pit",
+  "dlc": "31",
+  "collectible": "Lord of the Pit",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Lord of the Pit",
+  "dlc": "31",
+  "collectible": "Lord of the Pit",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Lost Contact",
+  "dlc": "31",
+  "collectible": "Lost Contact",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Lost Contact",
+  "dlc": "31",
+  "collectible": "Lost Contact",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Lost Fly",
+  "dlc": "30",
+  "collectible": "Lost Fly",
+  "tag": "fly"
+ },
+ {
+  "_pageName": "Lost Fly",
+  "dlc": "30",
+  "collectible": "Lost Fly",
+  "tag": "monstermanual"
+ },
+ {
+  "_pageName": "Lost Fly",
+  "dlc": "30",
+  "collectible": "Lost Fly",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Lost Fly",
+  "dlc": "30",
+  "collectible": "Lost Fly",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Lost Soul",
+  "dlc": "15",
+  "collectible": "Lost Soul",
+  "tag": ""
+ },
+ {
+  "_pageName": "Lost Soul",
+  "dlc": "16",
+  "collectible": "Lost Soul",
+  "tag": "uniquefamiliar"
+ },
+ {
+  "_pageName": "Lost Soul",
+  "dlc": "31",
+  "collectible": "Lost Soul",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Lost Soul",
+  "dlc": "31",
+  "collectible": "Lost Soul",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Lucky Foot",
+  "dlc": "31",
+  "collectible": "Lucky Foot",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Lucky Foot",
+  "dlc": "31",
+  "collectible": "Lucky Foot",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Luna",
+  "dlc": "24",
+  "collectible": "Luna",
+  "tag": "lazarussharedglobal"
+ },
+ {
+  "_pageName": "Luna",
+  "dlc": "24",
+  "collectible": "Luna",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Luna",
+  "dlc": "24",
+  "collectible": "Luna",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Luna",
+  "dlc": "24",
+  "collectible": "Luna",
+  "tag": "stars"
+ },
+ {
+  "_pageName": "Luna",
+  "dlc": "24",
+  "collectible": "Luna",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Lunch",
+  "dlc": "31",
+  "collectible": "Lunch",
+  "tag": "food"
+ },
+ {
+  "_pageName": "Lunch",
+  "dlc": "31",
+  "collectible": "Lunch",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Lunch",
+  "dlc": "31",
+  "collectible": "Lunch",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Lusty Blood",
+  "dlc": "31",
+  "collectible": "Lusty Blood",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Lusty Blood",
+  "dlc": "31",
+  "collectible": "Lusty Blood",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Maggy's Bow",
+  "dlc": "31",
+  "collectible": "Maggy's Bow",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Maggy's Bow",
+  "dlc": "31",
+  "collectible": "Maggy's Bow",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Magic 8 Ball",
+  "dlc": "31",
+  "collectible": "Magic 8 Ball",
+  "tag": "lazarussharedglobal"
+ },
+ {
+  "_pageName": "Magic 8 Ball",
+  "dlc": "31",
+  "collectible": "Magic 8 Ball",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Magic 8 Ball",
+  "dlc": "31",
+  "collectible": "Magic 8 Ball",
+  "tag": "stars"
+ },
+ {
+  "_pageName": "Magic 8 Ball",
+  "dlc": "31",
+  "collectible": "Magic 8 Ball",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Magic Fingers",
+  "dlc": "31",
+  "collectible": "Magic Fingers",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Magic Mushroom",
+  "dlc": "31",
+  "collectible": "Magic Mushroom",
+  "tag": "mushroom"
+ },
+ {
+  "_pageName": "Magic Mushroom",
+  "dlc": "31",
+  "collectible": "Magic Mushroom",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Magic Mushroom",
+  "dlc": "31",
+  "collectible": "Magic Mushroom",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Magic Scab",
+  "dlc": "31",
+  "collectible": "Magic Scab",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Magic Skin",
+  "dlc": "24",
+  "collectible": "Magic Skin",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Magic Skin",
+  "dlc": "24",
+  "collectible": "Magic Skin",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Magneto",
+  "dlc": "31",
+  "collectible": "Magneto",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Mama Mega!",
+  "dlc": "28",
+  "collectible": "Mama Mega!",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Marbles",
+  "dlc": "28",
+  "collectible": "Marbles",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Marked",
+  "dlc": "30",
+  "collectible": "Marked",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Marked",
+  "dlc": "30",
+  "collectible": "Marked",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Marked",
+  "dlc": "30",
+  "collectible": "Marked",
+  "tag": "tearsup"
+ },
+ {
+  "_pageName": "Marrow",
+  "dlc": "31",
+  "collectible": "Marrow",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Mars",
+  "dlc": "24",
+  "collectible": "Mars",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Mars",
+  "dlc": "24",
+  "collectible": "Mars",
+  "tag": "stars"
+ },
+ {
+  "_pageName": "Mars",
+  "dlc": "24",
+  "collectible": "Mars",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Match Book",
+  "dlc": "31",
+  "collectible": "Match Book",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Maw Of The Void",
+  "dlc": "30",
+  "collectible": "Maw Of The Void",
+  "tag": "devil"
+ },
+ {
+  "_pageName": "Maw Of The Void",
+  "dlc": "30",
+  "collectible": "Maw Of The Void",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Maw Of The Void",
+  "dlc": "30",
+  "collectible": "Maw Of The Void",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Meat Cleaver",
+  "dlc": "31",
+  "collectible": "Meat Cleaver",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "MEAT!",
+  "dlc": "31",
+  "collectible": "MEAT!",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "MEAT!",
+  "dlc": "31",
+  "collectible": "MEAT!",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Mega Bean",
+  "dlc": "30",
+  "collectible": "Mega Bean",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Mega Blast",
+  "dlc": "30",
+  "collectible": "Mega Blast",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Mega Mush",
+  "dlc": "24",
+  "collectible": "Mega Mush",
+  "tag": "mushroom"
+ },
+ {
+  "_pageName": "Mega Mush",
+  "dlc": "24",
+  "collectible": "Mega Mush",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Member Card",
+  "dlc": "16",
+  "collectible": "Member Card",
+  "tag": "lazarussharedglobal"
+ },
+ {
+  "_pageName": "Member Card",
+  "dlc": "24",
+  "collectible": "Member Card",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Member Card",
+  "dlc": "24",
+  "collectible": "Member Card",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Mercurius",
+  "dlc": "31",
+  "collectible": "Mercurius",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Mercurius",
+  "dlc": "31",
+  "collectible": "Mercurius",
+  "tag": "stars"
+ },
+ {
+  "_pageName": "Mercurius",
+  "dlc": "31",
+  "collectible": "Mercurius",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Metal Plate",
+  "dlc": "28",
+  "collectible": "Metal Plate",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Metronome",
+  "dlc": "31",
+  "collectible": "Metronome",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Midas' Touch",
+  "dlc": "31",
+  "collectible": "Midas' Touch",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Midas' Touch",
+  "dlc": "31",
+  "collectible": "Midas' Touch",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Midnight Snack",
+  "dlc": "31",
+  "collectible": "Midnight Snack",
+  "tag": "food"
+ },
+ {
+  "_pageName": "Midnight Snack",
+  "dlc": "31",
+  "collectible": "Midnight Snack",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Milk!",
+  "dlc": "16",
+  "collectible": "Milk!",
+  "tag": "tearsup"
+ },
+ {
+  "_pageName": "Milk!",
+  "dlc": "30",
+  "collectible": "Milk!",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Milk!",
+  "dlc": "30",
+  "collectible": "Milk!",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Milk!",
+  "dlc": "30",
+  "collectible": "Milk!",
+  "tag": "uniquefamiliar"
+ },
+ {
+  "_pageName": "Mine Crafter",
+  "dlc": "30",
+  "collectible": "Mine Crafter",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Mini Mush",
+  "dlc": "31",
+  "collectible": "Mini Mush",
+  "tag": "mushroom"
+ },
+ {
+  "_pageName": "Mini Mush",
+  "dlc": "31",
+  "collectible": "Mini Mush",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Mini Mush",
+  "dlc": "31",
+  "collectible": "Mini Mush",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Missing No.",
+  "dlc": "31",
+  "collectible": "Missing No.",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Missing No.",
+  "dlc": "31",
+  "collectible": "Missing No.",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Missing No.",
+  "dlc": "31",
+  "collectible": "Missing No.",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Missing Page 2",
+  "dlc": "31",
+  "collectible": "Missing Page 2",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Missing Page 2",
+  "dlc": "31",
+  "collectible": "Missing Page 2",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Mitre",
+  "dlc": "31",
+  "collectible": "Mitre",
+  "tag": "angel"
+ },
+ {
+  "_pageName": "Mitre",
+  "dlc": "31",
+  "collectible": "Mitre",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Mom's Bottle of Pills",
+  "dlc": "31",
+  "collectible": "Mom's Bottle of Pills",
+  "tag": "mom"
+ },
+ {
+  "_pageName": "Mom's Bottle of Pills",
+  "dlc": "31",
+  "collectible": "Mom's Bottle of Pills",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Mom's Bottle of Pills",
+  "dlc": "31",
+  "collectible": "Mom's Bottle of Pills",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Mom's Box",
+  "dlc": "31",
+  "collectible": "Mom's Box",
+  "tag": "mom"
+ },
+ {
+  "_pageName": "Mom's Box",
+  "dlc": "31",
+  "collectible": "Mom's Box",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Mom's Bra",
+  "dlc": "31",
+  "collectible": "Mom's Bra",
+  "tag": "mom"
+ },
+ {
+  "_pageName": "Mom's Bra",
+  "dlc": "31",
+  "collectible": "Mom's Bra",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Mom's Bracelet",
+  "dlc": "24",
+  "collectible": "Mom's Bracelet",
+  "tag": "mom"
+ },
+ {
+  "_pageName": "Mom's Bracelet",
+  "dlc": "24",
+  "collectible": "Mom's Bracelet",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Mom's Coin Purse",
+  "dlc": "31",
+  "collectible": "Mom's Coin Purse",
+  "tag": "mom"
+ },
+ {
+  "_pageName": "Mom's Coin Purse",
+  "dlc": "31",
+  "collectible": "Mom's Coin Purse",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Mom's Coin Purse",
+  "dlc": "31",
+  "collectible": "Mom's Coin Purse",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Mom's Contacts",
+  "dlc": "31",
+  "collectible": "Mom's Contacts",
+  "tag": "mom"
+ },
+ {
+  "_pageName": "Mom's Contacts",
+  "dlc": "31",
+  "collectible": "Mom's Contacts",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Mom's Contacts",
+  "dlc": "31",
+  "collectible": "Mom's Contacts",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Mom's Eye",
+  "dlc": "31",
+  "collectible": "Mom's Eye",
+  "tag": "mom"
+ },
+ {
+  "_pageName": "Mom's Eye",
+  "dlc": "31",
+  "collectible": "Mom's Eye",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Mom's Eye",
+  "dlc": "31",
+  "collectible": "Mom's Eye",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Mom's Eyeshadow",
+  "dlc": "31",
+  "collectible": "Mom's Eyeshadow",
+  "tag": "mom"
+ },
+ {
+  "_pageName": "Mom's Eyeshadow",
+  "dlc": "31",
+  "collectible": "Mom's Eyeshadow",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Mom's Eyeshadow",
+  "dlc": "31",
+  "collectible": "Mom's Eyeshadow",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Mom's Heels",
+  "dlc": "31",
+  "collectible": "Mom's Heels",
+  "tag": "mom"
+ },
+ {
+  "_pageName": "Mom's Heels",
+  "dlc": "31",
+  "collectible": "Mom's Heels",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Mom's Heels",
+  "dlc": "31",
+  "collectible": "Mom's Heels",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Mom's Key",
+  "dlc": "31",
+  "collectible": "Mom's Key",
+  "tag": "mom"
+ },
+ {
+  "_pageName": "Mom's Key",
+  "dlc": "31",
+  "collectible": "Mom's Key",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Mom's Key",
+  "dlc": "31",
+  "collectible": "Mom's Key",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Mom's Knife",
+  "dlc": "31",
+  "collectible": "Mom's Knife",
+  "tag": "mom"
+ },
+ {
+  "_pageName": "Mom's Knife",
+  "dlc": "31",
+  "collectible": "Mom's Knife",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Mom's Knife",
+  "dlc": "31",
+  "collectible": "Mom's Knife",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Mom's Lipstick",
+  "dlc": "31",
+  "collectible": "Mom's Lipstick",
+  "tag": "mom"
+ },
+ {
+  "_pageName": "Mom's Lipstick",
+  "dlc": "31",
+  "collectible": "Mom's Lipstick",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Mom's Lipstick",
+  "dlc": "31",
+  "collectible": "Mom's Lipstick",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Mom's Pad",
+  "dlc": "31",
+  "collectible": "Mom's Pad",
+  "tag": "mom"
+ },
+ {
+  "_pageName": "Mom's Pad",
+  "dlc": "31",
+  "collectible": "Mom's Pad",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Mom's Pearls",
+  "dlc": "30",
+  "collectible": "Mom's Pearls",
+  "tag": "mom"
+ },
+ {
+  "_pageName": "Mom's Pearls",
+  "dlc": "30",
+  "collectible": "Mom's Pearls",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Mom's Pearls",
+  "dlc": "30",
+  "collectible": "Mom's Pearls",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Mom's Perfume",
+  "dlc": "31",
+  "collectible": "Mom's Perfume",
+  "tag": "mom"
+ },
+ {
+  "_pageName": "Mom's Perfume",
+  "dlc": "31",
+  "collectible": "Mom's Perfume",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Mom's Perfume",
+  "dlc": "31",
+  "collectible": "Mom's Perfume",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Mom's Perfume",
+  "dlc": "31",
+  "collectible": "Mom's Perfume",
+  "tag": "tearsup"
+ },
+ {
+  "_pageName": "Mom's Purse",
+  "dlc": "31",
+  "collectible": "Mom's Purse",
+  "tag": "mom"
+ },
+ {
+  "_pageName": "Mom's Purse",
+  "dlc": "31",
+  "collectible": "Mom's Purse",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Mom's Purse",
+  "dlc": "31",
+  "collectible": "Mom's Purse",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Mom's Purse",
+  "dlc": "31",
+  "collectible": "Mom's Purse",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Mom's Razor",
+  "dlc": "28",
+  "collectible": "Mom's Razor",
+  "tag": "mom"
+ },
+ {
+  "_pageName": "Mom's Razor",
+  "dlc": "28",
+  "collectible": "Mom's Razor",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Mom's Ring",
+  "dlc": "31",
+  "collectible": "Mom's Ring",
+  "tag": "mom"
+ },
+ {
+  "_pageName": "Mom's Ring",
+  "dlc": "31",
+  "collectible": "Mom's Ring",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Mom's Shovel",
+  "dlc": "28",
+  "collectible": "Mom's Shovel",
+  "tag": "lazarussharedglobal"
+ },
+ {
+  "_pageName": "Mom's Shovel",
+  "dlc": "28",
+  "collectible": "Mom's Shovel",
+  "tag": "mom"
+ },
+ {
+  "_pageName": "Mom's Shovel",
+  "dlc": "28",
+  "collectible": "Mom's Shovel",
+  "tag": "noeden"
+ },
+ {
+  "_pageName": "Mom's Shovel",
+  "dlc": "28",
+  "collectible": "Mom's Shovel",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Mom's Shovel",
+  "dlc": "28",
+  "collectible": "Mom's Shovel",
+  "tag": "quest"
+ },
+ {
+  "_pageName": "Mom's Underwear",
+  "dlc": "31",
+  "collectible": "Mom's Underwear",
+  "tag": "mom"
+ },
+ {
+  "_pageName": "Mom's Underwear",
+  "dlc": "31",
+  "collectible": "Mom's Underwear",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Mom's Underwear",
+  "dlc": "31",
+  "collectible": "Mom's Underwear",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Mom's Wig",
+  "dlc": "31",
+  "collectible": "Mom's Wig",
+  "tag": "mom"
+ },
+ {
+  "_pageName": "Mom's Wig",
+  "dlc": "31",
+  "collectible": "Mom's Wig",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Mom's Wig",
+  "dlc": "31",
+  "collectible": "Mom's Wig",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Money = Power",
+  "dlc": "31",
+  "collectible": "Money Power",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Money = Power",
+  "dlc": "31",
+  "collectible": "Money Power",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Mongo Baby",
+  "dlc": "31",
+  "collectible": "Mongo Baby",
+  "tag": "baby"
+ },
+ {
+  "_pageName": "Mongo Baby",
+  "dlc": "31",
+  "collectible": "Mongo Baby",
+  "tag": "monstermanual"
+ },
+ {
+  "_pageName": "Mongo Baby",
+  "dlc": "31",
+  "collectible": "Mongo Baby",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Mongo Baby",
+  "dlc": "31",
+  "collectible": "Mongo Baby",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Monster Manual",
+  "dlc": "31",
+  "collectible": "Monster Manual",
+  "tag": "book"
+ },
+ {
+  "_pageName": "Monster Manual",
+  "dlc": "31",
+  "collectible": "Monster Manual",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Monstrance",
+  "dlc": "31",
+  "collectible": "Monstrance",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Monstrance",
+  "dlc": "31",
+  "collectible": "Monstrance",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Monstro's Lung",
+  "dlc": "31",
+  "collectible": "Monstro's Lung",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Monstro's Lung",
+  "dlc": "31",
+  "collectible": "Monstro's Lung",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Monstro's Tooth",
+  "dlc": "31",
+  "collectible": "Monstro's Tooth",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Montezuma's Revenge",
+  "dlc": "31",
+  "collectible": "Montezuma's Revenge",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Montezuma's Revenge",
+  "dlc": "31",
+  "collectible": "Montezuma's Revenge",
+  "tag": "poop"
+ },
+ {
+  "_pageName": "Montezuma's Revenge",
+  "dlc": "31",
+  "collectible": "Montezuma's Revenge",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "More Options",
+  "dlc": "30",
+  "collectible": "More Options",
+  "tag": "lazarussharedglobal"
+ },
+ {
+  "_pageName": "More Options",
+  "dlc": "30",
+  "collectible": "More Options",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "More Options",
+  "dlc": "30",
+  "collectible": "More Options",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "More Options",
+  "dlc": "30",
+  "collectible": "More Options",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Moving Box",
+  "dlc": "31",
+  "collectible": "Moving Box",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Moving Box",
+  "dlc": "31",
+  "collectible": "Moving Box",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Mr. Boom",
+  "dlc": "31",
+  "collectible": "Mr. Boom",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Mr. Dolly",
+  "dlc": "31",
+  "collectible": "Mr. Dolly",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Mr. Dolly",
+  "dlc": "31",
+  "collectible": "Mr. Dolly",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Mr. Dolly",
+  "dlc": "31",
+  "collectible": "Mr. Dolly",
+  "tag": "tearsup"
+ },
+ {
+  "_pageName": "Mr. ME!",
+  "dlc": "28",
+  "collectible": "Mr. ME!",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Mr. Mega",
+  "dlc": "31",
+  "collectible": "Mr. Mega",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Mucormycosis",
+  "dlc": "31",
+  "collectible": "Mucormycosis",
+  "tag": "mushroom"
+ },
+ {
+  "_pageName": "Mucormycosis",
+  "dlc": "31",
+  "collectible": "Mucormycosis",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Multidimensional Baby",
+  "dlc": "15",
+  "collectible": "Multidimensional Baby",
+  "tag": ""
+ },
+ {
+  "_pageName": "Multidimensional Baby",
+  "dlc": "16",
+  "collectible": "Multidimensional Baby",
+  "tag": "monstermanual"
+ },
+ {
+  "_pageName": "Multidimensional Baby",
+  "dlc": "31",
+  "collectible": "Multidimensional Baby",
+  "tag": "baby"
+ },
+ {
+  "_pageName": "Multidimensional Baby",
+  "dlc": "31",
+  "collectible": "Multidimensional Baby",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Multidimensional Baby",
+  "dlc": "31",
+  "collectible": "Multidimensional Baby",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Mutant Spider",
+  "dlc": "31",
+  "collectible": "Mutant Spider",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Mutant Spider",
+  "dlc": "31",
+  "collectible": "Mutant Spider",
+  "tag": "spider"
+ },
+ {
+  "_pageName": "Mutant Spider",
+  "dlc": "31",
+  "collectible": "Mutant Spider",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "My Little Unicorn",
+  "dlc": "31",
+  "collectible": "My Little Unicorn",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "My Reflection",
+  "dlc": "31",
+  "collectible": "My Reflection",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "My Reflection",
+  "dlc": "31",
+  "collectible": "My Reflection",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "My Shadow",
+  "dlc": "31",
+  "collectible": "My Shadow",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "My Shadow",
+  "dlc": "31",
+  "collectible": "My Shadow",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Mysterious Liquid",
+  "dlc": "31",
+  "collectible": "Mysterious Liquid",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Mysterious Liquid",
+  "dlc": "31",
+  "collectible": "Mysterious Liquid",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Mystery Egg",
+  "dlc": "28",
+  "collectible": "Mystery Egg",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Mystery Egg",
+  "dlc": "28",
+  "collectible": "Mystery Egg",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Mystery Gift",
+  "dlc": "31",
+  "collectible": "Mystery Gift",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Mystery Gift",
+  "dlc": "31",
+  "collectible": "Mystery Gift",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Mystery Sack",
+  "dlc": "31",
+  "collectible": "Mystery Sack",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Mystery Sack",
+  "dlc": "31",
+  "collectible": "Mystery Sack",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Nancy Bombs",
+  "dlc": "31",
+  "collectible": "Nancy Bombs",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Nancy Bombs",
+  "dlc": "31",
+  "collectible": "Nancy Bombs",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Neptunus",
+  "dlc": "24",
+  "collectible": "Neptunus",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Neptunus",
+  "dlc": "24",
+  "collectible": "Neptunus",
+  "tag": "stars"
+ },
+ {
+  "_pageName": "Neptunus",
+  "dlc": "24",
+  "collectible": "Neptunus",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Night Light",
+  "dlc": "30",
+  "collectible": "Night Light",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "No. 2",
+  "dlc": "31",
+  "collectible": "No. 2",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "No. 2",
+  "dlc": "31",
+  "collectible": "No. 2",
+  "tag": "poop"
+ },
+ {
+  "_pageName": "No. 2",
+  "dlc": "31",
+  "collectible": "No. 2",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Notched Axe",
+  "dlc": "31",
+  "collectible": "Notched Axe",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Notched Axe",
+  "dlc": "31",
+  "collectible": "Notched Axe",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Number One",
+  "dlc": "31",
+  "collectible": "Number One",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Number One",
+  "dlc": "31",
+  "collectible": "Number One",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Number One",
+  "dlc": "31",
+  "collectible": "Number One",
+  "tag": "tearsup"
+ },
+ {
+  "_pageName": "Obsessed Fan",
+  "dlc": "16",
+  "collectible": "Obsessed Fan",
+  "tag": "monstermanual"
+ },
+ {
+  "_pageName": "Obsessed Fan",
+  "dlc": "30",
+  "collectible": "Obsessed Fan",
+  "tag": "fly"
+ },
+ {
+  "_pageName": "Obsessed Fan",
+  "dlc": "30",
+  "collectible": "Obsessed Fan",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Obsessed Fan",
+  "dlc": "30",
+  "collectible": "Obsessed Fan",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Ocular Rift",
+  "dlc": "31",
+  "collectible": "Ocular Rift",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Ocular Rift",
+  "dlc": "31",
+  "collectible": "Ocular Rift",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Odd Mushroom (Large)",
+  "dlc": "31",
+  "collectible": "Odd Mushroom (Large)",
+  "tag": "mushroom"
+ },
+ {
+  "_pageName": "Odd Mushroom (Large)",
+  "dlc": "31",
+  "collectible": "Odd Mushroom (Large)",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Odd Mushroom (Large)",
+  "dlc": "31",
+  "collectible": "Odd Mushroom (Large)",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Odd Mushroom (Thin)",
+  "dlc": "31",
+  "collectible": "Odd Mushroom (Thin)",
+  "tag": "mushroom"
+ },
+ {
+  "_pageName": "Odd Mushroom (Thin)",
+  "dlc": "31",
+  "collectible": "Odd Mushroom (Thin)",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Odd Mushroom (Thin)",
+  "dlc": "31",
+  "collectible": "Odd Mushroom (Thin)",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Odd Mushroom (Thin)",
+  "dlc": "31",
+  "collectible": "Odd Mushroom (Thin)",
+  "tag": "tearsup"
+ },
+ {
+  "_pageName": "Old Bandage",
+  "dlc": "31",
+  "collectible": "Old Bandage",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Options?",
+  "dlc": "24",
+  "collectible": "Options?",
+  "tag": "nogreed"
+ },
+ {
+  "_pageName": "Options?",
+  "dlc": "24",
+  "collectible": "Options?",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Options?",
+  "dlc": "24",
+  "collectible": "Options?",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Orphan Socks",
+  "dlc": "31",
+  "collectible": "Orphan Socks",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Orphan Socks",
+  "dlc": "31",
+  "collectible": "Orphan Socks",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Ouija Board",
+  "dlc": "15",
+  "collectible": "Ouija Board",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Ouija Board",
+  "dlc": "16",
+  "collectible": "Ouija Board",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Ouija Board",
+  "dlc": "16",
+  "collectible": "Ouija Board",
+  "tag": "tearsup"
+ },
+ {
+  "_pageName": "Ouija Board",
+  "dlc": "31",
+  "collectible": "Ouija Board",
+  "tag": ""
+ },
+ {
+  "_pageName": "Ouija Board",
+  "dlc": "31",
+  "collectible": "Ouija Board",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Pageant Boy",
+  "dlc": "31",
+  "collectible": "Pageant Boy",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Pandora's Box",
+  "dlc": "31",
+  "collectible": "Pandora's Box",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Papa Fly",
+  "dlc": "30",
+  "collectible": "Papa Fly",
+  "tag": "fly"
+ },
+ {
+  "_pageName": "Papa Fly",
+  "dlc": "30",
+  "collectible": "Papa Fly",
+  "tag": "monstermanual"
+ },
+ {
+  "_pageName": "Papa Fly",
+  "dlc": "30",
+  "collectible": "Papa Fly",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Papa Fly",
+  "dlc": "30",
+  "collectible": "Papa Fly",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Parasitoid",
+  "dlc": "28",
+  "collectible": "Parasitoid",
+  "tag": "fly"
+ },
+ {
+  "_pageName": "Parasitoid",
+  "dlc": "28",
+  "collectible": "Parasitoid",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Parasitoid",
+  "dlc": "28",
+  "collectible": "Parasitoid",
+  "tag": "spider"
+ },
+ {
+  "_pageName": "Parasitoid",
+  "dlc": "28",
+  "collectible": "Parasitoid",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Paschal Candle",
+  "dlc": "24",
+  "collectible": "Paschal Candle",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Paschal Candle",
+  "dlc": "24",
+  "collectible": "Paschal Candle",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Paschal Candle",
+  "dlc": "24",
+  "collectible": "Paschal Candle",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Paschal Candle",
+  "dlc": "24",
+  "collectible": "Paschal Candle",
+  "tag": "tearsup"
+ },
+ {
+  "_pageName": "Paschal Candle",
+  "dlc": "24",
+  "collectible": "Paschal Candle",
+  "tag": "uniquefamiliar"
+ },
+ {
+  "_pageName": "Pause",
+  "dlc": "31",
+  "collectible": "Pause",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Pay To Play",
+  "dlc": "31",
+  "collectible": "Pay To Play",
+  "tag": "lazarussharedglobal"
+ },
+ {
+  "_pageName": "Pay To Play",
+  "dlc": "31",
+  "collectible": "Pay To Play",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Pay To Play",
+  "dlc": "31",
+  "collectible": "Pay To Play",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Pay To Play",
+  "dlc": "31",
+  "collectible": "Pay To Play",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Pentagram",
+  "dlc": "31",
+  "collectible": "Pentagram",
+  "tag": "devil"
+ },
+ {
+  "_pageName": "Pentagram",
+  "dlc": "31",
+  "collectible": "Pentagram",
+  "tag": "lazarussharedglobal"
+ },
+ {
+  "_pageName": "Pentagram",
+  "dlc": "31",
+  "collectible": "Pentagram",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Pentagram",
+  "dlc": "31",
+  "collectible": "Pentagram",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "PHD",
+  "dlc": "31",
+  "collectible": "PHD",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "PHD",
+  "dlc": "31",
+  "collectible": "PHD",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "PHD",
+  "dlc": "31",
+  "collectible": "PHD",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Piggy Bank",
+  "dlc": "31",
+  "collectible": "Piggy Bank",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Piggy Bank",
+  "dlc": "31",
+  "collectible": "Piggy Bank",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Pisces",
+  "dlc": "31",
+  "collectible": "Pisces",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Pisces",
+  "dlc": "31",
+  "collectible": "Pisces",
+  "tag": "stars"
+ },
+ {
+  "_pageName": "Pisces",
+  "dlc": "31",
+  "collectible": "Pisces",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Pisces",
+  "dlc": "31",
+  "collectible": "Pisces",
+  "tag": "tearsup"
+ },
+ {
+  "_pageName": "PJs",
+  "dlc": "30",
+  "collectible": "PJs",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Placebo",
+  "dlc": "30",
+  "collectible": "Placebo",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Placebo",
+  "dlc": "30",
+  "collectible": "Placebo",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Placenta",
+  "dlc": "31",
+  "collectible": "Placenta",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Plan C",
+  "dlc": "28",
+  "collectible": "Plan C",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Playdough Cookie",
+  "dlc": "31",
+  "collectible": "Playdough Cookie",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Playdough Cookie",
+  "dlc": "31",
+  "collectible": "Playdough Cookie",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Plum Flute",
+  "dlc": "31",
+  "collectible": "Plum Flute",
+  "tag": "fly"
+ },
+ {
+  "_pageName": "Plum Flute",
+  "dlc": "31",
+  "collectible": "Plum Flute",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Pluto",
+  "dlc": "24",
+  "collectible": "Pluto",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Pluto",
+  "dlc": "24",
+  "collectible": "Pluto",
+  "tag": "stars"
+ },
+ {
+  "_pageName": "Pluto",
+  "dlc": "24",
+  "collectible": "Pluto",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Pluto",
+  "dlc": "24",
+  "collectible": "Pluto",
+  "tag": "tearsup"
+ },
+ {
+  "_pageName": "Pointy Rib",
+  "dlc": "28",
+  "collectible": "Pointy Rib",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Pointy Rib",
+  "dlc": "28",
+  "collectible": "Pointy Rib",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Poke Go",
+  "dlc": "15",
+  "collectible": "Poke Go",
+  "tag": ""
+ },
+ {
+  "_pageName": "Poke Go",
+  "dlc": "16",
+  "collectible": "Poke Go",
+  "tag": "nogreed"
+ },
+ {
+  "_pageName": "Poke Go",
+  "dlc": "16",
+  "collectible": "Poke Go",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Poke Go",
+  "dlc": "31",
+  "collectible": "Poke Go",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Poke Go",
+  "dlc": "31",
+  "collectible": "Poke Go",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Polydactyly",
+  "dlc": "31",
+  "collectible": "Polydactyly",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Polydactyly",
+  "dlc": "31",
+  "collectible": "Polydactyly",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Polyphemus",
+  "dlc": "31",
+  "collectible": "Polyphemus",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Polyphemus",
+  "dlc": "31",
+  "collectible": "Polyphemus",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Pop!",
+  "dlc": "31",
+  "collectible": "Pop!",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Pop!",
+  "dlc": "31",
+  "collectible": "Pop!",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Portable Slot",
+  "dlc": "31",
+  "collectible": "Portable Slot",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Potato Peeler",
+  "dlc": "31",
+  "collectible": "Potato Peeler",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Prayer Card",
+  "dlc": "31",
+  "collectible": "Prayer Card",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Proptosis",
+  "dlc": "31",
+  "collectible": "Proptosis",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Proptosis",
+  "dlc": "31",
+  "collectible": "Proptosis",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Psy Fly",
+  "dlc": "31",
+  "collectible": "Psy Fly",
+  "tag": "fly"
+ },
+ {
+  "_pageName": "Psy Fly",
+  "dlc": "31",
+  "collectible": "Psy Fly",
+  "tag": "monstermanual"
+ },
+ {
+  "_pageName": "Psy Fly",
+  "dlc": "31",
+  "collectible": "Psy Fly",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Punching Bag",
+  "dlc": "15",
+  "collectible": "Punching Bag",
+  "tag": ""
+ },
+ {
+  "_pageName": "Punching Bag",
+  "dlc": "16",
+  "collectible": "Punching Bag",
+  "tag": "monstermanual"
+ },
+ {
+  "_pageName": "Punching Bag",
+  "dlc": "31",
+  "collectible": "Punching Bag",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Pupula Duplex",
+  "dlc": "31",
+  "collectible": "Pupula Duplex",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Pupula Duplex",
+  "dlc": "31",
+  "collectible": "Pupula Duplex",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Purgatory",
+  "dlc": "24",
+  "collectible": "Purgatory",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Purity",
+  "dlc": "31",
+  "collectible": "Purity",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Purity",
+  "dlc": "31",
+  "collectible": "Purity",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Purity",
+  "dlc": "31",
+  "collectible": "Purity",
+  "tag": "tearsup"
+ },
+ {
+  "_pageName": "Pyro",
+  "dlc": "31",
+  "collectible": "Pyro",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Pyro",
+  "dlc": "31",
+  "collectible": "Pyro",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Pyromaniac",
+  "dlc": "31",
+  "collectible": "Pyromaniac",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Quints",
+  "dlc": "24",
+  "collectible": "Quints",
+  "tag": "baby"
+ },
+ {
+  "_pageName": "Quints",
+  "dlc": "24",
+  "collectible": "Quints",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Quints",
+  "dlc": "24",
+  "collectible": "Quints",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "R Key",
+  "dlc": "24",
+  "collectible": "R Key",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "R Key",
+  "dlc": "24",
+  "collectible": "R Key",
+  "tag": "nochallenge"
+ },
+ {
+  "_pageName": "R Key",
+  "dlc": "24",
+  "collectible": "R Key",
+  "tag": "nodaily"
+ },
+ {
+  "_pageName": "R Key",
+  "dlc": "24",
+  "collectible": "R Key",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Rainbow Baby",
+  "dlc": "15",
+  "collectible": "Rainbow Baby",
+  "tag": ""
+ },
+ {
+  "_pageName": "Rainbow Baby",
+  "dlc": "16",
+  "collectible": "Rainbow Baby",
+  "tag": "monstermanual"
+ },
+ {
+  "_pageName": "Rainbow Baby",
+  "dlc": "31",
+  "collectible": "Rainbow Baby",
+  "tag": "baby"
+ },
+ {
+  "_pageName": "Rainbow Baby",
+  "dlc": "31",
+  "collectible": "Rainbow Baby",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Rainbow Baby",
+  "dlc": "31",
+  "collectible": "Rainbow Baby",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Raw Liver",
+  "dlc": "31",
+  "collectible": "Raw Liver",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Razor Blade",
+  "dlc": "16",
+  "collectible": "Razor Blade",
+  "tag": "devilsacrifice"
+ },
+ {
+  "_pageName": "Razor Blade",
+  "dlc": "31",
+  "collectible": "Razor Blade",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Recall",
+  "dlc": "24",
+  "collectible": "Recall",
+  "tag": "noeden"
+ },
+ {
+  "_pageName": "Red Candle",
+  "dlc": "31",
+  "collectible": "Red Candle",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Red Key",
+  "dlc": "16",
+  "collectible": "Red Key",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Red Key",
+  "dlc": "24",
+  "collectible": "Red Key",
+  "tag": "nogreed"
+ },
+ {
+  "_pageName": "Red Key",
+  "dlc": "24",
+  "collectible": "Red Key",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Red Stew",
+  "dlc": "31",
+  "collectible": "Red Stew",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Redemption",
+  "dlc": "24",
+  "collectible": "Redemption",
+  "tag": "lazarussharedglobal"
+ },
+ {
+  "_pageName": "Redemption",
+  "dlc": "24",
+  "collectible": "Redemption",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Redemption",
+  "dlc": "24",
+  "collectible": "Redemption",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Remote Detonator",
+  "dlc": "31",
+  "collectible": "Remote Detonator",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Remote Detonator",
+  "dlc": "31",
+  "collectible": "Remote Detonator",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Restock",
+  "dlc": "30",
+  "collectible": "Restock",
+  "tag": "nogreed"
+ },
+ {
+  "_pageName": "Restock",
+  "dlc": "30",
+  "collectible": "Restock",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Restock",
+  "dlc": "30",
+  "collectible": "Restock",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Revelation",
+  "dlc": "24",
+  "collectible": "Revelation",
+  "tag": "angel"
+ },
+ {
+  "_pageName": "Revelation",
+  "dlc": "24",
+  "collectible": "Revelation",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Revelation",
+  "dlc": "24",
+  "collectible": "Revelation",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Robo-Baby",
+  "dlc": "31",
+  "collectible": "Robo-Baby",
+  "tag": "baby"
+ },
+ {
+  "_pageName": "Robo-Baby",
+  "dlc": "31",
+  "collectible": "Robo-Baby",
+  "tag": "monstermanual"
+ },
+ {
+  "_pageName": "Robo-Baby",
+  "dlc": "31",
+  "collectible": "Robo-Baby",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Robo-Baby",
+  "dlc": "31",
+  "collectible": "Robo-Baby",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Robo-Baby",
+  "dlc": "31",
+  "collectible": "Robo-Baby",
+  "tag": "tech"
+ },
+ {
+  "_pageName": "Robo-Baby 2.0",
+  "dlc": "31",
+  "collectible": "Robo-Baby 2.0",
+  "tag": "baby"
+ },
+ {
+  "_pageName": "Robo-Baby 2.0",
+  "dlc": "31",
+  "collectible": "Robo-Baby 2.0",
+  "tag": "monstermanual"
+ },
+ {
+  "_pageName": "Robo-Baby 2.0",
+  "dlc": "31",
+  "collectible": "Robo-Baby 2.0",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Robo-Baby 2.0",
+  "dlc": "31",
+  "collectible": "Robo-Baby 2.0",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Robo-Baby 2.0",
+  "dlc": "31",
+  "collectible": "Robo-Baby 2.0",
+  "tag": "tech"
+ },
+ {
+  "_pageName": "Rock Bottom",
+  "dlc": "24",
+  "collectible": "Rock Bottom",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Rock Bottom",
+  "dlc": "24",
+  "collectible": "Rock Bottom",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Rocket in a Jar",
+  "dlc": "24",
+  "collectible": "Rocket in a Jar",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Rocket in a Jar",
+  "dlc": "24",
+  "collectible": "Rocket in a Jar",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Roid Rage",
+  "dlc": "31",
+  "collectible": "Roid Rage",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Roid Rage",
+  "dlc": "31",
+  "collectible": "Roid Rage",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Roid Rage",
+  "dlc": "31",
+  "collectible": "Roid Rage",
+  "tag": "syringe"
+ },
+ {
+  "_pageName": "Rosary",
+  "dlc": "15",
+  "collectible": "Rosary",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Rosary",
+  "dlc": "16",
+  "collectible": "Rosary",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Rosary",
+  "dlc": "16",
+  "collectible": "Rosary",
+  "tag": "tearsup"
+ },
+ {
+  "_pageName": "Rosary",
+  "dlc": "31",
+  "collectible": "Rosary",
+  "tag": ""
+ },
+ {
+  "_pageName": "Rosary",
+  "dlc": "31",
+  "collectible": "Rosary",
+  "tag": "angel"
+ },
+ {
+  "_pageName": "Rosary",
+  "dlc": "31",
+  "collectible": "Rosary",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Rotten Baby",
+  "dlc": "31",
+  "collectible": "Rotten Baby",
+  "tag": "baby"
+ },
+ {
+  "_pageName": "Rotten Baby",
+  "dlc": "31",
+  "collectible": "Rotten Baby",
+  "tag": "monstermanual"
+ },
+ {
+  "_pageName": "Rotten Baby",
+  "dlc": "31",
+  "collectible": "Rotten Baby",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Rotten Baby",
+  "dlc": "31",
+  "collectible": "Rotten Baby",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Rotten Meat",
+  "dlc": "31",
+  "collectible": "Rotten Meat",
+  "tag": "food"
+ },
+ {
+  "_pageName": "Rotten Meat",
+  "dlc": "31",
+  "collectible": "Rotten Meat",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Rotten Meat",
+  "dlc": "31",
+  "collectible": "Rotten Meat",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Rotten Tomato",
+  "dlc": "31",
+  "collectible": "Rotten Tomato",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Rotten Tomato",
+  "dlc": "31",
+  "collectible": "Rotten Tomato",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Rubber Cement",
+  "dlc": "31",
+  "collectible": "Rubber Cement",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Rubber Cement",
+  "dlc": "31",
+  "collectible": "Rubber Cement",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Rune Bag",
+  "dlc": "31",
+  "collectible": "Rune Bag",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Rune Bag",
+  "dlc": "31",
+  "collectible": "Rune Bag",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Rune Bag",
+  "dlc": "31",
+  "collectible": "Rune Bag",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Sack Head",
+  "dlc": "30",
+  "collectible": "Sack Head",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Sack Head",
+  "dlc": "30",
+  "collectible": "Sack Head",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Sack of Pennies",
+  "dlc": "31",
+  "collectible": "Sack of Pennies",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Sack of Pennies",
+  "dlc": "31",
+  "collectible": "Sack of Pennies",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Sack of Pennies",
+  "dlc": "31",
+  "collectible": "Sack of Pennies",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Sack of Sacks",
+  "dlc": "28",
+  "collectible": "Sack of Sacks",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Sack of Sacks",
+  "dlc": "28",
+  "collectible": "Sack of Sacks",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Sacred Heart",
+  "dlc": "31",
+  "collectible": "Sacred Heart",
+  "tag": "angel"
+ },
+ {
+  "_pageName": "Sacred Heart",
+  "dlc": "31",
+  "collectible": "Sacred Heart",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Sacred Heart",
+  "dlc": "31",
+  "collectible": "Sacred Heart",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Sacred Orb",
+  "dlc": "24",
+  "collectible": "Sacred Orb",
+  "tag": "angel"
+ },
+ {
+  "_pageName": "Sacred Orb",
+  "dlc": "24",
+  "collectible": "Sacred Orb",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Sacred Orb",
+  "dlc": "24",
+  "collectible": "Sacred Orb",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Sacred Orb",
+  "dlc": "24",
+  "collectible": "Sacred Orb",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Sacrificial Altar",
+  "dlc": "28",
+  "collectible": "Sacrificial Altar",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Sacrificial Altar",
+  "dlc": "28",
+  "collectible": "Sacrificial Altar",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Sacrificial Dagger",
+  "dlc": "31",
+  "collectible": "Sacrificial Dagger",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Sad Bombs",
+  "dlc": "31",
+  "collectible": "Sad Bombs",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Sad Bombs",
+  "dlc": "31",
+  "collectible": "Sad Bombs",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Safety Pin",
+  "dlc": "31",
+  "collectible": "Safety Pin",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Safety Pin",
+  "dlc": "31",
+  "collectible": "Safety Pin",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Sagittarius",
+  "dlc": "31",
+  "collectible": "Sagittarius",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Sagittarius",
+  "dlc": "31",
+  "collectible": "Sagittarius",
+  "tag": "stars"
+ },
+ {
+  "_pageName": "Sagittarius",
+  "dlc": "31",
+  "collectible": "Sagittarius",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Salvation",
+  "dlc": "31",
+  "collectible": "Salvation",
+  "tag": "angel"
+ },
+ {
+  "_pageName": "Salvation",
+  "dlc": "31",
+  "collectible": "Salvation",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Salvation",
+  "dlc": "31",
+  "collectible": "Salvation",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Samson's Chains",
+  "dlc": "31",
+  "collectible": "Samson's Chains",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Sanguine Bond",
+  "dlc": "16",
+  "collectible": "Sanguine Bond",
+  "tag": "devilsacrifice"
+ },
+ {
+  "_pageName": "Sanguine Bond",
+  "dlc": "16",
+  "collectible": "Sanguine Bond",
+  "tag": "lazarussharedglobal"
+ },
+ {
+  "_pageName": "Sanguine Bond",
+  "dlc": "24",
+  "collectible": "Sanguine Bond",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Sanguine Bond",
+  "dlc": "24",
+  "collectible": "Sanguine Bond",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Satanic Bible",
+  "dlc": "15",
+  "collectible": "Satanic Bible",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Satanic Bible",
+  "dlc": "16",
+  "collectible": "Satanic Bible",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Satanic Bible",
+  "dlc": "31",
+  "collectible": "Satanic Bible",
+  "tag": "book"
+ },
+ {
+  "_pageName": "Saturnus",
+  "dlc": "24",
+  "collectible": "Saturnus",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Saturnus",
+  "dlc": "24",
+  "collectible": "Saturnus",
+  "tag": "stars"
+ },
+ {
+  "_pageName": "Saturnus",
+  "dlc": "24",
+  "collectible": "Saturnus",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Sausage",
+  "dlc": "16",
+  "collectible": "Sausage",
+  "tag": "tearsup"
+ },
+ {
+  "_pageName": "Sausage",
+  "dlc": "24",
+  "collectible": "Sausage",
+  "tag": "lazarussharedglobal"
+ },
+ {
+  "_pageName": "Sausage",
+  "dlc": "24",
+  "collectible": "Sausage",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Sausage",
+  "dlc": "24",
+  "collectible": "Sausage",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Scapular",
+  "dlc": "31",
+  "collectible": "Scapular",
+  "tag": "angel"
+ },
+ {
+  "_pageName": "Scapular",
+  "dlc": "31",
+  "collectible": "Scapular",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Scapular",
+  "dlc": "31",
+  "collectible": "Scapular",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Scatter Bombs",
+  "dlc": "31",
+  "collectible": "Scatter Bombs",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Scatter Bombs",
+  "dlc": "31",
+  "collectible": "Scatter Bombs",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Schoolbag",
+  "dlc": "28",
+  "collectible": "Schoolbag",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Schoolbag",
+  "dlc": "28",
+  "collectible": "Schoolbag",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Schoolbag",
+  "dlc": "28",
+  "collectible": "Schoolbag",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Scissors",
+  "dlc": "31",
+  "collectible": "Scissors",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Scorpio",
+  "dlc": "31",
+  "collectible": "Scorpio",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Scorpio",
+  "dlc": "31",
+  "collectible": "Scorpio",
+  "tag": "stars"
+ },
+ {
+  "_pageName": "Scorpio",
+  "dlc": "31",
+  "collectible": "Scorpio",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Screw",
+  "dlc": "31",
+  "collectible": "Screw",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Screw",
+  "dlc": "31",
+  "collectible": "Screw",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Screw",
+  "dlc": "31",
+  "collectible": "Screw",
+  "tag": "tearsup"
+ },
+ {
+  "_pageName": "Seraphim",
+  "dlc": "16",
+  "collectible": "Seraphim",
+  "tag": "angel"
+ },
+ {
+  "_pageName": "Seraphim",
+  "dlc": "30",
+  "collectible": "Seraphim",
+  "tag": "baby"
+ },
+ {
+  "_pageName": "Seraphim",
+  "dlc": "30",
+  "collectible": "Seraphim",
+  "tag": "monstermanual"
+ },
+ {
+  "_pageName": "Seraphim",
+  "dlc": "30",
+  "collectible": "Seraphim",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Seraphim",
+  "dlc": "30",
+  "collectible": "Seraphim",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Serpent's Kiss",
+  "dlc": "30",
+  "collectible": "Serpent's Kiss",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Serpent's Kiss",
+  "dlc": "30",
+  "collectible": "Serpent's Kiss",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Shade",
+  "dlc": "28",
+  "collectible": "Shade",
+  "tag": "monstermanual"
+ },
+ {
+  "_pageName": "Shade",
+  "dlc": "28",
+  "collectible": "Shade",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Shade",
+  "dlc": "28",
+  "collectible": "Shade",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Shard of Glass",
+  "dlc": "28",
+  "collectible": "Shard of Glass",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Shard of Glass",
+  "dlc": "28",
+  "collectible": "Shard of Glass",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Sharp Key",
+  "dlc": "24",
+  "collectible": "Sharp Key",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Sharp Plug",
+  "dlc": "31",
+  "collectible": "Sharp Plug",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Sharp Plug",
+  "dlc": "31",
+  "collectible": "Sharp Plug",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Sharp Plug",
+  "dlc": "31",
+  "collectible": "Sharp Plug",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Sharp Straw",
+  "dlc": "31",
+  "collectible": "Sharp Straw",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Shoop da Whoop!",
+  "dlc": "31",
+  "collectible": "Shoop da Whoop!",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Sinus Infection",
+  "dlc": "31",
+  "collectible": "Sinus Infection",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Sinus Infection",
+  "dlc": "31",
+  "collectible": "Sinus Infection",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Sissy Longlegs",
+  "dlc": "31",
+  "collectible": "Sissy Longlegs",
+  "tag": "monstermanual"
+ },
+ {
+  "_pageName": "Sissy Longlegs",
+  "dlc": "31",
+  "collectible": "Sissy Longlegs",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Sissy Longlegs",
+  "dlc": "31",
+  "collectible": "Sissy Longlegs",
+  "tag": "spider"
+ },
+ {
+  "_pageName": "Sissy Longlegs",
+  "dlc": "31",
+  "collectible": "Sissy Longlegs",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Sister Maggy",
+  "dlc": "31",
+  "collectible": "Sister Maggy",
+  "tag": "baby"
+ },
+ {
+  "_pageName": "Sister Maggy",
+  "dlc": "31",
+  "collectible": "Sister Maggy",
+  "tag": "monstermanual"
+ },
+ {
+  "_pageName": "Sister Maggy",
+  "dlc": "31",
+  "collectible": "Sister Maggy",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Sister Maggy",
+  "dlc": "31",
+  "collectible": "Sister Maggy",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Skatole",
+  "dlc": "16",
+  "collectible": "Skatole",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Skatole",
+  "dlc": "31",
+  "collectible": "Skatole",
+  "tag": "fly"
+ },
+ {
+  "_pageName": "Skatole",
+  "dlc": "31",
+  "collectible": "Skatole",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Skatole",
+  "dlc": "31",
+  "collectible": "Skatole",
+  "tag": "poop"
+ },
+ {
+  "_pageName": "Skatole",
+  "dlc": "31",
+  "collectible": "Skatole",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Skeleton Key",
+  "dlc": "31",
+  "collectible": "Skeleton Key",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Skeleton Key",
+  "dlc": "31",
+  "collectible": "Skeleton Key",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Slipped Rib",
+  "dlc": "31",
+  "collectible": "Slipped Rib",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Smart Fly",
+  "dlc": "31",
+  "collectible": "Smart Fly",
+  "tag": "fly"
+ },
+ {
+  "_pageName": "Smart Fly",
+  "dlc": "31",
+  "collectible": "Smart Fly",
+  "tag": "monstermanual"
+ },
+ {
+  "_pageName": "Smart Fly",
+  "dlc": "31",
+  "collectible": "Smart Fly",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "SMB Super Fan",
+  "dlc": "15",
+  "collectible": "SMB Super Fan",
+  "tag": ""
+ },
+ {
+  "_pageName": "SMB Super Fan",
+  "dlc": "16",
+  "collectible": "SMB Super Fan",
+  "tag": "tearsup"
+ },
+ {
+  "_pageName": "SMB Super Fan",
+  "dlc": "31",
+  "collectible": "SMB Super Fan",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "SMB Super Fan",
+  "dlc": "31",
+  "collectible": "SMB Super Fan",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Smelter",
+  "dlc": "28",
+  "collectible": "Smelter",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Sol",
+  "dlc": "31",
+  "collectible": "Sol",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Sol",
+  "dlc": "31",
+  "collectible": "Sol",
+  "tag": "stars"
+ },
+ {
+  "_pageName": "Sol",
+  "dlc": "31",
+  "collectible": "Sol",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Soul Locket",
+  "dlc": "31",
+  "collectible": "Soul Locket",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Soul Locket",
+  "dlc": "31",
+  "collectible": "Soul Locket",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Soy Milk",
+  "dlc": "31",
+  "collectible": "Soy Milk",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Soy Milk",
+  "dlc": "31",
+  "collectible": "Soy Milk",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Soy Milk",
+  "dlc": "31",
+  "collectible": "Soy Milk",
+  "tag": "tearsup"
+ },
+ {
+  "_pageName": "Spear Of Destiny",
+  "dlc": "31",
+  "collectible": "Spear Of Destiny",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Spear Of Destiny",
+  "dlc": "31",
+  "collectible": "Spear Of Destiny",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Speed Ball",
+  "dlc": "31",
+  "collectible": "Speed Ball",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Speed Ball",
+  "dlc": "31",
+  "collectible": "Speed Ball",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Speed Ball",
+  "dlc": "31",
+  "collectible": "Speed Ball",
+  "tag": "syringe"
+ },
+ {
+  "_pageName": "Spelunker Hat",
+  "dlc": "31",
+  "collectible": "Spelunker Hat",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Spelunker Hat",
+  "dlc": "31",
+  "collectible": "Spelunker Hat",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Spider Bite",
+  "dlc": "31",
+  "collectible": "Spider Bite",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Spider Bite",
+  "dlc": "31",
+  "collectible": "Spider Bite",
+  "tag": "spider"
+ },
+ {
+  "_pageName": "Spider Bite",
+  "dlc": "31",
+  "collectible": "Spider Bite",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Spider Butt",
+  "dlc": "31",
+  "collectible": "Spider Butt",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Spider Butt",
+  "dlc": "31",
+  "collectible": "Spider Butt",
+  "tag": "spider"
+ },
+ {
+  "_pageName": "Spider Mod",
+  "dlc": "31",
+  "collectible": "Spider Mod",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Spider Mod",
+  "dlc": "31",
+  "collectible": "Spider Mod",
+  "tag": "spider"
+ },
+ {
+  "_pageName": "Spider Mod",
+  "dlc": "31",
+  "collectible": "Spider Mod",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Spiderbaby",
+  "dlc": "31",
+  "collectible": "Spiderbaby",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Spiderbaby",
+  "dlc": "31",
+  "collectible": "Spiderbaby",
+  "tag": "spider"
+ },
+ {
+  "_pageName": "Spiderbaby",
+  "dlc": "31",
+  "collectible": "Spiderbaby",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Spin to Win",
+  "dlc": "31",
+  "collectible": "Spin to Win",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Spindown Dice",
+  "dlc": "24",
+  "collectible": "Spindown Dice",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Spindown Dice",
+  "dlc": "24",
+  "collectible": "Spindown Dice",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Spirit of the Night",
+  "dlc": "31",
+  "collectible": "Spirit of the Night",
+  "tag": "devil"
+ },
+ {
+  "_pageName": "Spirit of the Night",
+  "dlc": "31",
+  "collectible": "Spirit of the Night",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Spirit of the Night",
+  "dlc": "31",
+  "collectible": "Spirit of the Night",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Spirit Sword",
+  "dlc": "31",
+  "collectible": "Spirit Sword",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Spirit Sword",
+  "dlc": "31",
+  "collectible": "Spirit Sword",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Spoon Bender",
+  "dlc": "31",
+  "collectible": "Spoon Bender",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Spoon Bender",
+  "dlc": "31",
+  "collectible": "Spoon Bender",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Sprinkler",
+  "dlc": "31",
+  "collectible": "Sprinkler",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Squeezy",
+  "dlc": "31",
+  "collectible": "Squeezy",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Squeezy",
+  "dlc": "31",
+  "collectible": "Squeezy",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Squeezy",
+  "dlc": "31",
+  "collectible": "Squeezy",
+  "tag": "tearsup"
+ },
+ {
+  "_pageName": "Stapler",
+  "dlc": "24",
+  "collectible": "Stapler",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Stapler",
+  "dlc": "24",
+  "collectible": "Stapler",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Star of Bethlehem",
+  "dlc": "16",
+  "collectible": "Star of Bethlehem",
+  "tag": "uniquefamiliar"
+ },
+ {
+  "_pageName": "Star of Bethlehem",
+  "dlc": "24",
+  "collectible": "Star of Bethlehem",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Star of Bethlehem",
+  "dlc": "24",
+  "collectible": "Star of Bethlehem",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Star of Bethlehem",
+  "dlc": "24",
+  "collectible": "Star of Bethlehem",
+  "tag": "stars"
+ },
+ {
+  "_pageName": "Star of Bethlehem",
+  "dlc": "24",
+  "collectible": "Star of Bethlehem",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Starter Deck",
+  "dlc": "31",
+  "collectible": "Starter Deck",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Starter Deck",
+  "dlc": "31",
+  "collectible": "Starter Deck",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Starter Deck",
+  "dlc": "31",
+  "collectible": "Starter Deck",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Steam Sale",
+  "dlc": "31",
+  "collectible": "Steam Sale",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Steam Sale",
+  "dlc": "31",
+  "collectible": "Steam Sale",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Stem Cells",
+  "dlc": "31",
+  "collectible": "Stem Cells",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Steven (Item)",
+  "dlc": "31",
+  "collectible": "Steven",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Steven (Item)",
+  "dlc": "31",
+  "collectible": "Steven",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Sticky Bombs",
+  "dlc": "31",
+  "collectible": "Sticky Bombs",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Sticky Bombs",
+  "dlc": "31",
+  "collectible": "Sticky Bombs",
+  "tag": "spider"
+ },
+ {
+  "_pageName": "Sticky Bombs",
+  "dlc": "31",
+  "collectible": "Sticky Bombs",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Stigmata",
+  "dlc": "15",
+  "collectible": "Stigmata",
+  "tag": ""
+ },
+ {
+  "_pageName": "Stigmata",
+  "dlc": "16",
+  "collectible": "Stigmata",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Stigmata",
+  "dlc": "31",
+  "collectible": "Stigmata",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Stitches",
+  "dlc": "24",
+  "collectible": "Stitches",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Stitches",
+  "dlc": "24",
+  "collectible": "Stitches",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Stitches",
+  "dlc": "24",
+  "collectible": "Stitches",
+  "tag": "uniquefamiliar"
+ },
+ {
+  "_pageName": "Stop Watch",
+  "dlc": "31",
+  "collectible": "Stop Watch",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Strange Attractor",
+  "dlc": "31",
+  "collectible": "Strange Attractor",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Strange Attractor",
+  "dlc": "31",
+  "collectible": "Strange Attractor",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Strawman",
+  "dlc": "16",
+  "collectible": "Strawman",
+  "tag": "uniquefamiliar"
+ },
+ {
+  "_pageName": "Strawman",
+  "dlc": "24",
+  "collectible": "Strawman",
+  "tag": "dead"
+ },
+ {
+  "_pageName": "Strawman",
+  "dlc": "24",
+  "collectible": "Strawman",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Stye",
+  "dlc": "31",
+  "collectible": "Stye",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Succubus",
+  "dlc": "30",
+  "collectible": "Succubus",
+  "tag": "monstermanual"
+ },
+ {
+  "_pageName": "Succubus",
+  "dlc": "30",
+  "collectible": "Succubus",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Succubus",
+  "dlc": "30",
+  "collectible": "Succubus",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Sulfur",
+  "dlc": "24",
+  "collectible": "Sulfur",
+  "tag": "devil"
+ },
+ {
+  "_pageName": "Sulfur",
+  "dlc": "24",
+  "collectible": "Sulfur",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Sulfuric Acid",
+  "dlc": "31",
+  "collectible": "Sulfuric Acid",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Sulfuric Acid",
+  "dlc": "31",
+  "collectible": "Sulfuric Acid",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Sumptorium",
+  "dlc": "31",
+  "collectible": "Sumptorium",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Super Bandage",
+  "dlc": "31",
+  "collectible": "Super Bandage",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Suplex!",
+  "dlc": "24",
+  "collectible": "Suplex!",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Supper",
+  "dlc": "24",
+  "collectible": "Supper",
+  "tag": "food"
+ },
+ {
+  "_pageName": "Supper",
+  "dlc": "24",
+  "collectible": "Supper",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Sworn Protector",
+  "dlc": "30",
+  "collectible": "Sworn Protector",
+  "tag": "baby"
+ },
+ {
+  "_pageName": "Sworn Protector",
+  "dlc": "30",
+  "collectible": "Sworn Protector",
+  "tag": "monstermanual"
+ },
+ {
+  "_pageName": "Sworn Protector",
+  "dlc": "30",
+  "collectible": "Sworn Protector",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Synthoil",
+  "dlc": "31",
+  "collectible": "Synthoil",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Synthoil",
+  "dlc": "31",
+  "collectible": "Synthoil",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Synthoil",
+  "dlc": "31",
+  "collectible": "Synthoil",
+  "tag": "syringe"
+ },
+ {
+  "_pageName": "Tammy's Head",
+  "dlc": "31",
+  "collectible": "Tammy's Head",
+  "tag": "dead"
+ },
+ {
+  "_pageName": "Tammy's Head",
+  "dlc": "31",
+  "collectible": "Tammy's Head",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Tarot Cloth",
+  "dlc": "28",
+  "collectible": "Tarot Cloth",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Tarot Cloth",
+  "dlc": "28",
+  "collectible": "Tarot Cloth",
+  "tag": "stars"
+ },
+ {
+  "_pageName": "Tarot Cloth",
+  "dlc": "28",
+  "collectible": "Tarot Cloth",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Taurus",
+  "dlc": "31",
+  "collectible": "Taurus",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Taurus",
+  "dlc": "31",
+  "collectible": "Taurus",
+  "tag": "stars"
+ },
+ {
+  "_pageName": "Taurus",
+  "dlc": "31",
+  "collectible": "Taurus",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Tear Detonator",
+  "dlc": "30",
+  "collectible": "Tear Detonator",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Tech X",
+  "dlc": "31",
+  "collectible": "Tech X",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Tech X",
+  "dlc": "31",
+  "collectible": "Tech X",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Tech X",
+  "dlc": "31",
+  "collectible": "Tech X",
+  "tag": "tech"
+ },
+ {
+  "_pageName": "Tech.5",
+  "dlc": "31",
+  "collectible": "Tech.5",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Tech.5",
+  "dlc": "31",
+  "collectible": "Tech.5",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Tech.5",
+  "dlc": "31",
+  "collectible": "Tech.5",
+  "tag": "tech"
+ },
+ {
+  "_pageName": "Technology",
+  "dlc": "31",
+  "collectible": "Technology",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Technology",
+  "dlc": "31",
+  "collectible": "Technology",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Technology",
+  "dlc": "31",
+  "collectible": "Technology",
+  "tag": "tech"
+ },
+ {
+  "_pageName": "Technology 2",
+  "dlc": "31",
+  "collectible": "Technology 2",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Technology 2",
+  "dlc": "31",
+  "collectible": "Technology 2",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Technology 2",
+  "dlc": "31",
+  "collectible": "Technology 2",
+  "tag": "tech"
+ },
+ {
+  "_pageName": "Technology Zero",
+  "dlc": "31",
+  "collectible": "Technology Zero",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Technology Zero",
+  "dlc": "31",
+  "collectible": "Technology Zero",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Technology Zero",
+  "dlc": "31",
+  "collectible": "Technology Zero",
+  "tag": "tech"
+ },
+ {
+  "_pageName": "Telekinesis",
+  "dlc": "28",
+  "collectible": "Telekinesis",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Telepathy For Dummies",
+  "dlc": "31",
+  "collectible": "Telepathy For Dummies",
+  "tag": "book"
+ },
+ {
+  "_pageName": "Telepathy For Dummies",
+  "dlc": "31",
+  "collectible": "Telepathy For Dummies",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Teleport 2.0",
+  "dlc": "30",
+  "collectible": "Teleport 2.0",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Teleport!",
+  "dlc": "31",
+  "collectible": "Teleport!",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Terra",
+  "dlc": "31",
+  "collectible": "Terra",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Terra",
+  "dlc": "31",
+  "collectible": "Terra",
+  "tag": "stars"
+ },
+ {
+  "_pageName": "Terra",
+  "dlc": "31",
+  "collectible": "Terra",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "The Battery",
+  "dlc": "31",
+  "collectible": "The Battery",
+  "tag": "battery"
+ },
+ {
+  "_pageName": "The Battery",
+  "dlc": "31",
+  "collectible": "The Battery",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "The Battery",
+  "dlc": "31",
+  "collectible": "The Battery",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "The Battery",
+  "dlc": "31",
+  "collectible": "The Battery",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "The Bean",
+  "dlc": "31",
+  "collectible": "The Bean",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "The Belt",
+  "dlc": "31",
+  "collectible": "The Belt",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "The Belt",
+  "dlc": "31",
+  "collectible": "The Belt",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "The Bible",
+  "dlc": "15",
+  "collectible": "The Bible",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "The Bible",
+  "dlc": "16",
+  "collectible": "The Bible",
+  "tag": ""
+ },
+ {
+  "_pageName": "The Bible",
+  "dlc": "16",
+  "collectible": "The Bible",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "The Bible",
+  "dlc": "31",
+  "collectible": "The Bible",
+  "tag": "angel"
+ },
+ {
+  "_pageName": "The Bible",
+  "dlc": "31",
+  "collectible": "The Bible",
+  "tag": "book"
+ },
+ {
+  "_pageName": "The Black Bean",
+  "dlc": "31",
+  "collectible": "The Black Bean",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "The Black Bean",
+  "dlc": "31",
+  "collectible": "The Black Bean",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "The Body",
+  "dlc": "31",
+  "collectible": "The Body",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "The Book of Belial",
+  "dlc": "31",
+  "collectible": "The Book of Belial",
+  "tag": "book"
+ },
+ {
+  "_pageName": "The Book of Belial",
+  "dlc": "31",
+  "collectible": "The Book of Belial",
+  "tag": "lazarussharedglobal"
+ },
+ {
+  "_pageName": "The Book of Belial",
+  "dlc": "31",
+  "collectible": "The Book of Belial",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "The Book of Sin",
+  "dlc": "31",
+  "collectible": "The Book of Sin",
+  "tag": "book"
+ },
+ {
+  "_pageName": "The Book of Sin",
+  "dlc": "31",
+  "collectible": "The Book of Sin",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "The Boomerang",
+  "dlc": "31",
+  "collectible": "The Boomerang",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "The Candle",
+  "dlc": "31",
+  "collectible": "The Candle",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "The Common Cold",
+  "dlc": "31",
+  "collectible": "The Common Cold",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "The Common Cold",
+  "dlc": "31",
+  "collectible": "The Common Cold",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "The Compass",
+  "dlc": "31",
+  "collectible": "The Compass",
+  "tag": "lazarussharedglobal"
+ },
+ {
+  "_pageName": "The Compass",
+  "dlc": "31",
+  "collectible": "The Compass",
+  "tag": "nogreed"
+ },
+ {
+  "_pageName": "The Compass",
+  "dlc": "31",
+  "collectible": "The Compass",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "The Compass",
+  "dlc": "31",
+  "collectible": "The Compass",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "The D6",
+  "dlc": "31",
+  "collectible": "The D6",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "The D6",
+  "dlc": "31",
+  "collectible": "The D6",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "The Gamekid",
+  "dlc": "31",
+  "collectible": "The Gamekid",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "The Halo",
+  "dlc": "31",
+  "collectible": "The Halo",
+  "tag": "angel"
+ },
+ {
+  "_pageName": "The Halo",
+  "dlc": "31",
+  "collectible": "The Halo",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "The Halo",
+  "dlc": "31",
+  "collectible": "The Halo",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "The Halo",
+  "dlc": "31",
+  "collectible": "The Halo",
+  "tag": "tearsup"
+ },
+ {
+  "_pageName": "The Hourglass",
+  "dlc": "31",
+  "collectible": "The Hourglass",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "The Inner Eye",
+  "dlc": "31",
+  "collectible": "The Inner Eye",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "The Inner Eye",
+  "dlc": "31",
+  "collectible": "The Inner Eye",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "The Intruder",
+  "dlc": "24",
+  "collectible": "The Intruder",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "The Intruder",
+  "dlc": "24",
+  "collectible": "The Intruder",
+  "tag": "spider"
+ },
+ {
+  "_pageName": "The Intruder",
+  "dlc": "24",
+  "collectible": "The Intruder",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "The Jar",
+  "dlc": "31",
+  "collectible": "The Jar",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "The Jar",
+  "dlc": "31",
+  "collectible": "The Jar",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "The Ladder",
+  "dlc": "31",
+  "collectible": "The Ladder",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "The Ladder",
+  "dlc": "31",
+  "collectible": "The Ladder",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "The Ludovico Technique",
+  "dlc": "31",
+  "collectible": "The Ludovico Technique",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "The Ludovico Technique",
+  "dlc": "31",
+  "collectible": "The Ludovico Technique",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "The Mark",
+  "dlc": "31",
+  "collectible": "The Mark",
+  "tag": "devil"
+ },
+ {
+  "_pageName": "The Mark",
+  "dlc": "31",
+  "collectible": "The Mark",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "The Mark",
+  "dlc": "31",
+  "collectible": "The Mark",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "The Mind",
+  "dlc": "31",
+  "collectible": "The Mind",
+  "tag": "lazarussharedglobal"
+ },
+ {
+  "_pageName": "The Mind",
+  "dlc": "31",
+  "collectible": "The Mind",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "The Mind",
+  "dlc": "31",
+  "collectible": "The Mind",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "The Mulligan",
+  "dlc": "31",
+  "collectible": "The Mulligan",
+  "tag": "fly"
+ },
+ {
+  "_pageName": "The Mulligan",
+  "dlc": "31",
+  "collectible": "The Mulligan",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "The Mulligan",
+  "dlc": "31",
+  "collectible": "The Mulligan",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "The Nail",
+  "dlc": "31",
+  "collectible": "The Nail",
+  "tag": "devil"
+ },
+ {
+  "_pageName": "The Necronomicon",
+  "dlc": "31",
+  "collectible": "The Necronomicon",
+  "tag": "book"
+ },
+ {
+  "_pageName": "The Necronomicon",
+  "dlc": "31",
+  "collectible": "The Necronomicon",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "The Negative",
+  "dlc": "31",
+  "collectible": "The Negative",
+  "tag": "lazarusshared"
+ },
+ {
+  "_pageName": "The Negative",
+  "dlc": "31",
+  "collectible": "The Negative",
+  "tag": "noeden"
+ },
+ {
+  "_pageName": "The Negative",
+  "dlc": "31",
+  "collectible": "The Negative",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "The Negative",
+  "dlc": "31",
+  "collectible": "The Negative",
+  "tag": "quest"
+ },
+ {
+  "_pageName": "The Pact",
+  "dlc": "31",
+  "collectible": "The Pact",
+  "tag": "devil"
+ },
+ {
+  "_pageName": "The Pact",
+  "dlc": "31",
+  "collectible": "The Pact",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "The Pact",
+  "dlc": "31",
+  "collectible": "The Pact",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "The Pact",
+  "dlc": "31",
+  "collectible": "The Pact",
+  "tag": "tearsup"
+ },
+ {
+  "_pageName": "The Parasite",
+  "dlc": "31",
+  "collectible": "The Parasite",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "The Parasite",
+  "dlc": "31",
+  "collectible": "The Parasite",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "The Peeper",
+  "dlc": "31",
+  "collectible": "The Peeper",
+  "tag": "monstermanual"
+ },
+ {
+  "_pageName": "The Peeper",
+  "dlc": "31",
+  "collectible": "The Peeper",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "The Peeper",
+  "dlc": "31",
+  "collectible": "The Peeper",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "The Pinking Shears",
+  "dlc": "31",
+  "collectible": "The Pinking Shears",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "The Polaroid",
+  "dlc": "31",
+  "collectible": "The Polaroid",
+  "tag": "lazarusshared"
+ },
+ {
+  "_pageName": "The Polaroid",
+  "dlc": "31",
+  "collectible": "The Polaroid",
+  "tag": "noeden"
+ },
+ {
+  "_pageName": "The Polaroid",
+  "dlc": "31",
+  "collectible": "The Polaroid",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "The Polaroid",
+  "dlc": "31",
+  "collectible": "The Polaroid",
+  "tag": "quest"
+ },
+ {
+  "_pageName": "The Poop",
+  "dlc": "31",
+  "collectible": "The Poop",
+  "tag": "poop"
+ },
+ {
+  "_pageName": "The Relic",
+  "dlc": "31",
+  "collectible": "The Relic",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "The Relic",
+  "dlc": "31",
+  "collectible": "The Relic",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "The Relic",
+  "dlc": "31",
+  "collectible": "The Relic",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "The Sad Onion",
+  "dlc": "31",
+  "collectible": "The Sad Onion",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "The Sad Onion",
+  "dlc": "31",
+  "collectible": "The Sad Onion",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "The Sad Onion",
+  "dlc": "31",
+  "collectible": "The Sad Onion",
+  "tag": "tearsup"
+ },
+ {
+  "_pageName": "The Scooper",
+  "dlc": "24",
+  "collectible": "The Scooper",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "The Small Rock",
+  "dlc": "31",
+  "collectible": "The Small Rock",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "The Small Rock",
+  "dlc": "31",
+  "collectible": "The Small Rock",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "The Small Rock",
+  "dlc": "31",
+  "collectible": "The Small Rock",
+  "tag": "tearsup"
+ },
+ {
+  "_pageName": "The Soul",
+  "dlc": "31",
+  "collectible": "The Soul",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "The Stairway",
+  "dlc": "16",
+  "collectible": "The Stairway",
+  "tag": "lazarussharedglobal"
+ },
+ {
+  "_pageName": "The Stairway",
+  "dlc": "24",
+  "collectible": "The Stairway",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "The Stairway",
+  "dlc": "24",
+  "collectible": "The Stairway",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "The Swarm",
+  "dlc": "24",
+  "collectible": "The Swarm",
+  "tag": "fly"
+ },
+ {
+  "_pageName": "The Swarm",
+  "dlc": "24",
+  "collectible": "The Swarm",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "The Virus",
+  "dlc": "15",
+  "collectible": "The Virus",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "The Virus",
+  "dlc": "16",
+  "collectible": "The Virus",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "The Virus",
+  "dlc": "31",
+  "collectible": "The Virus",
+  "tag": ""
+ },
+ {
+  "_pageName": "The Virus",
+  "dlc": "31",
+  "collectible": "The Virus",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "The Virus",
+  "dlc": "31",
+  "collectible": "The Virus",
+  "tag": "syringe"
+ },
+ {
+  "_pageName": "The Wafer",
+  "dlc": "31",
+  "collectible": "The Wafer",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "The Wafer",
+  "dlc": "31",
+  "collectible": "The Wafer",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "The Wiz",
+  "dlc": "30",
+  "collectible": "The Wiz",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "The Wiz",
+  "dlc": "30",
+  "collectible": "The Wiz",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "There's Options",
+  "dlc": "31",
+  "collectible": "There's Options",
+  "tag": "lazarussharedglobal"
+ },
+ {
+  "_pageName": "There's Options",
+  "dlc": "31",
+  "collectible": "There's Options",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "There's Options",
+  "dlc": "31",
+  "collectible": "There's Options",
+  "tag": "nogreed"
+ },
+ {
+  "_pageName": "There's Options",
+  "dlc": "31",
+  "collectible": "There's Options",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "There's Options",
+  "dlc": "31",
+  "collectible": "There's Options",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Thunder Thighs",
+  "dlc": "31",
+  "collectible": "Thunder Thighs",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Thunder Thighs",
+  "dlc": "31",
+  "collectible": "Thunder Thighs",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Tiny Planet",
+  "dlc": "31",
+  "collectible": "Tiny Planet",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Tiny Planet",
+  "dlc": "31",
+  "collectible": "Tiny Planet",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Tinytoma",
+  "dlc": "31",
+  "collectible": "Tinytoma",
+  "tag": "monstermanual"
+ },
+ {
+  "_pageName": "Tinytoma",
+  "dlc": "31",
+  "collectible": "Tinytoma",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "TMTRAINER",
+  "dlc": "24",
+  "collectible": "TMTRAINER",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "TMTRAINER",
+  "dlc": "24",
+  "collectible": "TMTRAINER",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Tooth and Nail",
+  "dlc": "24",
+  "collectible": "Tooth and Nail",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Tooth and Nail",
+  "dlc": "24",
+  "collectible": "Tooth and Nail",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Tooth Picks",
+  "dlc": "31",
+  "collectible": "Tooth Picks",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Tooth Picks",
+  "dlc": "31",
+  "collectible": "Tooth Picks",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Tooth Picks",
+  "dlc": "31",
+  "collectible": "Tooth Picks",
+  "tag": "tearsup"
+ },
+ {
+  "_pageName": "Torn Photo",
+  "dlc": "31",
+  "collectible": "Torn Photo",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Torn Photo",
+  "dlc": "31",
+  "collectible": "Torn Photo",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Torn Photo",
+  "dlc": "31",
+  "collectible": "Torn Photo",
+  "tag": "tearsup"
+ },
+ {
+  "_pageName": "Tough Love",
+  "dlc": "31",
+  "collectible": "Tough Love",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Tough Love",
+  "dlc": "31",
+  "collectible": "Tough Love",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Toxic Shock",
+  "dlc": "30",
+  "collectible": "Toxic Shock",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Toxic Shock",
+  "dlc": "30",
+  "collectible": "Toxic Shock",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Tractor Beam",
+  "dlc": "15",
+  "collectible": "Tractor Beam",
+  "tag": ""
+ },
+ {
+  "_pageName": "Tractor Beam",
+  "dlc": "16",
+  "collectible": "Tractor Beam",
+  "tag": "tearsup"
+ },
+ {
+  "_pageName": "Tractor Beam",
+  "dlc": "31",
+  "collectible": "Tractor Beam",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Tractor Beam",
+  "dlc": "31",
+  "collectible": "Tractor Beam",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Transcendence",
+  "dlc": "31",
+  "collectible": "Transcendence",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Transcendence",
+  "dlc": "31",
+  "collectible": "Transcendence",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Treasure Map",
+  "dlc": "31",
+  "collectible": "Treasure Map",
+  "tag": "lazarussharedglobal"
+ },
+ {
+  "_pageName": "Treasure Map",
+  "dlc": "31",
+  "collectible": "Treasure Map",
+  "tag": "nogreed"
+ },
+ {
+  "_pageName": "Treasure Map",
+  "dlc": "31",
+  "collectible": "Treasure Map",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Treasure Map",
+  "dlc": "31",
+  "collectible": "Treasure Map",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Trinity Shield",
+  "dlc": "31",
+  "collectible": "Trinity Shield",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Trisagion",
+  "dlc": "28",
+  "collectible": "Trisagion",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Trisagion",
+  "dlc": "28",
+  "collectible": "Trisagion",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Tropicamide",
+  "dlc": "31",
+  "collectible": "Tropicamide",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Tropicamide",
+  "dlc": "31",
+  "collectible": "Tropicamide",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Twisted Pair",
+  "dlc": "24",
+  "collectible": "Twisted Pair",
+  "tag": "baby"
+ },
+ {
+  "_pageName": "Twisted Pair",
+  "dlc": "24",
+  "collectible": "Twisted Pair",
+  "tag": "monstermanual"
+ },
+ {
+  "_pageName": "Twisted Pair",
+  "dlc": "24",
+  "collectible": "Twisted Pair",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Twisted Pair",
+  "dlc": "24",
+  "collectible": "Twisted Pair",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Undefined",
+  "dlc": "31",
+  "collectible": "Undefined",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Uranus",
+  "dlc": "24",
+  "collectible": "Uranus",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Uranus",
+  "dlc": "24",
+  "collectible": "Uranus",
+  "tag": "stars"
+ },
+ {
+  "_pageName": "Uranus",
+  "dlc": "24",
+  "collectible": "Uranus",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Urn of Souls",
+  "dlc": "24",
+  "collectible": "Urn of Souls",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Urn of Souls",
+  "dlc": "24",
+  "collectible": "Urn of Souls",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Vade Retro",
+  "dlc": "24",
+  "collectible": "Vade Retro",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Vade Retro",
+  "dlc": "24",
+  "collectible": "Vade Retro",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Vanishing Twin",
+  "dlc": "24",
+  "collectible": "Vanishing Twin",
+  "tag": "lazarussharedglobal"
+ },
+ {
+  "_pageName": "Vanishing Twin",
+  "dlc": "24",
+  "collectible": "Vanishing Twin",
+  "tag": "nogreed"
+ },
+ {
+  "_pageName": "Vanishing Twin",
+  "dlc": "24",
+  "collectible": "Vanishing Twin",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Vanishing Twin",
+  "dlc": "24",
+  "collectible": "Vanishing Twin",
+  "tag": "uniquefamiliar"
+ },
+ {
+  "_pageName": "Varicose Veins",
+  "dlc": "28",
+  "collectible": "Varicose Veins",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Varicose Veins",
+  "dlc": "28",
+  "collectible": "Varicose Veins",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Vasculitis",
+  "dlc": "24",
+  "collectible": "Vasculitis",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Vasculitis",
+  "dlc": "24",
+  "collectible": "Vasculitis",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Vengeful Spirit",
+  "dlc": "31",
+  "collectible": "Vengeful Spirit",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Vengeful Spirit",
+  "dlc": "31",
+  "collectible": "Vengeful Spirit",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Ventricle Razor",
+  "dlc": "30",
+  "collectible": "Ventricle Razor",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Ventricle Razor",
+  "dlc": "30",
+  "collectible": "Ventricle Razor",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Venus",
+  "dlc": "31",
+  "collectible": "Venus",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Venus",
+  "dlc": "31",
+  "collectible": "Venus",
+  "tag": "stars"
+ },
+ {
+  "_pageName": "Venus",
+  "dlc": "31",
+  "collectible": "Venus",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Virgo",
+  "dlc": "31",
+  "collectible": "Virgo",
+  "tag": "stars"
+ },
+ {
+  "_pageName": "Virgo",
+  "dlc": "31",
+  "collectible": "Virgo",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Void",
+  "dlc": "28",
+  "collectible": "Void",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Void",
+  "dlc": "28",
+  "collectible": "Void",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Voodoo Head",
+  "dlc": "15",
+  "collectible": "Voodoo Head",
+  "tag": ""
+ },
+ {
+  "_pageName": "Voodoo Head",
+  "dlc": "16",
+  "collectible": "Voodoo Head",
+  "tag": "nogreed"
+ },
+ {
+  "_pageName": "Voodoo Head",
+  "dlc": "31",
+  "collectible": "Voodoo Head",
+  "tag": "lazarussharedglobal"
+ },
+ {
+  "_pageName": "Voodoo Head",
+  "dlc": "31",
+  "collectible": "Voodoo Head",
+  "tag": "nocantrip"
+ },
+ {
+  "_pageName": "Voodoo Head",
+  "dlc": "31",
+  "collectible": "Voodoo Head",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Voodoo Head",
+  "dlc": "31",
+  "collectible": "Voodoo Head",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Wait What?",
+  "dlc": "28",
+  "collectible": "Wait What?",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Wavy Cap",
+  "dlc": "31",
+  "collectible": "Wavy Cap",
+  "tag": "mushroom"
+ },
+ {
+  "_pageName": "Wavy Cap",
+  "dlc": "31",
+  "collectible": "Wavy Cap",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "We Need To Go Deeper!",
+  "dlc": "31",
+  "collectible": "We Need To Go Deeper!",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "White Pony",
+  "dlc": "31",
+  "collectible": "White Pony",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Whore of Babylon",
+  "dlc": "31",
+  "collectible": "Whore of Babylon",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Whore of Babylon",
+  "dlc": "31",
+  "collectible": "Whore of Babylon",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Wire Coat Hanger",
+  "dlc": "31",
+  "collectible": "Wire Coat Hanger",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Wire Coat Hanger",
+  "dlc": "31",
+  "collectible": "Wire Coat Hanger",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Wire Coat Hanger",
+  "dlc": "31",
+  "collectible": "Wire Coat Hanger",
+  "tag": "tearsup"
+ },
+ {
+  "_pageName": "Wooden Nickel",
+  "dlc": "30",
+  "collectible": "Wooden Nickel",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Wooden Spoon",
+  "dlc": "31",
+  "collectible": "Wooden Spoon",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Wooden Spoon",
+  "dlc": "31",
+  "collectible": "Wooden Spoon",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Worm Friend",
+  "dlc": "15",
+  "collectible": "Worm Friend",
+  "tag": ""
+ },
+ {
+  "_pageName": "Worm Friend",
+  "dlc": "16",
+  "collectible": "Worm Friend",
+  "tag": "monstermanual"
+ },
+ {
+  "_pageName": "Worm Friend",
+  "dlc": "31",
+  "collectible": "Worm Friend",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Worm Friend",
+  "dlc": "31",
+  "collectible": "Worm Friend",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "X-Ray Vision",
+  "dlc": "31",
+  "collectible": "X-Ray Vision",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "X-Ray Vision",
+  "dlc": "31",
+  "collectible": "X-Ray Vision",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "YO LISTEN!",
+  "dlc": "28",
+  "collectible": "YO LISTEN!",
+  "tag": "fly"
+ },
+ {
+  "_pageName": "YO LISTEN!",
+  "dlc": "28",
+  "collectible": "YO LISTEN!",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "YO LISTEN!",
+  "dlc": "28",
+  "collectible": "YO LISTEN!",
+  "tag": "summonable"
+ },
+ {
+  "_pageName": "Yuck Heart",
+  "dlc": "24",
+  "collectible": "Yuck Heart",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Yum Heart",
+  "dlc": "31",
+  "collectible": "Yum Heart",
+  "tag": "nolostbr"
+ },
+ {
+  "_pageName": "Zodiac",
+  "dlc": "31",
+  "collectible": "Zodiac",
+  "tag": "offensive"
+ },
+ {
+  "_pageName": "Zodiac",
+  "dlc": "31",
+  "collectible": "Zodiac",
+  "tag": "stars"
+ },
+ {
+  "_pageName": "Zodiac",
+  "dlc": "31",
+  "collectible": "Zodiac",
+  "tag": "summonable"
+ }
+]

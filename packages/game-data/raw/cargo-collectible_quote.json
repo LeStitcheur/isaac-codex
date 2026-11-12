@@ -1,0 +1,4706 @@
+[
+ {
+  "_pageName": "???'s Only Friend",
+  "dlc": "31",
+  "collectible": "???'s Only Friend",
+  "quote": "Controlled friend"
+ },
+ {
+  "_pageName": "120 Volt",
+  "dlc": "31",
+  "collectible": "120 Volt",
+  "quote": "Zap!"
+ },
+ {
+  "_pageName": "1up!",
+  "dlc": "31",
+  "collectible": "1up!",
+  "quote": "Extra life"
+ },
+ {
+  "_pageName": "20/20",
+  "dlc": "31",
+  "collectible": "20/20",
+  "quote": "Double shot"
+ },
+ {
+  "_pageName": "2Spooky",
+  "dlc": "31",
+  "collectible": "2Spooky",
+  "quote": "4me"
+ },
+ {
+  "_pageName": "3 Dollar Bill",
+  "dlc": "31",
+  "collectible": "3 Dollar Bill",
+  "quote": "Rainbow tears"
+ },
+ {
+  "_pageName": "4.5 Volt",
+  "dlc": "24",
+  "collectible": "4.5 Volt",
+  "quote": "Beat the juice out of them!"
+ },
+ {
+  "_pageName": "7 Seals",
+  "dlc": "28",
+  "collectible": "7 Seals",
+  "quote": "Lil harbingers!"
+ },
+ {
+  "_pageName": "8 Inch Nails",
+  "dlc": "31",
+  "collectible": "8 Inch Nails",
+  "quote": "Stick it to 'em!"
+ },
+ {
+  "_pageName": "9 Volt",
+  "dlc": "31",
+  "collectible": "9 Volt",
+  "quote": "Quicker charge"
+ },
+ {
+  "_pageName": "A Bar of Soap",
+  "dlc": "24",
+  "collectible": "A Bar of Soap",
+  "quote": "Tears + shot speed up"
+ },
+ {
+  "_pageName": "A Dollar",
+  "dlc": "31",
+  "collectible": "A Dollar",
+  "quote": "$$$"
+ },
+ {
+  "_pageName": "A Lump of Coal",
+  "dlc": "31",
+  "collectible": "A Lump of Coal",
+  "quote": "My Xmas present"
+ },
+ {
+  "_pageName": "A Pony",
+  "dlc": "31",
+  "collectible": "A Pony",
+  "quote": "Flight + dash attack"
+ },
+ {
+  "_pageName": "A Pound of Flesh",
+  "dlc": "31",
+  "collectible": "A Pound of Flesh",
+  "quote": "Blood money"
+ },
+ {
+  "_pageName": "A Quarter",
+  "dlc": "31",
+  "collectible": "A Quarter",
+  "quote": "+25 coins"
+ },
+ {
+  "_pageName": "A Snack",
+  "dlc": "31",
+  "collectible": "A Snack",
+  "quote": "HP up"
+ },
+ {
+  "_pageName": "Abaddon",
+  "dlc": "31",
+  "collectible": "Abaddon",
+  "quote": "Evil + DMG up + fear shot"
+ },
+ {
+  "_pageName": "Abel",
+  "dlc": "31",
+  "collectible": "Abel",
+  "quote": "Mirrored buddy"
+ },
+ {
+  "_pageName": "Abyss",
+  "dlc": "24",
+  "collectible": "Abyss",
+  "quote": "Come forth from the depths"
+ },
+ {
+  "_pageName": "Acid Baby",
+  "dlc": "28",
+  "collectible": "Acid Baby",
+  "quote": "Pills pills pills!"
+ },
+ {
+  "_pageName": "Act of Contrition",
+  "dlc": "24",
+  "collectible": "Act of Contrition",
+  "quote": "Tears up&comma; you feel forgiven"
+ },
+ {
+  "_pageName": "Adrenaline",
+  "dlc": "28",
+  "collectible": "Adrenaline",
+  "quote": "Panic = power"
+ },
+ {
+  "_pageName": "Akeldama",
+  "dlc": "24",
+  "collectible": "Akeldama",
+  "quote": "Spill your guts"
+ },
+ {
+  "_pageName": "Alabaster Box",
+  "dlc": "24",
+  "collectible": "Alabaster Box",
+  "quote": "A sacred offering"
+ },
+ {
+  "_pageName": "Almond Milk",
+  "dlc": "24",
+  "collectible": "Almond Milk",
+  "quote": "DMG down + tears up + you feel nutty"
+ },
+ {
+  "_pageName": "Analog Stick",
+  "dlc": "31",
+  "collectible": "Analog Stick",
+  "quote": "360 tears!"
+ },
+ {
+  "_pageName": "Anarchist Cookbook",
+  "dlc": "31",
+  "collectible": "Anarchist Cookbook",
+  "quote": "Summon bombs"
+ },
+ {
+  "_pageName": "Anemic",
+  "dlc": "31",
+  "collectible": "Anemic",
+  "quote": "Toxic blood"
+ },
+ {
+  "_pageName": "Angelic Prism",
+  "dlc": "28",
+  "collectible": "Angelic Prism",
+  "quote": "Eclipsed by the moon"
+ },
+ {
+  "_pageName": "Angry Fly",
+  "dlc": "28",
+  "collectible": "Angry Fly",
+  "quote": "He's violent"
+ },
+ {
+  "_pageName": "Anima Sola",
+  "dlc": "31",
+  "collectible": "Anima Sola",
+  "quote": "Repent"
+ },
+ {
+  "_pageName": "Ankh",
+  "dlc": "31",
+  "collectible": "Ankh",
+  "quote": "Eternal life?"
+ },
+ {
+  "_pageName": "Anti-Gravity",
+  "dlc": "31",
+  "collectible": "Anti-Gravity",
+  "quote": "Anti-gravity tears + tears up"
+ },
+ {
+  "_pageName": "Apple!",
+  "dlc": "31",
+  "collectible": "Apple!",
+  "quote": "Trick or treat?"
+ },
+ {
+  "_pageName": "Aquarius",
+  "dlc": "31",
+  "collectible": "Aquarius",
+  "quote": "Trail of tears"
+ },
+ {
+  "_pageName": "Aries",
+  "dlc": "31",
+  "collectible": "Aries",
+  "quote": "Ramming speed"
+ },
+ {
+  "_pageName": "Astral Projection",
+  "dlc": "24",
+  "collectible": "Astral Projection",
+  "quote": "The true out-of-body experience!"
+ },
+ {
+  "_pageName": "Athame",
+  "dlc": "30",
+  "collectible": "Athame",
+  "quote": "Call to the void"
+ },
+ {
+  "_pageName": "Azazel's Rage",
+  "dlc": "31",
+  "collectible": "Azazel's Rage",
+  "quote": "Ancient power"
+ },
+ {
+  "_pageName": "Backstabber",
+  "dlc": "31",
+  "collectible": "Backstabber",
+  "quote": "Watch your back!"
+ },
+ {
+  "_pageName": "Bag of Crafting",
+  "dlc": "24",
+  "collectible": "Bag of Crafting",
+  "quote": "Make your destiny"
+ },
+ {
+  "_pageName": "Ball of Bandages",
+  "dlc": "31",
+  "collectible": "Ball of Bandages",
+  "quote": "Gotta lick 'em all!"
+ },
+ {
+  "_pageName": "Ball of Tar",
+  "dlc": "31",
+  "collectible": "Ball of Tar",
+  "quote": "Sticky feet..."
+ },
+ {
+  "_pageName": "Battery Pack",
+  "dlc": "31",
+  "collectible": "Battery Pack",
+  "quote": "Instant energy!"
+ },
+ {
+  "_pageName": "BBF",
+  "dlc": "31",
+  "collectible": "BBF",
+  "quote": "Big Beautiful Fly"
+ },
+ {
+  "_pageName": "Belly Button",
+  "dlc": "31",
+  "collectible": "Belly Button",
+  "quote": "What's in there?"
+ },
+ {
+  "_pageName": "Belly Jelly",
+  "dlc": "31",
+  "collectible": "Belly Jelly",
+  "quote": "Bounce away!"
+ },
+ {
+  "_pageName": "Berserk!",
+  "dlc": "24",
+  "collectible": "Berserk!",
+  "quote": "Rip and tear"
+ },
+ {
+  "_pageName": "Best Bud",
+  "dlc": "31",
+  "collectible": "Best Bud",
+  "quote": "Sworn protector"
+ },
+ {
+  "_pageName": "Best Friend",
+  "dlc": "31",
+  "collectible": "Best Friend",
+  "quote": "Friends 'till the end"
+ },
+ {
+  "_pageName": "Betrayal",
+  "dlc": "30",
+  "collectible": "Betrayal",
+  "quote": "Turn your enemy"
+ },
+ {
+  "_pageName": "BFFS!",
+  "dlc": "31",
+  "collectible": "BFFS!",
+  "quote": "Your friends rule!"
+ },
+ {
+  "_pageName": "Big Chubby",
+  "dlc": "31",
+  "collectible": "Big Chubby",
+  "quote": "Chub chub"
+ },
+ {
+  "_pageName": "Big Fan",
+  "dlc": "31",
+  "collectible": "Big Fan",
+  "quote": "Fat protector"
+ },
+ {
+  "_pageName": "Binge Eater",
+  "dlc": "31",
+  "collectible": "Binge Eater",
+  "quote": "All you can eat"
+ },
+ {
+  "_pageName": "Binky",
+  "dlc": "6",
+  "collectible": "Binky",
+  "quote": "Memories..."
+ },
+ {
+  "_pageName": "Binky",
+  "dlc": "24",
+  "collectible": "Binky",
+  "quote": "Tears up"
+ },
+ {
+  "_pageName": "Bird Cage",
+  "dlc": "31",
+  "collectible": "Bird Cage",
+  "quote": "Fat buddy"
+ },
+ {
+  "_pageName": "Bird's Eye",
+  "dlc": "31",
+  "collectible": "Bird's Eye",
+  "quote": "It burns"
+ },
+ {
+  "_pageName": "Birthright",
+  "dlc": "24",
+  "collectible": "Birthright",
+  "quote": "???"
+ },
+ {
+  "_pageName": "Black Candle",
+  "dlc": "31",
+  "collectible": "Black Candle",
+  "quote": "Curse immunity + evil up"
+ },
+ {
+  "_pageName": "Black Hole",
+  "dlc": "31",
+  "collectible": "Black Hole",
+  "quote": "Nothing can escape"
+ },
+ {
+  "_pageName": "Black Lotus",
+  "dlc": "31",
+  "collectible": "Black Lotus",
+  "quote": "HP up x3!"
+ },
+ {
+  "_pageName": "Black Powder",
+  "dlc": "30",
+  "collectible": "Black Powder",
+  "quote": "Spin the black circle!"
+ },
+ {
+  "_pageName": "Blank Card",
+  "dlc": "31",
+  "collectible": "Blank Card",
+  "quote": "Card mimic"
+ },
+ {
+  "_pageName": "Blanket",
+  "dlc": "28",
+  "collectible": "Blanket",
+  "quote": "You feel Safe"
+ },
+ {
+  "_pageName": "Blood Bag",
+  "dlc": "7",
+  "collectible": "Blood Bag",
+  "quote": "HP up"
+ },
+ {
+  "_pageName": "Blood Bag",
+  "dlc": "24",
+  "collectible": "Blood Bag",
+  "quote": "HP + speed up"
+ },
+ {
+  "_pageName": "Blood Bombs",
+  "dlc": "24",
+  "collectible": "Blood Bombs",
+  "quote": "Bloody blast + HP up"
+ },
+ {
+  "_pageName": "Blood Clot",
+  "dlc": "31",
+  "collectible": "Blood Clot",
+  "quote": "DMG + range up"
+ },
+ {
+  "_pageName": "Blood Oath",
+  "dlc": "24",
+  "collectible": "Blood Oath",
+  "quote": "Bleed me dry"
+ },
+ {
+  "_pageName": "Blood of the Martyr",
+  "dlc": "31",
+  "collectible": "Blood of the Martyr",
+  "quote": "DMG up"
+ },
+ {
+  "_pageName": "Blood Puppy",
+  "dlc": "24",
+  "collectible": "Blood Puppy",
+  "quote": "What a cute little thing!"
+ },
+ {
+  "_pageName": "Blood Rights",
+  "dlc": "31",
+  "collectible": "Blood Rights",
+  "quote": "Mass enemy damage at a cost"
+ },
+ {
+  "_pageName": "Bloodshot Eye",
+  "dlc": "31",
+  "collectible": "Bloodshot Eye",
+  "quote": "Bloody friend"
+ },
+ {
+  "_pageName": "Bloody Gust",
+  "dlc": "31",
+  "collectible": "Bloody Gust",
+  "quote": "May your rage bring haste"
+ },
+ {
+  "_pageName": "Bloody Lust",
+  "dlc": "31",
+  "collectible": "Bloody Lust",
+  "quote": "RAGE!"
+ },
+ {
+  "_pageName": "Blue Cap",
+  "dlc": "31",
+  "collectible": "Blue Cap",
+  "quote": "HP + tears up + shot speed down"
+ },
+ {
+  "_pageName": "Blue Map",
+  "dlc": "31",
+  "collectible": "Blue Map",
+  "quote": "Secrets"
+ },
+ {
+  "_pageName": "Bob's Brain",
+  "dlc": "31",
+  "collectible": "Bob's Brain",
+  "quote": "Explosive thoughts"
+ },
+ {
+  "_pageName": "Bob's Curse",
+  "dlc": "31",
+  "collectible": "Bob's Curse",
+  "quote": "+5 poison bombs"
+ },
+ {
+  "_pageName": "Bob's Rotten Head",
+  "dlc": "31",
+  "collectible": "Bob's Rotten Head",
+  "quote": "Reusable ranged bomb"
+ },
+ {
+  "_pageName": "Bobby-Bomb",
+  "dlc": "31",
+  "collectible": "Bobby-Bomb",
+  "quote": "Homing bombs!"
+ },
+ {
+  "_pageName": "BOGO Bombs",
+  "dlc": "31",
+  "collectible": "BOGO Bombs",
+  "quote": "1+1 BOOM!"
+ },
+ {
+  "_pageName": "Boiled Baby",
+  "dlc": "24",
+  "collectible": "Boiled Baby",
+  "quote": "Messy friend"
+ },
+ {
+  "_pageName": "Bomb Bag",
+  "dlc": "31",
+  "collectible": "Bomb Bag",
+  "quote": "Gives bombs"
+ },
+ {
+  "_pageName": "Bomber Boy",
+  "dlc": "6",
+  "collectible": "Bomber Boy",
+  "quote": "Explosive blast!"
+ },
+ {
+  "_pageName": "Bomber Boy",
+  "dlc": "24",
+  "collectible": "Bomber Boy",
+  "quote": "Cross blast + 5 bombs"
+ },
+ {
+  "_pageName": "Bone Spurs",
+  "dlc": "24",
+  "collectible": "Bone Spurs",
+  "quote": "Break your enemies"
+ },
+ {
+  "_pageName": "Book of Revelations",
+  "dlc": "31",
+  "collectible": "Book of Revelations",
+  "quote": "Reusable soul protection"
+ },
+ {
+  "_pageName": "Book of Secrets",
+  "dlc": "7",
+  "collectible": "Book of Secrets",
+  "quote": "??????"
+ },
+ {
+  "_pageName": "Book of Secrets",
+  "dlc": "24",
+  "collectible": "Book of Secrets",
+  "quote": "Tome of knowledge"
+ },
+ {
+  "_pageName": "Book of Shadows",
+  "dlc": "31",
+  "collectible": "Book of Shadows",
+  "quote": "Temporary invincibility"
+ },
+ {
+  "_pageName": "Book of the Dead",
+  "dlc": "28",
+  "collectible": "Book of the Dead",
+  "quote": "Rise from the grave"
+ },
+ {
+  "_pageName": "Book of Virtues",
+  "dlc": "24",
+  "collectible": "Book of Virtues",
+  "quote": "Spiritual companionship"
+ },
+ {
+  "_pageName": "Boom!",
+  "dlc": "31",
+  "collectible": "Boom!",
+  "quote": "10 bombs"
+ },
+ {
+  "_pageName": "Booster Pack (Item)",
+  "dlc": "24",
+  "collectible": "Booster Pack",
+  "quote": "Collect them all!"
+ },
+ {
+  "_pageName": "Bot Fly",
+  "dlc": "31",
+  "collectible": "Bot Fly",
+  "quote": "Defense drone"
+ },
+ {
+  "_pageName": "Box",
+  "dlc": "31",
+  "collectible": "Box",
+  "quote": "Stuff"
+ },
+ {
+  "_pageName": "Box of Friends",
+  "dlc": "30",
+  "collectible": "Box of Friends",
+  "quote": "Double your friends"
+ },
+ {
+  "_pageName": "Box of Spiders",
+  "dlc": "31",
+  "collectible": "Box of Spiders",
+  "quote": "It's a box of spiders"
+ },
+ {
+  "_pageName": "Bozo",
+  "dlc": "28",
+  "collectible": "Bozo",
+  "quote": "Party time!"
+ },
+ {
+  "_pageName": "Breakfast",
+  "dlc": "31",
+  "collectible": "Breakfast",
+  "quote": "HP up"
+ },
+ {
+  "_pageName": "Breath of Life",
+  "dlc": "31",
+  "collectible": "Breath of Life",
+  "quote": "Invincibility at a cost"
+ },
+ {
+  "_pageName": "Brimstone",
+  "dlc": "31",
+  "collectible": "Brimstone",
+  "quote": "Blood laser barrage"
+ },
+ {
+  "_pageName": "Brimstone Bombs",
+  "dlc": "24",
+  "collectible": "Brimstone Bombs",
+  "quote": "Demon blast +5 bombs"
+ },
+ {
+  "_pageName": "Brittle Bones",
+  "dlc": "28",
+  "collectible": "Brittle Bones",
+  "quote": "Everything hurts"
+ },
+ {
+  "_pageName": "Broken Glass Cannon",
+  "dlc": "31",
+  "collectible": "Broken Glass Cannon",
+  "quote": "You broke it!"
+ },
+ {
+  "_pageName": "Broken Modem",
+  "dlc": "28",
+  "collectible": "Broken Modem",
+  "quote": "Lag!"
+ },
+ {
+  "_pageName": "Broken Shovel",
+  "dlc": "28",
+  "collectible": "Broken Shovel 1",
+  "quote": "It feels cursed"
+ },
+ {
+  "_pageName": "Broken Shovel",
+  "dlc": "28",
+  "collectible": "Broken Shovel 2",
+  "quote": "It feels cursed"
+ },
+ {
+  "_pageName": "Broken Watch",
+  "dlc": "31",
+  "collectible": "Broken Watch",
+  "quote": "I think it's broken"
+ },
+ {
+  "_pageName": "Brother Bobby",
+  "dlc": "31",
+  "collectible": "Brother Bobby",
+  "quote": "Friends 'till the end"
+ },
+ {
+  "_pageName": "Brown Nugget",
+  "dlc": "28",
+  "collectible": "Brown Nugget",
+  "quote": "Friendly fly"
+ },
+ {
+  "_pageName": "Bucket of Lard",
+  "dlc": "31",
+  "collectible": "Bucket of Lard",
+  "quote": "HP up"
+ },
+ {
+  "_pageName": "Buddy in a Box",
+  "dlc": "28",
+  "collectible": "Buddy in a Box",
+  "quote": "What could it be?!"
+ },
+ {
+  "_pageName": "Bum Friend",
+  "dlc": "31",
+  "collectible": "Bum Friend",
+  "quote": "He's greedy"
+ },
+ {
+  "_pageName": "Bumbo",
+  "dlc": "30",
+  "collectible": "Bumbo",
+  "quote": "Bumbo want coin!"
+ },
+ {
+  "_pageName": "Bursting Sack",
+  "dlc": "31",
+  "collectible": "Bursting Sack",
+  "quote": "Spider love"
+ },
+ {
+  "_pageName": "Butt Bombs",
+  "dlc": "31",
+  "collectible": "Butt Bombs",
+  "quote": "Toxic blast +5 bombs"
+ },
+ {
+  "_pageName": "Butter Bean",
+  "dlc": "31",
+  "collectible": "Butter Bean",
+  "quote": "Reusable knock-back"
+ },
+ {
+  "_pageName": "C Section",
+  "dlc": "24",
+  "collectible": "C Section",
+  "quote": "Fetus shots"
+ },
+ {
+  "_pageName": "Caffeine Pill",
+  "dlc": "31",
+  "collectible": "Caffeine Pill",
+  "quote": "Speed up + size down"
+ },
+ {
+  "_pageName": "Cain's Other Eye",
+  "dlc": "31",
+  "collectible": "Cain's Other Eye",
+  "quote": "Near-sighted friend"
+ },
+ {
+  "_pageName": "Cambion Conception",
+  "dlc": "30",
+  "collectible": "Cambion Conception",
+  "quote": "Feed them hate"
+ },
+ {
+  "_pageName": "Camo Undies",
+  "dlc": "28",
+  "collectible": "Camo Undies",
+  "quote": "Camo kid"
+ },
+ {
+  "_pageName": "Cancer",
+  "dlc": "31",
+  "collectible": "Cancer",
+  "quote": "HP up + you feel protected"
+ },
+ {
+  "_pageName": "Candy Heart",
+  "dlc": "24",
+  "collectible": "Candy Heart",
+  "quote": "Power of love"
+ },
+ {
+  "_pageName": "Capricorn",
+  "dlc": "31",
+  "collectible": "Capricorn",
+  "quote": "All stats up"
+ },
+ {
+  "_pageName": "Car Battery",
+  "dlc": "6",
+  "collectible": "Car Battery",
+  "quote": "Double charge!"
+ },
+ {
+  "_pageName": "Car Battery",
+  "dlc": "24",
+  "collectible": "Car Battery",
+  "quote": "Active power up"
+ },
+ {
+  "_pageName": "Card Reading",
+  "dlc": "31",
+  "collectible": "Card Reading",
+  "quote": "A link to your future"
+ },
+ {
+  "_pageName": "Cat-o-nine-tails",
+  "dlc": "31",
+  "collectible": "Cat-o-nine-tails",
+  "quote": "Shot speed + damage up"
+ },
+ {
+  "_pageName": "Celtic Cross",
+  "dlc": "7",
+  "collectible": "Celtic Cross",
+  "quote": "You feel blessed"
+ },
+ {
+  "_pageName": "Celtic Cross",
+  "dlc": "24",
+  "collectible": "Celtic Cross",
+  "quote": "Blessing of protection"
+ },
+ {
+  "_pageName": "Censer",
+  "dlc": "30",
+  "collectible": "Censer",
+  "quote": "Peace be with you"
+ },
+ {
+  "_pageName": "Ceremonial Robes",
+  "dlc": "7",
+  "collectible": "Ceremonial Robes",
+  "quote": "Sin up"
+ },
+ {
+  "_pageName": "Ceremonial Robes",
+  "dlc": "24",
+  "collectible": "Ceremonial Robes",
+  "quote": "DMG + evil up"
+ },
+ {
+  "_pageName": "Champion Belt",
+  "dlc": "31",
+  "collectible": "Champion Belt",
+  "quote": "DMG + challenge up"
+ },
+ {
+  "_pageName": "Chaos",
+  "dlc": "30",
+  "collectible": "Chaos",
+  "quote": "!!!"
+ },
+ {
+  "_pageName": "Charged Baby",
+  "dlc": "31",
+  "collectible": "Charged Baby",
+  "quote": "Bbbzzzzzt!"
+ },
+ {
+  "_pageName": "Charm of the Vampire",
+  "dlc": "7",
+  "collectible": "Charm of the Vampire",
+  "quote": "Kills heal"
+ },
+ {
+  "_pageName": "Charm of the Vampire",
+  "dlc": "24",
+  "collectible": "Charm of the Vampire",
+  "quote": "DMG up + kills heal"
+ },
+ {
+  "_pageName": "Chemical Peel",
+  "dlc": "31",
+  "collectible": "Chemical Peel",
+  "quote": "DMG up"
+ },
+ {
+  "_pageName": "Chocolate Milk",
+  "dlc": "31",
+  "collectible": "Chocolate Milk",
+  "quote": "Charge shots"
+ },
+ {
+  "_pageName": "Circle of Protection",
+  "dlc": "30",
+  "collectible": "Circle of Protection",
+  "quote": "Protect me from myself"
+ },
+ {
+  "_pageName": "Clear Rune",
+  "dlc": "31",
+  "collectible": "Clear Rune",
+  "quote": "Rune mimic"
+ },
+ {
+  "_pageName": "Clicker",
+  "dlc": "28",
+  "collectible": "Clicker",
+  "quote": "Change"
+ },
+ {
+  "_pageName": "Compost",
+  "dlc": "31",
+  "collectible": "Compost",
+  "quote": "Gain more friends!"
+ },
+ {
+  "_pageName": "Compound Fracture",
+  "dlc": "28",
+  "collectible": "Compound Fracture",
+  "quote": "Bone tears!"
+ },
+ {
+  "_pageName": "Cone Head",
+  "dlc": "28",
+  "collectible": "Cone Head",
+  "quote": "Hard headed!"
+ },
+ {
+  "_pageName": "Consolation Prize",
+  "dlc": "24",
+  "collectible": "Consolation Prize",
+  "quote": "+1 to lowest stat"
+ },
+ {
+  "_pageName": "Contagion",
+  "dlc": "31",
+  "collectible": "Contagion",
+  "quote": "Outbreak!"
+ },
+ {
+  "_pageName": "Continuum",
+  "dlc": "30",
+  "collectible": "Continuum",
+  "quote": "Transcendent tears"
+ },
+ {
+  "_pageName": "Contract From Below",
+  "dlc": "31",
+  "collectible": "Contract From Below",
+  "quote": "Wealth... but at what cost?"
+ },
+ {
+  "_pageName": "Converter",
+  "dlc": "31",
+  "collectible": "Converter",
+  "quote": "Convert your soul"
+ },
+ {
+  "_pageName": "Coupon",
+  "dlc": "31",
+  "collectible": "Coupon",
+  "quote": "Allow 6 weeks for delivery"
+ },
+ {
+  "_pageName": "Crack Jacks",
+  "dlc": "6",
+  "collectible": "Crack Jacks",
+  "quote": "Don't swallow the prize!"
+ },
+ {
+  "_pageName": "Crack Jacks",
+  "dlc": "24",
+  "collectible": "Crack Jacks",
+  "quote": "HP up. Don't swallow the prize!"
+ },
+ {
+  "_pageName": "Crack the Sky",
+  "dlc": "31",
+  "collectible": "Crack the Sky",
+  "quote": "Holy white death"
+ },
+ {
+  "_pageName": "Cracked Orb",
+  "dlc": "24",
+  "collectible": "Cracked Orb",
+  "quote": "Shards of knowledge"
+ },
+ {
+  "_pageName": "Cricket's Body",
+  "dlc": "7",
+  "collectible": "Cricket's Body",
+  "quote": "Splash damage + tears up"
+ },
+ {
+  "_pageName": "Cricket's Body",
+  "dlc": "24",
+  "collectible": "Cricket's Body",
+  "quote": "Bursting shots + tears up"
+ },
+ {
+  "_pageName": "Cricket's Head",
+  "dlc": "31",
+  "collectible": "Cricket's Head",
+  "quote": "DMG up"
+ },
+ {
+  "_pageName": "Crooked Penny",
+  "dlc": "28",
+  "collectible": "Crooked Penny",
+  "quote": "50/50"
+ },
+ {
+  "_pageName": "Crown Of Light",
+  "dlc": "30",
+  "collectible": "Crown Of Light",
+  "quote": "The untainted gain power"
+ },
+ {
+  "_pageName": "Crystal Ball",
+  "dlc": "31",
+  "collectible": "Crystal Ball",
+  "quote": "I see my future"
+ },
+ {
+  "_pageName": "Cube Baby",
+  "dlc": "24",
+  "collectible": "Cube Baby",
+  "quote": "Kick it!"
+ },
+ {
+  "_pageName": "Cube of Meat",
+  "dlc": "31",
+  "collectible": "Cube of Meat",
+  "quote": "Gotta meat 'em all!"
+ },
+ {
+  "_pageName": "Cupid's Arrow",
+  "dlc": "31",
+  "collectible": "Cupid's Arrow",
+  "quote": "Piercing shots"
+ },
+ {
+  "_pageName": "Curse of the Tower",
+  "dlc": "6",
+  "collectible": "Curse of the Tower",
+  "quote": "You feel cursed..."
+ },
+ {
+  "_pageName": "Curse of the Tower",
+  "dlc": "24",
+  "collectible": "Curse of the Tower",
+  "quote": "Embrace chaos"
+ },
+ {
+  "_pageName": "Cursed Eye",
+  "dlc": "31",
+  "collectible": "Cursed Eye",
+  "quote": "Cursed charge shot"
+ },
+ {
+  "_pageName": "D infinity",
+  "dlc": "28",
+  "collectible": "D infinity",
+  "quote": "Reroll forever"
+ },
+ {
+  "_pageName": "D1",
+  "dlc": "28",
+  "collectible": "D1",
+  "quote": "What will it be?"
+ },
+ {
+  "_pageName": "D10",
+  "dlc": "31",
+  "collectible": "D10",
+  "quote": "Reroll enemies"
+ },
+ {
+  "_pageName": "D100",
+  "dlc": "31",
+  "collectible": "D100",
+  "quote": "REEROLLLLL!"
+ },
+ {
+  "_pageName": "D12",
+  "dlc": "30",
+  "collectible": "D12",
+  "quote": "Rerolls rocks"
+ },
+ {
+  "_pageName": "D20",
+  "dlc": "31",
+  "collectible": "D20",
+  "quote": "Reroll the basics"
+ },
+ {
+  "_pageName": "D4",
+  "dlc": "31",
+  "collectible": "D4",
+  "quote": "Reroll into something else"
+ },
+ {
+  "_pageName": "D7",
+  "dlc": "6",
+  "collectible": "D7",
+  "quote": "Reroll Rewards!"
+ },
+ {
+  "_pageName": "D7",
+  "dlc": "24",
+  "collectible": "D7",
+  "quote": "Roll again"
+ },
+ {
+  "_pageName": "D8",
+  "dlc": "30",
+  "collectible": "D8",
+  "quote": "Reroll stats"
+ },
+ {
+  "_pageName": "Dad's Key",
+  "dlc": "31",
+  "collectible": "Dad's Key",
+  "quote": "Opens all doors..."
+ },
+ {
+  "_pageName": "Dad's Lost Coin",
+  "dlc": "28",
+  "collectible": "Dad's Lost Coin",
+  "quote": "I remember this..."
+ },
+ {
+  "_pageName": "Dad's Note",
+  "dlc": "24",
+  "collectible": "Dad's Note",
+  "quote": "..."
+ },
+ {
+  "_pageName": "Dad's Ring",
+  "dlc": "28",
+  "collectible": "Dad's Ring",
+  "quote": "Father's blessing"
+ },
+ {
+  "_pageName": "Daddy Longlegs",
+  "dlc": "31",
+  "collectible": "Daddy Longlegs",
+  "quote": "Daddy's love"
+ },
+ {
+  "_pageName": "Damocles",
+  "dlc": "24",
+  "collectible": "Damocles",
+  "quote": "A king's fortune... but at what cost?"
+ },
+ {
+  "_pageName": "Dark Arts",
+  "dlc": "24",
+  "collectible": "Dark Arts",
+  "quote": "One with the shadows"
+ },
+ {
+  "_pageName": "Dark Bum",
+  "dlc": "31",
+  "collectible": "Dark Bum",
+  "quote": "He wants to take your life"
+ },
+ {
+  "_pageName": "Dark Matter",
+  "dlc": "7",
+  "collectible": "Dark Matter",
+  "quote": "Fear shot"
+ },
+ {
+  "_pageName": "Dark Matter",
+  "dlc": "24",
+  "collectible": "Dark Matter",
+  "quote": "DMG up + fear shot"
+ },
+ {
+  "_pageName": "Dark Prince's Crown",
+  "dlc": "31",
+  "collectible": "Dark Prince's Crown",
+  "quote": "Loss is power"
+ },
+ {
+  "_pageName": "Dataminer",
+  "dlc": "28",
+  "collectible": "Dataminer",
+  "quote": "109"
+ },
+ {
+  "_pageName": "Dead Bird",
+  "dlc": "31",
+  "collectible": "Dead Bird",
+  "quote": "Protective buddy"
+ },
+ {
+  "_pageName": "Dead Cat",
+  "dlc": "31",
+  "collectible": "Dead Cat",
+  "quote": "9 lives"
+ },
+ {
+  "_pageName": "Dead Dove",
+  "dlc": "31",
+  "collectible": "Dead Dove",
+  "quote": "Flight + spectral tears"
+ },
+ {
+  "_pageName": "Dead Eye",
+  "dlc": "6",
+  "collectible": "Dead Eye",
+  "quote": "Accuracy brings power!"
+ },
+ {
+  "_pageName": "Dead Eye",
+  "dlc": "24",
+  "collectible": "Dead Eye",
+  "quote": "Accuracy brings power"
+ },
+ {
+  "_pageName": "Dead Onion",
+  "dlc": "31",
+  "collectible": "Dead Onion",
+  "quote": "Toxic aura tears"
+ },
+ {
+  "_pageName": "Dead Sea Scrolls",
+  "dlc": "31",
+  "collectible": "Dead Sea Scrolls",
+  "quote": "It's a mystery"
+ },
+ {
+  "_pageName": "Dead Tooth",
+  "dlc": "7",
+  "collectible": "Dead Tooth",
+  "quote": "Halitosis"
+ },
+ {
+  "_pageName": "Dead Tooth",
+  "dlc": "24",
+  "collectible": "Dead Tooth",
+  "quote": "Toxic breath"
+ },
+ {
+  "_pageName": "Death Certificate",
+  "dlc": "24",
+  "collectible": "Death Certificate",
+  "quote": "Where am I?"
+ },
+ {
+  "_pageName": "Death's List",
+  "dlc": "28",
+  "collectible": "Death's List",
+  "quote": "Just hope you're not next..."
+ },
+ {
+  "_pageName": "Death's Touch",
+  "dlc": "7",
+  "collectible": "Death's Touch",
+  "quote": "Penetrative shot + DMG up"
+ },
+ {
+  "_pageName": "Death's Touch",
+  "dlc": "24",
+  "collectible": "Death's Touch",
+  "quote": "Piercing shots + DMG up"
+ },
+ {
+  "_pageName": "Decap Attack",
+  "dlc": "31",
+  "collectible": "Decap Attack",
+  "quote": "Chuck away!"
+ },
+ {
+  "_pageName": "Deck of Cards",
+  "dlc": "31",
+  "collectible": "Deck of Cards",
+  "quote": "Reusable card generator"
+ },
+ {
+  "_pageName": "Deep Pockets",
+  "dlc": "6",
+  "collectible": "Deep Pockets",
+  "quote": "More stuff to carry!"
+ },
+ {
+  "_pageName": "Deep Pockets",
+  "dlc": "24",
+  "collectible": "Deep Pockets",
+  "quote": "More money!"
+ },
+ {
+  "_pageName": "Delirious",
+  "dlc": "31",
+  "collectible": "Delirious",
+  "quote": "Unleash the power!"
+ },
+ {
+  "_pageName": "Demon Baby",
+  "dlc": "31",
+  "collectible": "Demon Baby",
+  "quote": "Auto-turret friend"
+ },
+ {
+  "_pageName": "Depression",
+  "dlc": "31",
+  "collectible": "Depression",
+  "quote": "&colon;("
+ },
+ {
+  "_pageName": "Dessert",
+  "dlc": "31",
+  "collectible": "Dessert",
+  "quote": "HP up"
+ },
+ {
+  "_pageName": "Dinner",
+  "dlc": "31",
+  "collectible": "Dinner",
+  "quote": "HP up"
+ },
+ {
+  "_pageName": "Diplopia",
+  "dlc": "30",
+  "collectible": "Diplopia",
+  "quote": "Double item vision"
+ },
+ {
+  "_pageName": "Dirty Mind",
+  "dlc": "24",
+  "collectible": "Dirty Mind",
+  "quote": "Filthy friends"
+ },
+ {
+  "_pageName": "Distant Admiration",
+  "dlc": "31",
+  "collectible": "Distant Admiration",
+  "quote": "Attack fly"
+ },
+ {
+  "_pageName": "Divine Intervention",
+  "dlc": "31",
+  "collectible": "Divine Intervention",
+  "quote": "Double tap shield"
+ },
+ {
+  "_pageName": "Divorce Papers",
+  "dlc": "28",
+  "collectible": "Divorce Papers",
+  "quote": "Tears up + you feel empty"
+ },
+ {
+  "_pageName": "Doctor's Remote",
+  "dlc": "31",
+  "collectible": "Doctor's Remote",
+  "quote": "Reusable air strike"
+ },
+ {
+  "_pageName": "Dog Tooth",
+  "dlc": "31",
+  "collectible": "Dog Tooth",
+  "quote": "Bark at the moon!"
+ },
+ {
+  "_pageName": "Dogma (Item)",
+  "dlc": "24",
+  "collectible": "Dogma",
+  "quote": "Ascended"
+ },
+ {
+  "_pageName": "Dr. Fetus",
+  "dlc": "31",
+  "collectible": "Dr. Fetus",
+  "quote": "???"
+ },
+ {
+  "_pageName": "Dream Catcher",
+  "dlc": "24",
+  "collectible": "Dream Catcher",
+  "quote": "Sweet dreams"
+ },
+ {
+  "_pageName": "Dry Baby",
+  "dlc": "31",
+  "collectible": "Dry Baby",
+  "quote": "Immortal friend"
+ },
+ {
+  "_pageName": "Duality",
+  "dlc": "28",
+  "collectible": "Duality",
+  "quote": "You feel very balanced"
+ },
+ {
+  "_pageName": "Dull Razor",
+  "dlc": "28",
+  "collectible": "Dull Razor",
+  "quote": "I feel numb..."
+ },
+ {
+  "_pageName": "E. Coli",
+  "dlc": "31",
+  "collectible": "E. Coli",
+  "quote": "Turdy touch"
+ },
+ {
+  "_pageName": "Echo Chamber",
+  "dlc": "31",
+  "collectible": "Echo Chamber",
+  "quote": "I can see see the future future future"
+ },
+ {
+  "_pageName": "Eden's Blessing",
+  "dlc": "6",
+  "collectible": "Eden's Blessing",
+  "quote": "Your future shines brighter"
+ },
+ {
+  "_pageName": "Eden's Blessing",
+  "dlc": "24",
+  "collectible": "Eden's Blessing",
+  "quote": "Tears up + your future shines brighter"
+ },
+ {
+  "_pageName": "Eden's Soul",
+  "dlc": "31",
+  "collectible": "Eden's Soul",
+  "quote": "..."
+ },
+ {
+  "_pageName": "Empty Heart",
+  "dlc": "24",
+  "collectible": "Empty Heart",
+  "quote": "It multiplies"
+ },
+ {
+  "_pageName": "Empty Vessel",
+  "dlc": "30",
+  "collectible": "Empty Vessel",
+  "quote": "I reward an empty vessel"
+ },
+ {
+  "_pageName": "Epic Fetus",
+  "dlc": "31",
+  "collectible": "Epic Fetus",
+  "quote": "On-demand air strike"
+ },
+ {
+  "_pageName": "Epiphora",
+  "dlc": "31",
+  "collectible": "Epiphora",
+  "quote": "Intensifying tears"
+ },
+ {
+  "_pageName": "Eraser",
+  "dlc": "31",
+  "collectible": "Eraser",
+  "quote": "Erase thy enemy"
+ },
+ {
+  "_pageName": "Esau Jr.",
+  "dlc": "31",
+  "collectible": "Esau Jr.",
+  "quote": "Lost brother"
+ },
+ {
+  "_pageName": "Eternal D6",
+  "dlc": "24",
+  "collectible": "Eternal D6",
+  "quote": "???"
+ },
+ {
+  "_pageName": "Eucharist",
+  "dlc": "28",
+  "collectible": "Eucharist",
+  "quote": "Peace be with you"
+ },
+ {
+  "_pageName": "Euthanasia",
+  "dlc": "31",
+  "collectible": "Euthanasia",
+  "quote": "Needle shot"
+ },
+ {
+  "_pageName": "Eve's Mascara",
+  "dlc": "7",
+  "collectible": "Eve's Mascara",
+  "quote": "Shot speed down + DMG up"
+ },
+ {
+  "_pageName": "Eve's Mascara",
+  "dlc": "24",
+  "collectible": "Eve's Mascara",
+  "quote": "DMG up, tears + shot speed down"
+ },
+ {
+  "_pageName": "Everything Jar",
+  "dlc": "24",
+  "collectible": "Everything Jar",
+  "quote": "Anything is possible"
+ },
+ {
+  "_pageName": "Evil Charm",
+  "dlc": "31",
+  "collectible": "Evil Charm",
+  "quote": "Luck up + you feel protected"
+ },
+ {
+  "_pageName": "Evil Eye",
+  "dlc": "6",
+  "collectible": "Evil Eye",
+  "quote": "Eye shot!"
+ },
+ {
+  "_pageName": "Evil Eye",
+  "dlc": "24",
+  "collectible": "Evil Eye",
+  "quote": "Eye shot"
+ },
+ {
+  "_pageName": "Experimental Treatment",
+  "dlc": "7",
+  "collectible": "Experimental Treatment",
+  "quote": "All stats up... then shuffled"
+ },
+ {
+  "_pageName": "Experimental Treatment",
+  "dlc": "24",
+  "collectible": "Experimental Treatment",
+  "quote": "Some stats up, some stats down"
+ },
+ {
+  "_pageName": "Explosivo",
+  "dlc": "6",
+  "collectible": "Explosivo",
+  "quote": "Sticky bomb shot!"
+ },
+ {
+  "_pageName": "Explosivo",
+  "dlc": "24",
+  "collectible": "Explosivo",
+  "quote": "Sticky bomb shot"
+ },
+ {
+  "_pageName": "Eye Drops",
+  "dlc": "31",
+  "collectible": "Eye Drops",
+  "quote": "Tears up"
+ },
+ {
+  "_pageName": "Eye of Belial",
+  "dlc": "28",
+  "collectible": "Eye of Belial",
+  "quote": "Possessed tears!"
+ },
+ {
+  "_pageName": "Eye of Greed",
+  "dlc": "28",
+  "collectible": "Eye of Greed",
+  "quote": "Gold tears!"
+ },
+ {
+  "_pageName": "Eye of the Occult",
+  "dlc": "24",
+  "collectible": "Eye of the Occult",
+  "quote": "DMG up + range up + controlled tears"
+ },
+ {
+  "_pageName": "Eye Sore",
+  "dlc": "24",
+  "collectible": "Eye Sore",
+  "quote": "More eyes"
+ },
+ {
+  "_pageName": "False PHD",
+  "dlc": "31",
+  "collectible": "False PHD",
+  "quote": "Worse pills + evil up"
+ },
+ {
+  "_pageName": "Fanny Pack",
+  "dlc": "31",
+  "collectible": "Fanny Pack",
+  "quote": "Filled with goodies"
+ },
+ {
+  "_pageName": "Farting Baby",
+  "dlc": "7",
+  "collectible": "Farting Baby",
+  "quote": "He farts!"
+ },
+ {
+  "_pageName": "Farting Baby",
+  "dlc": "24",
+  "collectible": "Farting Baby",
+  "quote": "He farts"
+ },
+ {
+  "_pageName": "Fast Bombs",
+  "dlc": "28",
+  "collectible": "Fast Bombs",
+  "quote": "Rapid bomb drops"
+ },
+ {
+  "_pageName": "Fate",
+  "dlc": "31",
+  "collectible": "Fate",
+  "quote": "Flight eternal"
+ },
+ {
+  "_pageName": "Fate's Reward",
+  "dlc": "31",
+  "collectible": "Fate's Reward",
+  "quote": "Your fate beside you"
+ },
+ {
+  "_pageName": "Finger!",
+  "dlc": "28",
+  "collectible": "Finger!",
+  "quote": "Watch where you point that!"
+ },
+ {
+  "_pageName": "Fire Mind",
+  "dlc": "31",
+  "collectible": "Fire Mind",
+  "quote": "Flaming tears"
+ },
+ {
+  "_pageName": "Flat Stone",
+  "dlc": "28",
+  "collectible": "Flat Stone",
+  "quote": "Skipping tears"
+ },
+ {
+  "_pageName": "Flip",
+  "dlc": "31",
+  "collectible": "Flip",
+  "quote": "Twist of fate"
+ },
+ {
+  "_pageName": "Flush!",
+  "dlc": "31",
+  "collectible": "Flush!",
+  "quote": "..."
+ },
+ {
+  "_pageName": "Forever alone",
+  "dlc": "31",
+  "collectible": "Forever alone",
+  "quote": "Attack fly"
+ },
+ {
+  "_pageName": "Forget Me Now",
+  "dlc": "31",
+  "collectible": "Forget Me Now",
+  "quote": "I don't remember..."
+ },
+ {
+  "_pageName": "Fortune Cookie",
+  "dlc": "24",
+  "collectible": "Fortune Cookie",
+  "quote": "Reusable fortunes"
+ },
+ {
+  "_pageName": "Free Lemonade",
+  "dlc": "31",
+  "collectible": "Free Lemonade",
+  "quote": "Party time!"
+ },
+ {
+  "_pageName": "Freezer Baby",
+  "dlc": "24",
+  "collectible": "Freezer Baby",
+  "quote": "Iced iced baby"
+ },
+ {
+  "_pageName": "Friend Finder",
+  "dlc": "24",
+  "collectible": "Friend Finder",
+  "quote": "Best friends forever!"
+ },
+ {
+  "_pageName": "Friend Zone",
+  "dlc": "30",
+  "collectible": "Friend Zone",
+  "quote": "Friendly fly"
+ },
+ {
+  "_pageName": "Friendly Ball",
+  "dlc": "31",
+  "collectible": "Friendly Ball",
+  "quote": "Gotta fetch 'em all!"
+ },
+ {
+  "_pageName": "Fruit Cake",
+  "dlc": "30",
+  "collectible": "Fruit Cake",
+  "quote": "Rainbow effects!"
+ },
+ {
+  "_pageName": "Fruity Plum",
+  "dlc": "24",
+  "collectible": "Fruity Plum",
+  "quote": "Bouncy friend"
+ },
+ {
+  "_pageName": "GB Bug",
+  "dlc": "7",
+  "collectible": "GB Bug",
+  "quote": "Game breaking bug, right away!"
+ },
+ {
+  "_pageName": "GB Bug",
+  "dlc": "24",
+  "collectible": "GB Bug",
+  "quote": "Double tap glitch"
+ },
+ {
+  "_pageName": "Gello",
+  "dlc": "24",
+  "collectible": "Gello",
+  "quote": "Demonic gestation"
+ },
+ {
+  "_pageName": "Gemini (Item)",
+  "dlc": "31",
+  "collectible": "Gemini",
+  "quote": "Conjoined friend"
+ },
+ {
+  "_pageName": "Genesis",
+  "dlc": "24",
+  "collectible": "Genesis",
+  "quote": "In the beginning"
+ },
+ {
+  "_pageName": "Ghost Baby",
+  "dlc": "31",
+  "collectible": "Ghost Baby",
+  "quote": "Spectral buddy"
+ },
+ {
+  "_pageName": "Ghost Bombs",
+  "dlc": "31",
+  "collectible": "Ghost Bombs",
+  "quote": "Spooky blast +5 bombs"
+ },
+ {
+  "_pageName": "Ghost Pepper",
+  "dlc": "28",
+  "collectible": "Ghost Pepper",
+  "quote": "Flame tears"
+ },
+ {
+  "_pageName": "Giant Cell",
+  "dlc": "31",
+  "collectible": "Giant Cell",
+  "quote": "Micro friends"
+ },
+ {
+  "_pageName": "Gimpy",
+  "dlc": "31",
+  "collectible": "Gimpy",
+  "quote": "Sweet suffering"
+ },
+ {
+  "_pageName": "Glass Cannon",
+  "dlc": "30",
+  "collectible": "Glass Cannon",
+  "quote": "Be gentle..."
+ },
+ {
+  "_pageName": "Glass Eye",
+  "dlc": "31",
+  "collectible": "Glass Eye",
+  "quote": "DMG + luck up"
+ },
+ {
+  "_pageName": "Glaucoma",
+  "dlc": "28",
+  "collectible": "Glaucoma",
+  "quote": "Blind tears!"
+ },
+ {
+  "_pageName": "Glitched Crown",
+  "dlc": "31",
+  "collectible": "Glitched Crown",
+  "quote": "?????"
+ },
+ {
+  "_pageName": "Glitter Bombs",
+  "dlc": "2",
+  "collectible": "Glitter Bombs",
+  "quote": "Prize bombs!"
+ },
+ {
+  "_pageName": "Glitter Bombs",
+  "dlc": "28",
+  "collectible": "Glitter Bombs",
+  "quote": "Prize bombs"
+ },
+ {
+  "_pageName": "Glowing Hourglass",
+  "dlc": "30",
+  "collectible": "Glowing Hourglass",
+  "quote": "Turn back time"
+ },
+ {
+  "_pageName": "Glyph of Balance",
+  "dlc": "28",
+  "collectible": "Glyph of Balance",
+  "quote": "A gift from above"
+ },
+ {
+  "_pageName": "Gnawed Leaf",
+  "dlc": "31",
+  "collectible": "Gnawed Leaf",
+  "quote": "Unbreakable"
+ },
+ {
+  "_pageName": "Goat Head",
+  "dlc": "31",
+  "collectible": "Goat Head",
+  "quote": "He accepts your offering"
+ },
+ {
+  "_pageName": "God's Flesh",
+  "dlc": "30",
+  "collectible": "God's Flesh",
+  "quote": "Shrink shot!"
+ },
+ {
+  "_pageName": "Godhead",
+  "dlc": "31",
+  "collectible": "Godhead",
+  "quote": "God tears"
+ },
+ {
+  "_pageName": "Golden Razor",
+  "dlc": "24",
+  "collectible": "Golden Razor",
+  "quote": "Pain from gain"
+ },
+ {
+  "_pageName": "Greed's Gullet",
+  "dlc": "31",
+  "collectible": "Greed's Gullet",
+  "quote": "Money = health!"
+ },
+ {
+  "_pageName": "Growth Hormones",
+  "dlc": "31",
+  "collectible": "Growth Hormones",
+  "quote": "Speed + DMG up"
+ },
+ {
+  "_pageName": "Guardian Angel",
+  "dlc": "31",
+  "collectible": "Guardian Angel",
+  "quote": "Extra protection"
+ },
+ {
+  "_pageName": "Guillotine",
+  "dlc": "7",
+  "collectible": "Guillotine",
+  "quote": "An out-of-body experience"
+ },
+ {
+  "_pageName": "Guillotine",
+  "dlc": "24",
+  "collectible": "Guillotine",
+  "quote": "DMG + tears up. An out-of-body experience!"
+ },
+ {
+  "_pageName": "Guppy's Collar",
+  "dlc": "31",
+  "collectible": "Guppy's Collar",
+  "quote": "Eternal life?"
+ },
+ {
+  "_pageName": "Guppy's Eye",
+  "dlc": "24",
+  "collectible": "Guppy's Eye",
+  "quote": "An eye for secrets"
+ },
+ {
+  "_pageName": "Guppy's Hairball",
+  "dlc": "31",
+  "collectible": "Guppy's Hairball",
+  "quote": "Swing it"
+ },
+ {
+  "_pageName": "Guppy's Head",
+  "dlc": "31",
+  "collectible": "Guppy's Head",
+  "quote": "Reusable fly hive"
+ },
+ {
+  "_pageName": "Guppy's Paw",
+  "dlc": "31",
+  "collectible": "Guppy's Paw",
+  "quote": "Soul converter"
+ },
+ {
+  "_pageName": "Guppy's Tail",
+  "dlc": "31",
+  "collectible": "Guppy's Tail",
+  "quote": "Cursed?"
+ },
+ {
+  "_pageName": "Habit",
+  "dlc": "31",
+  "collectible": "Habit",
+  "quote": "Item martyr"
+ },
+ {
+  "_pageName": "Haemolacria",
+  "dlc": "28",
+  "collectible": "Haemolacria",
+  "quote": "I'm seeing red..."
+ },
+ {
+  "_pageName": "Hallowed Ground",
+  "dlc": "28",
+  "collectible": "Hallowed Ground",
+  "quote": "Portable sanctuary"
+ },
+ {
+  "_pageName": "Halo of Flies",
+  "dlc": "31",
+  "collectible": "Halo of Flies",
+  "quote": "Projectile protection"
+ },
+ {
+  "_pageName": "Harlequin Baby",
+  "dlc": "31",
+  "collectible": "Harlequin Baby",
+  "quote": "Double shot buddy"
+ },
+ {
+  "_pageName": "Head of Krampus",
+  "dlc": "31",
+  "collectible": "Head of Krampus",
+  "quote": "Krampus rage"
+ },
+ {
+  "_pageName": "Head of the Keeper",
+  "dlc": "7",
+  "collectible": "Head of the Keeper",
+  "quote": "Penny tears!"
+ },
+ {
+  "_pageName": "Head of the Keeper",
+  "dlc": "24",
+  "collectible": "Head of the Keeper",
+  "quote": "Penny tears"
+ },
+ {
+  "_pageName": "Headless Baby",
+  "dlc": "31",
+  "collectible": "Headless Baby",
+  "quote": "Bloody friend"
+ },
+ {
+  "_pageName": "Heartbreak",
+  "dlc": "24",
+  "collectible": "Heartbreak",
+  "quote": "Eternal sorrow"
+ },
+ {
+  "_pageName": "Hemoptysis",
+  "dlc": "31",
+  "collectible": "Hemoptysis",
+  "quote": "Double tap sneeze"
+ },
+ {
+  "_pageName": "Hive Mind",
+  "dlc": "31",
+  "collectible": "Hive Mind",
+  "quote": "Giant spiders and flies"
+ },
+ {
+  "_pageName": "Hold",
+  "dlc": "31",
+  "collectible": "Hold",
+  "quote": "Saved for later"
+ },
+ {
+  "_pageName": "Holy Grail",
+  "dlc": "31",
+  "collectible": "Holy Grail",
+  "quote": "Flight + HP up"
+ },
+ {
+  "_pageName": "Holy Light",
+  "dlc": "6",
+  "collectible": "Holy Light",
+  "quote": "Holy shot!"
+ },
+ {
+  "_pageName": "Holy Light",
+  "dlc": "24",
+  "collectible": "Holy Light",
+  "quote": "Holy death shot"
+ },
+ {
+  "_pageName": "Holy Mantle",
+  "dlc": "31",
+  "collectible": "Holy Mantle",
+  "quote": "Holy shield"
+ },
+ {
+  "_pageName": "Holy Water",
+  "dlc": "31",
+  "collectible": "Holy Water",
+  "quote": "Splash!"
+ },
+ {
+  "_pageName": "Host Hat",
+  "dlc": "7",
+  "collectible": "Host Hat",
+  "quote": "Nice hat!"
+ },
+ {
+  "_pageName": "Host Hat",
+  "dlc": "24",
+  "collectible": "Host Hat",
+  "quote": "Blast resistance"
+ },
+ {
+  "_pageName": "Hot Bombs",
+  "dlc": "31",
+  "collectible": "Hot Bombs",
+  "quote": "Burning blast +5 bombs"
+ },
+ {
+  "_pageName": "How to Jump",
+  "dlc": "31",
+  "collectible": "How to Jump",
+  "quote": "It's time you learned how"
+ },
+ {
+  "_pageName": "Humbleing Bundle",
+  "dlc": "31",
+  "collectible": "Humbleing Bundle",
+  "quote": "1+1 free 4Evar"
+ },
+ {
+  "_pageName": "Hungry Soul",
+  "dlc": "31",
+  "collectible": "Hungry Soul",
+  "quote": "Out for blood"
+ },
+ {
+  "_pageName": "Hushy",
+  "dlc": "28",
+  "collectible": "Hushy",
+  "quote": "Lil hush!"
+ },
+ {
+  "_pageName": "Hypercoagulation",
+  "dlc": "24",
+  "collectible": "Hypercoagulation",
+  "quote": "Thick blooded"
+ },
+ {
+  "_pageName": "IBS",
+  "dlc": "24",
+  "collectible": "IBS",
+  "quote": "Your stomach rumbles"
+ },
+ {
+  "_pageName": "Immaculate Conception",
+  "dlc": "31",
+  "collectible": "Immaculate Conception",
+  "quote": "Feed them love"
+ },
+ {
+  "_pageName": "Immaculate Heart",
+  "dlc": "24",
+  "collectible": "Immaculate Heart",
+  "quote": "Halo of tears"
+ },
+ {
+  "_pageName": "Incubus",
+  "dlc": "31",
+  "collectible": "Incubus",
+  "quote": "Dark friend"
+ },
+ {
+  "_pageName": "Infamy",
+  "dlc": "7",
+  "collectible": "Infamy",
+  "quote": "Damage reduction"
+ },
+ {
+  "_pageName": "Infamy",
+  "dlc": "24",
+  "collectible": "Infamy",
+  "quote": "Blocks damage... sometimes"
+ },
+ {
+  "_pageName": "Infestation",
+  "dlc": "7",
+  "collectible": "Infestation",
+  "quote": "They grow inside"
+ },
+ {
+  "_pageName": "Infestation",
+  "dlc": "24",
+  "collectible": "Infestation",
+  "quote": "Fly revenge"
+ },
+ {
+  "_pageName": "Infestation 2",
+  "dlc": "31",
+  "collectible": "Infestation 2",
+  "quote": "Infestation shot"
+ },
+ {
+  "_pageName": "Inner Child",
+  "dlc": "31",
+  "collectible": "Inner Child",
+  "quote": "Let him free"
+ },
+ {
+  "_pageName": "Ipecac",
+  "dlc": "31",
+  "collectible": "Ipecac",
+  "quote": "Explosive shots"
+ },
+ {
+  "_pageName": "Iron Bar",
+  "dlc": "7",
+  "collectible": "Iron Bar",
+  "quote": "Concussive tears"
+ },
+ {
+  "_pageName": "Iron Bar",
+  "dlc": "24",
+  "collectible": "Iron Bar",
+  "quote": "DMG up + concussive tears"
+ },
+ {
+  "_pageName": "Isaac's Heart",
+  "dlc": "31",
+  "collectible": "Isaac's Heart",
+  "quote": "Protect it"
+ },
+ {
+  "_pageName": "Isaac's Tears",
+  "dlc": "31",
+  "collectible": "Isaac's Tears",
+  "quote": "Collected tears"
+ },
+ {
+  "_pageName": "Isaac's Tomb",
+  "dlc": "31",
+  "collectible": "Isaac's Tomb",
+  "quote": "Buried memories"
+ },
+ {
+  "_pageName": "It Hurts",
+  "dlc": "31",
+  "collectible": "It Hurts",
+  "quote": "No it doesn't..."
+ },
+ {
+  "_pageName": "IV Bag",
+  "dlc": "31",
+  "collectible": "IV Bag",
+  "quote": "Portable blood bank"
+ },
+ {
+  "_pageName": "Jacob's Ladder",
+  "dlc": "28",
+  "collectible": "Jacob's Ladder",
+  "quote": "Electric tears"
+ },
+ {
+  "_pageName": "Jar of Flies",
+  "dlc": "6",
+  "collectible": "Jar of Flies",
+  "quote": "Gotta catch 'em all?"
+ },
+ {
+  "_pageName": "Jar of Flies",
+  "dlc": "24",
+  "collectible": "Jar of Flies",
+  "quote": "Bug catcher"
+ },
+ {
+  "_pageName": "Jar of Wisps",
+  "dlc": "31",
+  "collectible": "Jar of Wisps",
+  "quote": "Your faith grows"
+ },
+ {
+  "_pageName": "Jaw Bone",
+  "dlc": "28",
+  "collectible": "Jaw Bone",
+  "quote": "Fetch!"
+ },
+ {
+  "_pageName": "Jesus Juice",
+  "dlc": "31",
+  "collectible": "Jesus Juice",
+  "quote": "Damage + range up"
+ },
+ {
+  "_pageName": "Judas' Shadow",
+  "dlc": "31",
+  "collectible": "Judas' Shadow",
+  "quote": "Sweet revenge"
+ },
+ {
+  "_pageName": "Juicy Sack",
+  "dlc": "31",
+  "collectible": "Juicy Sack",
+  "quote": "Sticky babies"
+ },
+ {
+  "_pageName": "Jumper Cables",
+  "dlc": "28",
+  "collectible": "Jumper Cables",
+  "quote": "Bloody recharge"
+ },
+ {
+  "_pageName": "Jupiter",
+  "dlc": "24",
+  "collectible": "Jupiter",
+  "quote": "You're a gas giant!"
+ },
+ {
+  "_pageName": "Kamikaze!",
+  "dlc": "31",
+  "collectible": "Kamikaze!",
+  "quote": "Become the bomb!"
+ },
+ {
+  "_pageName": "Keeper's Box",
+  "dlc": "24",
+  "collectible": "Keeper's Box",
+  "quote": "Portable shop"
+ },
+ {
+  "_pageName": "Keeper's Kin",
+  "dlc": "24",
+  "collectible": "Keeper's Kin",
+  "quote": "Under a rock"
+ },
+ {
+  "_pageName": "Keeper's Sack",
+  "dlc": "31",
+  "collectible": "Keeper's Sack",
+  "quote": "Spending power"
+ },
+ {
+  "_pageName": "Key Bum",
+  "dlc": "30",
+  "collectible": "Key Bum",
+  "quote": "He wants your keys!"
+ },
+ {
+  "_pageName": "Key Piece 1",
+  "dlc": "31",
+  "collectible": "Key Piece 1",
+  "quote": "???"
+ },
+ {
+  "_pageName": "Key Piece 2",
+  "dlc": "31",
+  "collectible": "Key Piece 2",
+  "quote": "???"
+ },
+ {
+  "_pageName": "Kidney Bean",
+  "dlc": "6",
+  "collectible": "Kidney Bean",
+  "quote": "Love toots!"
+ },
+ {
+  "_pageName": "Kidney Bean",
+  "dlc": "24",
+  "collectible": "Kidney Bean",
+  "quote": "Love toots"
+ },
+ {
+  "_pageName": "Kidney Stone",
+  "dlc": "30",
+  "collectible": "Kidney Stone",
+  "quote": "Matt's kidney stone"
+ },
+ {
+  "_pageName": "King Baby",
+  "dlc": "7",
+  "collectible": "King Baby",
+  "quote": "Lord of the dead!"
+ },
+ {
+  "_pageName": "King Baby",
+  "dlc": "24",
+  "collectible": "King Baby",
+  "quote": "Hail to the king baby"
+ },
+ {
+  "_pageName": "Knife Piece 1",
+  "dlc": "31",
+  "collectible": "Knife Piece 1",
+  "quote": "???"
+ },
+ {
+  "_pageName": "Knife Piece 2",
+  "dlc": "31",
+  "collectible": "Knife Piece 2",
+  "quote": "???"
+ },
+ {
+  "_pageName": "Knockout Drops",
+  "dlc": "31",
+  "collectible": "Knockout Drops",
+  "quote": "They pack a punch!"
+ },
+ {
+  "_pageName": "Lachryphagy",
+  "dlc": "28",
+  "collectible": "Lachryphagy",
+  "quote": "Feed them!"
+ },
+ {
+  "_pageName": "Large Zit",
+  "dlc": "28",
+  "collectible": "Large Zit",
+  "quote": "Creep shots"
+ },
+ {
+  "_pageName": "Larynx",
+  "dlc": "24",
+  "collectible": "Larynx",
+  "quote": "Hear my pain"
+ },
+ {
+  "_pageName": "Latch Key",
+  "dlc": "31",
+  "collectible": "Latch Key",
+  "quote": "Luck up"
+ },
+ {
+  "_pageName": "Lazarus' Rags",
+  "dlc": "31",
+  "collectible": "Lazarus' Rags",
+  "quote": "Eternal life?"
+ },
+ {
+  "_pageName": "Lead Pencil",
+  "dlc": "28",
+  "collectible": "Lead Pencil",
+  "quote": "He's a bleeder!"
+ },
+ {
+  "_pageName": "Leech",
+  "dlc": "31",
+  "collectible": "Leech",
+  "quote": "Blood sucker"
+ },
+ {
+  "_pageName": "Lemegeton",
+  "dlc": "31",
+  "collectible": "Lemegeton",
+  "quote": "Item summoner"
+ },
+ {
+  "_pageName": "Lemon Mishap",
+  "dlc": "31",
+  "collectible": "Lemon Mishap",
+  "quote": "Oops..."
+ },
+ {
+  "_pageName": "Leo",
+  "dlc": "31",
+  "collectible": "Leo",
+  "quote": "Stompy"
+ },
+ {
+  "_pageName": "Leprosy",
+  "dlc": "31",
+  "collectible": "Leprosy",
+  "quote": "You're tearing me apart!"
+ },
+ {
+  "_pageName": "Less Than Three",
+  "dlc": "31",
+  "collectible": "<3",
+  "quote": "HP up"
+ },
+ {
+  "_pageName": "Libra",
+  "dlc": "31",
+  "collectible": "Libra",
+  "quote": "You feel balanced"
+ },
+ {
+  "_pageName": "Lil Abaddon",
+  "dlc": "24",
+  "collectible": "Lil Abaddon",
+  "quote": "Abyssal friend"
+ },
+ {
+  "_pageName": "Lil Brimstone",
+  "dlc": "31",
+  "collectible": "Lil Brimstone",
+  "quote": "Evil friend"
+ },
+ {
+  "_pageName": "Lil Chest",
+  "dlc": "31",
+  "collectible": "Lil Chest",
+  "quote": "What's in the box?"
+ },
+ {
+  "_pageName": "Lil Delirium",
+  "dlc": "28",
+  "collectible": "Lil Delirium",
+  "quote": "Delirious friend"
+ },
+ {
+  "_pageName": "Lil Dumpy",
+  "dlc": "24",
+  "collectible": "Lil Dumpy",
+  "quote": "Puffy buddy"
+ },
+ {
+  "_pageName": "Lil Gurdy",
+  "dlc": "31",
+  "collectible": "Lil Gurdy",
+  "quote": "A gurd of your own!"
+ },
+ {
+  "_pageName": "Lil Haunt",
+  "dlc": "31",
+  "collectible": "Lil Haunt",
+  "quote": "Fear him"
+ },
+ {
+  "_pageName": "Lil Loki",
+  "dlc": "31",
+  "collectible": "Lil Loki",
+  "quote": "4-way buddy!"
+ },
+ {
+  "_pageName": "Lil Monstro",
+  "dlc": "31",
+  "collectible": "Lil Monstro",
+  "quote": "Ain't he cute?"
+ },
+ {
+  "_pageName": "Lil Portal",
+  "dlc": "24",
+  "collectible": "Lil Portal",
+  "quote": "It hungers"
+ },
+ {
+  "_pageName": "Lil Spewer",
+  "dlc": "31",
+  "collectible": "Lil Spewer",
+  "quote": "Puking buddy"
+ },
+ {
+  "_pageName": "Linger Bean",
+  "dlc": "28",
+  "collectible": "Linger Bean",
+  "quote": "Crying makes me toot"
+ },
+ {
+  "_pageName": "Little Baggy",
+  "dlc": "31",
+  "collectible": "Little Baggy",
+  "quote": "Extra pill room"
+ },
+ {
+  "_pageName": "Little C.H.A.D.",
+  "dlc": "31",
+  "collectible": "Little C.H.A.D.",
+  "quote": "Gives kisses"
+ },
+ {
+  "_pageName": "Little Chubby",
+  "dlc": "31",
+  "collectible": "Little Chubby",
+  "quote": "Attack buddy"
+ },
+ {
+  "_pageName": "Little Gish",
+  "dlc": "31",
+  "collectible": "Little Gish",
+  "quote": "Sticky friend"
+ },
+ {
+  "_pageName": "Little Horn (Item)",
+  "dlc": "7",
+  "collectible": "Little Horn",
+  "quote": "Science!"
+ },
+ {
+  "_pageName": "Little Horn (Item)",
+  "dlc": "24",
+  "collectible": "Little Horn",
+  "quote": "Big brother is watching"
+ },
+ {
+  "_pageName": "Little Steven",
+  "dlc": "31",
+  "collectible": "Little Steven",
+  "quote": "Psychic friend"
+ },
+ {
+  "_pageName": "Lodestone",
+  "dlc": "31",
+  "collectible": "Lodestone",
+  "quote": "Magnetizing tears"
+ },
+ {
+  "_pageName": "Loki's Horns",
+  "dlc": "31",
+  "collectible": "Loki's Horns",
+  "quote": "Cross tears"
+ },
+ {
+  "_pageName": "Lord of the Pit",
+  "dlc": "31",
+  "collectible": "Lord of the Pit",
+  "quote": "Demon wings"
+ },
+ {
+  "_pageName": "Lost Contact",
+  "dlc": "31",
+  "collectible": "Lost Contact",
+  "quote": "Shielded tears"
+ },
+ {
+  "_pageName": "Lost Fly",
+  "dlc": "30",
+  "collectible": "Lost Fly",
+  "quote": "Lost protector"
+ },
+ {
+  "_pageName": "Lost Soul",
+  "dlc": "31",
+  "collectible": "Lost Soul",
+  "quote": "Protect him"
+ },
+ {
+  "_pageName": "Lucky Foot",
+  "dlc": "31",
+  "collectible": "Lucky Foot",
+  "quote": "Luck up"
+ },
+ {
+  "_pageName": "Luna",
+  "dlc": "24",
+  "collectible": "Luna",
+  "quote": "The moon's blessing shines upon you"
+ },
+ {
+  "_pageName": "Lunch",
+  "dlc": "31",
+  "collectible": "Lunch",
+  "quote": "HP up"
+ },
+ {
+  "_pageName": "Lusty Blood",
+  "dlc": "31",
+  "collectible": "Lusty Blood",
+  "quote": "Their blood brings rage!"
+ },
+ {
+  "_pageName": "Maggy's Bow",
+  "dlc": "31",
+  "collectible": "Maggy's Bow",
+  "quote": "HP up + you feel healthy"
+ },
+ {
+  "_pageName": "Magic 8 Ball",
+  "dlc": "31",
+  "collectible": "Magic 8 Ball",
+  "quote": "Shot speed up"
+ },
+ {
+  "_pageName": "Magic Fingers",
+  "dlc": "7",
+  "collectible": "Magic Fingers",
+  "quote": "Pay to play"
+ },
+ {
+  "_pageName": "Magic Fingers",
+  "dlc": "24",
+  "collectible": "Magic Fingers",
+  "quote": "Pay to win"
+ },
+ {
+  "_pageName": "Magic Mushroom",
+  "dlc": "31",
+  "collectible": "Magic Mushroom",
+  "quote": "All stats up!"
+ },
+ {
+  "_pageName": "Magic Scab",
+  "dlc": "31",
+  "collectible": "Magic Scab",
+  "quote": "HP + luck up"
+ },
+ {
+  "_pageName": "Magic Skin",
+  "dlc": "24",
+  "collectible": "Magic Skin",
+  "quote": "All your desires fulfilled"
+ },
+ {
+  "_pageName": "Magneto",
+  "dlc": "31",
+  "collectible": "Magneto",
+  "quote": "Item snatcher"
+ },
+ {
+  "_pageName": "Mama Mega!",
+  "dlc": "28",
+  "collectible": "Mama Mega!",
+  "quote": "BOOOOOOOOOM!"
+ },
+ {
+  "_pageName": "Marbles",
+  "dlc": "28",
+  "collectible": "Marbles",
+  "quote": "Choking hazard"
+ },
+ {
+  "_pageName": "Marked",
+  "dlc": "30",
+  "collectible": "Marked",
+  "quote": "Directed tears"
+ },
+ {
+  "_pageName": "Marrow",
+  "dlc": "31",
+  "collectible": "Marrow",
+  "quote": "HP up?"
+ },
+ {
+  "_pageName": "Mars",
+  "dlc": "24",
+  "collectible": "Mars",
+  "quote": "Double tap dash"
+ },
+ {
+  "_pageName": "Match Book",
+  "dlc": "31",
+  "collectible": "Match Book",
+  "quote": "Evil up"
+ },
+ {
+  "_pageName": "Maw Of The Void",
+  "dlc": "30",
+  "collectible": "Maw Of The Void",
+  "quote": "Consume thy enemy!"
+ },
+ {
+  "_pageName": "Meat Cleaver",
+  "dlc": "31",
+  "collectible": "Meat Cleaver",
+  "quote": "Slice but no dice"
+ },
+ {
+  "_pageName": "MEAT!",
+  "dlc": "31",
+  "collectible": "MEAT!",
+  "quote": "DMG + HP up"
+ },
+ {
+  "_pageName": "Mega Bean",
+  "dlc": "30",
+  "collectible": "Mega Bean",
+  "quote": "Giga fart!"
+ },
+ {
+  "_pageName": "Mega Blast",
+  "dlc": "30",
+  "collectible": "Mega Blast",
+  "quote": "Laser breath"
+ },
+ {
+  "_pageName": "Mega Mush",
+  "dlc": "24",
+  "collectible": "Mega Mush",
+  "quote": "I'm a big boy now!"
+ },
+ {
+  "_pageName": "Member Card",
+  "dlc": "24",
+  "collectible": "Member Card",
+  "quote": "Exclusive access!"
+ },
+ {
+  "_pageName": "Mercurius",
+  "dlc": "31",
+  "collectible": "Mercurius",
+  "quote": "Speed up + you feel elusive"
+ },
+ {
+  "_pageName": "Metal Plate",
+  "dlc": "28",
+  "collectible": "Metal Plate",
+  "quote": "It itches..."
+ },
+ {
+  "_pageName": "Metronome",
+  "dlc": "28",
+  "collectible": "Metronome",
+  "quote": "Waggles a finger"
+ },
+ {
+  "_pageName": "Midas' Touch",
+  "dlc": "31",
+  "collectible": "Midas' Touch",
+  "quote": "Golden touch"
+ },
+ {
+  "_pageName": "Midnight Snack",
+  "dlc": "7",
+  "collectible": "Midnight Snack",
+  "quote": "Midnight snack!"
+ },
+ {
+  "_pageName": "Midnight Snack",
+  "dlc": "24",
+  "collectible": "Midnight Snack",
+  "quote": "HP up"
+ },
+ {
+  "_pageName": "Milk!",
+  "dlc": "2",
+  "collectible": "Milk!",
+  "quote": "t cry over it...Dont cry over it..."
+ },
+ {
+  "_pageName": "Milk!",
+  "dlc": "28",
+  "collectible": "Milk!",
+  "quote": "Don't cry over it..."
+ },
+ {
+  "_pageName": "Mine Crafter",
+  "dlc": "30",
+  "collectible": "Mine Crafter",
+  "quote": "Booom!"
+ },
+ {
+  "_pageName": "Mini Mush",
+  "dlc": "31",
+  "collectible": "Mini Mush",
+  "quote": "Speed + range up"
+ },
+ {
+  "_pageName": "Missing No.",
+  "dlc": "31",
+  "collectible": "Missing No.",
+  "quote": "Syntax error"
+ },
+ {
+  "_pageName": "Missing Page 2",
+  "dlc": "31",
+  "collectible": "Missing Page 2",
+  "quote": "Evil up. Your enemies will pay!"
+ },
+ {
+  "_pageName": "Mitre",
+  "dlc": "7",
+  "collectible": "Mitre",
+  "quote": "You feel blessed"
+ },
+ {
+  "_pageName": "Mitre",
+  "dlc": "24",
+  "collectible": "Mitre",
+  "quote": "Blessing of purity"
+ },
+ {
+  "_pageName": "Mom's Bottle of Pills",
+  "dlc": "31",
+  "collectible": "Mom's Bottle of Pills",
+  "quote": "Reusable pill generator"
+ },
+ {
+  "_pageName": "Mom's Box",
+  "dlc": "2",
+  "collectible": "Mom's Box",
+  "quote": "Whats inside?"
+ },
+ {
+  "_pageName": "Mom's Box",
+  "dlc": "28",
+  "collectible": "Mom's Box",
+  "quote": "What's inside?"
+ },
+ {
+  "_pageName": "Mom's Bra",
+  "dlc": "7",
+  "collectible": "Mom's Bra",
+  "quote": "Mass Fear"
+ },
+ {
+  "_pageName": "Mom's Bra",
+  "dlc": "24",
+  "collectible": "Mom's Bra",
+  "quote": "Mass paralysis"
+ },
+ {
+  "_pageName": "Mom's Bracelet",
+  "dlc": "24",
+  "collectible": "Mom's Bracelet",
+  "quote": "Mother's strength"
+ },
+ {
+  "_pageName": "Mom's Coin Purse",
+  "dlc": "31",
+  "collectible": "Mom's Coin Purse",
+  "quote": "What's all this...?"
+ },
+ {
+  "_pageName": "Mom's Contacts",
+  "dlc": "31",
+  "collectible": "Mom's Contacts",
+  "quote": "Freeze effect"
+ },
+ {
+  "_pageName": "Mom's Eye",
+  "dlc": "31",
+  "collectible": "Mom's Eye",
+  "quote": "Eye in the back of your head"
+ },
+ {
+  "_pageName": "Mom's Eyeshadow",
+  "dlc": "31",
+  "collectible": "Mom's Eyeshadow",
+  "quote": "Charm tears"
+ },
+ {
+  "_pageName": "Mom's Heels",
+  "dlc": "31",
+  "collectible": "Mom's Heels",
+  "quote": "Range up"
+ },
+ {
+  "_pageName": "Mom's Key",
+  "dlc": "7",
+  "collectible": "Mom's Key",
+  "quote": "Less is now more +2 keys"
+ },
+ {
+  "_pageName": "Mom's Key",
+  "dlc": "24",
+  "collectible": "Mom's Key",
+  "quote": "Better chest loot +2 keys"
+ },
+ {
+  "_pageName": "Mom's Knife",
+  "dlc": "31",
+  "collectible": "Mom's Knife",
+  "quote": "Stab stab stab"
+ },
+ {
+  "_pageName": "Mom's Lipstick",
+  "dlc": "31",
+  "collectible": "Mom's Lipstick",
+  "quote": "Range up"
+ },
+ {
+  "_pageName": "Mom's Pad",
+  "dlc": "7",
+  "collectible": "Mom's Pad",
+  "quote": "Gross..."
+ },
+ {
+  "_pageName": "Mom's Pad",
+  "dlc": "24",
+  "collectible": "Mom's Pad",
+  "quote": "Mass fear"
+ },
+ {
+  "_pageName": "Mom's Pearls",
+  "dlc": "30",
+  "collectible": "Mom's Pearls",
+  "quote": "Range + luck up"
+ },
+ {
+  "_pageName": "Mom's Perfume",
+  "dlc": "7",
+  "collectible": "Mom's Perfume",
+  "quote": "Fear shot"
+ },
+ {
+  "_pageName": "Mom's Perfume",
+  "dlc": "24",
+  "collectible": "Mom's Perfume",
+  "quote": "Fear shot + tears up"
+ },
+ {
+  "_pageName": "Mom's Purse",
+  "dlc": "31",
+  "collectible": "Mom's Purse",
+  "quote": "More trinket room"
+ },
+ {
+  "_pageName": "Mom's Razor",
+  "dlc": "28",
+  "collectible": "Mom's Razor",
+  "quote": "It's sharp!"
+ },
+ {
+  "_pageName": "Mom's Ring",
+  "dlc": "31",
+  "collectible": "Mom's Ring",
+  "quote": "DMG up"
+ },
+ {
+  "_pageName": "Mom's Shovel",
+  "dlc": "28",
+  "collectible": "Mom's Shovel",
+  "quote": "Lost but not forgotten"
+ },
+ {
+  "_pageName": "Mom's Underwear",
+  "dlc": "31",
+  "collectible": "Mom's Underwear",
+  "quote": "Range up"
+ },
+ {
+  "_pageName": "Mom's Wig",
+  "dlc": "31",
+  "collectible": "Mom's Wig",
+  "quote": "You feel itchy..."
+ },
+ {
+  "_pageName": "Money = Power",
+  "dlc": "31",
+  "collectible": "Money Power",
+  "quote": "$$$ = DMG"
+ },
+ {
+  "_pageName": "Mongo Baby",
+  "dlc": "31",
+  "collectible": "Mongo Baby",
+  "quote": "Mongo friend"
+ },
+ {
+  "_pageName": "Monster Manual",
+  "dlc": "31",
+  "collectible": "Monster Manual",
+  "quote": "Temporary buddy generator"
+ },
+ {
+  "_pageName": "Monstrance",
+  "dlc": "31",
+  "collectible": "Monstrance",
+  "quote": "Purifying light"
+ },
+ {
+  "_pageName": "Monstro's Lung",
+  "dlc": "7",
+  "collectible": "Monstro's Lung",
+  "quote": "Charged attack"
+ },
+ {
+  "_pageName": "Monstro's Lung",
+  "dlc": "24",
+  "collectible": "Monstro's Lung",
+  "quote": "Charged burst attack"
+ },
+ {
+  "_pageName": "Monstro's Tooth",
+  "dlc": "31",
+  "collectible": "Monstro's Tooth",
+  "quote": "Summon Monstro"
+ },
+ {
+  "_pageName": "Montezuma's Revenge",
+  "dlc": "24",
+  "collectible": "Montezuma's Revenge",
+  "quote": "Oh no..."
+ },
+ {
+  "_pageName": "More Options",
+  "dlc": "6",
+  "collectible": "More Options",
+  "quote": "There are even more options!"
+ },
+ {
+  "_pageName": "More Options",
+  "dlc": "24",
+  "collectible": "More Options",
+  "quote": "There's options"
+ },
+ {
+  "_pageName": "Moving Box",
+  "dlc": "31",
+  "collectible": "Moving Box",
+  "quote": "Pack and unpack"
+ },
+ {
+  "_pageName": "Mr. Boom",
+  "dlc": "31",
+  "collectible": "Mr. Boom",
+  "quote": "Reusable bomb buddy"
+ },
+ {
+  "_pageName": "Mr. Dolly",
+  "dlc": "31",
+  "collectible": "Mr. Dolly",
+  "quote": "Range + tears up"
+ },
+ {
+  "_pageName": "Mr. ME!",
+  "dlc": "28",
+  "collectible": "Mr. ME!",
+  "quote": "Caaan do!"
+ },
+ {
+  "_pageName": "Mr. Mega",
+  "dlc": "7",
+  "collectible": "Mr. Mega",
+  "quote": "Blast Damage"
+ },
+ {
+  "_pageName": "Mr. Mega",
+  "dlc": "24",
+  "collectible": "Mr. Mega",
+  "quote": "Bigger boom"
+ },
+ {
+  "_pageName": "Mucormycosis",
+  "dlc": "31",
+  "collectible": "Mucormycosis",
+  "quote": "Spore shot"
+ },
+ {
+  "_pageName": "Multidimensional Baby",
+  "dlc": "31",
+  "collectible": "Multidimensional Baby",
+  "quote": "ydduB Buddy"
+ },
+ {
+  "_pageName": "Mutant Spider",
+  "dlc": "31",
+  "collectible": "Mutant Spider",
+  "quote": "Quad shot"
+ },
+ {
+  "_pageName": "My Little Unicorn",
+  "dlc": "31",
+  "collectible": "My Little Unicorn",
+  "quote": "Temporary badass"
+ },
+ {
+  "_pageName": "My Reflection",
+  "dlc": "7",
+  "collectible": "My Reflection",
+  "quote": "Boomerang tears"
+ },
+ {
+  "_pageName": "My Reflection",
+  "dlc": "24",
+  "collectible": "My Reflection",
+  "quote": "Boomerang tears + DMG up + luck down"
+ },
+ {
+  "_pageName": "My Shadow",
+  "dlc": "31",
+  "collectible": "My Shadow",
+  "quote": "Me! And my shaaaadow!"
+ },
+ {
+  "_pageName": "Mysterious Liquid",
+  "dlc": "31",
+  "collectible": "Mysterious Liquid",
+  "quote": "Toxic splash damage"
+ },
+ {
+  "_pageName": "Mystery Egg",
+  "dlc": "28",
+  "collectible": "Mystery Egg",
+  "quote": "Sacrificial insemination"
+ },
+ {
+  "_pageName": "Mystery Gift",
+  "dlc": "31",
+  "collectible": "Mystery Gift",
+  "quote": "Wrapped up nice for you!"
+ },
+ {
+  "_pageName": "Mystery Sack",
+  "dlc": "31",
+  "collectible": "Mystery Sack",
+  "quote": "?"
+ },
+ {
+  "_pageName": "Nancy Bombs",
+  "dlc": "31",
+  "collectible": "Nancy Bombs",
+  "quote": "Random blast +5 bombs"
+ },
+ {
+  "_pageName": "Neptunus",
+  "dlc": "24",
+  "collectible": "Neptunus",
+  "quote": "Open the floodgates"
+ },
+ {
+  "_pageName": "Night Light",
+  "dlc": "30",
+  "collectible": "Night Light",
+  "quote": "Scared of the dark?"
+ },
+ {
+  "_pageName": "No. 2",
+  "dlc": "30",
+  "collectible": "No. 2",
+  "quote": "Uh oh..."
+ },
+ {
+  "_pageName": "Notched Axe",
+  "dlc": "31",
+  "collectible": "Notched Axe",
+  "quote": "Rocks don't stand a chance"
+ },
+ {
+  "_pageName": "Number One",
+  "dlc": "7",
+  "collectible": "Number One",
+  "quote": "Tears up"
+ },
+ {
+  "_pageName": "Number One",
+  "dlc": "24",
+  "collectible": "Number One",
+  "quote": "Tears up + range down"
+ },
+ {
+  "_pageName": "Obsessed Fan",
+  "dlc": "30",
+  "collectible": "Obsessed Fan",
+  "quote": "Follows my every move..."
+ },
+ {
+  "_pageName": "Ocular Rift",
+  "dlc": "31",
+  "collectible": "Ocular Rift",
+  "quote": "Stare into the abyss"
+ },
+ {
+  "_pageName": "Odd Mushroom (Large)",
+  "dlc": "7",
+  "collectible": "Odd Mushroom (Large)",
+  "quote": "DMG up"
+ },
+ {
+  "_pageName": "Odd Mushroom (Large)",
+  "dlc": "24",
+  "collectible": "Odd Mushroom (Large)",
+  "quote": "HP + DMG up, speed down"
+ },
+ {
+  "_pageName": "Odd Mushroom (Thin)",
+  "dlc": "7",
+  "collectible": "Odd Mushroom (Thin)",
+  "quote": "Fire rate up"
+ },
+ {
+  "_pageName": "Odd Mushroom (Thin)",
+  "dlc": "24",
+  "collectible": "Odd Mushroom (Thin)",
+  "quote": "Tears up + damage down"
+ },
+ {
+  "_pageName": "Old Bandage",
+  "dlc": "31",
+  "collectible": "Old Bandage",
+  "quote": "HP up"
+ },
+ {
+  "_pageName": "Options?",
+  "dlc": "24",
+  "collectible": "Options?",
+  "quote": "There might be options"
+ },
+ {
+  "_pageName": "Orphan Socks",
+  "dlc": "31",
+  "collectible": "Orphan Socks",
+  "quote": "Speed up + your feet feel stronger"
+ },
+ {
+  "_pageName": "Ouija Board",
+  "dlc": "7",
+  "collectible": "Ouija Board",
+  "quote": "Spectral tears"
+ },
+ {
+  "_pageName": "Ouija Board",
+  "dlc": "24",
+  "collectible": "Ouija Board",
+  "quote": "Spectral tears + tears up"
+ },
+ {
+  "_pageName": "Pageant Boy",
+  "dlc": "31",
+  "collectible": "Pageant Boy",
+  "quote": "Ultimate grand supreme"
+ },
+ {
+  "_pageName": "Pandora's Box",
+  "dlc": "31",
+  "collectible": "Pandora's Box",
+  "quote": "? ?"
+ },
+ {
+  "_pageName": "Papa Fly",
+  "dlc": "30",
+  "collectible": "Papa Fly",
+  "quote": "Turret follower"
+ },
+ {
+  "_pageName": "Parasitoid",
+  "dlc": "28",
+  "collectible": "Parasitoid",
+  "quote": "Egg tears!"
+ },
+ {
+  "_pageName": "Paschal Candle",
+  "dlc": "24",
+  "collectible": "Paschal Candle",
+  "quote": "Keep the flame burning"
+ },
+ {
+  "_pageName": "Pause",
+  "dlc": "31",
+  "collectible": "Pause",
+  "quote": "Stop!"
+ },
+ {
+  "_pageName": "Pay To Play",
+  "dlc": "31",
+  "collectible": "Pay To Play",
+  "quote": "Money talks"
+ },
+ {
+  "_pageName": "Pentagram",
+  "dlc": "31",
+  "collectible": "Pentagram",
+  "quote": "DMG up"
+ },
+ {
+  "_pageName": "PHD",
+  "dlc": "31",
+  "collectible": "PHD",
+  "quote": "Better pills"
+ },
+ {
+  "_pageName": "Piggy Bank",
+  "dlc": "31",
+  "collectible": "Piggy Bank",
+  "quote": "My life savings"
+ },
+ {
+  "_pageName": "Pisces",
+  "dlc": "31",
+  "collectible": "Pisces",
+  "quote": "Tears up + knock-back shots"
+ },
+ {
+  "_pageName": "PJs",
+  "dlc": "30",
+  "collectible": "PJs",
+  "quote": "You feel cozy"
+ },
+ {
+  "_pageName": "Placebo",
+  "dlc": "30",
+  "collectible": "Placebo",
+  "quote": "Pill mimic"
+ },
+ {
+  "_pageName": "Placenta",
+  "dlc": "31",
+  "collectible": "Placenta",
+  "quote": "Regeneration + HP up"
+ },
+ {
+  "_pageName": "Plan C",
+  "dlc": "4",
+  "collectible": "Plan C",
+  "quote": "Use with caution"
+ },
+ {
+  "_pageName": "Plan C",
+  "dlc": "24",
+  "collectible": "Plan C",
+  "quote": "My last resort"
+ },
+ {
+  "_pageName": "Playdough Cookie",
+  "dlc": "31",
+  "collectible": "Playdough Cookie",
+  "quote": "Tasty rainbow"
+ },
+ {
+  "_pageName": "Plum Flute",
+  "dlc": "24",
+  "collectible": "Plum Flute",
+  "quote": "Play time!"
+ },
+ {
+  "_pageName": "Pluto",
+  "dlc": "24",
+  "collectible": "Pluto",
+  "quote": "Size down"
+ },
+ {
+  "_pageName": "Pointy Rib",
+  "dlc": "28",
+  "collectible": "Pointy Rib",
+  "quote": "Stabbing time"
+ },
+ {
+  "_pageName": "Poke Go",
+  "dlc": "31",
+  "collectible": "Poke Go",
+  "quote": "Gotta catch em..."
+ },
+ {
+  "_pageName": "Polydactyly",
+  "dlc": "31",
+  "collectible": "Polydactyly",
+  "quote": "Hold me!"
+ },
+ {
+  "_pageName": "Polyphemus",
+  "dlc": "31",
+  "collectible": "Polyphemus",
+  "quote": "Mega tears"
+ },
+ {
+  "_pageName": "Pop!",
+  "dlc": "31",
+  "collectible": "Pop!",
+  "quote": "Eyeball tears!"
+ },
+ {
+  "_pageName": "Portable Slot",
+  "dlc": "31",
+  "collectible": "Portable Slot",
+  "quote": "Gamble 24/7"
+ },
+ {
+  "_pageName": "Potato Peeler",
+  "dlc": "28",
+  "collectible": "Potato Peeler",
+  "quote": "A pound of flesh"
+ },
+ {
+  "_pageName": "Prayer Card",
+  "dlc": "31",
+  "collectible": "Prayer Card",
+  "quote": "Reusable eternity"
+ },
+ {
+  "_pageName": "Proptosis",
+  "dlc": "31",
+  "collectible": "Proptosis",
+  "quote": "Short range mega tears"
+ },
+ {
+  "_pageName": "Psy Fly",
+  "dlc": "31",
+  "collectible": "Psy Fly",
+  "quote": "Flamboyant protector"
+ },
+ {
+  "_pageName": "Punching Bag",
+  "dlc": "31",
+  "collectible": "Punching Bag",
+  "quote": "Scape goat"
+ },
+ {
+  "_pageName": "Pupula Duplex",
+  "dlc": "31",
+  "collectible": "Pupula Duplex",
+  "quote": "Wide shot"
+ },
+ {
+  "_pageName": "Purgatory",
+  "dlc": "24",
+  "collectible": "Purgatory",
+  "quote": "Help from beyond"
+ },
+ {
+  "_pageName": "Purity",
+  "dlc": "31",
+  "collectible": "Purity",
+  "quote": "Aura stat boost"
+ },
+ {
+  "_pageName": "Pyro",
+  "dlc": "31",
+  "collectible": "Pyro",
+  "quote": "99 bombs"
+ },
+ {
+  "_pageName": "Pyromaniac",
+  "dlc": "31",
+  "collectible": "Pyromaniac",
+  "quote": "It hurts so good +5 bombs"
+ },
+ {
+  "_pageName": "Quints",
+  "dlc": "24",
+  "collectible": "Quints",
+  "quote": "They lurk inside"
+ },
+ {
+  "_pageName": "R Key",
+  "dlc": "24",
+  "collectible": "R Key",
+  "quote": "Time to start over"
+ },
+ {
+  "_pageName": "Rainbow Baby",
+  "dlc": "31",
+  "collectible": "Rainbow Baby",
+  "quote": "Random buddy"
+ },
+ {
+  "_pageName": "Raw Liver",
+  "dlc": "31",
+  "collectible": "Raw Liver",
+  "quote": "HP up"
+ },
+ {
+  "_pageName": "Razor Blade",
+  "dlc": "31",
+  "collectible": "Razor Blade",
+  "quote": "Feel my pain"
+ },
+ {
+  "_pageName": "Recall",
+  "dlc": "24",
+  "collectible": "Recall",
+  "quote": "Come back"
+ },
+ {
+  "_pageName": "Red Candle",
+  "dlc": "31",
+  "collectible": "Red Candle",
+  "quote": "Flame on"
+ },
+ {
+  "_pageName": "Red Key",
+  "dlc": "24",
+  "collectible": "Red Key",
+  "quote": "Explore the other side"
+ },
+ {
+  "_pageName": "Red Stew",
+  "dlc": "24",
+  "collectible": "Red Stew",
+  "quote": "Full HP + temporary DMG up"
+ },
+ {
+  "_pageName": "Redemption",
+  "dlc": "24",
+  "collectible": "Redemption",
+  "quote": "Deliver me from evil"
+ },
+ {
+  "_pageName": "Remote Detonator",
+  "dlc": "31",
+  "collectible": "Remote Detonator",
+  "quote": "Remote bomb detonation"
+ },
+ {
+  "_pageName": "Restock",
+  "dlc": "30",
+  "collectible": "Restock",
+  "quote": "Never ending stores!"
+ },
+ {
+  "_pageName": "Revelation",
+  "dlc": "24",
+  "collectible": "Revelation",
+  "quote": "Awaken your faith"
+ },
+ {
+  "_pageName": "Robo-Baby",
+  "dlc": "31",
+  "collectible": "Robo-Baby",
+  "quote": "Friends 'till the bbbbzzzt"
+ },
+ {
+  "_pageName": "Robo-Baby 2.0",
+  "dlc": "31",
+  "collectible": "Robo-Baby 2.0",
+  "quote": "We worked out all the kinks"
+ },
+ {
+  "_pageName": "Rock Bottom",
+  "dlc": "24",
+  "collectible": "Rock Bottom",
+  "quote": "It's only up from there"
+ },
+ {
+  "_pageName": "Rocket in a Jar",
+  "dlc": "24",
+  "collectible": "Rocket in a Jar",
+  "quote": "Rocket propulsion +5 bombs"
+ },
+ {
+  "_pageName": "Roid Rage",
+  "dlc": "31",
+  "collectible": "Roid Rage",
+  "quote": "Speed and range up"
+ },
+ {
+  "_pageName": "Rosary",
+  "dlc": "7",
+  "collectible": "Rosary",
+  "quote": "Faith up"
+ },
+ {
+  "_pageName": "Rosary",
+  "dlc": "24",
+  "collectible": "Rosary",
+  "quote": "Tears + faith up"
+ },
+ {
+  "_pageName": "Rotten Baby",
+  "dlc": "31",
+  "collectible": "Rotten Baby",
+  "quote": "Infested friend"
+ },
+ {
+  "_pageName": "Rotten Meat",
+  "dlc": "31",
+  "collectible": "Rotten Meat",
+  "quote": "HP up"
+ },
+ {
+  "_pageName": "Rotten Tomato",
+  "dlc": "31",
+  "collectible": "Rotten Tomato",
+  "quote": "Delicious!"
+ },
+ {
+  "_pageName": "Rubber Cement",
+  "dlc": "31",
+  "collectible": "Rubber Cement",
+  "quote": "Bouncing tears"
+ },
+ {
+  "_pageName": "Rune Bag",
+  "dlc": "31",
+  "collectible": "Rune Bag",
+  "quote": "Rune generator"
+ },
+ {
+  "_pageName": "Sack Head",
+  "dlc": "30",
+  "collectible": "Sack Head",
+  "quote": "More sacks!"
+ },
+ {
+  "_pageName": "Sack of Pennies",
+  "dlc": "31",
+  "collectible": "Sack of Pennies",
+  "quote": "Gives money"
+ },
+ {
+  "_pageName": "Sack of Sacks",
+  "dlc": "28",
+  "collectible": "Sack of Sacks",
+  "quote": "Gives sacks"
+ },
+ {
+  "_pageName": "Sacred Heart",
+  "dlc": "31",
+  "collectible": "Sacred Heart",
+  "quote": "Homing shots + DMG up"
+ },
+ {
+  "_pageName": "Sacred Orb",
+  "dlc": "24",
+  "collectible": "Sacred Orb",
+  "quote": "Destined for greatness"
+ },
+ {
+  "_pageName": "Sacrificial Altar",
+  "dlc": "28",
+  "collectible": "Sacrificial Altar",
+  "quote": "He demands a sacrifice"
+ },
+ {
+  "_pageName": "Sacrificial Dagger",
+  "dlc": "31",
+  "collectible": "Sacrificial Dagger",
+  "quote": "My fate protects me"
+ },
+ {
+  "_pageName": "Sad Bombs",
+  "dlc": "31",
+  "collectible": "Sad Bombs",
+  "quote": "Tear blasts +5 bombs"
+ },
+ {
+  "_pageName": "Safety Pin",
+  "dlc": "31",
+  "collectible": "Safety Pin",
+  "quote": "Evil + range + shot speed up"
+ },
+ {
+  "_pageName": "Sagittarius",
+  "dlc": "7",
+  "collectible": "Sagittarius",
+  "quote": "Penetrative shot + speed up"
+ },
+ {
+  "_pageName": "Sagittarius",
+  "dlc": "24",
+  "collectible": "Sagittarius",
+  "quote": "Piercing shots + speed up"
+ },
+ {
+  "_pageName": "Salvation",
+  "dlc": "31",
+  "collectible": "Salvation",
+  "quote": "Divine protection"
+ },
+ {
+  "_pageName": "Samson's Chains",
+  "dlc": "31",
+  "collectible": "Samson's Chains",
+  "quote": "The ol' ball and chain"
+ },
+ {
+  "_pageName": "Sanguine Bond",
+  "dlc": "24",
+  "collectible": "Sanguine Bond",
+  "quote": "He awaits your offering"
+ },
+ {
+  "_pageName": "Satanic Bible",
+  "dlc": "7",
+  "collectible": "Satanic Bible",
+  "quote": "Reusable evil"
+ },
+ {
+  "_pageName": "Satanic Bible",
+  "dlc": "24",
+  "collectible": "Satanic Bible",
+  "quote": "Reusable evil... but at what cost?"
+ },
+ {
+  "_pageName": "Saturnus",
+  "dlc": "24",
+  "collectible": "Saturnus",
+  "quote": "Ring of tears"
+ },
+ {
+  "_pageName": "Sausage",
+  "dlc": "24",
+  "collectible": "Sausage",
+  "quote": "All stats up"
+ },
+ {
+  "_pageName": "Scapular",
+  "dlc": "7",
+  "collectible": "Scapular",
+  "quote": "You have been blessed"
+ },
+ {
+  "_pageName": "Scapular",
+  "dlc": "24",
+  "collectible": "Scapular",
+  "quote": "Pray for a miracle"
+ },
+ {
+  "_pageName": "Scatter Bombs",
+  "dlc": "31",
+  "collectible": "Scatter Bombs",
+  "quote": "We put bombs in your bombs!"
+ },
+ {
+  "_pageName": "Schoolbag",
+  "dlc": "28",
+  "collectible": "Schoolbag",
+  "quote": "Extra active item room"
+ },
+ {
+  "_pageName": "Scissors",
+  "dlc": "31",
+  "collectible": "Scissors",
+  "quote": "Lose your head"
+ },
+ {
+  "_pageName": "Scorpio",
+  "dlc": "31",
+  "collectible": "Scorpio",
+  "quote": "Poison tears"
+ },
+ {
+  "_pageName": "Screw",
+  "dlc": "31",
+  "collectible": "Screw",
+  "quote": "Tears + shot speed up"
+ },
+ {
+  "_pageName": "Seraphim",
+  "dlc": "30",
+  "collectible": "Seraphim",
+  "quote": "Sworn friend"
+ },
+ {
+  "_pageName": "Serpent's Kiss",
+  "dlc": "30",
+  "collectible": "Serpent's Kiss",
+  "quote": "The kiss of death"
+ },
+ {
+  "_pageName": "Shade",
+  "dlc": "28",
+  "collectible": "Shade",
+  "quote": "It follows"
+ },
+ {
+  "_pageName": "Shard of Glass",
+  "dlc": "28",
+  "collectible": "Shard of Glass",
+  "quote": "Blood and guts!"
+ },
+ {
+  "_pageName": "Sharp Key",
+  "dlc": "24",
+  "collectible": "Sharp Key",
+  "quote": "Open your enemies"
+ },
+ {
+  "_pageName": "Sharp Plug",
+  "dlc": "7",
+  "collectible": "Sharp Plug",
+  "quote": "Charge with blood"
+ },
+ {
+  "_pageName": "Sharp Plug",
+  "dlc": "24",
+  "collectible": "Sharp Plug",
+  "quote": "Infinite charge... at a cost"
+ },
+ {
+  "_pageName": "Sharp Straw",
+  "dlc": "31",
+  "collectible": "Sharp Straw",
+  "quote": "More blood!"
+ },
+ {
+  "_pageName": "Shoop da Whoop!",
+  "dlc": "31",
+  "collectible": "Shoop da Whoop!",
+  "quote": "BLLLARRRRGGG!"
+ },
+ {
+  "_pageName": "Sinus Infection",
+  "dlc": "31",
+  "collectible": "Sinus Infection",
+  "quote": "Booger tears!"
+ },
+ {
+  "_pageName": "Sissy Longlegs",
+  "dlc": "31",
+  "collectible": "Sissy Longlegs",
+  "quote": "She loves you"
+ },
+ {
+  "_pageName": "Sister Maggy",
+  "dlc": "31",
+  "collectible": "Sister Maggy",
+  "quote": "Friends 'till the end"
+ },
+ {
+  "_pageName": "Skatole",
+  "dlc": "31",
+  "collectible": "Skatole",
+  "quote": "Fly love"
+ },
+ {
+  "_pageName": "Skeleton Key",
+  "dlc": "31",
+  "collectible": "Skeleton Key",
+  "quote": "99 keys"
+ },
+ {
+  "_pageName": "Slipped Rib",
+  "dlc": "31",
+  "collectible": "Slipped Rib",
+  "quote": "Projectile shield"
+ },
+ {
+  "_pageName": "Smart Fly",
+  "dlc": "31",
+  "collectible": "Smart Fly",
+  "quote": "Revenge fly"
+ },
+ {
+  "_pageName": "SMB Super Fan",
+  "dlc": "31",
+  "collectible": "SMB Super Fan",
+  "quote": "All stats up"
+ },
+ {
+  "_pageName": "Smelter",
+  "dlc": "28",
+  "collectible": "Smelter",
+  "quote": "Trinket melter!"
+ },
+ {
+  "_pageName": "Sol",
+  "dlc": "31",
+  "collectible": "Sol",
+  "quote": "Radiant victory"
+ },
+ {
+  "_pageName": "Soul Locket",
+  "dlc": "31",
+  "collectible": "Soul Locket",
+  "quote": "Power of faith"
+ },
+ {
+  "_pageName": "Soy Milk",
+  "dlc": "31",
+  "collectible": "Soy Milk",
+  "quote": "DMG down + tears way up"
+ },
+ {
+  "_pageName": "Spear Of Destiny",
+  "dlc": "31",
+  "collectible": "Spear Of Destiny",
+  "quote": "Your destiny"
+ },
+ {
+  "_pageName": "Speed Ball",
+  "dlc": "31",
+  "collectible": "Speed Ball",
+  "quote": "Speed + shot speed up"
+ },
+ {
+  "_pageName": "Spelunker Hat",
+  "dlc": "31",
+  "collectible": "Spelunker Hat",
+  "quote": "See-through doors"
+ },
+ {
+  "_pageName": "Spider Bite",
+  "dlc": "31",
+  "collectible": "Spider Bite",
+  "quote": "Slow effect"
+ },
+ {
+  "_pageName": "Spider Butt",
+  "dlc": "31",
+  "collectible": "Spider Butt",
+  "quote": "Mass enemy slowdown + damage"
+ },
+ {
+  "_pageName": "Spider Mod",
+  "dlc": "7",
+  "collectible": "Spider Mod",
+  "quote": "Mod buddy!"
+ },
+ {
+  "_pageName": "Spider Mod",
+  "dlc": "24",
+  "collectible": "Spider Mod",
+  "quote": "Mod buddy"
+ },
+ {
+  "_pageName": "Spiderbaby",
+  "dlc": "31",
+  "collectible": "Spiderbaby",
+  "quote": "Spider revenge"
+ },
+ {
+  "_pageName": "Spin to Win",
+  "dlc": "31",
+  "collectible": "Spin to Win",
+  "quote": "Let it rip!"
+ },
+ {
+  "_pageName": "Spindown Dice",
+  "dlc": "24",
+  "collectible": "Spindown Dice",
+  "quote": "-1"
+ },
+ {
+  "_pageName": "Spirit of the Night",
+  "dlc": "31",
+  "collectible": "Spirit of the Night",
+  "quote": "Scary"
+ },
+ {
+  "_pageName": "Spirit Shackles",
+  "dlc": "24",
+  "collectible": "Spirit Shackles",
+  "quote": "Unfinished business"
+ },
+ {
+  "_pageName": "Spirit Sword",
+  "dlc": "31",
+  "collectible": "Spirit Sword",
+  "quote": "Divine blade"
+ },
+ {
+  "_pageName": "Spoon Bender",
+  "dlc": "31",
+  "collectible": "Spoon Bender",
+  "quote": "Homing shots"
+ },
+ {
+  "_pageName": "Sprinkler",
+  "dlc": "31",
+  "collectible": "Sprinkler",
+  "quote": "Sprinkles."
+ },
+ {
+  "_pageName": "Squeezy",
+  "dlc": "31",
+  "collectible": "Squeezy",
+  "quote": "Tears up"
+ },
+ {
+  "_pageName": "Stapler",
+  "dlc": "24",
+  "collectible": "Stapler",
+  "quote": "DMG up"
+ },
+ {
+  "_pageName": "Star of Bethlehem",
+  "dlc": "24",
+  "collectible": "Star of Bethlehem",
+  "quote": "Follow the light"
+ },
+ {
+  "_pageName": "Starter Deck",
+  "dlc": "31",
+  "collectible": "Starter Deck",
+  "quote": "Extra card room"
+ },
+ {
+  "_pageName": "Steam Sale",
+  "dlc": "31",
+  "collectible": "Steam Sale",
+  "quote": "50% off"
+ },
+ {
+  "_pageName": "Stem Cells",
+  "dlc": "31",
+  "collectible": "Stem Cells",
+  "quote": "HP + shot speed up"
+ },
+ {
+  "_pageName": "Steven (Item)",
+  "dlc": "31",
+  "collectible": "Steven",
+  "quote": "DMG up"
+ },
+ {
+  "_pageName": "Sticky Bombs",
+  "dlc": "31",
+  "collectible": "Sticky Bombs",
+  "quote": "Egg sack bombs!"
+ },
+ {
+  "_pageName": "Stigmata",
+  "dlc": "31",
+  "collectible": "Stigmata",
+  "quote": "DMG + HP up"
+ },
+ {
+  "_pageName": "Stitches",
+  "dlc": "24",
+  "collectible": "Stitches",
+  "quote": "Bait and switch"
+ },
+ {
+  "_pageName": "Stop Watch",
+  "dlc": "31",
+  "collectible": "Stop Watch",
+  "quote": "Let's slow this down a bit..."
+ },
+ {
+  "_pageName": "Strange Attractor",
+  "dlc": "31",
+  "collectible": "Strange Attractor",
+  "quote": "Magnetic tears"
+ },
+ {
+  "_pageName": "Strawman",
+  "dlc": "24",
+  "collectible": "Strawman",
+  "quote": "A helping hand"
+ },
+ {
+  "_pageName": "Stye",
+  "dlc": "31",
+  "collectible": "Stye",
+  "quote": "DMG + range up"
+ },
+ {
+  "_pageName": "Succubus",
+  "dlc": "30",
+  "collectible": "Succubus",
+  "quote": "Damage booster"
+ },
+ {
+  "_pageName": "Sulfur",
+  "dlc": "24",
+  "collectible": "Sulfur",
+  "quote": "Temporary demon form"
+ },
+ {
+  "_pageName": "Sulfuric Acid",
+  "dlc": "31",
+  "collectible": "Sulfuric Acid",
+  "quote": "Acid tears!"
+ },
+ {
+  "_pageName": "Sumptorium",
+  "dlc": "31",
+  "collectible": "Sumptorium",
+  "quote": "Blood to blood"
+ },
+ {
+  "_pageName": "Super Bandage",
+  "dlc": "31",
+  "collectible": "Super Bandage",
+  "quote": "+2 hearts"
+ },
+ {
+  "_pageName": "Suplex!",
+  "dlc": "24",
+  "collectible": "Suplex!",
+  "quote": "Angel breaker"
+ },
+ {
+  "_pageName": "Supper",
+  "dlc": "24",
+  "collectible": "Supper",
+  "quote": "HP up"
+ },
+ {
+  "_pageName": "Sworn Protector",
+  "dlc": "30",
+  "collectible": "Sworn Protector",
+  "quote": "Protective friend"
+ },
+ {
+  "_pageName": "Synthoil",
+  "dlc": "31",
+  "collectible": "Synthoil",
+  "quote": "DMG + range up"
+ },
+ {
+  "_pageName": "Tammy's Head",
+  "dlc": "31",
+  "collectible": "Tammy's Head",
+  "quote": "Reusable tear burst"
+ },
+ {
+  "_pageName": "Tarot Cloth",
+  "dlc": "28",
+  "collectible": "Tarot Cloth",
+  "quote": "I see the future"
+ },
+ {
+  "_pageName": "Taurus",
+  "dlc": "31",
+  "collectible": "Taurus",
+  "quote": "Speed down + rage is building"
+ },
+ {
+  "_pageName": "Tear Detonator",
+  "dlc": "30",
+  "collectible": "Tear Detonator",
+  "quote": "Remote tear detonation!"
+ },
+ {
+  "_pageName": "Tech X",
+  "dlc": "31",
+  "collectible": "Tech X",
+  "quote": "Laser ring tears"
+ },
+ {
+  "_pageName": "Tech.5",
+  "dlc": "31",
+  "collectible": "Tech.5",
+  "quote": "It's still being tested..."
+ },
+ {
+  "_pageName": "Technology",
+  "dlc": "31",
+  "collectible": "Technology",
+  "quote": "Laser tears"
+ },
+ {
+  "_pageName": "Technology 2",
+  "dlc": "7",
+  "collectible": "Technology 2",
+  "quote": "Laser"
+ },
+ {
+  "_pageName": "Technology 2",
+  "dlc": "24",
+  "collectible": "Technology 2",
+  "quote": "Extra laser"
+ },
+ {
+  "_pageName": "Technology Zero",
+  "dlc": "31",
+  "collectible": "Technology Zero",
+  "quote": "Static tears!"
+ },
+ {
+  "_pageName": "Telekinesis",
+  "dlc": "28",
+  "collectible": "Telekinesis",
+  "quote": "Power of the mind"
+ },
+ {
+  "_pageName": "Telepathy For Dummies",
+  "dlc": "31",
+  "collectible": "Telepathy For Dummies",
+  "quote": "Temporary psychic shot"
+ },
+ {
+  "_pageName": "Teleport 2.0",
+  "dlc": "30",
+  "collectible": "Teleport 2.0",
+  "quote": "I-Teleport!"
+ },
+ {
+  "_pageName": "Teleport!",
+  "dlc": "31",
+  "collectible": "Teleport!",
+  "quote": "Teleport!"
+ },
+ {
+  "_pageName": "Terra",
+  "dlc": "31",
+  "collectible": "Terra",
+  "quote": "Born to rock"
+ },
+ {
+  "_pageName": "The Battery",
+  "dlc": "31",
+  "collectible": "The Battery",
+  "quote": "Stores energy"
+ },
+ {
+  "_pageName": "The Bean",
+  "dlc": "31",
+  "collectible": "The Bean",
+  "quote": "Toot on command"
+ },
+ {
+  "_pageName": "The Belt",
+  "dlc": "31",
+  "collectible": "The Belt",
+  "quote": "Speed up"
+ },
+ {
+  "_pageName": "The Bible",
+  "dlc": "31",
+  "collectible": "The Bible",
+  "quote": "Temporary flight"
+ },
+ {
+  "_pageName": "The Black Bean",
+  "dlc": "31",
+  "collectible": "The Black Bean",
+  "quote": "Toot on touch"
+ },
+ {
+  "_pageName": "The Body",
+  "dlc": "31",
+  "collectible": "The Body",
+  "quote": "I feel all"
+ },
+ {
+  "_pageName": "The Book of Belial",
+  "dlc": "31",
+  "collectible": "The Book of Belial",
+  "quote": "Temporary DMG up"
+ },
+ {
+  "_pageName": "The Book of Sin",
+  "dlc": "31",
+  "collectible": "The Book of Sin",
+  "quote": "Reusable item generator"
+ },
+ {
+  "_pageName": "The Boomerang",
+  "dlc": "31",
+  "collectible": "The Boomerang",
+  "quote": "It will never leave you"
+ },
+ {
+  "_pageName": "The Candle",
+  "dlc": "31",
+  "collectible": "The Candle",
+  "quote": "Reusable flames"
+ },
+ {
+  "_pageName": "The Common Cold",
+  "dlc": "31",
+  "collectible": "The Common Cold",
+  "quote": "Poison damage"
+ },
+ {
+  "_pageName": "The Compass",
+  "dlc": "31",
+  "collectible": "The Compass",
+  "quote": "The end is near"
+ },
+ {
+  "_pageName": "The D6",
+  "dlc": "31",
+  "collectible": "The D6",
+  "quote": "Reroll your destiny"
+ },
+ {
+  "_pageName": "The Gamekid",
+  "dlc": "31",
+  "collectible": "The Gamekid",
+  "quote": "Temporary Man-Pac"
+ },
+ {
+  "_pageName": "The Halo",
+  "dlc": "31",
+  "collectible": "The Halo",
+  "quote": "All stats up"
+ },
+ {
+  "_pageName": "The Hourglass",
+  "dlc": "31",
+  "collectible": "The Hourglass",
+  "quote": "Temporary enemy slowdown"
+ },
+ {
+  "_pageName": "The Inner Eye",
+  "dlc": "31",
+  "collectible": "The Inner Eye",
+  "quote": "Triple shot"
+ },
+ {
+  "_pageName": "The Intruder",
+  "dlc": "24",
+  "collectible": "The Intruder",
+  "quote": "Invasive friend"
+ },
+ {
+  "_pageName": "The Jar",
+  "dlc": "31",
+  "collectible": "The Jar",
+  "quote": "Save your life"
+ },
+ {
+  "_pageName": "The Ladder",
+  "dlc": "31",
+  "collectible": "The Ladder",
+  "quote": "Building bridges"
+ },
+ {
+  "_pageName": "The Ludovico Technique",
+  "dlc": "31",
+  "collectible": "The Ludovico Technique",
+  "quote": "Controlled tears"
+ },
+ {
+  "_pageName": "The Mark",
+  "dlc": "7",
+  "collectible": "The Mark",
+  "quote": "DMG up"
+ },
+ {
+  "_pageName": "The Mark",
+  "dlc": "24",
+  "collectible": "The Mark",
+  "quote": "DMG + speed up"
+ },
+ {
+  "_pageName": "The Mind",
+  "dlc": "31",
+  "collectible": "The Mind",
+  "quote": "I know all"
+ },
+ {
+  "_pageName": "The Mulligan",
+  "dlc": "31",
+  "collectible": "The Mulligan",
+  "quote": "They grow inside"
+ },
+ {
+  "_pageName": "The Nail",
+  "dlc": "31",
+  "collectible": "The Nail",
+  "quote": "Temporary demon form"
+ },
+ {
+  "_pageName": "The Necronomicon",
+  "dlc": "31",
+  "collectible": "The Necronomicon",
+  "quote": "Mass room damage"
+ },
+ {
+  "_pageName": "The Negative",
+  "dlc": "31",
+  "collectible": "The Negative",
+  "quote": "Fate chosen"
+ },
+ {
+  "_pageName": "The Pact",
+  "dlc": "31",
+  "collectible": "The Pact",
+  "quote": "DMG + tears up"
+ },
+ {
+  "_pageName": "The Parasite",
+  "dlc": "31",
+  "collectible": "The Parasite",
+  "quote": "Split shot"
+ },
+ {
+  "_pageName": "The Peeper",
+  "dlc": "31",
+  "collectible": "The Peeper",
+  "quote": "Plop!"
+ },
+ {
+  "_pageName": "The Pinking Shears",
+  "dlc": "31",
+  "collectible": "The Pinking Shears",
+  "quote": "Cut and run"
+ },
+ {
+  "_pageName": "The Polaroid",
+  "dlc": "31",
+  "collectible": "The Polaroid",
+  "quote": "Fate chosen"
+ },
+ {
+  "_pageName": "The Poop",
+  "dlc": "31",
+  "collectible": "The Poop",
+  "quote": "Plop!"
+ },
+ {
+  "_pageName": "The Relic",
+  "dlc": "31",
+  "collectible": "The Relic",
+  "quote": "Soul generator"
+ },
+ {
+  "_pageName": "The Sad Onion",
+  "dlc": "31",
+  "collectible": "The Sad Onion",
+  "quote": "Tears up"
+ },
+ {
+  "_pageName": "The Scooper",
+  "dlc": "24",
+  "collectible": "The Scooper",
+  "quote": "Plop!"
+ },
+ {
+  "_pageName": "The Small Rock",
+  "dlc": "7",
+  "collectible": "The Small Rock",
+  "quote": "DMG up"
+ },
+ {
+  "_pageName": "The Small Rock",
+  "dlc": "24",
+  "collectible": "The Small Rock",
+  "quote": "DMG up + speed down"
+ },
+ {
+  "_pageName": "The Soul",
+  "dlc": "31",
+  "collectible": "The Soul",
+  "quote": "I am all"
+ },
+ {
+  "_pageName": "The Stairway",
+  "dlc": "24",
+  "collectible": "The Stairway",
+  "quote": "May you get what you came for"
+ },
+ {
+  "_pageName": "The Swarm",
+  "dlc": "24",
+  "collectible": "The Swarm",
+  "quote": "Infest"
+ },
+ {
+  "_pageName": "The Virus",
+  "dlc": "7",
+  "collectible": "The Virus",
+  "quote": "Poison touch"
+ },
+ {
+  "_pageName": "The Virus",
+  "dlc": "24",
+  "collectible": "The Virus",
+  "quote": "Poison touch + speed up"
+ },
+ {
+  "_pageName": "The Wafer",
+  "dlc": "31",
+  "collectible": "The Wafer",
+  "quote": "Damage resistance"
+ },
+ {
+  "_pageName": "The Wiz",
+  "dlc": "30",
+  "collectible": "The Wiz",
+  "quote": "Double wiz shot!"
+ },
+ {
+  "_pageName": "There's Options",
+  "dlc": "31",
+  "collectible": "There's Options",
+  "quote": "More options"
+ },
+ {
+  "_pageName": "Thunder Thighs",
+  "dlc": "31",
+  "collectible": "Thunder Thighs",
+  "quote": "HP up + speed down + you feel stompy"
+ },
+ {
+  "_pageName": "Tiny Planet",
+  "dlc": "31",
+  "collectible": "Tiny Planet",
+  "quote": "Orbiting tears + range up"
+ },
+ {
+  "_pageName": "Tinytoma",
+  "dlc": "31",
+  "collectible": "Tinytoma",
+  "quote": "Itching for revenge"
+ },
+ {
+  "_pageName": "TMTRAINER",
+  "dlc": "24",
+  "collectible": "TMTRAINER",
+  "quote": "ZZaZZ ZZdZZiZZmZZhZZ ZZvZZ ZZoZZ ZZ ZZsZZlZZhZZsZZoZZaZZiZZ"
+ },
+ {
+  "_pageName": "Tonsil",
+  "dlc": "4",
+  "collectible": "Tonsil",
+  "quote": "Gross..."
+ },
+ {
+  "_pageName": "Tooth and Nail",
+  "dlc": "24",
+  "collectible": "Tooth and Nail",
+  "quote": "You feel prickly"
+ },
+ {
+  "_pageName": "Tooth Picks",
+  "dlc": "31",
+  "collectible": "Tooth Picks",
+  "quote": "Tears + shot speed up"
+ },
+ {
+  "_pageName": "Torn Photo",
+  "dlc": "31",
+  "collectible": "Torn Photo",
+  "quote": "Tears + shot speed up"
+ },
+ {
+  "_pageName": "Tough Love",
+  "dlc": "31",
+  "collectible": "Tough Love",
+  "quote": "Tooth shot"
+ },
+ {
+  "_pageName": "Toxic Shock",
+  "dlc": "30",
+  "collectible": "Toxic Shock",
+  "quote": "Mass poison"
+ },
+ {
+  "_pageName": "Tractor Beam",
+  "dlc": "31",
+  "collectible": "Tractor Beam",
+  "quote": "Controlled tears"
+ },
+ {
+  "_pageName": "Transcendence",
+  "dlc": "31",
+  "collectible": "Transcendence",
+  "quote": "We all float down here..."
+ },
+ {
+  "_pageName": "Treasure Map",
+  "dlc": "31",
+  "collectible": "Treasure Map",
+  "quote": "Full visible map"
+ },
+ {
+  "_pageName": "Trinity Shield",
+  "dlc": "31",
+  "collectible": "Trinity Shield",
+  "quote": "You feel guarded"
+ },
+ {
+  "_pageName": "Trisagion",
+  "dlc": "28",
+  "collectible": "Trisagion",
+  "quote": "Smite thy enemy"
+ },
+ {
+  "_pageName": "Tropicamide",
+  "dlc": "31",
+  "collectible": "Tropicamide",
+  "quote": "Tear size + range up"
+ },
+ {
+  "_pageName": "Twisted Pair",
+  "dlc": "24",
+  "collectible": "Twisted Pair",
+  "quote": "Double trouble!"
+ },
+ {
+  "_pageName": "Undefined",
+  "dlc": "31",
+  "collectible": "Undefined",
+  "quote": "Undefined"
+ },
+ {
+  "_pageName": "Unicorn Stump",
+  "dlc": "31",
+  "collectible": "Unicorn Stump",
+  "quote": "You feel stumped"
+ },
+ {
+  "_pageName": "Uranus",
+  "dlc": "24",
+  "collectible": "Uranus",
+  "quote": "Ice tears"
+ },
+ {
+  "_pageName": "Urn of Souls",
+  "dlc": "24",
+  "collectible": "Urn of Souls",
+  "quote": "Unleash their sorrow"
+ },
+ {
+  "_pageName": "Vade Retro",
+  "dlc": "24",
+  "collectible": "Vade Retro",
+  "quote": "Begone!"
+ },
+ {
+  "_pageName": "Vanishing Twin",
+  "dlc": "24",
+  "collectible": "Vanishing Twin",
+  "quote": "He wants revenge"
+ },
+ {
+  "_pageName": "Varicose Veins",
+  "dlc": "28",
+  "collectible": "Varicose Veins",
+  "quote": "I'm leaking..."
+ },
+ {
+  "_pageName": "Vasculitis",
+  "dlc": "24",
+  "collectible": "Vasculitis",
+  "quote": "Clogged enemies"
+ },
+ {
+  "_pageName": "Vengeful Spirit",
+  "dlc": "31",
+  "collectible": "Vengeful Spirit",
+  "quote": "Hot blooded"
+ },
+ {
+  "_pageName": "Ventricle Razor",
+  "dlc": "30",
+  "collectible": "Ventricle Razor",
+  "quote": "Short cutter"
+ },
+ {
+  "_pageName": "Venus",
+  "dlc": "31",
+  "collectible": "Venus",
+  "quote": "HP up + you feel pretty"
+ },
+ {
+  "_pageName": "Virgo",
+  "dlc": "31",
+  "collectible": "Virgo",
+  "quote": "You feel refreshed and protected"
+ },
+ {
+  "_pageName": "Void",
+  "dlc": "28",
+  "collectible": "Void",
+  "quote": "Consume"
+ },
+ {
+  "_pageName": "Voodoo Head",
+  "dlc": "31",
+  "collectible": "Voodoo Head",
+  "quote": "Extra curse rooms"
+ },
+ {
+  "_pageName": "Wait What?",
+  "dlc": "28",
+  "collectible": "Wait What?",
+  "quote": "I can't believe it's not butter bean!"
+ },
+ {
+  "_pageName": "Wavy Cap",
+  "dlc": "31",
+  "collectible": "Wavy Cap",
+  "quote": "Tears up. A mind changing experience!"
+ },
+ {
+  "_pageName": "We Need To Go Deeper!",
+  "dlc": "31",
+  "collectible": "We Need To Go Deeper!",
+  "quote": "Reusable level skip"
+ },
+ {
+  "_pageName": "White Pony",
+  "dlc": "31",
+  "collectible": "White Pony",
+  "quote": "Flight + holy death"
+ },
+ {
+  "_pageName": "Whore of Babylon",
+  "dlc": "31",
+  "collectible": "Whore of Babylon",
+  "quote": "Curse up"
+ },
+ {
+  "_pageName": "Wire Coat Hanger",
+  "dlc": "31",
+  "collectible": "Wire Coat Hanger",
+  "quote": "Tears up"
+ },
+ {
+  "_pageName": "Wooden Nickel",
+  "dlc": "30",
+  "collectible": "Wooden Nickel",
+  "quote": "Flip a coin"
+ },
+ {
+  "_pageName": "Wooden Spoon",
+  "dlc": "31",
+  "collectible": "Wooden Spoon",
+  "quote": "Speed up"
+ },
+ {
+  "_pageName": "Worm Friend",
+  "dlc": "31",
+  "collectible": "Worm Friend",
+  "quote": "Clingy buddy"
+ },
+ {
+  "_pageName": "X-Ray Vision",
+  "dlc": "31",
+  "collectible": "X-Ray Vision",
+  "quote": "I've seen everything"
+ },
+ {
+  "_pageName": "YO LISTEN!",
+  "dlc": "28",
+  "collectible": "YO LISTEN!",
+  "quote": "Yo listen!"
+ },
+ {
+  "_pageName": "Yuck Heart",
+  "dlc": "24",
+  "collectible": "Yuck Heart",
+  "quote": "Gross!"
+ },
+ {
+  "_pageName": "Yum Heart",
+  "dlc": "31",
+  "collectible": "Yum Heart",
+  "quote": "Reusable regeneration"
+ },
+ {
+  "_pageName": "Zodiac",
+  "dlc": "31",
+  "collectible": "Zodiac",
+  "quote": "The heavens will change you"
+ }
+]

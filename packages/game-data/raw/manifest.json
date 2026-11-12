@@ -1,0 +1,8 @@
+{
+  "source": "The Binding of Isaac: Rebirth Wiki",
+  "url": "https://bindingofisaacrebirth.wiki.gg/",
+  "license": "Creative Commons Attribution-ShareAlike 4.0 License",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "fetchedAt": "2026-11-08T01:24:01.744Z",
+  "method": "API MediaWiki (action=cargoquery, action=query&prop=revisions), ~1 requête/s"
+}

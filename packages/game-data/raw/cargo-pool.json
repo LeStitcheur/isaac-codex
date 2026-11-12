@@ -1,0 +1,299 @@
+[
+ {
+  "_pageName": "Angel Room (Greed Mode Item Pool)",
+  "dlc": "30",
+  "alias": "Greed Angel Room",
+  "name": "Angel Room",
+  "price_type": "",
+  "is_greed": "1",
+  "decrease": "1"
+ },
+ {
+  "_pageName": "Angel Room (Item Pool)",
+  "dlc": "31",
+  "alias": "Angel Room",
+  "name": "Angel Room",
+  "price_type": "",
+  "is_greed": "0",
+  "decrease": "1"
+ },
+ {
+  "_pageName": "Baby Shop (Item Pool)",
+  "dlc": "24",
+  "alias": "Baby Shop",
+  "name": "Baby Shop",
+  "price_type": "coins",
+  "is_greed": "0",
+  "decrease": "1"
+ },
+ {
+  "_pageName": "Battery Bum (Item Pool)",
+  "dlc": "24",
+  "alias": "Battery Bum",
+  "name": "Battery Bum",
+  "price_type": "",
+  "is_greed": "0",
+  "decrease": "1"
+ },
+ {
+  "_pageName": "Beggar (Item Pool)",
+  "dlc": "31",
+  "alias": "Beggar",
+  "name": "Beggar",
+  "price_type": "",
+  "is_greed": "0",
+  "decrease": "1"
+ },
+ {
+  "_pageName": "Bomb Bum (Item Pool)",
+  "dlc": "30",
+  "alias": "Bomb Bum",
+  "name": "Bomb Bum",
+  "price_type": "",
+  "is_greed": "0",
+  "decrease": "1"
+ },
+ {
+  "_pageName": "Boss (Greed Mode Item Pool)",
+  "dlc": "30",
+  "alias": "Greed Boss",
+  "name": "Boss",
+  "price_type": "",
+  "is_greed": "1",
+  "decrease": "1"
+ },
+ {
+  "_pageName": "Boss (Item Pool)",
+  "dlc": "31",
+  "alias": "Boss",
+  "name": "Boss",
+  "price_type": "",
+  "is_greed": "0",
+  "decrease": "1"
+ },
+ {
+  "_pageName": "Crane Game (Item Pool)",
+  "dlc": "24",
+  "alias": "Crane Game",
+  "name": "Crane Game",
+  "price_type": "",
+  "is_greed": "0",
+  "decrease": "1"
+ },
+ {
+  "_pageName": "Curse Room (Greed Mode Item Pool)",
+  "dlc": "30",
+  "alias": "Greed Curse Room",
+  "name": "Curse Room",
+  "price_type": "",
+  "is_greed": "1",
+  "decrease": "1"
+ },
+ {
+  "_pageName": "Curse Room (Item Pool)",
+  "dlc": "31",
+  "alias": "Curse Room",
+  "name": "Curse Room",
+  "price_type": "",
+  "is_greed": "0",
+  "decrease": "1"
+ },
+ {
+  "_pageName": "Devil Beggar (Item Pool)",
+  "dlc": "31",
+  "alias": "Devil Beggar",
+  "name": "Devil Beggar",
+  "price_type": "",
+  "is_greed": "0",
+  "decrease": "1"
+ },
+ {
+  "_pageName": "Devil Room (Greed Mode Item Pool)",
+  "dlc": "30",
+  "alias": "Greed Devil Room",
+  "name": "Devil Room",
+  "price_type": "health",
+  "is_greed": "1",
+  "decrease": "1"
+ },
+ {
+  "_pageName": "Devil Room (Item Pool)",
+  "dlc": "31",
+  "alias": "Devil Room",
+  "name": "Devil Room",
+  "price_type": "health",
+  "is_greed": "0",
+  "decrease": "1"
+ },
+ {
+  "_pageName": "Golden Chest (Greed Mode Item Pool)",
+  "dlc": "6",
+  "alias": "Greed Golden Chest",
+  "name": "Golden Chest",
+  "price_type": "",
+  "is_greed": "1",
+  "decrease": "1"
+ },
+ {
+  "_pageName": "Golden Chest (Item Pool)",
+  "dlc": "31",
+  "alias": "Golden Chest",
+  "name": "Golden Chest",
+  "price_type": "",
+  "is_greed": "0",
+  "decrease": "1"
+ },
+ {
+  "_pageName": "Key Master (Item Pool)",
+  "dlc": "31",
+  "alias": "Key Master",
+  "name": "Key Master",
+  "price_type": "",
+  "is_greed": "0",
+  "decrease": "1"
+ },
+ {
+  "_pageName": "Library (Greed Mode Item Pool)",
+  "dlc": "6",
+  "alias": "Greed Library",
+  "name": "Library",
+  "price_type": "",
+  "is_greed": "1",
+  "decrease": "1"
+ },
+ {
+  "_pageName": "Library (Item Pool)",
+  "dlc": "31",
+  "alias": "Library",
+  "name": "Library",
+  "price_type": "",
+  "is_greed": "0",
+  "decrease": "1"
+ },
+ {
+  "_pageName": "Mom's Chest (Item Pool)",
+  "dlc": "24",
+  "alias": "Mom's Chest",
+  "name": "Mom's Chest",
+  "price_type": "",
+  "is_greed": "0",
+  "decrease": "1"
+ },
+ {
+  "_pageName": "Old Chest (Item Pool)",
+  "dlc": "24",
+  "alias": "Old Chest",
+  "name": "Old Chest",
+  "price_type": "",
+  "is_greed": "0",
+  "decrease": "1"
+ },
+ {
+  "_pageName": "Planetarium (Item Pool)",
+  "dlc": "24",
+  "alias": "Planetarium",
+  "name": "Planetarium",
+  "price_type": "",
+  "is_greed": "0",
+  "decrease": "1"
+ },
+ {
+  "_pageName": "Red Chest (Item Pool)",
+  "dlc": "31",
+  "alias": "Red Chest",
+  "name": "Red Chest",
+  "price_type": "",
+  "is_greed": "0",
+  "decrease": "1"
+ },
+ {
+  "_pageName": "Rotten Beggar (Item Pool)",
+  "dlc": "24",
+  "alias": "Rotten Beggar",
+  "name": "Rotten Beggar",
+  "price_type": "",
+  "is_greed": "0",
+  "decrease": "1"
+ },
+ {
+  "_pageName": "Secret Room (Greed Mode Item Pool)",
+  "dlc": "30",
+  "alias": "Greed Secret Room",
+  "name": "Secret Room",
+  "price_type": "",
+  "is_greed": "1",
+  "decrease": "1"
+ },
+ {
+  "_pageName": "Secret Room (Item Pool)",
+  "dlc": "31",
+  "alias": "Secret Room",
+  "name": "Secret Room",
+  "price_type": "",
+  "is_greed": "0",
+  "decrease": "1"
+ },
+ {
+  "_pageName": "Shell Game (Item Pool)",
+  "dlc": "24",
+  "alias": "Shell Game",
+  "name": "Shell Game",
+  "price_type": "",
+  "is_greed": "0",
+  "decrease": "1"
+ },
+ {
+  "_pageName": "Shop (Greed Mode Item Pool)",
+  "dlc": "30",
+  "alias": "Greed Shop",
+  "name": "Shop",
+  "price_type": "coins",
+  "is_greed": "1",
+  "decrease": "1"
+ },
+ {
+  "_pageName": "Shop (Item Pool)",
+  "dlc": "31",
+  "alias": "Shop",
+  "name": "Shop",
+  "price_type": "coins",
+  "is_greed": "0",
+  "decrease": "1"
+ },
+ {
+  "_pageName": "Treasure Room (Greed Mode Item Pool)",
+  "dlc": "30",
+  "alias": "Greed Treasure Room",
+  "name": "Treasure Room",
+  "price_type": "",
+  "is_greed": "1",
+  "decrease": "1"
+ },
+ {
+  "_pageName": "Treasure Room (Item Pool)",
+  "dlc": "31",
+  "alias": "Treasure Room",
+  "name": "Treasure Room",
+  "price_type": "",
+  "is_greed": "0",
+  "decrease": "1"
+ },
+ {
+  "_pageName": "Ultra Secret Room (Item Pool)",
+  "dlc": "24",
+  "alias": "Ultra Secret Room",
+  "name": "Ultra Secret Room",
+  "price_type": "",
+  "is_greed": "0",
+  "decrease": "1"
+ },
+ {
+  "_pageName": "Wooden Chest (Item Pool)",
+  "dlc": "24",
+  "alias": "Wooden Chest",
+  "name": "Wooden Chest",
+  "price_type": "",
+  "is_greed": "0",
+  "decrease": "1"
+ }
+]

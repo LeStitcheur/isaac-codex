@@ -1,0 +1,92 @@
+[
+  {
+    "slug": "normale",
+    "title": "Route normale",
+    "summary": "Le chemin principal jusqu'à ⟦e:Mom's Heart⟧ / It Lives!.",
+    "color": "#b73b43",
+    "stages": [
+      { "label": "Chapitre 1", "floors": ["basement", "cellar", "burning-basement"], "note": null },
+      { "label": "Chapitre 2", "floors": ["caves", "catacombs", "flooded-caves"], "note": null },
+      { "label": "Chapitre 3", "floors": ["depths", "necropolis", "dank-depths"], "note": "⟦e:Mom⟧ au deuxième étage. Le Boss Rush s'ouvre si elle est vaincue en moins de 20 minutes." },
+      { "label": "Chapitre 4", "floors": ["womb", "utero", "scarred-womb"], "note": "⟦e:Mom's Heart⟧ (puis It Lives! après 11 victoires). Le Blue Womb s'ouvre si l'étage est atteint en moins de 30 minutes." }
+    ],
+    "finalBoss": "Mom's Heart / It Lives!",
+    "requirements": ["Vaincre ⟦e:Mom⟧ une fois débloque le Womb."],
+    "achievementIds": ["The Womb", "It Lives!"],
+    "marks": ["heart", "bossrush"]
+  },
+  {
+    "slug": "cathedral-chest",
+    "title": "Cathedral → Chest",
+    "summary": "Le rayon de lumière après Mom's Heart mène à la Cathedral (⟦e:Isaac⟧), puis au Chest (⟦e:???⟧) avec The Polaroid.",
+    "color": "#d6be96",
+    "stages": [
+      { "label": "Chapitre 5", "floors": ["cathedral"], "note": "Rayon de lumière après Mom's Heart / It Lives!." },
+      { "label": "Chapitre 6", "floors": ["chest"], "note": "Nécessite ⟦i:The Polaroid⟧. Porte dorée vers ⟦e:Mega Satan⟧ dans la salle de départ." }
+    ],
+    "finalBoss": "??? (ou Mega Satan)",
+    "requirements": ["⟦i:The Polaroid⟧ : vaincre Isaac 5 fois.", "Mega Satan : ⟦i:Key Piece 1⟧ + ⟦i:Key Piece 2⟧ (anges Uriel et Gabriel)."],
+    "achievementIds": ["The Polaroid"],
+    "marks": ["isaac", "bluebaby", "megasatan"]
+  },
+  {
+    "slug": "sheol-dark-room",
+    "title": "Sheol → Dark Room",
+    "summary": "La trappe après Mom's Heart mène au Sheol (⟦e:Satan⟧), puis à la Dark Room (⟦e:The Lamb⟧) avec The Negative.",
+    "color": "#7a2530",
+    "stages": [
+      { "label": "Chapitre 5", "floors": ["sheol"], "note": "Trappe après Mom's Heart / It Lives!." },
+      { "label": "Chapitre 6", "floors": ["dark-room"], "note": "Nécessite ⟦i:The Negative⟧ (sinon accès aléatoire : Black Market, I AM ERROR, Sacrifice Room). Porte dorée vers Mega Satan." }
+    ],
+    "finalBoss": "The Lamb (ou Mega Satan)",
+    "requirements": ["⟦i:The Negative⟧ : vaincre Satan 5 fois."],
+    "achievementIds": ["The Negative"],
+    "marks": ["satan", "lamb", "megasatan"]
+  },
+  {
+    "slug": "void",
+    "title": "The Void",
+    "summary": "Portail vers ⟦s:The Void⟧ et ⟦e:Delirium⟧ : garanti après ⟦e:Hush⟧, aléatoire après les autres boss majeurs.",
+    "color": "#6b5b95",
+    "stages": [
+      { "label": "Blue Womb", "floors": ["blue-womb"], "note": "Atteint en moins de 30 minutes. ⟦e:Hush⟧ y attend." },
+      { "label": "Chapitre 7", "floors": ["the-void"], "note": "Portail dans une salle annexe de la salle de Hush." }
+    ],
+    "finalBoss": "Delirium",
+    "requirements": ["« Blue Womb » : vaincre Mom's Heart 10 fois.", "« New Area » : vaincre Hush une fois."],
+    "achievementIds": ["Blue Womb", "New Area"],
+    "marks": ["hush", "delirium"]
+  },
+  {
+    "slug": "mother",
+    "title": "Route Mother (Repentance)",
+    "summary": "Chemin alternatif : Downpour/Dross → Mines/Ashpit → Mausoleum/Gehenna → Corpse, avec le couteau en deux morceaux.",
+    "color": "#4f7a5a",
+    "stages": [
+      { "label": "Chapitre 1 alt.", "floors": ["downpour", "dross"], "note": "Porte verrouillée dans la salle du boss du Basement. ⟦i:Knife Piece 1⟧ dans le monde miroir (étage II)." },
+      { "label": "Chapitre 2 alt.", "floors": ["mines", "ashpit"], "note": "⟦i:Knife Piece 2⟧ au bout du wagonnet (étage II)." },
+      { "label": "Chapitre 3 alt.", "floors": ["mausoleum", "gehenna"], "note": "Entrée : deux cœurs. Mom puis porte de chair (couteau)." },
+      { "label": "Chapitre 4 alt.", "floors": ["corpse"], "note": "Dégâts d'un cœur entier. ⟦e:Mother⟧ au dernier étage." }
+    ],
+    "finalBoss": "Mother",
+    "requirements": ["« A Secret Exit » : vaincre Hush 3 fois.", "Une clé pour la porte du Basement."],
+    "achievementIds": ["A Secret Exit"],
+    "marks": ["mother"]
+  },
+  {
+    "slug": "beast",
+    "title": "Route The Beast (Repentance)",
+    "summary": "« A Strange Door » au Depths II → Dad's Note → Ascension → Home : Dogma puis The Beast.",
+    "color": "#c9a227",
+    "stages": [
+      { "label": "Chapitres 1 à 3", "floors": ["basement", "caves", "depths"], "note": "Garder ⟦i:The Polaroid⟧ ou ⟦i:The Negative⟧ après Mom, puis se téléporter hors de la salle du boss." },
+      { "label": "Porte étrange", "floors": ["mausoleum", "gehenna"], "note": "Version spéciale contenant ⟦i:Dad's Note⟧." },
+      { "label": "Ascension", "floors": ["depths", "caves", "basement"], "note": "Remontée des étages abrégés jusqu'au Basement I." },
+      { "label": "Home", "floors": ["home"], "note": "⟦e:Dogma⟧, cavaliers Ultra, puis ⟦e:The Beast⟧. Placard des Tainted." }
+    ],
+    "finalBoss": "The Beast",
+    "requirements": ["« A Strange Door » : vaincre Mother une fois."],
+    "achievementIds": ["A Strange Door", "Red Key"],
+    "marks": ["beast"]
+  }
+]

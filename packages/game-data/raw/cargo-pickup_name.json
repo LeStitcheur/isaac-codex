@@ -1,0 +1,584 @@
+[
+ {
+  "_pageName": "? Card",
+  "dlc": "30",
+  "pickup": "? Card",
+  "name": "? Card"
+ },
+ {
+  "_pageName": "0 - The Fool",
+  "dlc": "31",
+  "pickup": "0 - The Fool",
+  "name": "0 - The Fool"
+ },
+ {
+  "_pageName": "0 - The Fool?",
+  "dlc": "24",
+  "pickup": "0 - The Fool?",
+  "name": "0 - The Fool?"
+ },
+ {
+  "_pageName": "2 of Clubs",
+  "dlc": "31",
+  "pickup": "2 of Clubs",
+  "name": "2 of Clubs"
+ },
+ {
+  "_pageName": "2 of Diamonds",
+  "dlc": "31",
+  "pickup": "2 of Diamonds",
+  "name": "2 of Diamonds"
+ },
+ {
+  "_pageName": "2 of Hearts",
+  "dlc": "31",
+  "pickup": "2 of Hearts",
+  "name": "2 of Hearts"
+ },
+ {
+  "_pageName": "2 of Spades",
+  "dlc": "31",
+  "pickup": "2 of Spades",
+  "name": "2 of Spades"
+ },
+ {
+  "_pageName": "A Card Against Humanity",
+  "dlc": "31",
+  "pickup": "A Card Against Humanity",
+  "name": "A Card Against Humanity"
+ },
+ {
+  "_pageName": "Ace of Clubs",
+  "dlc": "28",
+  "pickup": "Ace of Clubs",
+  "name": "Ace of Clubs"
+ },
+ {
+  "_pageName": "Ace of Diamonds",
+  "dlc": "28",
+  "pickup": "Ace of Diamonds",
+  "name": "Ace of Diamonds"
+ },
+ {
+  "_pageName": "Ace of Hearts",
+  "dlc": "28",
+  "pickup": "Ace of Hearts",
+  "name": "Ace of Hearts"
+ },
+ {
+  "_pageName": "Ace of Spades (Card)",
+  "dlc": "28",
+  "pickup": "Ace of Spades",
+  "name": "Ace of Spades"
+ },
+ {
+  "_pageName": "Algiz",
+  "dlc": "31",
+  "pickup": "Algiz",
+  "name": "Algiz"
+ },
+ {
+  "_pageName": "Ancient Recall",
+  "dlc": "28",
+  "pickup": "Ancient Recall",
+  "name": "Ancient Recall"
+ },
+ {
+  "_pageName": "Ansuz",
+  "dlc": "31",
+  "pickup": "Ansuz",
+  "name": "Ansuz"
+ },
+ {
+  "_pageName": "Berkano",
+  "dlc": "31",
+  "pickup": "Berkano",
+  "name": "Berkano"
+ },
+ {
+  "_pageName": "Black Rune",
+  "dlc": "28",
+  "pickup": "Black Rune",
+  "name": "Black Rune"
+ },
+ {
+  "_pageName": "Blank Rune",
+  "dlc": "30",
+  "pickup": "Blank Rune",
+  "name": "Blank Rune"
+ },
+ {
+  "_pageName": "Chaos Card",
+  "dlc": "31",
+  "pickup": "Chaos Card",
+  "name": "Chaos Card"
+ },
+ {
+  "_pageName": "Cracked Key",
+  "dlc": "24",
+  "pickup": "Cracked Key",
+  "name": "Cracked Key"
+ },
+ {
+  "_pageName": "Credit Card",
+  "dlc": "31",
+  "pickup": "Credit Card",
+  "name": "Credit Card"
+ },
+ {
+  "_pageName": "Dagaz",
+  "dlc": "31",
+  "pickup": "Dagaz",
+  "name": "Dagaz"
+ },
+ {
+  "_pageName": "Dice Shard",
+  "dlc": "30",
+  "pickup": "Dice Shard",
+  "name": "Dice Shard"
+ },
+ {
+  "_pageName": "Ehwaz",
+  "dlc": "31",
+  "pickup": "Ehwaz",
+  "name": "Ehwaz"
+ },
+ {
+  "_pageName": "Emergency Contact",
+  "dlc": "30",
+  "pickup": "Emergency Contact",
+  "name": "Emergency Contact"
+ },
+ {
+  "_pageName": "Era Walk",
+  "dlc": "28",
+  "pickup": "Era Walk",
+  "name": "Era Walk"
+ },
+ {
+  "_pageName": "Get out of Jail Free Card",
+  "dlc": "30",
+  "pickup": "Get out of Jail Free Card",
+  "name": "Get out of Jail Free Card"
+ },
+ {
+  "_pageName": "Hagalaz",
+  "dlc": "31",
+  "pickup": "Hagalaz",
+  "name": "Hagalaz"
+ },
+ {
+  "_pageName": "Holy Card",
+  "dlc": "28",
+  "pickup": "Holy Card",
+  "name": "Holy Card"
+ },
+ {
+  "_pageName": "Huge Growth",
+  "dlc": "28",
+  "pickup": "Huge Growth",
+  "name": "Huge Growth"
+ },
+ {
+  "_pageName": "I - The Magician",
+  "dlc": "31",
+  "pickup": "I - The Magician",
+  "name": "I - The Magician"
+ },
+ {
+  "_pageName": "I - The Magician?",
+  "dlc": "24",
+  "pickup": "I - The Magician?",
+  "name": "I - The Magician?"
+ },
+ {
+  "_pageName": "II - The High Priestess",
+  "dlc": "31",
+  "pickup": "II - The High Priestess",
+  "name": "II - The High Priestess"
+ },
+ {
+  "_pageName": "II - The High Priestess?",
+  "dlc": "24",
+  "pickup": "II - The High Priestess?",
+  "name": "II - The High Priestess?"
+ },
+ {
+  "_pageName": "III - The Empress",
+  "dlc": "31",
+  "pickup": "III - The Empress",
+  "name": "III - The Empress"
+ },
+ {
+  "_pageName": "III - The Empress?",
+  "dlc": "24",
+  "pickup": "III - The Empress?",
+  "name": "III - The Empress?"
+ },
+ {
+  "_pageName": "IV - The Emperor",
+  "dlc": "31",
+  "pickup": "IV - The Emperor",
+  "name": "IV - The Emperor"
+ },
+ {
+  "_pageName": "IV - The Emperor?",
+  "dlc": "24",
+  "pickup": "IV - The Emperor?",
+  "name": "IV - The Emperor?"
+ },
+ {
+  "_pageName": "IX - The Hermit",
+  "dlc": "31",
+  "pickup": "IX - The Hermit",
+  "name": "IX - The Hermit"
+ },
+ {
+  "_pageName": "IX - The Hermit?",
+  "dlc": "24",
+  "pickup": "IX - The Hermit?",
+  "name": "IX - The Hermit?"
+ },
+ {
+  "_pageName": "Jera",
+  "dlc": "31",
+  "pickup": "Jera",
+  "name": "Jera"
+ },
+ {
+  "_pageName": "Joker",
+  "dlc": "31",
+  "pickup": "Joker",
+  "name": "Joker"
+ },
+ {
+  "_pageName": "Perthro",
+  "dlc": "31",
+  "pickup": "Perthro",
+  "name": "Perthro"
+ },
+ {
+  "_pageName": "Queen of Hearts",
+  "dlc": "24",
+  "pickup": "Queen of Hearts",
+  "name": "Queen of Hearts"
+ },
+ {
+  "_pageName": "Rules Card",
+  "dlc": "31",
+  "pickup": "Rules Card",
+  "name": "Rules Card"
+ },
+ {
+  "_pageName": "Rune Shard",
+  "dlc": "24",
+  "pickup": "Rune Shard",
+  "name": "Rune Shard"
+ },
+ {
+  "_pageName": "Soul of ???",
+  "dlc": "24",
+  "pickup": "Soul of ???",
+  "name": "Soul of ???"
+ },
+ {
+  "_pageName": "Soul of Apollyon",
+  "dlc": "24",
+  "pickup": "Soul of Apollyon",
+  "name": "Soul of Apollyon"
+ },
+ {
+  "_pageName": "Soul of Azazel",
+  "dlc": "24",
+  "pickup": "Soul of Azazel",
+  "name": "Soul of Azazel"
+ },
+ {
+  "_pageName": "Soul of Bethany",
+  "dlc": "24",
+  "pickup": "Soul of Bethany",
+  "name": "Soul of Bethany"
+ },
+ {
+  "_pageName": "Soul of Cain",
+  "dlc": "24",
+  "pickup": "Soul of Cain",
+  "name": "Soul of Cain"
+ },
+ {
+  "_pageName": "Soul of Eden",
+  "dlc": "24",
+  "pickup": "Soul of Eden",
+  "name": "Soul of Eden"
+ },
+ {
+  "_pageName": "Soul of Eve",
+  "dlc": "24",
+  "pickup": "Soul of Eve",
+  "name": "Soul of Eve"
+ },
+ {
+  "_pageName": "Soul of Isaac",
+  "dlc": "24",
+  "pickup": "Soul of Isaac",
+  "name": "Soul of Isaac"
+ },
+ {
+  "_pageName": "Soul of Jacob and Esau",
+  "dlc": "24",
+  "pickup": "Soul of Jacob and Esau",
+  "name": "Soul of Jacob and Esau"
+ },
+ {
+  "_pageName": "Soul of Judas",
+  "dlc": "24",
+  "pickup": "Soul of Judas",
+  "name": "Soul of Judas"
+ },
+ {
+  "_pageName": "Soul of Lazarus",
+  "dlc": "24",
+  "pickup": "Soul of Lazarus",
+  "name": "Soul of Lazarus"
+ },
+ {
+  "_pageName": "Soul of Lilith",
+  "dlc": "24",
+  "pickup": "Soul of Lilith",
+  "name": "Soul of Lilith"
+ },
+ {
+  "_pageName": "Soul of Magdalene",
+  "dlc": "24",
+  "pickup": "Soul of Magdalene",
+  "name": "Soul of Magdalene"
+ },
+ {
+  "_pageName": "Soul of Samson",
+  "dlc": "24",
+  "pickup": "Soul of Samson",
+  "name": "Soul of Samson"
+ },
+ {
+  "_pageName": "Soul of the Forgotten",
+  "dlc": "24",
+  "pickup": "Soul of the Forgotten",
+  "name": "Soul of the Forgotten"
+ },
+ {
+  "_pageName": "Soul of the Keeper",
+  "dlc": "24",
+  "pickup": "Soul of the Keeper",
+  "name": "Soul of the Keeper"
+ },
+ {
+  "_pageName": "Soul of the Lost",
+  "dlc": "24",
+  "pickup": "Soul of the Lost",
+  "name": "Soul of the Lost"
+ },
+ {
+  "_pageName": "Suicide King",
+  "dlc": "31",
+  "pickup": "Suicide King",
+  "name": "Suicide King"
+ },
+ {
+  "_pageName": "V - The Hierophant",
+  "dlc": "31",
+  "pickup": "V - The Hierophant",
+  "name": "V - The Hierophant"
+ },
+ {
+  "_pageName": "V - The Hierophant?",
+  "dlc": "24",
+  "pickup": "V - The Hierophant?",
+  "name": "V - The Hierophant?"
+ },
+ {
+  "_pageName": "VI - The Lovers",
+  "dlc": "31",
+  "pickup": "VI - The Lovers",
+  "name": "VI - The Lovers"
+ },
+ {
+  "_pageName": "VI - The Lovers?",
+  "dlc": "24",
+  "pickup": "VI - The Lovers?",
+  "name": "VI - The Lovers?"
+ },
+ {
+  "_pageName": "VII - The Chariot",
+  "dlc": "31",
+  "pickup": "VII - The Chariot",
+  "name": "VII - The Chariot"
+ },
+ {
+  "_pageName": "VII - The Chariot?",
+  "dlc": "24",
+  "pickup": "VII - The Chariot?",
+  "name": "VII - The Chariot?"
+ },
+ {
+  "_pageName": "VIII - Justice",
+  "dlc": "31",
+  "pickup": "VIII - Justice",
+  "name": "VIII - Justice"
+ },
+ {
+  "_pageName": "VIII - Justice?",
+  "dlc": "24",
+  "pickup": "VIII - Justice?",
+  "name": "VIII - Justice?"
+ },
+ {
+  "_pageName": "Wild Card",
+  "dlc": "24",
+  "pickup": "Wild Card",
+  "name": "Wild Card"
+ },
+ {
+  "_pageName": "X - Wheel of Fortune",
+  "dlc": "31",
+  "pickup": "X - Wheel of Fortune",
+  "name": "X - Wheel of Fortune"
+ },
+ {
+  "_pageName": "X - Wheel of Fortune?",
+  "dlc": "24",
+  "pickup": "X - Wheel of Fortune?",
+  "name": "X - Wheel of Fortune?"
+ },
+ {
+  "_pageName": "XI - Strength",
+  "dlc": "31",
+  "pickup": "XI - Strength",
+  "name": "XI - Strength"
+ },
+ {
+  "_pageName": "XI - Strength?",
+  "dlc": "24",
+  "pickup": "XI - Strength?",
+  "name": "XI - Strength?"
+ },
+ {
+  "_pageName": "XII - The Hanged Man",
+  "dlc": "31",
+  "pickup": "XII - The Hanged Man",
+  "name": "XII - The Hanged Man"
+ },
+ {
+  "_pageName": "XII - The Hanged Man?",
+  "dlc": "24",
+  "pickup": "XII - The Hanged Man?",
+  "name": "XII - The Hanged Man?"
+ },
+ {
+  "_pageName": "XIII - Death",
+  "dlc": "31",
+  "pickup": "XIII - Death",
+  "name": "XIII - Death"
+ },
+ {
+  "_pageName": "XIII - Death?",
+  "dlc": "24",
+  "pickup": "XIII - Death?",
+  "name": "XIII - Death?"
+ },
+ {
+  "_pageName": "XIV - Temperance",
+  "dlc": "31",
+  "pickup": "XIV - Temperance",
+  "name": "XIV - Temperance"
+ },
+ {
+  "_pageName": "XIV - Temperance?",
+  "dlc": "24",
+  "pickup": "XIV - Temperance?",
+  "name": "XIV - Temperance?"
+ },
+ {
+  "_pageName": "XIX - The Sun",
+  "dlc": "31",
+  "pickup": "XIX - The Sun",
+  "name": "XIX - The Sun"
+ },
+ {
+  "_pageName": "XIX - The Sun?",
+  "dlc": "24",
+  "pickup": "XIX - The Sun?",
+  "name": "XIX - The Sun?"
+ },
+ {
+  "_pageName": "XV - The Devil",
+  "dlc": "31",
+  "pickup": "XV - The Devil",
+  "name": "XV - The Devil"
+ },
+ {
+  "_pageName": "XV - The Devil?",
+  "dlc": "24",
+  "pickup": "XV - The Devil?",
+  "name": "XV - The Devil?"
+ },
+ {
+  "_pageName": "XVI - The Tower",
+  "dlc": "31",
+  "pickup": "XVI - The Tower",
+  "name": "XVI - The Tower"
+ },
+ {
+  "_pageName": "XVI - The Tower?",
+  "dlc": "24",
+  "pickup": "XVI - The Tower?",
+  "name": "XVI - The Tower?"
+ },
+ {
+  "_pageName": "XVII - The Stars",
+  "dlc": "31",
+  "pickup": "XVII - The Stars",
+  "name": "XVII - The Stars"
+ },
+ {
+  "_pageName": "XVII - The Stars?",
+  "dlc": "24",
+  "pickup": "XVII - The Stars?",
+  "name": "XVII - The Stars?"
+ },
+ {
+  "_pageName": "XVIII - The Moon",
+  "dlc": "31",
+  "pickup": "XVIII - The Moon",
+  "name": "XVIII - The Moon"
+ },
+ {
+  "_pageName": "XVIII - The Moon?",
+  "dlc": "24",
+  "pickup": "XVIII - The Moon?",
+  "name": "XVIII - The Moon?"
+ },
+ {
+  "_pageName": "XX - Judgement",
+  "dlc": "31",
+  "pickup": "XX - Judgement",
+  "name": "XX - Judgement"
+ },
+ {
+  "_pageName": "XX - Judgement?",
+  "dlc": "24",
+  "pickup": "XX - Judgement?",
+  "name": "XX - Judgement?"
+ },
+ {
+  "_pageName": "XXI - The World",
+  "dlc": "31",
+  "pickup": "XXI - The World",
+  "name": "XXI - The World"
+ },
+ {
+  "_pageName": "XXI - The World?",
+  "dlc": "24",
+  "pickup": "XXI - The World?",
+  "name": "XXI - The World?"
+ }
+]

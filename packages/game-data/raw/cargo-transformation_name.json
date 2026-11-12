@@ -1,0 +1,98 @@
+[
+ {
+  "_pageName": "Adult",
+  "dlc": "31",
+  "transformation": "Adult",
+  "name": "Adult"
+ },
+ {
+  "_pageName": "Beelzebub",
+  "dlc": "31",
+  "transformation": "Beelzebub",
+  "name": "Beelzebub"
+ },
+ {
+  "_pageName": "Bob",
+  "dlc": "31",
+  "transformation": "Bob",
+  "name": "Bob"
+ },
+ {
+  "_pageName": "Bookworm",
+  "dlc": "31",
+  "transformation": "Bookworm",
+  "name": "Bookworm"
+ },
+ {
+  "_pageName": "Conjoined",
+  "dlc": "31",
+  "transformation": "Conjoined",
+  "name": "Conjoined"
+ },
+ {
+  "_pageName": "Fun Guy",
+  "dlc": "31",
+  "transformation": "Fun Guy",
+  "name": "Fun Guy"
+ },
+ {
+  "_pageName": "Guppy",
+  "dlc": "31",
+  "transformation": "Guppy",
+  "name": "Guppy"
+ },
+ {
+  "_pageName": "Leviathan",
+  "dlc": "30",
+  "transformation": "Leviathan",
+  "name": "Leviathan"
+ },
+ {
+  "_pageName": "Necromancer",
+  "dlc": "31",
+  "transformation": "Necromancer",
+  "name": "Necromancer"
+ },
+ {
+  "_pageName": "Oh Crap",
+  "dlc": "30",
+  "transformation": "Oh Crap",
+  "name": "Oh Crap"
+ },
+ {
+  "_pageName": "Seraphim (Transformation)",
+  "dlc": "31",
+  "transformation": "Seraphim",
+  "name": "Seraphim"
+ },
+ {
+  "_pageName": "Spider Baby (Transformation)",
+  "dlc": "28",
+  "transformation": "Spider Baby",
+  "name": "Spider Baby"
+ },
+ {
+  "_pageName": "Spun",
+  "dlc": "31",
+  "transformation": "Spun",
+  "name": "Spun"
+ },
+ {
+  "_pageName": "Stompy",
+  "dlc": "28",
+  "transformation": "Stompy",
+  "name": "Stompy"
+ },
+ {
+  "_pageName": "Super Bum",
+  "dlc": "30",
+  "transformation": "Super Bum",
+  "name": "Super Bum"
+ },
+ {
+  "_pageName": "Yes Mother?",
+  "dlc": "31",
+  "transformation": "Yes Mother?",
+  "name": "Yes Mother?"
+ }
+]

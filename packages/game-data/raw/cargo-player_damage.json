@@ -1,0 +1,248 @@
+[
+ {
+  "_pageName": "??? (Character)",
+  "damage": "3.5 (*1.05)",
+  "dlc": "31",
+  "player": "???"
+ },
+ {
+  "_pageName": "Apollyon",
+  "damage": "3.5 (*1.00)",
+  "dlc": "28",
+  "player": "Apollyon"
+ },
+ {
+  "_pageName": "Azazel",
+  "damage": "3.5 (*1.50)",
+  "dlc": "31",
+  "player": "Azazel"
+ },
+ {
+  "_pageName": "Bethany",
+  "damage": "3.5 (*1.00)",
+  "dlc": "24",
+  "player": "Bethany"
+ },
+ {
+  "_pageName": "Cain",
+  "damage": "3.5 (*1.20)",
+  "dlc": "31",
+  "player": "Cain"
+ },
+ {
+  "_pageName": "Eden",
+  "damage": "3.5 ± 1.0 (*1.00)",
+  "dlc": "31",
+  "player": "Eden"
+ },
+ {
+  "_pageName": "Eve",
+  "damage": "3.5 (*0.75)<br>(*1.00 at a Red Heart)",
+  "dlc": "31",
+  "player": "Eve"
+ },
+ {
+  "_pageName": "Isaac",
+  "damage": "3.5 (*1.00)",
+  "dlc": "31",
+  "player": "Isaac"
+ },
+ {
+  "_pageName": "Jacob & Esau",
+  "damage": "2.75 (*1.00)",
+  "dlc": "31",
+  "player": "Jacob"
+ },
+ {
+  "_pageName": "Jacob & Esau",
+  "damage": "3.75 (*1.00)",
+  "dlc": "31",
+  "player": "Esau"
+ },
+ {
+  "_pageName": "Judas",
+  "damage": "3.5 (*1.35)",
+  "dlc": "31",
+  "player": "Judas"
+ },
+ {
+  "_pageName": "Judas",
+  "damage": "3.5 (*2.00)",
+  "dlc": "31",
+  "player": "Black Judas"
+ },
+ {
+  "_pageName": "Keeper",
+  "damage": "3.5 (*1.20)",
+  "dlc": "30",
+  "player": "Keeper"
+ },
+ {
+  "_pageName": "Lazarus",
+  "damage": "3.5 (*1.00)",
+  "dlc": "31",
+  "player": "Lazarus"
+ },
+ {
+  "_pageName": "Lazarus",
+  "damage": "3.5 (*1.20)",
+  "dlc": "7",
+  "player": "Lazarus Risen"
+ },
+ {
+  "_pageName": "Lazarus",
+  "damage": "3.5 (*1.40)",
+  "dlc": "24",
+  "player": "Lazarus Risen"
+ },
+ {
+  "_pageName": "Lilith",
+  "damage": "3.5 (*1.00)",
+  "dlc": "31",
+  "player": "Lilith"
+ },
+ {
+  "_pageName": "Magdalene",
+  "damage": "3.5 (*1.00)",
+  "dlc": "31",
+  "player": "Magdalene"
+ },
+ {
+  "_pageName": "Samson",
+  "damage": "3.5 (*1.00)",
+  "dlc": "31",
+  "player": "Samson"
+ },
+ {
+  "_pageName": "Tainted ???",
+  "damage": "3.5 (*1.00)",
+  "dlc": "24",
+  "player": "Tainted ???"
+ },
+ {
+  "_pageName": "Tainted Apollyon",
+  "damage": "3.5 (*1.00)",
+  "dlc": "24",
+  "player": "Tainted Apollyon"
+ },
+ {
+  "_pageName": "Tainted Azazel",
+  "damage": "3.5 (*1.50)",
+  "dlc": "24",
+  "player": "Tainted Azazel"
+ },
+ {
+  "_pageName": "Tainted Bethany",
+  "damage": "3.5 (*1.00)",
+  "dlc": "24",
+  "player": "Tainted Bethany"
+ },
+ {
+  "_pageName": "Tainted Cain",
+  "damage": "3.5 (*1.20)",
+  "dlc": "24",
+  "player": "Tainted Cain"
+ },
+ {
+  "_pageName": "Tainted Eden",
+  "damage": "3.5 ± 1.0 (*1.00)",
+  "dlc": "24",
+  "player": "Tainted Eden"
+ },
+ {
+  "_pageName": "Tainted Eve",
+  "damage": "3.5 (×1.20)",
+  "dlc": "24",
+  "player": "Tainted Eve"
+ },
+ {
+  "_pageName": "Tainted Forgotten",
+  "damage": "－",
+  "dlc": "24",
+  "player": "Tainted Soul"
+ },
+ {
+  "_pageName": "Tainted Forgotten",
+  "damage": "3.5 (* 1.50)",
+  "dlc": "24",
+  "player": "Tainted Forgotten"
+ },
+ {
+  "_pageName": "Tainted Isaac",
+  "damage": "3.5 (*1.00)",
+  "dlc": "24",
+  "player": "Tainted Isaac"
+ },
+ {
+  "_pageName": "Tainted Jacob",
+  "damage": "3.5 (*1.00)",
+  "dlc": "24",
+  "player": "Tainted Jacob"
+ },
+ {
+  "_pageName": "Tainted Judas",
+  "damage": "3.5 (*1.00)",
+  "dlc": "31",
+  "player": "Tainted Judas"
+ },
+ {
+  "_pageName": "Tainted Keeper",
+  "damage": "3.5 (*1.00)",
+  "dlc": "24",
+  "player": "Tainted Keeper"
+ },
+ {
+  "_pageName": "Tainted Lazarus",
+  "damage": "3.5 (* 1.50)",
+  "dlc": "24",
+  "player": "Dead Tainted Lazarus"
+ },
+ {
+  "_pageName": "Tainted Lazarus",
+  "damage": "3.5 (*1.00)",
+  "dlc": "24",
+  "player": "Tainted Lazarus"
+ },
+ {
+  "_pageName": "Tainted Lilith",
+  "damage": "3.5 (*1.00)",
+  "dlc": "24",
+  "player": "Tainted Lilith"
+ },
+ {
+  "_pageName": "Tainted Lost",
+  "damage": "3.50 (* 1.30)",
+  "dlc": "24",
+  "player": "Tainted Lost"
+ },
+ {
+  "_pageName": "Tainted Magdalene",
+  "damage": "3.5 (*0.75)",
+  "dlc": "24",
+  "player": "Tainted Magdalene"
+ },
+ {
+  "_pageName": "Tainted Samson",
+  "damage": "3.5 (*1.00)",
+  "dlc": "24",
+  "player": "Tainted Samson"
+ },
+ {
+  "_pageName": "The Forgotten",
+  "damage": "3.5 (*1.00)",
+  "dlc": "28",
+  "player": "The Soul"
+ },
+ {
+  "_pageName": "The Forgotten",
+  "damage": "3.5 (*1.50)",
+  "dlc": "28",
+  "player": "The Forgotten"
+ },
+ {
+  "_pageName": "The Lost",
+  "damage": "3.5 (*1.00)",
+  "dlc": "31",
+  "player": "The Lost"
+ }
+]

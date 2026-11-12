@@ -1,0 +1,457 @@
+[
+  {
+    "slug": "debloquer-the-lost",
+    "title": "Comment débloquer The Lost",
+    "category": "deblocages",
+    "level": "intermediaire",
+    "priority": 1,
+    "summary": "Depuis Afterbirth, The Lost se débloque en mourant dans une Sacrifice Room en tenant le trinket ⟦t:Missing Poster⟧.",
+    "prerequisites": [
+      "Avoir débloqué ⟦t:Missing Poster⟧ : vaincre ⟦e:The Lamb⟧ avec ⟦c:Isaac⟧ (voir le guide dédié).",
+      "Savoir reconnaître une Sacrifice Room (salle avec des pics au centre)."
+    ],
+    "steps": [
+      { "title": "Trouver le Missing Poster", "body": "Le Missing Poster est un trinket : il apparaît aléatoirement comme les autres trinkets (salles nettoyées, urnes, champions…). Chercher ⟦i:Mom's Box⟧ en boutique rend la recherche bien plus simple, car son utilisation fait apparaître un trinket aléatoire." },
+      { "title": "Garder le trinket", "body": "Ne le remplacez pas par un autre trinket. Il doit être tenu au moment de la mort." },
+      { "title": "Trouver une Sacrifice Room", "body": "Les Sacrifice Rooms se reconnaissent à leurs pics centraux. Elles ne sont pas garanties sur chaque étage : continuez la partie jusqu'à en trouver une." },
+      { "title": "Mourir dans la salle", "body": "Mourez à l'intérieur de la Sacrifice Room en tenant le Missing Poster. Mourir sur les pics n'est pas obligatoire : n'importe quelle source de dégâts (une bombe par exemple) convient tant que la mort a lieu dans la salle. Le trinket est consommé, Isaac revient sous la forme de The Lost et le personnage est débloqué." }
+    ],
+    "tips": [
+      "⟦i:Glyph of Balance⟧ : quand ses conditions sont remplies, il transforme certaines récompenses en trinkets si Isaac n'en tient pas, ce qui augmente les chances de trouver le poster.",
+      "⟦t:Mysterious Paper⟧ peut imiter le Missing Poster (1 chance sur 4). ⟦i:Divorce Papers⟧ fait apparaître ce trinket s'il est débloqué.",
+      "Les objets de résurrection (⟦i:Dead Cat⟧, etc.) offrent des tentatives supplémentaires avec Mysterious Paper."
+    ],
+    "risks": [
+      "Si Isaac est téléporté hors de la Sacrifice Room au moment de mourir, The Lost n'est pas débloqué.",
+      "À partir du 12e sacrifice consécutif, chaque sacrifice a 50 % de chances de téléporter vers la ⟦s:Dark Room⟧ : ne dépassez pas 11 cœurs avant la tentative.",
+      "Au 6e sacrifice, il y a 33 % de chances d'être téléporté dans une salle de l'Ange : si le dernier sacrifice vous y envoie, le déblocage échoue."
+    ],
+    "alternatives": [
+      "Avec ⟦i:Glitter Bombs⟧ et beaucoup de bombes, les explosions peuvent faire apparaître des trinkets (le nombre de drops par étage est plafonné depuis Repentance)."
+    ],
+    "versionNotes": [
+      { "mask": 1, "text": "Rebirth : la méthode était différente (suite d'étapes dites « It's complicated ») ; elle ne s'applique plus depuis Afterbirth." },
+      { "mask": 24, "text": "Repentance : une fois The Lost débloqué, son effet Holy Mantle est intrinsèque et le Missing Poster fonctionne aussi hors des Sacrifice Rooms (il ressuscite en The Lost)." },
+      { "mask": 16, "text": "Repentance+ : le Missing Poster ajoute en plus 1 chance sur 3 de révéler la salle super secrète à l'entrée d'un étage." }
+    ],
+    "related": [
+      { "kind": "trinket", "key": "Missing Poster" },
+      { "kind": "item", "key": "Mom's Box" },
+      { "kind": "character", "key": "The Lost" },
+      { "kind": "trinket", "key": "Mysterious Paper" }
+    ],
+    "achievementIds": ["Missing Poster", "The Lost"],
+    "sources": ["https://bindingofisaacrebirth.wiki.gg/wiki/The_Lost", "https://bindingofisaacrebirth.wiki.gg/wiki/Missing_Poster"]
+  },
+  {
+    "slug": "obtenir-missing-poster",
+    "title": "Comment obtenir Missing Poster",
+    "category": "deblocages",
+    "level": "debutant",
+    "priority": 2,
+    "summary": "Le trinket Missing Poster se débloque en vainquant ⟦e:The Lamb⟧ avec ⟦c:Isaac⟧. C'est l'étape indispensable avant de débloquer The Lost.",
+    "prerequisites": [
+      "Accéder au ⟦s:Sheol⟧ et à la ⟦s:Dark Room⟧ : après ⟦e:Mom's Heart⟧, prendre la trappe vers le Sheol plutôt que le rayon de lumière vers la Cathedral.",
+      "Fortement recommandé : avoir débloqué ⟦i:The Negative⟧ (vaincre ⟦e:Satan⟧ 5 fois)."
+    ],
+    "steps": [
+      { "title": "Débloquer The Negative", "body": "Vainquez Satan cinq fois (avec n'importe quel personnage). The Negative apparaîtra ensuite après ⟦e:Mom⟧ et permet d'entrer dans la Dark Room après Satan." },
+      { "title": "Lancer une partie avec Isaac", "body": "Le déblocage n'est validé qu'avec Isaac." },
+      { "title": "Ramasser The Negative après Mom", "body": "Après Mom, choisissez The Negative (et non The Polaroid) : c'est votre passe pour la Dark Room." },
+      { "title": "Sheol puis Dark Room", "body": "Après Mom's Heart / It Lives!, descendez au Sheol, battez Satan, puis entrez dans la Dark Room." },
+      { "title": "Vaincre The Lamb", "body": "La victoire contre The Lamb avec Isaac débloque le Missing Poster, qui peut ensuite apparaître comme trinket aléatoire." }
+    ],
+    "tips": [
+      "Sans The Negative, la Dark Room reste accessible par des moyens aléatoires : trappe d'un Black Market depuis le Sheol, salle I AM ERROR, ou une Sacrifice Room utilisée 12 fois ou plus.",
+      "Le D6 d'Isaac (une fois débloqué) aide à obtenir les objets nécessaires pour survivre au Sheol."
+    ],
+    "risks": [
+      "Ramasser The Polaroid au lieu de The Negative après Mom fait disparaître l'autre objet."
+    ],
+    "alternatives": [],
+    "versionNotes": [],
+    "related": [
+      { "kind": "trinket", "key": "Missing Poster" },
+      { "kind": "item", "key": "The Negative" },
+      { "kind": "boss", "key": "The Lamb" },
+      { "kind": "character", "key": "Isaac" }
+    ],
+    "achievementIds": ["The Negative", "Missing Poster"],
+    "sources": ["https://bindingofisaacrebirth.wiki.gg/wiki/Missing_Poster", "https://bindingofisaacrebirth.wiki.gg/wiki/Mega_Satan"]
+  },
+  {
+    "slug": "utiliser-moms-box",
+    "title": "Comment utiliser Mom's Box",
+    "category": "objets",
+    "level": "debutant",
+    "priority": 3,
+    "summary": "⟦i:Mom's Box⟧ est un objet actif qui donne +1 de chance, renforce de nombreux trinkets tant qu'il est tenu et fait apparaître un trinket aléatoire à chaque utilisation.",
+    "prerequisites": ["Aucun déblocage requis : Mom's Box est disponible dès le départ."],
+    "steps": [
+      { "title": "Le tenir en permanence", "body": "Tant que Mom's Box est dans l'emplacement actif, il augmente la chance de 1 et double l'effet de la plupart des trinkets (un trinket doré voit son effet triplé en Repentance)." },
+      { "title": "L'utiliser dès qu'il est chargé", "body": "Chaque utilisation fait apparaître un trinket aléatoire au sol. C'est la meilleure façon de chercher un trinket précis, comme le ⟦t:Missing Poster⟧." },
+      { "title": "Choisir les trinkets à garder", "body": "Lisez la fiche de chaque trinket avant de le ramasser : certains ont des effets négatifs, et Mom's Box peut aussi amplifier ceux-ci." }
+    ],
+    "tips": [
+      "Pour débloquer The Lost, Mom's Box est l'outil le plus fiable pour faire apparaître le Missing Poster.",
+      "Consultez l'onglet « Synergies » de la fiche Mom's Box : les interactions documentées sont listées avec leurs sources."
+    ],
+    "risks": [
+      "Le doublement ne concerne pas tous les trinkets : la fiche de chaque trinket précise son comportement."
+    ],
+    "alternatives": ["⟦i:Smelter⟧ et les effets d'absorption de trinkets permettent de garder plusieurs trinkets actifs en même temps."],
+    "versionNotes": [{ "mask": 24, "text": "Repentance : un trinket doré combiné à Mom's Box voit son effet triplé." }],
+    "related": [
+      { "kind": "item", "key": "Mom's Box" },
+      { "kind": "trinket", "key": "Missing Poster" },
+      { "kind": "item", "key": "Smelter" }
+    ],
+    "achievementIds": [],
+    "sources": ["https://bindingofisaacrebirth.wiki.gg/wiki/Mom%27s_Box", "https://bindingofisaacrebirth.wiki.gg/wiki/Trinkets"]
+  },
+  {
+    "slug": "debloquer-the-forgotten",
+    "title": "Comment débloquer The Forgotten",
+    "category": "deblocages",
+    "level": "expert",
+    "priority": 4,
+    "summary": "The Forgotten se débloque en reconstituant ⟦i:Mom's Shovel⟧ au cours d'une seule partie, puis en creusant dans la ⟦s:Dark Room⟧. Procédure longue mais entièrement déterministe.",
+    "prerequisites": [
+      "⟦e:The Lamb⟧ doit avoir été vaincu au moins une fois.",
+      "Recommandé : ⟦i:The Negative⟧ débloqué (vaincre ⟦e:Satan⟧ 5 fois).",
+      "Partie non « seedée » (sans graine prédéfinie). Normal ou difficile, au choix."
+    ],
+    "steps": [
+      { "title": "Vaincre le premier boss en moins d'une minute", "body": "Au premier étage, battez le boss dans la minute de jeu. Si c'est réussi, Mom crie, des bruits de pas retentissent et l'ombre d'un manche de pelle apparaît dans la salle de départ. Sur un étage XL, seul le dernier boss compte ; la carte ⟦p:IV - The Emperor⟧ permet de sauter le premier." },
+      { "title": "Récupérer Broken Shovel 1", "body": "Posez une bombe n'importe où dans la salle de départ : ⟦i:Broken Shovel 1⟧ apparaît. Il se comporte d'abord comme un pickup puis devient un objet actif dès qu'il est touché." },
+      { "title": "Ne jamais le remplacer", "body": "Tant que vous portez la pelle, Mom tente de vous écraser. L'utiliser arrête les piétinements pour la salle en cours. Ne la remplacez pas par un autre objet actif : laissée sur un piédestal en quittant la salle, elle disparaît (le ⟦i:Schoolbag⟧ permet de porter un second objet actif)." },
+      { "title": "Terminer le Boss Rush", "body": "Après ⟦e:Mom⟧, la limite des 20 minutes ne s'applique pas et le trou vers le Womb reste scellé jusqu'à la fin du Boss Rush. Terminez-le en tenant la pelle : ⟦i:Broken Shovel 2⟧ apparaît et complète ⟦i:Mom's Shovel⟧, et les piétinements cessent." },
+      { "title": "Aller jusqu'à la Dark Room", "body": "Mom's Shovel empêche l'apparition du rayon de lumière vers la Cathedral : vous irez au Sheol. Après Mom, seul The Negative apparaît s'il est débloqué. Sans The Negative, il faut passer par une Sacrifice Room, ce qui n'est pas garanti." },
+      { "title": "Creuser la tombe", "body": "Dans la Dark Room, une salle-tombe contient un carré de terre en son centre. Utilisez Mom's Shovel en vous tenant dessus : The Forgotten est débloqué. Ne quittez pas la salle avant que l'âme n'ait atteint le haut de l'écran." }
+    ],
+    "tips": [
+      "Les piétinements de Mom détruisent les rochers, blessent les ennemis et ouvrent les salles secrètes.",
+      "Porter Broken Shovel 1 dans ⟦i:Moving Box⟧ puis le déballer juste avant Mom évite les piétinements.",
+      "En coopération, Mom ne cible que le joueur qui porte la pelle."
+    ],
+    "risks": [
+      "La pelle doit être tenue au moment où le Boss Rush est terminé, sinon seul un objet normal apparaît.",
+      "Avec ⟦c:Tainted Isaac⟧, le second morceau alterne avec un objet aléatoire : attention à ne pas prendre le mauvais."
+    ],
+    "alternatives": [
+      "Repentance : utiliser ⟦i:Spindown Dice⟧ sur ⟦i:Mucormycosis⟧ donne directement la pelle complète (étapes 1 à 4 ignorées).",
+      "Repentance : ⟦i:Mama Mega!⟧ peut aussi faire apparaître Broken Shovel 1.",
+      "Repentance : le trinket ⟦t:Myosotis⟧ permet de transporter le pickup de la pelle d'un étage à l'autre."
+    ],
+    "versionNotes": [
+      { "mask": 7, "text": "Avant Repentance, les piétinements comptent comme des explosions : ⟦i:Pyromaniac⟧ ou ⟦i:Host Hat⟧ en immunisent." },
+      { "mask": 24, "text": "Repentance : Mom piétine même si la pelle est dans l'un des emplacements du Schoolbag." }
+    ],
+    "related": [
+      { "kind": "character", "key": "The Forgotten" },
+      { "kind": "item", "key": "Broken Shovel 1" },
+      { "kind": "item", "key": "Broken Shovel 2" },
+      { "kind": "item", "key": "Mom's Shovel" },
+      { "kind": "item", "key": "The Negative" }
+    ],
+    "achievementIds": ["The Negative", "The Forgotten"],
+    "sources": ["https://bindingofisaacrebirth.wiki.gg/wiki/The_Forgotten"]
+  },
+  {
+    "slug": "debloquer-keeper",
+    "title": "Comment débloquer Keeper",
+    "category": "deblocages",
+    "level": "intermediaire",
+    "priority": 5,
+    "summary": "Keeper se débloque en donnant au total 1000 pièces à la Greed Donation Machine (mode Greed / Greedier). Le 1000e don fait exploser la machine, et c'est voulu.",
+    "prerequisites": ["Avoir accès au mode Greed (introduit avec Afterbirth)."],
+    "steps": [
+      { "title": "Jouer en mode Greed", "body": "La Greed Donation Machine apparaît après chaque combat contre ⟦e:Ultra Greed⟧ (et ⟦e:Ultra Greedier⟧)." },
+      { "title": "Donner un maximum de pièces", "body": "Chaque pièce touchée sur la machine est donnée. Le total est conservé d'une partie à l'autre." },
+      { "title": "Débloquer Greedier en chemin", "body": "À 500 pièces, le mode Greedier est débloqué. Dans ce mode, le risque de blocage de la machine est plafonné à 1 % : c'est le mode le plus efficace pour donner." },
+      { "title": "Atteindre 1000", "body": "999 pièces débloquent « Generosity », la 1000e débloque Keeper. Contrairement à la Donation Machine classique, ce 1000e don est nécessaire pour compléter le jeu." }
+    ],
+    "tips": [
+      "Le risque de blocage dépend du total déjà donné avec chaque personnage : il est de 0 % jusqu'à 54 pièces pour un personnage donné. Alterner les personnages limite les blocages.",
+      "Une fois la machine bloquée, terminez simplement la partie : le compteur est conservé."
+    ],
+    "risks": ["En mode Greed, le risque de blocage par personnage monte jusqu'à 20 % à partir de 200 pièces données avec ce personnage."],
+    "alternatives": ["Les techniques d'argent infini (par exemple ⟦p:2 of Diamonds⟧ + ⟦i:Blank Card⟧ + piles achetées en boutique) accélèrent énormément la progression ; voir le guide de la Greed Donation Machine."],
+    "versionNotes": [],
+    "related": [{ "kind": "character", "key": "Keeper" }],
+    "achievementIds": ["Greedier!", "Generosity", "Keeper"],
+    "sources": ["https://bindingofisaacrebirth.wiki.gg/wiki/Greed_Donation_Machine"]
+  },
+  {
+    "slug": "optimiser-donation-machine",
+    "title": "Comment optimiser la Donation Machine",
+    "category": "machines",
+    "level": "debutant",
+    "priority": 6,
+    "summary": "La Donation Machine des boutiques accumule vos dons d'une partie à l'autre et débloque 10 récompenses jusqu'à 999 pièces. Bien répartir ses dons évite les blocages.",
+    "prerequisites": ["Aucun : la machine apparaît dans presque toutes les boutiques."],
+    "steps": [
+      { "title": "Repérer la machine", "body": "Elle apparaît dans presque toutes les boutiques, et plus rarement dans les Black Markets, Arcades ou Vaults. Elle n'apparaît pas si les succès sont désactivés (graine, défi…)." },
+      { "title": "Répartir les dons par étage", "body": "En Repentance, le premier don a 0,15 % de chances de bloquer la machine, puis +0,15 % par pièce donnée sur l'étage en cours. Donner un peu à chaque étage limite donc le risque." },
+      { "title": "Suivre les paliers", "body": "Le suivi « Machines de dons » de l'application affiche le prochain palier et sa récompense." },
+      { "title": "S'arrêter à 999", "body": "Le maximum est 999. Un 1000e don fait exploser la machine et remet le compteur à 0." }
+    ],
+    "tips": [
+      "Donner 10 pièces augmente les chances d'obtenir une salle de l'Ange plutôt qu'une salle du Diable (si aucun accord du Diable n'a été pris).",
+      "Chaque don a 2 % de chances de donner +1 de chance.",
+      "Repentance : l'objet ⟦i:R Key⟧ débloque les Donation Machines bloquées."
+    ],
+    "risks": [
+      "Une fois bloquée, toutes les Donation Machines restent bloquées jusqu'à la fin de la partie.",
+      "Repentance : faire exploser la machine la détruit pour le reste de la partie et les pièces lâchées sont déduites du total à la partie suivante — c'est une perte nette."
+    ],
+    "alternatives": [],
+    "versionNotes": [
+      { "mask": 7, "text": "Avant Repentance : chaque pièce avait 5 % de chances de bloquer la machine, et on pouvait la faire exploser tant qu'elle contenait des pièces." }
+    ],
+    "related": [],
+    "achievementIds": ["Blue Map", "Store Upgrade lv.1", "There's Options", "Store Upgrade lv.2", "Black Candle", "Store Upgrade lv.3", "Red Candle", "Store Upgrade lv.4", "Blue Candle", "Stop Watch"],
+    "sources": ["https://bindingofisaacrebirth.wiki.gg/wiki/Donation_Machine"]
+  },
+  {
+    "slug": "optimiser-greed-donation-machine",
+    "title": "Comment optimiser la Greed Donation Machine",
+    "category": "machines",
+    "level": "intermediaire",
+    "priority": 7,
+    "summary": "La Greed Donation Machine (modes Greed et Greedier) débloque 12 récompenses, dont Greedier à 500 pièces et Keeper à 1000. Son risque de blocage dépend du personnage utilisé.",
+    "prerequisites": ["Mode Greed disponible (Afterbirth et suivants)."],
+    "steps": [
+      { "title": "Comprendre le blocage", "body": "Le risque de blocage est calculé à partir du total donné avec le personnage qui touche la machine. Il est de 0 % de 0 à 54 pièces, puis augmente jusqu'à 20 % à partir de 200 pièces en mode Greed." },
+      { "title": "Faire tourner les personnages", "body": "Chaque personnage a son propre compteur de blocage : répartir les dons entre de nombreux personnages garde le risque au minimum." },
+      { "title": "Passer en Greedier dès que possible", "body": "À partir de 500 pièces (succès « Greedier! »), le mode Greedier plafonne le risque de blocage à 1 %, quel que soit le personnage." },
+      { "title": "Viser 1000", "body": "Le 1000e don fait exploser la machine mais il est nécessaire : il débloque ⟦c:Keeper⟧." }
+    ],
+    "tips": [
+      "Une machine apparue hors de l'arène d'Ultra Greed (par un autre moyen) ne peut pas se bloquer.",
+      "Argent infini : avec ⟦p:2 of Diamonds⟧ et ⟦i:Blank Card⟧, achetez des piles en boutique pour recharger la Blank Card et doubler votre argent en boucle (en Repentance, la recharge de la Blank Card étant plus longue, il faut acheter davantage de piles)."
+    ],
+    "risks": ["En multijoueur, l'affichage montre le risque du joueur 1, mais c'est celui du personnage qui touche la machine qui s'applique."],
+    "alternatives": [],
+    "versionNotes": [
+      { "mask": 28, "text": "Afterbirth+ : ajout du mode Greedier (débloqué à 500 pièces), qui plafonne le risque de blocage à 1 %." }
+    ],
+    "related": [{ "kind": "character", "key": "Keeper" }, { "kind": "boss", "key": "Ultra Greed" }],
+    "achievementIds": ["Lucky Pennies", "Special Hanging Shopkeepers", "Wooden Nickel", "Cain holds Paperclip", "Everything is Terrible 2!!!", "Special Shopkeepers", "Eve now holds Razor Blade", "Greedier!", "Store Key", "Lost holds Holy Mantle", "Generosity", "Keeper"],
+    "sources": ["https://bindingofisaacrebirth.wiki.gg/wiki/Greed_Donation_Machine"]
+  },
+  {
+    "slug": "atteindre-mother",
+    "title": "Comment atteindre Mother",
+    "category": "chemins",
+    "level": "expert",
+    "priority": 8,
+    "summary": "Mother est le boss final du ⟦s:Corpse⟧, au bout du chemin alternatif de Repentance. Il faut reconstituer le couteau (deux morceaux) pour ouvrir la porte de chair après la Mom du ⟦s:Mausoleum⟧.",
+    "prerequisites": [
+      "Avoir débloqué « A Secret Exit » : vaincre ⟦e:Hush⟧ 3 fois.",
+      "Une clé pour ouvrir la porte vers ⟦s:Downpour⟧ / ⟦s:Dross⟧."
+    ],
+    "steps": [
+      { "title": "Prendre la sortie secrète", "body": "Après le boss d'un étage du ⟦s:Basement⟧ (ou de ses variantes), une porte verrouillée apparaît dans la salle du boss. Ouvrez-la avec une clé : elle mène à Downpour / Dross. Elle ne disparaît jamais." },
+      { "title": "Knife Piece 1 (Downpour/Dross II)", "body": "Un feu blanc est présent. Le toucher transforme temporairement Isaac en The Lost. Une autre salle contient un miroir : traversez-le pour entrer dans le monde miroir. ⟦i:Knife Piece 1⟧ se trouve dans la salle du trésor du monde miroir. Revenez en retraversant le miroir." },
+      { "title": "Knife Piece 2 (Mines/Ashpit II)", "body": "Avec Knife Piece 1, une grande salle contient une voie de wagonnet cassée et trois boutons jaunes. Appuyez sur les trois boutons, montez dans le wagonnet : ⟦i:Knife Piece 2⟧ attend au bout. Ramassez-le puis fuyez l'ombre de Mother jusqu'à la sortie." },
+      { "title": "Entrer dans le Mausoleum / Gehenna", "body": "La porte apparaît après le boss des Mines II / Ashpit II (ou de Depths I et variantes). L'entrée coûte deux cœurs entiers (ignore ⟦i:The Wafer⟧ et l'invincibilité). ⟦i:Dad's Key⟧, ⟦i:Sharp Key⟧ ou une ⟦p:Get out of Jail Free Card⟧ l'ouvrent sans dégâts ; The Lost entre gratuitement." },
+      { "title": "Ouvrir la porte de chair", "body": "Au Mausoleum / Gehenna II, après ⟦e:Mom⟧, poignardez la porte de chair avec le couteau reconstitué. Battez ensuite la version Mausoleum de ⟦e:Mom's Heart⟧ : l'entrée du Womb devient celle du Corpse." },
+      { "title": "Traverser le Corpse et vaincre Mother", "body": "Dans le Corpse, tous les dégâts retirent un cœur entier. ⟦e:Mother⟧ attend au dernier étage." }
+    ],
+    "tips": [
+      "Sans couteau : ⟦i:Sharp Key⟧ (en sacrifiant une clé), ⟦i:Cracked Orb⟧ ou ⟦p:Soul of Cain⟧ ouvrent aussi la porte de chair.",
+      "Avec ⟦c:The Lost⟧, ⟦c:Tainted Lost⟧ ou ⟦p:Soul of the Lost⟧, le miroir est accessible sans toucher le feu blanc.",
+      "Le Corpse ne génère ni salle du trésor ni boutique : préparez votre build avant."
+    ],
+    "risks": [
+      "Toucher le feu blanc vous transforme en fantôme (The Lost) jusqu'à la sortie du monde miroir : un seul coup est alors mortel.",
+      "Le monde miroir est un étage distinct : ses salles ne sont pas nettoyées."
+    ],
+    "alternatives": ["Gehenna, Dross et Ashpit se débloquent en battant tous les boss respectifs du Mausoleum, de Downpour et des Mines."],
+    "versionNotes": [{ "mask": 24, "text": "Contenu ajouté par Repentance : n'existe pas dans les versions précédentes." }],
+    "related": [
+      { "kind": "boss", "key": "Mother" },
+      { "kind": "item", "key": "Knife Piece 1" },
+      { "kind": "item", "key": "Knife Piece 2" },
+      { "kind": "floor", "key": "Corpse" },
+      { "kind": "item", "key": "Sharp Key" }
+    ],
+    "achievementIds": ["Blue Womb", "A Secret Exit", "Jacob and Esau", "A Strange Door"],
+    "sources": ["https://bindingofisaacrebirth.wiki.gg/wiki/Corpse", "https://bindingofisaacrebirth.wiki.gg/wiki/Knife_Piece_1", "https://bindingofisaacrebirth.wiki.gg/wiki/Knife_Piece_2", "https://bindingofisaacrebirth.wiki.gg/wiki/Mausoleum"]
+  },
+  {
+    "slug": "atteindre-the-beast",
+    "title": "Comment atteindre The Beast",
+    "category": "chemins",
+    "level": "expert",
+    "priority": 9,
+    "summary": "The Beast est le dernier boss du jeu. Après avoir battu Mother une fois, « A Strange Door » mène à ⟦i:Dad's Note⟧, qui lance l'Ascension jusqu'à ⟦s:Home⟧.",
+    "prerequisites": ["Avoir vaincu ⟦e:Mother⟧ au moins une fois (succès « A Strange Door »)."],
+    "steps": [
+      { "title": "Garder The Polaroid ou The Negative", "body": "La porte étrange s'ouvre en lui « donnant » ⟦i:The Polaroid⟧ ou ⟦i:The Negative⟧. Ramassez l'un des deux après ⟦e:Mom⟧." },
+      { "title": "Quitter la salle de Mom par téléportation", "body": "La porte se trouve dans la salle de départ de ⟦s:Depths⟧ / Necropolis / Dank Depths II. Après Mom, sortez de la salle du boss par téléportation : carte ⟦p:0 - The Fool⟧, objet de téléportation, ⟦i:Forget Me Now⟧… Un crâne marqué présent au second étage du chapitre donne toujours une carte The Fool quand on le détruit." },
+      { "title": "Ouvrir la porte", "body": "Entrez dans la salle de départ avec The Polaroid ou The Negative : la porte mène à une version spéciale du Mausoleum / Gehenna II, qui contient ⟦i:Dad's Note⟧." },
+      { "title": "L'Ascension", "body": "Ramasser Dad's Note lance l'Ascension : vous remontez des versions abrégées des étages déjà visités, en partant de la salle du boss et en cherchant le rayon de lumière dans la salle de départ. Les dégâts retirent un cœur entier après le Mausoleum II." },
+      { "title": "Home", "body": "Le rayon du Basement I mène à Home : ⟦e:Dogma⟧, puis l'affrontement contre les cavaliers Ultra, puis ⟦e:The Beast⟧." }
+    ],
+    "tips": [
+      "Pensez à visiter la salle du Boss Rush pour un objet gratuit avant de vous téléporter, si elle est ouverte.",
+      "Déposez un trinket dans une salle du trésor ou une salle de boss avant de prendre Dad's Note : pendant l'Ascension, il se transformera en ⟦p:Cracked Key⟧ (utile pour les personnages Tainted)."
+    ],
+    "risks": [
+      "La porte ne s'ouvre pas avec ⟦i:Mr. ME!⟧, ⟦i:Dad's Key⟧, ⟦t:Mysterious Paper⟧ ni une ⟦p:Get out of Jail Free Card⟧.",
+      "Avec ⟦i:Little Baggy⟧ et ⟦i:False PHD⟧, la pilule donnée par le crâne marqué devient une pilule « ??? », ce qui complique la sortie."
+    ],
+    "alternatives": [
+      "⟦t:Broken Padlock⟧, ⟦i:Cracked Orb⟧, ⟦t:Faded Polaroid⟧, ⟦p:Soul of Cain⟧ ou ⟦i:Sharp Key⟧ ouvrent aussi la porte.",
+      "⟦i:Glowing Hourglass⟧ utilisé dans la salle de départ du premier étage, sans entrer dans une autre salle, mène directement à Home."
+    ],
+    "versionNotes": [{ "mask": 24, "text": "Contenu ajouté par Repentance." }],
+    "related": [
+      { "kind": "boss", "key": "The Beast" },
+      { "kind": "item", "key": "Dad's Note" },
+      { "kind": "floor", "key": "Home" },
+      { "kind": "item", "key": "The Polaroid" },
+      { "kind": "item", "key": "The Negative" }
+    ],
+    "achievementIds": ["A Strange Door", "Red Key"],
+    "sources": ["https://bindingofisaacrebirth.wiki.gg/wiki/A_Strange_Door", "https://bindingofisaacrebirth.wiki.gg/wiki/Ascent", "https://bindingofisaacrebirth.wiki.gg/wiki/Home"]
+  },
+  {
+    "slug": "debloquer-les-tainted",
+    "title": "Comment débloquer les personnages Tainted",
+    "category": "personnages",
+    "level": "expert",
+    "priority": 10,
+    "summary": "Chaque personnage Tainted se débloque en ouvrant le placard secret de ⟦s:Home⟧ avec le personnage normal correspondant, grâce à ⟦i:Red Key⟧, ⟦p:Cracked Key⟧ ou ⟦p:Soul of Cain⟧.",
+    "prerequisites": [
+      "Savoir atteindre Home (guide « Comment atteindre The Beast »).",
+      "Avoir débloqué le personnage normal correspondant."
+    ],
+    "steps": [
+      { "title": "Obtenir la Red Key", "body": "La première fois que vous atteignez Home, le coffre de la chambre de Mom donne obligatoirement ⟦i:Red Key⟧ (succès « Red Key »). Ensuite, ce coffre puise dans son propre pool, qui ne contient la Red Key que rarement." },
+      { "title": "Préparer une Cracked Key pour les fois suivantes", "body": "Avant de ramasser ⟦i:Dad's Note⟧, déposez un trinket dans une salle du trésor ou une salle de boss. Pendant l'Ascension, il se transforme en ⟦p:Cracked Key⟧ dans la salle correspondante." },
+      { "title": "Ouvrir le placard", "body": "Dans Home, utilisez la clé sur le mur de gauche du couloir qui précède la chambre de Mom." },
+      { "title": "Toucher le personnage", "body": "Le personnage Tainted est débloqué dès que vous le touchez (ou qu'une bombe explose à côté). Il n'est pas nécessaire de vaincre Dogma ou The Beast ensuite." }
+    ],
+    "tips": [
+      "Les personnages Tainted se choisissent dans le menu de sélection (touche dédiée : RB sur manette).",
+      "Les personnages Tainted qui démarrent avec un objet actif (sauf Tainted Eden) le placent dans l'emplacement de consommable."
+    ],
+    "risks": ["⟦c:Tainted Cain⟧ ne peut pas être débloqué avec ⟦p:Soul of Cain⟧ (en jouant Cain)."],
+    "alternatives": ["⟦p:Soul of Cain⟧ peut remplacer la clé pour les autres personnages."],
+    "versionNotes": [{ "mask": 24, "text": "Personnages ajoutés par Repentance. Chaque Tainted a 7 déblocages liés aux marques au lieu de 15." }],
+    "related": [
+      { "kind": "item", "key": "Red Key" },
+      { "kind": "consumable", "key": "Cracked Key" },
+      { "kind": "floor", "key": "Home" }
+    ],
+    "achievementIds": ["Red Key", "The Broken", "The Dauntless", "The Hoarder", "The Deceiver", "The Soiled", "The Curdled", "The Savage", "The Benighted", "The Enigma", "The Capricious", "The Baleful", "The Harlot", "The Miser", "The Empty", "The Fettered", "The Zealot", "The Deserter"],
+    "sources": ["https://bindingofisaacrebirth.wiki.gg/wiki/Tainted_Characters", "https://bindingofisaacrebirth.wiki.gg/wiki/Home"]
+  },
+  {
+    "slug": "debloquer-le-d6",
+    "title": "Comment débloquer le D6",
+    "category": "deblocages",
+    "level": "debutant",
+    "priority": 11,
+    "summary": "⟦i:The D6⟧ se débloque en vainquant ⟦e:Isaac⟧ (Cathedral) avec ⟦c:???⟧. Isaac commence ensuite chaque partie avec ce dé.",
+    "prerequisites": ["Avoir débloqué ??? : vaincre ⟦e:Mom's Heart⟧ 10 fois."],
+    "steps": [
+      { "title": "Débloquer ???", "body": "Vainquez Mom's Heart (ou It Lives!) dix fois au total, avec n'importe quels personnages." },
+      { "title": "Lancer une partie avec ???", "body": "??? démarre avec 3 cœurs d'âme et ne peut pas avoir de réceptacles de cœurs rouges : économisez la vie." },
+      { "title": "Prendre le rayon de lumière", "body": "Après Mom's Heart / It Lives!, choisissez le rayon de lumière vers la ⟦s:Cathedral⟧." },
+      { "title": "Vaincre Isaac", "body": "Battre Isaac à la fin de la Cathedral avec ??? débloque The D6." }
+    ],
+    "tips": [
+      "Le D6 relance tous les objets de la salle selon le pool de la salle actuelle : il est particulièrement fort en boutique, en salle du Diable ou de l'Ange.",
+      "La fiche du D6 liste les interactions documentées (Car Battery, Glitched Crown…)."
+    ],
+    "risks": ["Isaac est un boss exigeant pour un débutant : préparez des objets de dégâts."],
+    "alternatives": [],
+    "versionNotes": [],
+    "related": [{ "kind": "item", "key": "The D6" }, { "kind": "character", "key": "???" }, { "kind": "boss", "key": "Isaac" }],
+    "achievementIds": ["???", "The D6"],
+    "sources": ["https://bindingofisaacrebirth.wiki.gg/wiki/Isaac", "https://bindingofisaacrebirth.wiki.gg/wiki/The_D6"]
+  },
+  {
+    "slug": "marques-de-completion-efficaces",
+    "title": "Obtenir les marques de complétion efficacement",
+    "category": "optimisation",
+    "level": "intermediaire",
+    "priority": 12,
+    "summary": "Chaque personnage possède des marques (Mom's Heart, Isaac, Satan, ???, The Lamb, Boss Rush, Hush, Mega Satan, Greed/Greedier, Delirium, Mother, The Beast). Bien combiner les objectifs dans une même partie fait gagner beaucoup de temps.",
+    "prerequisites": ["Connaître les routes principales (voir la page « Boss et étages »)."],
+    "steps": [
+      { "title": "Jouer en mode difficile quand c'est possible", "body": "Une marque obtenue en mode difficile valide aussi la marque normale. Les déblocages « toutes les marques en difficile » (bébés coopératifs, ⟦i:Godhead⟧ pour The Lost…) l'exigent." },
+      { "title": "Enchaîner Boss Rush et Hush", "body": "Le Boss Rush s'ouvre si ⟦e:Mom⟧ est vaincue en moins de 20 minutes (25 minutes depuis le Mausoleum/Gehenna en Repentance). Le Blue Womb de ⟦e:Hush⟧ s'ouvre si l'étage est atteint en moins de 30 minutes. Une partie rapide peut valider les deux." },
+      { "title": "Continuer après Mom's Heart", "body": "Vaincre ⟦e:Mom's Heart⟧ valide sa marque ; la partie continue ensuite vers Isaac/??? (rayon de lumière) ou Satan/The Lamb (trappe)." },
+      { "title": "Mega Satan ou ???/The Lamb", "body": "Au Chest ou à la Dark Room, ⟦e:Mega Satan⟧ se trouve derrière la porte dorée de la salle de départ (⟦i:Key Piece 1⟧ + ⟦i:Key Piece 2⟧ obtenues des anges). Choisissez selon la marque qui vous manque." },
+      { "title": "Delirium par le portail", "body": "Vaincre Hush garantit un portail vers ⟦s:The Void⟧ (et donc ⟦e:Delirium⟧). En Repentance+, ???, The Lamb, Mega Satan et Mother le garantissent aussi." },
+      { "title": "Personnages Tainted", "body": "Pour les Tainted, un seul déblocage couvre Isaac + ??? + Satan + The Lamb, et un autre couvre Boss Rush + Hush : planifiez des parties qui cumulent ces objectifs." }
+    ],
+    "tips": [
+      "Les objets qui changent de personnage à la mort (⟦i:Ankh⟧, ⟦i:Lazarus' Rags⟧, ⟦i:Judas' Shadow⟧, ⟦t:Missing Poster⟧) attribuent les marques suivantes au nouveau personnage.",
+      "Utilisez le planificateur « Que débloquer ensuite ? » : il tient compte des marques déjà cochées."
+    ],
+    "risks": ["Les parties avec graine, en défi ou avec des mods (sauf exceptions) ne valident pas les succès."],
+    "alternatives": [],
+    "versionNotes": [
+      { "mask": 30, "text": "Afterbirth : ajout de Hush, Mega Satan et Ultra Greed." },
+      { "mask": 28, "text": "Afterbirth+ : ajout de Delirium et du mode Greedier." },
+      { "mask": 24, "text": "Repentance : ajout de Mother et The Beast." },
+      { "mask": 16, "text": "Repentance+ : ???, The Lamb, Mega Satan et Mother garantissent aussi le portail vers The Void." }
+    ],
+    "related": [{ "kind": "item", "key": "Godhead" }, { "kind": "boss", "key": "Hush" }, { "kind": "boss", "key": "Mega Satan" }],
+    "achievementIds": ["Godhead", "Mega Mush", "Death Certificate"],
+    "sources": ["https://bindingofisaacrebirth.wiki.gg/wiki/Completion_Marks", "https://bindingofisaacrebirth.wiki.gg/wiki/The_Void", "https://bindingofisaacrebirth.wiki.gg/wiki/Mom"]
+  },
+  {
+    "slug": "premiers-pas",
+    "title": "Premiers pas : par où commencer ?",
+    "category": "debutant",
+    "level": "debutant",
+    "priority": 13,
+    "summary": "Les premiers déblocages ouvrent l'essentiel du jeu. Voici un ordre de progression simple pour un nouveau profil.",
+    "prerequisites": [],
+    "steps": [
+      { "title": "Vaincre Mom", "body": "Battre ⟦e:Mom⟧ pour la première fois débloque le ⟦s:Womb⟧ (succès « The Womb »)." },
+      { "title": "Débloquer les premiers personnages", "body": "⟦c:Magdalene⟧ : avoir 7 réceptacles de cœurs rouges en même temps. ⟦c:Cain⟧ : avoir 55 pièces en même temps. ⟦c:Judas⟧ : vaincre ⟦e:Satan⟧." },
+      { "title": "Répéter Mom's Heart", "body": "Les victoires contre ⟦e:Mom's Heart⟧ s'accumulent : 10 victoires débloquent ⟦c:???⟧ et le Blue Womb, 11 débloquent It Lives!." },
+      { "title": "Polaroid et Negative", "body": "5 victoires contre Isaac débloquent ⟦i:The Polaroid⟧ (accès au Chest), 5 contre Satan débloquent ⟦i:The Negative⟧ (accès à la Dark Room)." },
+      { "title": "Commencer les dons", "body": "Donnez quelques pièces à chaque boutique : la Donation Machine débloque des améliorations de boutique et des objets." }
+    ],
+    "tips": ["Cochez vos succès dans le tracker : le planificateur vous proposera ensuite les objectifs les plus accessibles."],
+    "risks": [],
+    "alternatives": [],
+    "versionNotes": [],
+    "related": [{ "kind": "boss", "key": "Mom" }, { "kind": "boss", "key": "Mom's Heart" }],
+    "achievementIds": ["The Womb", "Magdalene", "Cain", "Judas", "???", "It Lives!", "The Polaroid", "The Negative"],
+    "sources": ["https://bindingofisaacrebirth.wiki.gg/wiki/Achievements"]
+  },
+  {
+    "slug": "acceder-au-void",
+    "title": "Accéder à The Void et vaincre Delirium",
+    "category": "boss",
+    "level": "expert",
+    "priority": 14,
+    "summary": "⟦s:The Void⟧ s'ouvre après la première victoire contre ⟦e:Hush⟧. Son boss final est ⟦e:Delirium⟧.",
+    "prerequisites": ["Avoir vaincu Hush au moins une fois (succès « New Area »)."],
+    "steps": [
+      { "title": "Vaincre Hush", "body": "Après Hush, une sortie apparaît en haut à droite de la salle du boss : elle mène à une salle ne contenant qu'un portail vers The Void." },
+      { "title": "Portails aléatoires ensuite", "body": "Une fois The Void débloqué, le portail peut apparaître après chaque boss majeur à partir de Mom : 5 % après Mom (avec 10+ de dégâts ou 20+ objets), 10 % après Mom's Heart / It Lives!, 15 % après Isaac ou Satan." },
+      { "title": "Vaincre Delirium", "body": "Delirium se trouve au cœur de The Void. Le vaincre valide la marque Delirium du personnage." }
+    ],
+    "tips": ["Vaincre Hush garantit toujours le portail : enchaîner Hush puis The Void est la voie la plus fiable."],
+    "risks": ["The Void est long : gardez des consommables de soin."],
+    "alternatives": [],
+    "versionNotes": [
+      { "mask": 15, "text": "Avant Repentance+ : 20 % après ??? ou The Lamb, 50 % après Mega Satan." },
+      { "mask": 16, "text": "Repentance+ : ???, The Lamb, Mega Satan et Mother garantissent aussi le portail." }
+    ],
+    "related": [{ "kind": "boss", "key": "Delirium" }, { "kind": "boss", "key": "Hush" }, { "kind": "floor", "key": "The Void" }],
+    "achievementIds": ["Blue Womb", "New Area"],
+    "sources": ["https://bindingofisaacrebirth.wiki.gg/wiki/The_Void"]
+  }
+]

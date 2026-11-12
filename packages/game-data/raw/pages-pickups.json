@@ -1,0 +1,1124 @@
+{
+ "I - The Magician?": {
+  "revid": 268403,
+  "timestamp": "2026-08-19T17:15:30Z",
+  "infobox": "{{header reverse tarot cards}}\n{{Infobox card\n | dlc         = r\n | name        = I - The Magician?\n | files name  = I - Inverted The Magician\n | type        = card\n | id          = 57\n | quote       = May no harm come to you\n | costume     = Collectible The Soul appearance.png\n | description = Grants a repelling blue aura for one minute that strongly pushes enemies and projectiles away from Isaac.\n | unlocked by = The Magician\n | recharge    = 4\n}}\n\n{{cit|uc|r}}\n\n",
+  "sections": {
+   "Effects": "* Grants a repelling blue aura that strongly pushes projectiles and enemies away from Isaac for one minute.",
+   "Strategy": "* Since the effect lasts one minute, it is advised to use it on bosses that fire high amounts of projectiles such as {{e|Mega Satan}}, {{e|Hush}}, {{e|Delirium}}, or {{e|Mother}}.",
+   "Notes": "* Once the minute has passed, Isaac reverts back to his normal state on the spot, he does not need to change rooms to remove the effect.\n* '''I - The Magician?''''s effect is similar to the {{i|The Soul}}'s but stronger, with a wider area of effect, and has consistent effect strength.\n* As long as Isaac does not walk into a projectile or enemy himself, most projectiles will be completely repelled and enemies cannot come into contact with Isaac.\n** Certain enemies can bypass the effect if they dash fast enough, such as {{e|Oob}}s.\n* Additional uses of '''I - The Magician?''' only refresh the one minute timer.",
+   "Interactions": "* {{I|Tarot Cloth}}: No effect."
+  },
+  "fr": "I - Le Bateleur ?"
+ },
+ "IV - The Emperor?": {
+  "revid": 258519,
+  "timestamp": "2026-01-23T11:04:53Z",
+  "infobox": "{{header reverse tarot cards}}\n{{Infobox card\n | dlc         = r\n | name        = IV - The Emperor?\n | files name  = IV - Inverted The Emperor\n | type        = card\n | id          = 60\n | quote       = May you find a worthy opponent\n | description = Teleports Isaac into an extra {{r|Boss Room}} from the boss pool two floors deeper than the current floor (but never a final boss). The boss will drop a reward. Exiting the room returns Isaac to where he used the card.\n | unlocked by = The Emperor\n | recharge    = 2\n}}\n\n{{cit|uc|r}}\n\n",
+  "sections": {
+   "Effects": "* Teleports Isaac into an extra {{r|Boss Room}} from the boss pool two floors deeper than the current floor (but never a final boss). The boss will drop a reward. Exiting the room returns Isaac to where he used the card.",
+   "Notes": "* Using IV - The Emperor? in {{s|Womb}} / {{s|Utero}}/ {{s|Scarred Womb}} / {{s|Corpse}} I or II will teleport Isaac to a boss fight from the current boss pool.\n** Using it in {{s|Sheol}} / {{s|Cathedral}} / {{s|Dark Room}} / {{s|Chest}} / {{s|The Void}} / {{s|Home}} will teleport Isaac to a random room.\n** Using it in {{s|???}} will teleport Isaac to a boss fight from the {{S|Womb}} boss pool.\n** Using it in an {{R|I AM ERROR}} room or a {{r|Black Market}} will take Isaac to the last room he was in when exited, allowing him to further explore the floor.\n* Using IV - The Emperor? again on the same floor after defeating the boss it spawns takes Isaac back to the same cleared Boss room.\n* If IV - The Emperor? is used in [[Chapter 3]] (i.e. {{s|Depths}}), the [[Chapter 4]] boss will only deal regular damage to Isaac, rather than the whole heart damage penalty of the chapter.\n** This is one of the few situations where bosses such as {{e|It Lives!}} dealing a whole heart of projectile damage, or {{e|Daddy Long Legs}} dealing a whole heart of contact damage takes effect.\n* {{r|Devil Room}}s / {{r|Angel Room}}s do not appear from the extra boss rooms.\n* IV - The Emperor? cannot spawn in [[greed mode]].",
+   "Strategy": "* IV - The Emperor? can be used to steal an item from {{r|Boss Rush}} without going through the waves. After taking the item, using the card and defeating the extra boss, leaving the room will lead Isaac to the regular, locked {{E|Mom}} boss room.{{dlc-}}\n** {{r|Challenge Room}}s / {{r|Boss Challenge Room}}s can also be stolen from. Returning to the room after defeating the extra boss will make the room inactive (until another element is interacted with).",
+   "Synergies": "* {{i|Blanket}}: A shield is granted upon teleporting to the extra boss room.\n* {{t|Hairpin}}: The currently held active item is fully charged the first time the extra boss room is teleported to. The normal boss room also charges the active item.\n* {{i|There's Options}}: The extra boss room's reward will be two choice pedestals.\n* {{t|Tick}}: Heals 1 {{e|Red Heart}} upon teleporting to the extra boss room. The normal boss room also provides healing.",
+   "Interactions": "* {{I|Tarot Cloth|n}}: No effect.\n* {{i|Book of Revelations}}: Does not guarantee the extra boss to be a [[The Harbingers|harbinger]].\n* {{i|Satanic Bible}}: The extra boss room's reward is also transformed into a devil deal.\n* {{i|Sol}}: Defeating the extra boss will not activate Sol's effect.\n* {{i|Vanishing Twin}}: The twin will clone the extra boss and spawn an item if the original one has not been visited yet. The vanishing twin familiar is consumed and will not allow for another item to be obtained from the floor's original boss, because the familiar won't respawn until the next floor."
+  },
+  "fr": "IV - L'Empereur ?"
+ },
+ "III - The Empress?": {
+  "revid": 258510,
+  "timestamp": "2026-01-23T11:04:53Z",
+  "infobox": "{{header reverse tarot cards}}\n{{Infobox card\n | dlc         = r\n | name        = III - The Empress?\n | files name  = III - Inverted The Empress\n | type        = card\n | id          = 59\n | quote       = May your love bring protection\n | costume     = Character Magdalene appearance.png\n | description = Grants 2 temporary [[Red Heart Container]]s, +1.5 [[Fire Rate]], and -0.1 [[Speed]] for one minute, along with {{c|Magdalene}}'s hairstyle. The effect does not stack with itself. \n | unlocked by = The Empress\n | recharge    = 4\n}}\n\n{{cit|uc|r}}\n\n",
+  "sections": {
+   "Effects": "* Grants 2 temporary [[Red Heart Container]]s, +1.5 [[Fire Rate]], and -0.1 [[Speed]] for one minute.\n* Visually grants {{c|Magdalene}}'s hairstyle while the effect is active.",
+   "Notes": "* The effect does not stack with itself.\n* The card's effect persists in the {{i|Knife Piece 2}} abandoned area.\n* The temporary [[heart container]]s granted by III - The Empress? can be spent for purposes such as [[devil deal]]s and {{i|Potato Peeler}}, and doing so will not affect Isaac's permanent containers after the effect runs out.",
+   "Synergies": "* {{I|Tarot Cloth}}: Adds a total of three temporary [[heart container]]s."
+  },
+  "fr": "III - L'Impératrice ?"
+ },
+ "Era Walk": {
+  "revid": 262767,
+  "timestamp": "2026-03-31T10:30:56Z",
+  "infobox": "{{Header magic cards}}\n{{header special cards}}\n{{infobox card\n | dlc         = a+\n | type        = special card\n | id          = 54\n | recharge    = {{dlcalt|4|r=3}}\n | quote       = Savor the moment\n | description = For the current room, enemies are slowed, Isaac's speed is increased by 0.50, and his shot speed is decreased by 1.00.\n | unlocked by = Era Walk\n}}\n\n{{cit|us|a+}}\n\n",
+  "sections": {
+   "Effects": "* For the current room, enemies are [[slow]]ed, Isaac's [[speed]] is increased by 0.50, and his [[shot speed]] is decreased by 1.00.",
+   "Notes": "* Being a [[special card]], the '''Era Walk''' has a significantly lower chance of appearing compared to other cards.\n* The card's effect does not stack if it is used multiple times in the same room.\n* While the effect is active, Isaac will appear to have {{i|Stop Watch}}, although this is purely cosmetic.\n* Does not slow down stomping Mom's feet spawned by {{i|Broken Shovel 1}}.",
+   "Interactions": "* {{i|Tarot Cloth}}: No effect."
+  },
+  "fr": "Marche Temporelle"
+ },
+ "Joker": {
+  "revid": 265548,
+  "timestamp": "2026-07-15T09:27:16Z",
+  "infobox": "{{Header playing cards}}\n{{Infobox card\n | name        = Joker\n | type        = card\n | id          = 31\n | quote       = ???\n | description = Teleports Isaac to the {{r|Devil Room}} or {{r|Angel Room}}.\n| recharge =             {{dlcalt|4|r=2}}\n}}\n\n{{cit|c}}\n\n",
+  "sections": {
+   "Effects": "* Teleports Isaac to the {{r|Devil Room}} or {{r|Angel Room}}.",
+   "Notes": "* Using the '''Joker''' in {{s|Womb}} II / {{s|Utero}} II / {{s|Scarred Womb}} II will teleport Isaac to the Devil Room or Angel Room with a trapdoor leading to {{s|Sheol}} or a light beam leading to the {{s|Cathedral}} (respectively). This can be used to skip {{e|Mom's Heart}} and will not count as a kill.\n** {{dlc+|a}} After unlocking {{e|It Lives!}}, Devil or Angel Rooms in {{s|Womb}} / {{s|Utero}} / {{s|Scarred Womb}} II no longer contain trapdoors and instead have their normal contents.{{dlc-}}\n* Using The Joker card can allow Isaac to encounter Devil Rooms or Angel Rooms on floors they otherwise cannot appear on, such as the first floor, or {{s|Corpse}} II.\n* Unlike all teleportation cards, the '''Joker''' still works normally when {{curse|maze}} is active.\n* {{dlc|nr}} The '''Joker''' cannot spawn in {{mode|greed}} [[Greed mode]].\n* Using the '''Joker''' does not affect the spawn chance of Devil and Angel Rooms.\n** {{dlc|r}} This includes the 100% chance of an Angel Room appearing after skipping the first Devil Room. If a '''Joker''' card is used to teleport to Angel Room and it has not spawned after defeating the boss, the 100% chance will get carried over to the next floor as usual.",
+   "Strategy": "* {{dlc+|r}} Touching the {{e|White Fire Place}} in {{s|Downpour}} II / {{s|Dross}} II temporarily turns Isaac into a ghost. Using the '''Joker''' allows Isaac to take the devil deals for free, which is normally impossible because beating the boss makes Isaac lose his ghost form before entering the devil room. {{dlc-}}",
+   "Synergies": "* {{i|Eucharist}}: Always teleports to an {{r|Angel Room}}.",
+   "Interactions": "* {{I|Tarot Cloth}}: No effect.\n* {{i|Duality}}: Teleportation ''before'' defeating the boss and choosing a door will follow the normal rules of Devil/Angel Room generation, instead of a 50/50 chance.\n** This means that if Duality was taken as a Devil deal, or any other deal with the Devil was made in the run, teleportation will always lead to the {{R|Devil Room}}.\n** The room that was chosen this way will be the only one that opens once the boss is defeated.\n** Teleporting after choosing a door will always teleport to the same room."
+  },
+  "fr": "Joker"
+ },
+ "Chaos Card": {
+  "revid": 274132,
+  "timestamp": "2026-11-06T17:11:59Z",
+  "infobox": "{{Header magic cards}}\n{{header special cards}}\n{{infobox card\n | type        = special card\n | id          = 42\n | recharge    = {{dlcalt|4|r=6}}\n | quote       = ???\n | description = Throws the card in the direction Isaac is moving, which opens doors, breaks obstacles, and instantly kills any enemy in its path.\n | unlocked by = Chaos Card\n}}\n\n{{cit|us}}\n\n",
+  "sections": {
+   "Effects": "* Upon activation, Isaac throws the card in front of himself.\n** The card is thrown in the direction Isaac's '''''body''''' is facing, meaning the card will be thrown in the direction Isaac is moving. If he is stationary, it will be thrown in the last direction that Isaac moved.\n* The thrown card kills ''anything'' in its path (including end-game [[boss]]es like {{E|???}} and otherwise indestructible entities like {{E|Stone Grimace}}s and {{E|Wall Hugger}}s) and gets stuck in the ground/wall after being thrown.\n** The only exceptions to this are {{E|Delirium}}, {{E|The Beast}}, {{E|Mother's Shadow}} and {{E|Dark Esau}}.\n* The card can open doors as if a {{E|Bomb}} had exploded them, although it cannot open any locked doors or open the big door in the starting room of {{s|Dark Room}} and {{s|Chest}}.\n* The card can extinguish fires, break rocks, and open secret rooms.",
+   "Notes": "* Being a [[special card]], the Chaos Card has a significantly lower chance of appearing compared to other cards.\n* Using it on multi-phase bosses like {{E|Isaac}}, {{E|???}} and {{E|The Lamb}} will instantly end the boss fight.\n** Using it on {{E|Satan}} during his first form will end the fight, despite him having multiple forms and health bars. Using it on {{E|The Fallen}} instead of Satan himself will not end the fight.\n*** However, using it on {{E|Mega Satan}} will only skip one phase.\n** {{dlc+|a}} It will only kill one phase of {{E|Hush}} {{dlc|nr}} unless Isaac throws it from the bottom side, such that after killing the first phase, the card can still catch up with Hush's true form as he pops out at the top of the room. However, this method can fail depending on the timing and the position of the first phase.{{dlc-}}\n** {{dlc+|a+}} It will only kill one phase of {{E|Ultra Greed}} in [[Greedier mode]].{{dlc-}}\n** {{dlc+|r}} It will only kill one phase of {{E|Mother}} and {{E|Dogma}}.{{dlc-}}\n* To aim the card correctly, make sure to move/shoot in the direction that it needs to be thrown.\n* Does not kill {{e|Beggar}}s or {{E|Shopkeeper}}s.\n* Can kill normally indestructible enemies like the Masks of {{E|Mask + Heart}}s (though this will not kill the heart), {{E|Host}}s while they're invulnerable, the little chubs in {{E|Chubber}}s, and {{E|Death's Head}}s. It can also be used to kill things typically not considered alive like {{E|Wall Hugger}}s and {{E|Stone Grimace}}s.\n* If used on {{E|Pin}} or {{E|The Frail}} segments can be cut off causing both bosses to lose length like {{E|Larry Jr.}}.\n* Using it on an Angel Statue will reveal an [[Angel]] and kill them instantly.\n* {{E|Great Gideon}} has a special death animation if killed using it, which also reveals a {{r|Crawl Space}} under him containing several Chests and items.\n* {{dlc+|r}} {{E|Mother's Shadow}} cannot be killed with Chaos Card, though it is normally impossible to get one in the abandoned area of {{s|Mines}}/ {{s|Ashpit}} II.{{dlc-}}\n* {{dlc+|r}} {{C|Tainted Forgotten}} does not throw the card in the direction that {{C|Tainted Soul}} is moving if Tainted Forgotten is held.{{dlc-}}",
+   "Synergies": "* {{i|Angelic Prism}}: If the Chaos Card passes through the prism, it will replicate the Chaos Card four times each in their respective colors.\n* {{i|Blank Card}}: Allows for an easy run by allowing repeated use of the card.\n** Items such as {{i|Habit}}, {{i|9 Volt}}, and {{i|Charged Baby}} give more opportunities to use the card since all these items decrease the charge time of Blank Card.\n** {{i|The Battery}} allows Blank Card to be used twice in a room, allowing multi-phase bosses to be killed instantly.",
+   "Interactions": "* {{i|Tarot Cloth}}: No effect."
+  },
+  "fr": "Carte Chaos"
+ },
+ "Soul of Apollyon": {
+  "revid": 260306,
+  "timestamp": "2026-02-25T14:13:52Z",
+  "infobox": "{{header soul stones}}\n{{Infobox rune\n | dlc         = r\n | name        = Soul of Apollyon\n | type        = soul stone\n | id          = 94\n | quote       = Bringer of calamity\n | description = Spawns 15 random [[locusts]].\n | unlocked by = Soul of Apollyon\n | recharge    = 6\n}}\n\n{{cit|ur|r}}\n\n",
+  "sections": {
+   "Effects": "* Spawns 15 random [[locusts]].",
+   "Notes": "* All locusts have an equal chance to be any of the 5 types.",
+   "Strategy": "* Using the '''Soul of Apollyon''' near an enemy can be dangerous: an explosive locust may spawn on it and immediately explode, damaging Isaac.",
+   "Synergies": "* {{i|Hive Mind}}: Doubles the damage dealt by locusts."
+  },
+  "fr": "Âme d'Apollyon"
+ },
+ "Ehwaz": {
+  "revid": 265746,
+  "timestamp": "2026-07-19T20:08:41Z",
+  "infobox": "{{header runes}}\n{{Infobox rune\n | name        = Ehwaz\n | type        = rune\n | image scale = 1/10\n | id          = 34\n | quote       = Passage\n | description = Creates a trapdoor leading to the next floor. {{dlc|nr}} Has an estimated 1/12 (8%) chance to create a trapdoor leading to a {{r|Crawl Space}} instead. {{dlc|r}} Guaranteed to create a trap door to a {{r|Crawl Space}} if used on floor tiles containing certain patterns. Will not create trapdoors if used on the end floor of a challenge.\n | unlocked by = Rune of Ehwaz\n | recharge    = 4\n}}\n\n{{cit|ur}}\n\n",
+  "sections": {
+   "Effects": "* Creates a trapdoor leading to the next floor. {{dlc|nr}} Has an estimated 1/12 (8%) chance to create a trapdoor leading to a {{r|Crawl Space}} instead.\n** {{Dlc+|r}} Some floor tiles will appear with a special decorative graphic (for example, grass or paper in {{s|Basement}}). Using this item on these tiles will guarantee a {{R|Crawl Space}}. Only one Crawl Space can be made per floor, as all subsequent uses will only spawn trapdoors.\n*** A list of all decoration tiles may be found here:\n{| class=\"wikitable mw-collapsible mw-collapsed\" style=\"text-align: center\"\n !Found in\n !Notes\n !Decorations \n |-\n |{{s|Basement}}<br>{{s|Cellar}}<br>{{s|Burning Basement}}<br>{{s|Home}}<br>{{r|Shop}}<br>{{r|Arcade}}<br>{{r|Secret Room}}<br>{{r|Library}}<br>{{r|Dice Room}}<br>{{r|Clean Bedroom}}<br>{{r|Dirty Bedroom}}<br>{{r|I AM ERROR}}\n |Some grass tiles are animated.<br>One decoration is completely invisible.<br>Also used by the entrance to Chapter 1.5 and 2.5.<br>{{Dlc|r+}}Also used by {{i|Lil Portal}}.\n |[[File:Decorations_Basement.png|182px]]\n |-\n |{{s|Downpour}}\n |\n |[[File:Decorations_Downpour.png|104px]]\n |-\n |{{s|Dross}}\n |\n |[[File:Decorations_Dross.png|156px]]\n |-\n |{{s|Caves}}<br>{{s|Catacombs}}<br>{{s|Flooded Caves}}\n |Mushrooms and some grass tiles are animated.<br>Seven decorations are completely invisible.<br>The large decoration cannot generate in Flooded Caves.\n |[[File:Decorations_Caves.png|208px]]\n |-\n |{{s|Mines}}<br>{{s|Ashpit}}\n |Mushrooms and some grass tiles are animated.<br>Seven decorations are completely invisible.\n |[[File:Decorations_Mines.png|182px]]\n |-\n |{{s|Depths}}<br>{{s|Necropolis}}<br>{{s|Dank Depths}}<br>{{s|Mausoleum}}<br>{{r|Sacrifice Room}}\n |Lit candles are animated and emit a miniscule amount of light.<br>One decoration is completely invisible.<br>Also used by the entrance to Chapter 3.5.<br>Also used by {{i|Death Certificate}}.\n |[[File:Decorations_Depths.png|182px]]\n |-\n |{{s|Gehenna}}<br>{{s|Sheol}}<br>{{r|Challenge Room}}<br>{{r|Curse Room}}<br>{{r|Devil Room}}<br>{{r|Black Market}}<br>{{r|Boss Rush}}\n |Some bones are animated, and skulls emit a miniscule amount of light.<br>One decoration is completely invisible.\n |[[File:Decorations_Sheol.png|182px]]\n |-\n |{{s|Womb}}<br>{{s|Scarred Womb}}\n |Some tiles are animated.<br>One decoration is completely invisible.\n |[[File:Decorations_Womb.png|234px]]\n |-\n |{{s|Utero}}\n |Some tiles are animated.<br>One decoration is completely invisible.\n |[[File:Decorations_Utero.png|234px]]\n |-\n |{{s|???}}\n |Some tiles are animated.<br>One decoration is completely invisible.<br>Also used by the entrance to ???.<br>Also used by {{t|Blue Key}}.\n |[[File:Decorations_Blue_Womb.png|234px]]\n |-\n |{{s|Corpse}}\n |Some tiles are animated.<br>One decoration is completely invisible.\n |[[File:Decorations_Corpse.png|234px]]\n |-\n |{{s|Cathedral}}<br>{{r|Angel Room}}\n |Some tiles are animated.<br>Two decorations are completely invisible.\n |[[File:Decorations_Cathedral.png|182px]]\n |-\n |{{s|Chest}}<br>{{r|Vault}}\n |Some gems are animated.<br>An animated tile with a glowing pair of eyes emits a miniscule amount of light.\n |[[File:Decorations_Chest.png|182px]]\n |-\n |{{s|Dark Room}}<br>{{r|Planetarium}}<br>{{r|Ultra Secret Room}}\n |Notable in that they have no decoration tiles.<br>The Rune cannot create Crawl Spaces when in these rooms.<br>Also applies to the [[Mega Satan]] arena.\n |\n |-\n |{{s|Ultra Greed}}\n |Some gems are animated.\n |[[File:Decorations_Greed.png|104px]]\n |-\n |}{{Dlc-}}",
+   "Notes": "* {{dlc|r}} Only one trapdoor to the Crawl Space can be made per floor by using '''Ehwaz''' on a floor element,  as all subsequent uses will guarantee a trapdoor to the next floor.\n* If used in {{s|Womb}} II / {{s|Utero}} II / {{s|Scarred Womb}} II, the trapdoor will always lead to {{s|Sheol}}.\n* In hostile rooms, a trapdoor leading to the next floor will always be open, whereas a trapdoor leading to a crawl space will be closed until the room is cleared.\n** However, in rooms that become hostile ({{r|Challenge Room}}, {{r|Boss Rush}}), the trapdoor to a crawl space will remain open even when the room is hostile.\n* Using '''Ehwaz''' whilst Isaac is over a rock will destroy it.\n* This Rune's effect is identical to {{i|We Need To Go Deeper!}}. ''See the item page for further effect notes.''",
+   "Strategy": "* {{dlc|r}} '''Ehwaz''' can be used to steal the contents of a {{r|Challenge Room}} / {{r|Boss Rush}} without facing the imposed challenge: using '''Ehwaz''' on a floor element will always spawn an open crawl space and entering it will reset the previous room to a neutral state, that Isaac can leave.",
+   "Interactions": "* {{I|Tarot Cloth}}: No effect.\n\n{{nav}}\n[[Category:Runes]]"
+  },
+  "fr": null
+ },
+ "2 of Hearts": {
+  "revid": 273993,
+  "timestamp": "2026-11-06T16:54:40Z",
+  "infobox": "{{Header playing cards}}\n{{Infobox card\n | name        = 2 of Hearts\n | type        = card\n | id          = 26\n | quote       = Item multiplier\n | description = Doubles Isaac's current number of {{e|Red Heart}}s.<br>If Isaac only has empty Red Heart containers, he is healed for 1 Red Heart.\n | recharge    = {{dlcalt|4|r=12}}\n}}\n\n{{cit|c}}\n\n",
+  "sections": {
+   "Effects": "* Doubles Isaac's {{e|Red Heart}}s.\n* If Isaac only has empty Red Heart containers, he is healed for 1 Red Heart.",
+   "Notes": "* '''2 of Hearts''' doesn't add new Red Heart containers, just fills empty ones. Nor does it double any other types of health.",
+   "Strategy": "* '''2 of Hearts''' can be used to significantly increase the use of {{r|Sacrifice Room}}s / {{e|Blood Donation Machine}}s / {{e|Devil Beggar}}s and any other health-draining object. The more heart containers, the more free hearts can be obtained form one use of the card.",
+   "Synergies": "* {{I|Tarot Cloth|nr}}: Quadruples Isaac's red hearts.\n* {{c|Tainted Bethany|r}}: Doubles her Blood Charges.",
+   "Interactions": "* {{I|Tarot Cloth|r}}: No effect.\n* {{a|It's the Key}}: Acquiring red hearts with '''2 of Hearts''' does not invalidate the achievement condition.\n* {{e|Bone Heart}}: Bone hearts are also filled by doubling health.\n* {{e|Rotten Heart}}: If only a rotten heart is the only heart filling the otherwise empty heart containers, heals one heart.\n** If there are red hearts and rotten hearts, the rotten heart is counted as a full red heart for doubling.\n\n{{nav|fr=2 de Cœur|card}}"
+  },
+  "fr": "2 de Cœur"
+ },
+ "Dice Shard": {
+  "revid": 261251,
+  "timestamp": "2026-03-23T13:34:38Z",
+  "infobox": "{{header special cards}}\n{{infobox pickup\n | dlc         = a\n | id          = 49\n | quote       = D6 + D20\n | description = Upon use, invokes the effects of {{i|The D6}} and the {{i|D20}} at the same time, rerolling all item pedestals and pickups in the room.\n}}\n\n'''Dice Shard''' is a [[Cards and Runes#Other|consumable item]] added in ''[[The Binding of Isaac: Afterbirth]]''.\n\n",
+  "sections": {
+   "Effects": "Upon use, it:\n* rerolls all pedestal [[item]]s in the room (like {{i|The D6}})\n* rerolls all [[pickups]] and [[trinket]]s in the room (like the {{i|D20}})",
+   "Notes": "* Despite it not being a card, the '''Dice Shard''' is considered a [[special card]], so it has a significantly lower chance of appearing compared to other cards.\n* {{dlc|nr}} Similarly to runes, this item counts as a card and can be used with {{i|Blank Card}}.\n* {{dlc+|r}} This item cannot be mimicked by either {{i|Blank Card}} or {{i|Clear Rune}}, and {{i|Tarot Cloth}} has no effect on it.{{dlc-}}\n* {{dlc|a+}} '''Dice Shard''''s ID was changed from 44 to 49.\n* {{dlc|r+}} '''Dice Shard''' can sometimes spawn within the special bedroom created by {{i|Lil Portal|n}}."
+  },
+  "fr": "Fragment de Dé"
+ },
+ "2 of Spades": {
+  "revid": 266934,
+  "timestamp": "2026-07-29T16:09:06Z",
+  "infobox": "{{Header playing cards}}\n{{Infobox card\n | name        = 2 of Spades\n | type        = card\n | id          = 25\n | quote       = Item multiplier\n | description = Doubles Isaac's {{e|Key}}s.<br>If he has no keys, gives him 2 instead.\n | recharge    = {{dlcalt|4|r=12}}\n}}\n\n{{cit|c}}\n\n",
+  "sections": {
+   "Effects": "* Doubles Isaac's {{e|Key|text=keys}}.\n* If Isaac has no keys, gives 2 keys instead.",
+   "Strategy": "* The key counter cannot exceed 99, so the most optimal time to use '''2 of Spades''' is when Isaac has 49 or 50 keys.",
+   "Synergies": "* {{I|Tarot Cloth|nr}}: Quadruples Isaac's keys.",
+   "Interactions": "* {{I|Tarot Cloth|r}}: No effect.\n\n{{nav|fr=2 de Pique|card|key modifier}}"
+  },
+  "fr": "2 de Pique"
+ },
+ "Queen of Hearts": {
+  "revid": 274266,
+  "timestamp": "2026-11-06T17:42:46Z",
+  "infobox": "{{Header playing cards}}\n{{Infobox card\n | dlc         = r\n | name        = Queen of Hearts\n | type        = card\n | id          = 79\n | quote       = &lt;3\n | description = Drops 1-20 full {{E|Red Heart}}s on the ground.\n | unlocked by = Queen of Hearts\n | recharge    = 12\n}}\n\n{{cit|uc|r}}\n\n",
+  "sections": {
+   "Effects": "* Drops 1-20 full {{E|Red Heart}}s on the ground.",
+   "Notes": "* Red Hearts spawned by this card are not affected by most replacement effects, other than those of {{r|Super Secret Room}}s.",
+   "Strategy": "* Any extra hearts left over could be used for a {{e|Blood Donation Machine}} to get extra money.\n* The same can also be used for {{e|Devil Beggar}}s, {{e|Hell Game}}s, and {{e|Confessional}}s.\n* Any characters that are unable to have red hearts can benefit from this card if they have {{i|Dark Bum}}, as it can drop {{E|Black Heart}}s.",
+   "Synergies": "* {{i|Maggy's Bow}}: With the increased healing, Isaac could get up to 40 hearts.",
+   "Interactions": "* {{I|Tarot Cloth}}: No effect.\n\n{{nav|fr=Dame de Cœur|card}}"
+  },
+  "fr": "Dame de Cœur"
+ },
+ "III - The Empress": {
+  "revid": 265724,
+  "timestamp": "2026-07-19T16:27:46Z",
+  "infobox": "{{header tarot cards}}\n{{Infobox card\n| name        = III - The Empress\n| id          = 4\n| recharge    = {{dlcalt|4|r=3}}\n| quote       = May your rage bring power\n| costume     = Collectible Whore of Babylon appearance.png\n| description = Triggers the {{i|Whore of Babylon}} effect (+1.5 [[Damage]], +0.3 [[Speed]]) for the current room, regardless of Isaac's total health.\n}}\n\n{{cit|c}}\n\n",
+  "sections": {
+   "Effects": "* Triggers the {{i|Whore of Babylon}} effect (+1.5 [[Damage]], +0.3 [[Speed]]) for the current room, regardless of Isaac's total health.",
+   "Notes": "* '''III - The Empress''' effect can be stacked with itself.\n** The damage bonus is the number of uses squared, e.g. +1.5 × 4 × 4 damage for using the card via a {{i|Blank Card}}, with {{i|Tarot Cloth}} and {{i|Car Battery}} equipped.",
+   "Strategy": "* Since this effect only lasts for a room, it is preferably used against a boss.",
+   "Synergies": "* {{I|Tarot Cloth}}: Doubles the speed increase and quadruples the damage increase.\n* {{i|Whore of Babylon}}: The effect stacks with each other, as they are the same."
+  },
+  "fr": "III - L'Impératrice"
+ },
+ "Soul of ???": {
+  "revid": 260303,
+  "timestamp": "2026-02-25T14:13:22Z",
+  "infobox": "{{header soul stones}}\n{{Infobox rune\n | dlc         = r\n | name        = Soul of ???\n | type        = soul stone\n | id          = 85\n | quote       = Chemical warfare\n | description = Causes 8 [[poison]] farts that leave lingering brown [[creep]], then plants a trail of 7 {{i|Butt Bombs}} in quick succession. Standing on the creep gives +1.5 [[Fire Rate]] and +1 [[Damage]].\n | unlocked by = Soul of ???\n | recharge    = 3\n}}\n{{disambig msg|the soul stone|the item|???'s Soul}}\n\n{{cit|ur|r}}\n\n",
+  "sections": {
+   "Effects": "* Releases in this order:\n** 8 poison farts over 2 seconds while [[Tainted_???#Non-Throwable|brown creep]] is released for 1 second.\n** 7 {{i|Butt Bombs}} are then released at the same rate as the farts.",
+   "Notes": "* The farts and creep are the same as those from {{c|Tainted ???}}'s arsenal.\n** The initial fart deals 5 damage, poisons enemies and reflects projectiles. \n** The creep gives +1.5 [[Fire Rate]] and +1 [[Damage]] if stood on, and deals 1.5x damage per tick to enemies.\n** The butt bombs are affected by any bomb modifying items, although their appearance remains unchanged."
+  },
+  "fr": "Âme de ???"
+ },
+ "Black Rune": {
+  "revid": 266683,
+  "timestamp": "2026-07-26T13:04:53Z",
+  "infobox": "{{header runes}}\n{{infobox rune\n | dlc         = a+\n | name        = Black Rune\n | id          = 41\n | quote       = Void\n | description = Deals 40 damage to all enemies in the room. Consumes all pickups in the room and turns them into Blue Flies and Spiders. Consumes all pedestal items in the room and turns them into random stat upgrades.\n | recharge    = 4\n | unlocked by = Black Rune\n}}\n\n{{cit|ur|a+}}\n\n",
+  "sections": {
+   "Effects": "* Deals 40 damage to all enemies in the room.\n* Turns [[pickup]]s into [[Blue Fly|Blue Flies]] and [[Blue Spider|Spiders]].\n* Absorbs items and turns them into random stat upgrades.",
+   "Notes": "* '''Black Rune''''s effect is similar to {{i|Void|n}}.\n** Unlike {{I|Void}}, the '''Black Rune''' will grant stat ups for sacrificing active items. This makes '''Black Rune''' useful even while holding Void, as any active item that would be detrimental to absorb can instead be absorbed by '''Black Rune'''.\n** Like {{I|Void}}, stats gained by a '''Black Rune''' will be removed when Isaac's build is re-rolled (e.g. with {{I|D4}} or a {{R|Dice Room}}).\n* Using a '''Black Rune''' to absorb items in {{r|Boss Rush}} or {{r|Boss Challenge Room}}s counts as taking the items and will cause waves of bosses or enemies to start spawning.\n* If Black Runes have not been unlocked, they will be replaced by random Cards of any type, rather than {{p|Rune Shard}}s, in any room layouts containing them.\n* {{dlc+|r}} If Isaac uses the '''Black Rune''' to absorb items from a room with choice pedestals, it will only absorb one item, and the other item vanishes.{{dlc-}}",
+   "Strategy": "* {{dlc+|r}} If a '''Black Rune''' is used while Isaac is holding an item above his head, it will consume the item. This allows him to immediately absorb passive items bought from {{r|Devil Room}}s, {{r|Black Market}}s, or {{r|Shop}}s. This also can be used to give Isaac a chance to see what an unknown item is before deciding if he wants to consume it.{{dlc-}}\n* {{dlc+|r}} The '''Black Rune''' can be used to absorb {{i|Knife Piece 1}} if {{e|Mother}} isn't the goal of the run. Can also be used to absorb {{i|Key Piece 1}} or {{i|Key Piece 2}}.{{dlc-}}",
+   "Synergies": "* {{I|Tarot Cloth|nr}}: Deals 80 damage.\n* {{t|A Missing Page|r}} / {{i|Missing Page 2|r}}: Deals +40 damage per copy.",
+   "Interactions": "* {{I|Tarot Cloth|r}}: No effect.\n* {{i|Death Certificate}}: Only allows the consumption of one item. The consumed item is treated as if it was picked up causing all other items in the room to disappear and forcing Isaac to leave the area.\n* {{t|Endless Nameless}}: The newly spawned '''Black rune''' will spawn before the effect goes through, transforming it instantly into blue flies."
+  },
+  "fr": "Rune Noire"
+ },
+ "II - The High Priestess?": {
+  "revid": 258509,
+  "timestamp": "2026-01-23T11:04:53Z",
+  "infobox": "{{header reverse tarot cards}}\n{{Infobox card\n | dlc         = r\n | name        = II - The High Priestess?\n | files name  = II - Inverted The High Priestess\n | type        = card\n | id          = 58\n | quote       = Run\n | description = {{E|Mom}}'s leg starts stomping down repeatedly, targeting Isaac, for one minute, like holding {{i|Broken Shovel 1}}.\n | unlocked by = The High Priestess\n | recharge    = 4\n}}\n\n{{cit|uc|r}}\n\n",
+  "sections": {
+   "Effects": "* {{e|Mom}}'s leg starts stomping down repeatedly, targeting Isaac, for one minute.",
+   "Notes": "* This card's effect is nearly identical to {{i|Broken Shovel 1}}'s.",
+   "Strategy": "* If lacking bombs, II - The High Priestess? may be used to open secret rooms and destroy obstacles. It is however recommended to do so after a floor is cleared, as it can make dodging during combat more difficult.",
+   "Interactions": "* {{I|Tarot Cloth}}: No effect.\n* {{i|Broken Shovel 1}}: II - The High Priestess? does not stack with the Broken Shovel's effect. The stomp frequency remains the same."
+  },
+  "fr": "II - La Papesse ?"
+ },
+ "Blank Rune": {
+  "revid": 265837,
+  "timestamp": "2026-07-21T13:37:11Z",
+  "infobox": "{{header runes}}\n{{Infobox rune\n | dlc         = a\n | name        = Blank Rune\n | type        = rune\n | id          = 40\n | quote       = ???\n | description = Grants a random rune effect and has a 25% chance to drop another Blank Rune on the ground upon use. {{dlc+|a+nr}} {{p|Black Rune}} is excluded.{{dlc-}}\n | unlocked by = Blank Rune\n | recharge    = 3\n}}\n{{Distinguish|Clear Rune}}\n{{cit|ur|a}}\n\n",
+  "sections": {
+   "Effects": "* Grants a random rune effect. \n** {{dlc+|a+nr}} {{p|Black Rune}} is excluded.{{dlc-}}\n** {{p|Rune Shard}} is excluded.\n* Has a 25% chance to drop another Blank Rune on the ground upon use.",
+   "Notes": "* The random rune effect can be from a rune that hasn't been unlocked yet.\n* {{dlc|r}} Blank Rune cannot replicate the effects of [[Soul Stone]]s.",
+   "Strategy": "* The two most valuable rune effects from Blank Rune are {{p|Perthro}}, for a re-roll, or {{p|Ehwaz}}, for a {{r|Crawl Space}} which has a high chance of containing a free item. Therefore, the best use of Blank Rune is in a room with an item while also standing over a [[We Need To Go Deeper!|tile with a special graphic]]. {{dlc+|r}} Using Blank Rune in a room with an item pedestal also has the chance to activate {{p|Black Rune}}, exchanging the item for stats.{{dlc-}}",
+   "Synergies": "* {{I|Tarot Cloth|nr}}: Activates two random rune effects. Attempts to spawn additional Blank Rune twice.\n\n{{nav|fr=Rune Vierge}}\n[[Category:Runes]]"
+  },
+  "fr": "Rune Vierge"
+ },
+ "Berkano": {
+  "revid": 265714,
+  "timestamp": "2026-07-19T08:42:39Z",
+  "infobox": "{{header runes}}\n{{Infobox rune\n | name        = Berkano\n | type        = rune\n | image scale = 1/10\n | id          = 38\n | quote       = Companionship\n | description = {{dlc|nr+}} Spawns 3 [[Blue Fly|Blue Flies]] and 3 [[Blue Spider]]s.<br>{{dlc|r+}} Gives Isaac 3 standard {{i|Abyss|n}} locusts for the room.\n | unlocked by = Rune of Berkano\n| recharge = {{dlcalt|2|r+=4}}\n}}\n\n{{cit|ur}}\n\n",
+  "sections": {
+   "Effects": "* {{dlc|nr+}} Spawns 3 [[Blue Fly|Blue Flies]] and 3 [[Blue Spider]]s.\n* {{dlc+|r+}} Gives Isaac 3 standard {{i|Abyss}} locusts for the room.{{dlc-}}",
+   "Synergies": "* {{I|Tarot Cloth|nr}}: Spawns 6 Blue Flies and 6 Blue Spiders.\n* {{t|Fish Tail|nr+}}: Doubles the flies and spiders spawned.\n* {{i|BFFS!|r+}} / {{i|Hive Mind}}: Increases the locusts' size and damage by 25%.\n** These two items don't stack.\n* {{t|Extension Cord|r+}}: Electricity will flow between Isaac and the locusts.\n* {{i|Ipecac|r+}}: Locusts gain a flat +2 damage.\n* {{i|Sacrificial Altar}}: Locust summoned for the room can be sacrificed as regular {{i|Abyss}} locust, allowing to use the item even if no familiars have been yet obtained.",
+   "Interactions": "* {{I|Tarot Cloth|r}}: No effect.\n\n{{nav}}\n[[Category:Runes]]"
+  },
+  "fr": null
+ },
+ "Ansuz": {
+  "revid": 260325,
+  "timestamp": "2026-02-25T14:21:19Z",
+  "infobox": "{{header runes}}\n{{Infobox rune\n | name        = Ansuz\n | type        = rune\n | image scale = 1/10\n | id          = 36\n | quote       = Vision\n | description = Reveals the whole map, including the {{r|Secret Room}} and the {{r|Super Secret Room}}. (This will not remove {{cu|Lost}}.) {{dlc+|r}} Does not reveal the {{r|Ultra Secret Room}}.{{dlc-}}\n | unlocked by = Rune of Ansuz\n | recharge    = 2\n}}\n\n{{cit|ur}}\n\n",
+  "sections": {
+   "Effects": "* Reveals the whole map, including the {{r|Secret Room}} and the {{r|Super Secret Room}}.",
+   "Notes": "* {{dlc+|r}} Does not reveal the {{r|Ultra Secret Room}}.{{dlc-}}\n* Will not remove {{cu|Lost}}.",
+   "Synergies": "* {{i|Book of Secrets|r}}: The mapping provided by '''Ansuz''' counts as one mapping effect. After using '''Ansuz''', the {{i|X-Ray Vision}} effect can be activated by using the Book of Secrets three times instead of four.",
+   "Interactions": "* {{I|Tarot Cloth}}: No effect.\n\n{{nav}}\n[[Category:Runes]]"
+  },
+  "fr": null
+ },
+ "Ace of Diamonds": {
+  "revid": 266938,
+  "timestamp": "2026-07-29T16:09:06Z",
+  "infobox": "{{Header playing cards}}\n{{Infobox card\n | dlc         = a+\n | name        = Ace of Diamonds\n | type        = card\n | id          = 28\n | quote       = Convert all\n | unlocked by = ZIP!\n | description = Turns all [[pickup]]s, [[trinkets]] and [[chest]]s in the room into {{e|Penny|text=coins}}.<br>{{dlc|r}} All non-boss enemies in the room are also transformed into coins.\n | recharge    = {{dlcalt|4|r=6}}\n}}\n\n{{cit|uc|a+}}\n\n",
+  "sections": {
+   "Effects": "* Turns all [[pickup]]s, [[trinkets]] and [[chest]]s in the room into {{e|Penny|text=coins}}.\n* {{dlc|r}} All non-boss enemies in the room are also transformed into coins.",
+   "Notes": "* Any unlocked coin variant can appear.\n* {{dlc|r}} On-kill effects such as {{i|Charm of the Vampire}}, do not trigger from turning enemies into coins.\n* {{dlc|r}} [[Friendly]] enemies will be transformed into coins.",
+   "Interactions": "* {{I|Tarot Cloth}}: No effect.\n* {{i|Blood Puppy|nr+}}: Using an Ace card on an angry Blood Puppy will create the respective pickup and tame it.\n\n{{nav|fr=As de Carreau|card|coin modifier}}"
+  },
+  "fr": "As de Carreau"
+ },
+ "2 of Diamonds": {
+  "revid": 273995,
+  "timestamp": "2026-11-06T16:54:40Z",
+  "infobox": "{{Header playing cards}}\n{{Infobox card\n | name        = 2 of Diamonds\n | type        = card\n | id          = 24\n | quote       = Item multiplier\n | description = Doubles Isaac's {{e|Penny|text=Coins}}.<br>If he has no coins, gives him 2 instead.\n | recharge    = {{dlcalt|4|r=12}}\n}}\n\n{{cit|c}}\n\n",
+  "sections": {
+   "Effects": "* Doubles Isaac's {{e|Penny|text=pennies}}.\n* If Isaac has no pennies, gives 2 pennies instead.",
+   "Strategy": "* The penny counter cannot exceed 99, so the most optimal time to use '''2 of Diamonds''' is when Isaac has 49 or 50 pennies.\n* {{dlc+|a}} {{mode|greed}} '''2 of Diamonds''' is an excellent way of filling up the {{e|Greed Donation Machine}}:\n** It can be used if Isaac has few coins left after defeating {{e|Ultra Greed}}.\n** If Isaac has many coins, they can be donated until 49 or 50 coins are left and then doubled for a total of donated coins exceeding 99 coins.{{dlc-}}",
+   "Synergies": "* {{I|Tarot Cloth|nr}}: Quadruples Isaac's pennies.\n* {{i|Deep Pockets|r}}: Allows for enormous wealth to be accumulated, as the coin limit is increased to 999.\n* {{c|Keeper}} / {{c|Tainted Keeper|r}}: Can refill coin health at the cost of 1 coin after doubling.",
+   "Interactions": "* {{I|Tarot Cloth|r}}: No effect.\n* {{a|It's the Key}}: Acquiring pennies with '''2 of Diamonds''' does not invalidate the achievement condition.\n\n{{nav|fr=2 de Carreau|card|coin modifier}}"
+  },
+  "fr": "2 de Carreau"
+ },
+ "Credit Card": {
+  "revid": 274007,
+  "timestamp": "2026-11-06T16:54:48Z",
+  "infobox": "{{header special cards}}\n{{infobox card\n | type        = special card\n | id          = 43\n | recharge    = {{dlcalt|4|r=6}}\n | quote       = Charge it!\n | description = Makes all [[pickup]]s and [[item]]s that cost money or health in the room free.\n | unlocked by = Credit Card\n}}\n\n{{cit|us}}\n\n",
+  "sections": {
+   "Effects": "* Using the Credit Card in a {{r|Shop}} instantly removes the cost of all items in that shop, allowing Isaac to take all of them for free.\n* Using the Credit Card in a {{r|Devil Room}} or {{r|Black Market}} allows Isaac to take all the items without any health cost.\n** Taking Devil Room items with the Credit Card does not prevent {{r|Angel Room}}s from appearing.",
+   "Notes": "* Being a [[special card]], the '''Credit Card''' has a significantly lower chance of appearing compared to other cards.\n* Free items will remain free, even if Isaac leaves the current room.\n* Works with the {{i|Blank Card}}, allowing Isaac to purchase all items from every {{r|Shop}}, if used correctly.\n* {{dlc+|a}} Using the Credit Card in a Shop prevents {{i|Restock}} from working in this Shop only. However, {{e|Shop Restock Machine}}s will work, creating new items.{{dlc-}}\n* {{dlc|r}} Can be used in the starting room of {{s|Dark Room}}, allowing all four items to be taken for free."
+  },
+  "fr": "Carte de Crédit"
+ },
+ "IX - The Hermit": {
+  "revid": 261885,
+  "timestamp": "2026-03-26T17:15:15Z",
+  "infobox": "{{header tarot cards}}\n{{Infobox card\n | name        = IX - The Hermit\n | id          = 10\n | quote       = May you see what life has to offer\n | description = Teleports Isaac to the {{r|Shop}}.\n| recharge =             {{dlcalt|4|r=2}}\n}}\n\n{{cit|c}}\n\n",
+  "sections": {
+   "Effects": "* Teleports Isaac to the {{r|Shop}}.",
+   "Notes": "* Using '''IX - The Hermit''' on a floor that doesn't have a Shop will teleport Isaac to a random room.\n* When {{curse|Maze}} is active, using this card can teleport Isaac to a random room instead.\n* '''IX - The Hermit''' cannot appear in [[greed mode]].",
+   "Strategy": "* '''IX - The Hermit''' allows to access the shop without using a key.\n* '''IX - The Hermit''' can be used to escape any room that locks down after taking its contents, like {{r|Challenge Room}}s or {{r|Boss Rush}}, effectively \"stealing\" its contents without facing the imposed challenge.",
+   "Synergies": "* {{I|Tarot Cloth|r}}: Prevents {{E|Greed}} / {{E|Super Greed}} from spawning in the shop. If Greed was already defeated in the shop, using the card turns it into a normal shop (Does not create a working shop in the [[Mirrored World]]).",
+   "Interactions": "* {{I|Tarot Cloth|nr}}: No effect."
+  },
+  "fr": "IX - L'Ermite"
+ },
+ "0 - The Fool?": {
+  "revid": 273985,
+  "timestamp": "2026-11-06T16:53:16Z",
+  "infobox": "{{header reverse tarot cards}}\n{{Infobox card\n | dlc         = r\n | name        = 0 - The Fool?\n | files name  = 0 - Inverted The Fool\n | type        = card\n | id          = 56\n | quote       = Let go and move on\n | description = Drops all [[heart]]s, [[trinket]]s, and [[pickup]]s Isaac currently possesses on the floor, leaving Isaac at half a heart. Pickups may be dropped as items such as {{i|A Quarter}} and {{i|Boom!}}.\n | unlocked by = The Fool\n | recharge    = 12\n}}\n\n{{cit|uc|r}}\n\n",
+  "sections": {
+   "Effects": "* Drops all [[heart]]s, [[trinket]]s, and [[pickup]]s Isaac currently possesses on the ground near him, leaving Isaac at half a heart.\n* Pickups will be dropped grouped in their highest possible value:\n** Every 25 cents will first be dropped as the {{i|A Quarter}}, then {{e|Dime}}s for every remaining 10 cents, {{e|Nickel}}s for every 5 cents, {{e|Double Penny|text=Double Pennies}} for every 2 cents, then finally a {{e|Penny}} if Isaac has 1 remaining cent.\n** If Isaac has exactly 99 bombs, they will be dropped as {{i|Pyro}}. If less than 99, then {{i|Boom!}} for every 10 bombs, {{e|Double Bomb}}s for every 2 bombs, then finally a {{e|Bomb}} if Isaac has 1 remaining.\n** If Isaac has exactly 99 keys, they will be dropped as {{i|Skeleton Key}}. If less than 99, then {{e|Key Ring}}s for every 2 Keys, then finally a {{e|Key}} if Isaac has 1 remaining.\n** Every 2 full red hearts will first be dropped as {{e|Double Heart}}s, then {{e|Red Heart}}s for every remaining red heart, then finally a {{e|Half Red Heart}} if Isaac has one red heart remaining.\n** {{e|Soul Heart}}s, {{e|Half Soul Heart}}s, and {{e|Black Heart}}s will be dropped as usual. If half a Black Heart needs to be dropped, it will drop as a Half Soul Heart. If Isaac only has Soul Hearts, then he will be left at half a Soul Heart. However, if Isaac has only Black Hearts or a mix of Black and Soul Hearts, then he will always be left at half a Black Heart.\n** {{e|Gold Heart}}s will be dropped as usual.\n** {{e|Bone Heart}}s will also be dropped. If Isaac only has Bone Hearts, then he can go down to one empty Bone Heart.\n** A single {{e|Rotten Heart}} will not be dropped, and always stay in the container as the last remaining heart. Any additional Rotten Hearts will be dropped as usual.",
+   "Notes": "* The pickups Isaac drops are set and are not affected by replacement effects, i.e. {{t|Daemon's Tail}}.\n* If the amount of pickups dropped exceeds the room's allowed space, then extra pickups will be stacked near Isaac's position when he used the item. The player can still move out of the way while using the card to avoid picking them up.",
+   "Strategy": "* '''0 - The Fool?'''‘s effect is most useful in generating item pedestals, as long as Isaac has enough pickups to sacrifice. These item pedestals can be then re-rolled through sources such as {{i|The D6}} or {{e|Shop Restock Machine}}s to get better items, or consumed through {{p|Black Rune}} or {{i|Abyss}} for other benefits. \n* As '''0 - The Fool?''' can generate a lot of pickups for Isaac to collect, it can activate effects which require pickup collection. Re-picking up Isaac's dropped hearts can contribute to {{i|Candy Heart}}, {{i|Immaculate Conception}}, {{i|Alabaster Box}} etc., and his dropped coins can contribute to {{t|Counterfeit Penny}}, {{t|Blessed Penny}}, etc..\n* '''0 - The Fool?''' also allows Isaac a method to give pickups to {{i|Bum Friend}}, {{i|Key Bum}}, {{i|Dark Bum}}, or {{i|Bumbo}}.\n* '''0 - The Fool?''' allows Isaac to manipulate his health without needing to take damage. Its uses include lowering health to access a {{r|Boss Challenge Room}}, dropping {{e|Soul Heart}}s on the ground so as to spend less valuable {{e|Red Heart}}s in {{r|Sacrifice Room}}s, etc.\n** Similarly, it can be used to regain health in scenarios where that health would otherwise be taken away, such as accepting a [[Devil_Room#Deals_with_the_Devil|devil deal]] or taking {{i|Dead Cat}}.",
+   "Synergies": "* {{i|Deep Pockets}}: Every 100 cents will first be dropped as {{i|A Dollar}}.\n* {{i|Tarot Cloth}}: Drops Isaac's 6 most recently collected items on the floor, alongside pickups. Does not affect [[Item Tags quest|quest items]] (e.g. {{I|The Polaroid}}) or {{I|Missing No.}}.\n** {{i|Tarot Cloth}} + {{i|Blank Card}}: Only 3 items drop instead of 6; this also applies with {{I|Car Battery}}.",
+   "Interactions": "* {{i|Greed's Gullet}}: If Isaac only has [[heart container]]s granted by Greed's Gullet, then using '''0 - The Fool?''' will kill him. The only exception is if all heart containers are empty and Isaac also has temporary health, in which case the card will leave him at half a Soul/Black Heart\n* {{i|Little Baggy}} / {{i|Starter Deck}} / {{i|Polydactyly}}: The second held consumable will also be dropped.\n* {{t|Mother's Kiss}}: If Isaac uses '''0 - The Fool?''' while having only one [[heart container]], he will die since dropping the trinket will remove his last health. Similarly, using the card as one of the characters that can't have red health while holding this trinket will kill the player instantly, as it drops the trinket, removing the last half soul heart the character normally would remain with. \n* {{t|Tick}}: Cannot remove the Tick.\n* {{c|Bethany}} / {{c|Tainted Bethany}}: Drops Soul Heart and Red Heart charges.\n* {{c|Tainted ???}}: Cannot drop his poop pickups."
+  },
+  "fr": "0 - Le Mat ?"
+ },
+ "II - The High Priestess": {
+  "revid": 274031,
+  "timestamp": "2026-11-06T16:54:59Z",
+  "infobox": "{{header tarot cards}}\n{{Infobox card\n| name =                 II - The High Priestess\n| id =  \t            3\n| recharge =             {{dlcalt|4|r=2}}\n| quote =                Mother is watching you\n| description =          [[Mom]]'s dismembered leg stomps on the enemy with the most health, dealing 300 damage and destroying obstacles in the area. If used in an empty room or during the {{e|Mom}} fight, stomps Isaac instead. {{dlc|a+}} Isaac can move to avoid the stomp.\n}}\n\n{{cit|c}}\n\n",
+  "sections": {
+   "Effects": "* {{e|Mom}}'s dismembered leg stomps on the enemy with the most health, dealing 300 damage and destroying obstacles in the area.\n* If used in an empty room or during the {{e|Mom}} fight, the foot stomps Isaac instead, dealing a full heart of damage.\n** {{dlc|a+}} Isaac can move to avoid the stomp.",
+   "Notes": "* The stomp is considered to be an explosion.\n** {{dlc|nr}} Isaac can thus be immune to it with {{i|Host Hat}} or {{i|Pyromaniac}}\n** {{dlc|r}} Although it remains an explosion for other purposes, these items no longer protect Isaac against the stomp.",
+   "Strategy": "* Since the foot is an explosion, it can be used as a substitute for {{e|Bomb}}s.\n** It can break rocks and open doors to {{r|Secret Room}}s. {{dlc|r}} However, unlike bombs, it cannot destroy [[machines]] and {{e|Beggar}}s.\n** In a room containing no enemies and a {{e|Shopkeeper}}, the foot will target it instead of Isaac.\n* The foot deals 300 damage, enough to heavily weaken or even kill some bosses.\n** All [[Chapter 1 (Bosses)|Chapter 1 bosses]] can be one shot from full health with one use of '''II - The High Priestess''' (except {{e|The Fallen}} for its two phases).",
+   "Synergies": "* {{I|Tarot Cloth|r}}: Another foot strikes down shortly after the first.\n** {{I|Tarot Cloth|r}} + {{i|Blank Card}} + {{i|Car Battery|n}} : No extra effect, only two feet are spawned.",
+   "Interactions": "* {{I|Tarot Cloth|nr}}: No effect.\n* {{I|Stop Watch|r}}: Even though it's not visible, it makes the foot stomp twice, dealing 600 damage.\n** {{I|Stop Watch|r}} + {{I|Tarot Cloth|r}}: A maximum of 1200 damage can be dealt."
+  },
+  "fr": "II - La Papesse"
+ },
+ "Ace of Clubs": {
+  "revid": 262755,
+  "timestamp": "2026-03-31T10:28:04Z",
+  "infobox": "{{Header playing cards}}\n{{Infobox card\n | dlc         = a+\n | name        = Ace of Clubs\n | type        = card\n | id          = 27\n | quote       = Convert all\n | unlocked by = Hat trick!\n | description = Turns all [[pickup]]s, [[trinkets]] and [[chest]]s in the room into {{e|Bomb}}s.<br>{{dlc|r}} All non-boss enemies in the room are also transformed.\n | recharge    = {{dlcalt|4|r=6}}\n}}\n\n{{cit|uc|a+}}\n\n",
+  "sections": {
+   "Effects": "* Turns all [[pickup]]s, [[trinkets]] and [[chest]]s in the room into {{e|Bomb}}s.\n* {{dlc|r}} All non-boss enemies in the room are also transformed into bombs.",
+   "Notes": "* Any unlocked bomb variant can appear, including {{e|Troll Bomb}}s.\n* {{e|Troll Bomb}}s are unaffected.\n* {{dlc|r}} On-kill effects such as {{i|Charm of the Vampire}}, do not trigger from turning enemies into bombs.\n* {{dlc|r}}[[Friendly]] enemies will be transformed into bombs.",
+   "Interactions": "* {{I|Tarot Cloth}}: No effect.\n* {{i|Blood Puppy|nr+}}: Using an Ace card on an angry Blood Puppy will create the respective pickup and tame it.\n\n{{nav|fr=As de Trèfle|bomb modifier|card}}"
+  },
+  "fr": "As de Trèfle"
+ },
+ "Rules Card": {
+  "revid": 274201,
+  "timestamp": "2026-11-06T17:12:53Z",
+  "infobox": "{{header special cards}}\n{{infobox card\n | type        = special card\n | id          = 44\n | recharge    = {{dlcalt|4|r=1}}\n | quote       = ???\n | description = Displays a cryptic statement on the screen, similar to a {{e|Fortune Telling Machine}}. These messages (often) provide hints on bosses, bonus areas, etc.\n | unlocked by = Rules Card\n}}\n\n{{cit|us}}\n\n",
+  "sections": {
+   "Effect": "* Upon activation, displays one of the following messages:\n\n{| class=\"wikitable\" style=\"min-width:70%\"\n | CHUB DISLIKES SMOKE!\n | Referencing the trick in which Isaac can drop a {{E|Bomb}} in front of a charging {{E|Chub}} to have her swallow it. Reference to Zelda 1 and 'DODONGO DISLIKES SMOKE'.\n |-\n | A PIECE OF PAPER IS YOUR GUIDE\n | Possibly refers to the {{t|Missing Poster}} or, the choice between {{i|The Polaroid}} and {{i|The Negative}} after defeating {{E|Mom}} or the card itself.\n |-\n | THE WALLS WILL HARDEN OVER TIME. TIME IS THE ESSENCE\n | Presumably referencing the {{r|Boss Rush}} that occurs if {{E|Mom}} is beaten in under 20 minutes, and/or the {{E|Hush}} fight that is accessible if {{E|Mom's Heart}} or {{E|It Lives!}} is beaten in under 30 minutes.\n |-\n | A DARK MARKET LIES UNDER YOUR FEET\n | Presumably referencing the secret trapdoors occasionally under rocks and the {{r|Crawl Space}} that leads Isaac to the {{r|Black Market}}, a room which sells {{r|Shop}} items for Hearts rather than Coins.\n |-\n | SOME DOORS REQUIRE A BLESSING. CARRY THEM WITH YOU\n | Refers to how to open the large golden door on {{s|Chest}} and the {{s|Dark Room}} and fight {{E|Mega Satan}}, by gathering two Key Pieces from the [[Angel]]s.\n |-\n | DENY HIS GIFTS TO ATTAIN YOUR REWARD\n | References how skipping a {{r|Devil Room}} gives the chance to gain access to the {{r|Angel Room}}.\n |-\n | SLEEPING GATEKEEPERS WILL NEED TO BE AWOKEN WITH A LOUD SOUND\n | Possibly referencing how Isaac can use bombs on the Angel statues in order to awaken them. Reference to Zelda 1.\n |-\n | ROOMS MAY YIELD MORE THAN YOU EXPECT. EXPERIMENTATION IS KEY\n | Unknown, possibly referencing {{r|Secret Room}}s or the trapdoor and bed in Isaac's room, or tinted rocks and other breakable objects.\n |}\nOne of the following [[Seeds]] may also be displayed:{{column list | width = 10em | content =\n* BOOB TOOB\n* BRWN SNKE\n* B911 TCZL\n* CAMO K1DD\n* CAMO FOES\n* CAMO DROP\n* CHAM P1ON\n* CLST RPHO\n* COCK FGHT\n* COME BACK\n* CONF ETTI\n* DONT STOP\n* DRAW KCAB\n* DYSL EX1A\n* FACE DOWN\n* FART SNDS\n* FREE 2PAY\n* IMNO BODY\n* GGGG GGGG\n* HART BEAT\n* ISAA AACE\n* KEEP AWAY\n* NICA LISY\n* PAC1 F1SM\n* SLOW 4ME2\n* TARO TARJ\n* THEG HOST\n* XXXX XXZX\n* 8AJJ AASE\n* BLCK CNDL\n* LABY RNTH\n* KAPP A\n* {{dlc|r}} M0DE SEVN\n}}",
+   "Notes": "* Being a [[special card]], the '''Rules Card''' has a significantly lower chance of appearing compared to other cards.\n\n{{nav|fr=Carte des Règles}}"
+  },
+  "fr": "Carte des Règles"
+ },
+ "Rune Shard": {
+  "revid": 269360,
+  "timestamp": "2026-09-16T21:42:06Z",
+  "infobox": "{{header runes}}\n{{Infobox rune\n | dlc         = r\n | name        = Rune Shard\n | type        = rune\n | id          = 55\n | quote       = It still glows faintly\n | description = Activates a random rune effect that's weaker than normal. Only spawns when less than 6 different runes have been unlocked.\n | recharge    = 1\n}}\n\nThe {{cit|r|r}}\n\n",
+  "sections": {
+   "Effects": "* Activates a random, weakened rune effect:\n** {{p|Algiz}} grants a 3 second [[shield]].\n** {{p|Ansuz}} reveals the map up to 3 rooms away (including {{r|Ultra Secret Room}}).\n** {{p|Berkano}}:\n*** {{dlc|nr+}} Gives 1 [[blue fly]] and [[blue spider|spider]].\n*** {{dlc|r+}} Gives 1 standard {{I|Abyss}} locust for the room.\n** {{p|Dagaz}} gives a {{e|Half Soul Heart}}.\n** {{p|Ehwaz}} makes a trapdoor.\n** {{p|Hagalaz}} destroys some rocks.\n** {{p|Jera}} duplicates one pickup.\n** {{p|Perthro}} rerolls one item.",
+   "Notes": "* The Rune shard is a placeholder for rune spawns on a save file that doesn't have all runes unlocked yet. Once 6 runes of any kind (including soul stones) are available, Rune Shards cease to spawn.\n** Before Repentance, unlocking only one rune would make all runes the same one. This exploit that incentivized against completion was fixed with the rune shard.\n* The Jera effect activated by Rune Shards is similar to {{i|D1}} - it can create a variant of the pickup rather than its exact copy.\n* The Perthro effect from Rune Shards has a chance to reroll an item into {{i|The Poop}} (ignoring item pools).\n* The Ehwaz effect can still create {{r|Crawl Space}} entrances if used on a floor element.\n* The three most valuable rune effects from Blank Rune are {{p|Perthro}}, for a re-roll, {{p|Jera}} for copying one drop, or {{p|Ehwaz}} for a {{r|Crawl Space}} which has a high chance of containing a free item. Therefore, the best use of Blank Rune is in a room with an item, after dropping a Trinket, Rune or Card on the floor, while standing over a [[We Need To Go Deeper!|tile with a special graphic]].\n\n{{nav|fr=Fragment de Rune}}\n[[Category:Runes]]"
+  },
+  "fr": "Fragment de Rune"
+ },
+ "Ancient Recall": {
+  "revid": 262766,
+  "timestamp": "2026-03-31T10:30:47Z",
+  "infobox": "{{Header magic cards}}\n{{header special cards}}\n{{infobox card\n | dlc         = a+\n | type        = special card\n | id          = 53\n | recharge    = {{dlcalt|4|r=12}}\n | quote       = Draw 3 cards\n | description = Spawns 3 random cards.\n | unlocked by = Ancient Recall\n}}\n\n{{cit|us|a+}}\n\n",
+  "sections": {
+   "Effect": "* Spawns 3 random [[card]]s.",
+   "Notes": "* Being a [[special card]], '''Ancient Recall''' has a significantly lower chance of appearing compared to other cards.\n* Special \"cards\" like {{p|Cracked Key}} and {{p|Dice Shard}} can be spawned, but runes cannot spawn.",
+   "Interactions": "* {{i|Tarot Cloth}}: No effect."
+  },
+  "fr": "Rappel Ancestral"
+ },
+ "I - The Magician": {
+  "revid": 265723,
+  "timestamp": "2026-07-19T16:27:01Z",
+  "infobox": "{{header tarot cards}}\n{{Infobox card\n| name        = I - The Magician\n| id          = 2\n| recharge    = {{dlcalt|4|r=2}}\n| quote       = May you never miss your goal\n| costume     = Collectible Spoon Bender appearance.png\n| description = {{dlc|nr}} Grants [[homing tears]] for the current room.<br>{{dlc+|r}}Grants [[homing tears]] and +3 [[Range]] for the current room.{{dlc-}}\n}}\n{{cit|c}}\n\n",
+  "sections": {
+   "Effects": "* {{dlc|nr}} Grants [[homing tears]] for the current room.\n* {{dlc+|r}} Grants [[homing tears]] and +3 [[Range]] for the current room.{{dlc-}}",
+   "Notes": "* '''I - The Magician''' has the same effect as {{i|Telepathy For Dummies}}, as evidenced by the given costume.",
+   "Strategy": "* Since this effect only lasts for a room, it is preferably used against a boss. Homing allows to focus more on dodging.",
+   "Synergies": "* {{I|Tarot Cloth|r}}: Gives {{i|The Book of Belial}} effect on top of homing.\n** {{I|Tarot Cloth|r}} + {{i|Blank Card}} + {{i|Car Battery|n}} : Only damage is doubled.",
+   "Interactions": "* {{I|Tarot Cloth|nr}}: No effect."
+  },
+  "fr": "I - Le Bateleur"
+ },
+ "A Card Against Humanity": {
+  "revid": 274351,
+  "timestamp": "2026-11-06T19:54:23Z",
+  "infobox": "{{header special cards}}\n{{infobox card\n | type        = special card\n | id          = 45\n | recharge    = {{dlcalt|4|r=6}}\n | quote       = Something stinks...\n | description = Covers the entire room with {{g|Poop}}. The process is not instant, and the room will not get filled if Isaac leaves before it's done filling.\n | unlocked by = Card Against Humanity\n}}\n\n{{cit|us}}\n\n",
+  "sections": {
+   "Effect": "* Fills the entire room with {{g|Poop}}.",
+   "Notes": "* Being a [[special card]], '''A Card Against Humanity''' has a significantly lower chance of appearing compared to other cards.\n* Poop will not fill tiles with [[obstacle]]s, even if they have already been destroyed.\n* The process is not instant and the room will not get fully filled if Isaac leaves before it's done filling.\n* It is more beneficial to use the card in a large-sized room as it will create more poop piles.\n* {{dlc+|a+}} Using A Card Against Humanity in the {{E|Ultra Greedier}} fight will result in {{g|Golden Poop}}s spawning after defeating the boss.\n** {{dlc|r}} Results in Yellow Poops which only have normal drops.{{dlc-}}\n* {{dlc+|a}} Using A Card Against Humanity in the {{E|Ultra Greed}} fight can trap the {{E|Greed Gaper}}s after {{E|Ultra Greed Coin (Key)|text=Key Coins}} appear, preventing Ultra Greed from attacking.{{dlc-}}",
+   "Synergies": "* {{i|Dirty Mind}}: Each poop spawns 1-4 [[Familiar#Dips|Dip Familiars]] when destroyed.\n* {{T|Meconium}}: Spawned Poops have a 33% chance to turn into Black Poop.\n* {{dlc|a}} [[Infested!]] pill: Every Poop spawns a Blue Spider.\n* {{t|Lil Larva}} /{{dlc|r}}{{c|???}}: Every Poop spawns a Blue Fly.\n* {{i|Hallowed Ground}}: Spawned Poops have a 33% chance to turn into White Poop.\n* {{T|Butt Penny}}: Spawned Poops drop coins 20% more often.\n* {{i|Midas' Touch}}: Spawned Poops have a great chance to turn into Golden Poops. (11% when 0 Luck)\n* {{t|Petrified Poop}}: Pickup drop rate set to 50%. It's extremely likely to be obtained when using the card in larger, less obstructed rooms.",
+   "Interactions": "* {{t|Brown Cap}}: All the Poop explodes in a chain reaction once one is destroyed.\n* {{i|Dr. Fetus}}/{{i|Ipecac}}: If Isaac has no other means of destroying Poop than his explosive tears, he will have to hurt himself to clear out a path through the Poop unless he has acquired {{i|Pyromaniac}} or {{i|Host Hat}}."
+  },
+  "fr": "Une Carte Limite Limite"
+ },
+ "? Card": {
+  "revid": 262938,
+  "timestamp": "2026-04-04T18:15:31Z",
+  "infobox": "{{header special cards}}\n{{infobox card\n | dlc         = a\n | files name  = Q Card\n | type        = special card\n | id          = 48\n | recharge    = one time\n | quote       = Double active\n | description = When used, copies the effect of Isaac's currently held [[activated collectible]].\n}}\n\n{{cit|s|a}}\n\n",
+  "sections": {
+   "Effect": "* Replicates the effect of Isaac's [[activated collectible]].\n** {{dlc|nr}} Single-use items, such as {{i|Pandora's Box}}, will not replicate but instead activate and disappear.\n** {{dlc|r}} Single-use items do not disappear after using ? Card, allowing for potential multiple uses of the items.",
+   "Notes": "* Being a [[special card]], the '''? Card''' has a significantly lower chance of appearing compared to other cards.\n* The ID of this card was 43 before the Afterbirth+ expansion.\n* {{dlc+|r}} Doesn't work with pocket activated items (such as {{c|Tainted Bethany}}'s {{i|Lemegeton}} or items given by {{t|Dice Bag}}).{{dlc-}}",
+   "Interactions": "* {{i|Car Battery}}: Does not influence the card's effect, activating the active item only once.\n* {{i|Everything Jar}} / {{i|Larynx}}: The effect will be determined by the number of charges the active item currently has.\n* {{i|Jar of Flies}}: Expends both the card and all charges with no additional benefit.",
+   "Synergies": "* {{I|Alabaster Box}}: Causes the Alabaster Box to yield rewards without destroying the item or depleting any of its current charges.\n* {{i|Blank Card}}: Teleports Isaac to the {{r|I AM ERROR}} room of the current floor. This will consume both the Blank Card and the ? Card. If done on {{s|Chest}} or {{s|Dark Room}}, will instead spawn an I AM ERROR shopkeeper.\n* {{i|Diplopia|r}}: Duplicates all pedestal items and pickups in the room, without expending Diplopia.\n** If used with another ? Card dropped on the floor in the room, allows for infinite duplication.\n* {{i|Eden's Soul|r}}: Spawns two items without consuming Eden's Soul or depleting its charge.\n* {{i|Glowing Hourglass|ana+}}: Since the card replicates the effect of moving back one room to the previous state, Isaac keeps the card having not used it as an item until the room later. This effectively gives him charge-free uses of the Glowing Hourglass.\n** {{dlc|a+}} The card is no longer refunded if you enter the room with it in your inventory and use it. {{dlc|nr}} But if you enter a room, drop it, leave the room, come back, pick it up and use it in that room, you do get a refund as the next time you enter the room the card will be in the floor. This allows for infinite uses.\n*** {{dlc|r}} The Glowing Hourglass loses a charge when the card is used.\n* {{i|Mystery Gift|r}}: Grants an item without consuming Mystery Gift.\n* {{i|Tarot Cloth|a+nr}}: ? Card is used twice, giving the active item the same effect as if Isaac had Car Battery.{{dlc-}}"
+  },
+  "fr": "Carte ?"
+ },
+ "Perthro": {
+  "revid": 260326,
+  "timestamp": "2026-02-25T14:21:26Z",
+  "infobox": "{{header runes}}\n{{Infobox rune\n | name        = Perthro\n | type        = rune\n | image scale = 1/10\n | id          = 37\n | quote       = Change\n | description = Rerolls all items in the room (the same effect as {{i|The D6}}).\n | unlocked by = Rune of Perthro\n | recharge    = 4\n}}\n\n{{cit|ur}}\n\n",
+  "sections": {
+   "Effects": "* Rerolls all items in the room.",
+   "Notes": "* For further interaction and notes regarding item rerolls, see {{i|The D6}}.",
+   "Strategy": "* If obtained later in the run, it is recommended to keep it for the {{s|Chest}} / {{s|Dark Room}}, as their first rooms always contain 4 chests whose items can be all rerolled at once.",
+   "Synergies": "* {{I|Tarot Cloth|nr}}: Instantly re-rolls items twice, essentially removing an extra item from the item pool.",
+   "Interactions": "* {{I|Tarot Cloth|r}}: No effect.\n\n{{nav}}\n[[Category:Runes]]"
+  },
+  "fr": null
+ },
+ "Algiz": {
+  "revid": 274110,
+  "timestamp": "2026-11-06T17:11:49Z",
+  "infobox": "{{header runes}}\n{{Infobox rune\n | name        = Algiz\n | type        = rune\n | image scale = 1/10\n | id          = 39\n | quote       = Resistance\n | description = {{dlc|nr}} Grants a [[shield]] which lasts for 30 seconds.<br>{{dlc|r}} Grants a [[shield]] which lasts for 20 seconds.\n | unlocked by = Rune of Algiz\n | recharge    = 4\n}}\n\n{{cit|ur}}\n\n",
+  "sections": {
+   "Effects": "* Grants a [[shield]] which lasts for {{dlc|nr}} 30 / {{dlc|r}} 20 seconds.",
+   "Notes": "* Subsequent uses of '''Algiz''' are additive: if it's used while the shield effect is already active, it will add to the duration of the shield effect.",
+   "Strategy": "* The invulnerability effect negates all forms of damage, including health loss from {{e|Blood Donation Machine}}s and {{e|Devil Beggar}}s. They can be used for free for the duration of the effect.",
+   "Synergies": "* {{I|Tarot Cloth|nr}}: Doubles the duration of the shield, making it last a full minute.\n* {{i|Book of Shadows}}: The shield effects also stack.",
+   "Interactions": "* {{I|Tarot Cloth|r}}: No effect.\n\n{{nav}}\n[[Category:Runes]]"
+  },
+  "fr": null
+ },
+ "Emergency Contact": {
+  "revid": 264515,
+  "timestamp": "2026-05-14T02:58:01Z",
+  "infobox": "{{header special cards}}\n{{infobox pickup\n | dlc         = a\n | id          = 50\n | quote       = Help from above\n | description = When used, will cause two {{E|Mom's Hand}}s to come down and grab two random enemies, dealing damage and, if they have 40 or more HP, immobilizing them temporarily.\n}}\n\n'''Emergency Contact''' is a [[Cards and Runes#Other|consumable item]] added in ''[[The Binding of Isaac: Afterbirth]]''.\n\n",
+  "sections": {
+   "Effects": "* Spawns up to two of {{E|Mom's Hand}}s that fall down onto two random enemies in the room, dealing 40 damage.\n** Enemies with more than 40 HP and bosses will be immobilized for 5 seconds, rendering them unable to move and attack.",
+   "Notes": "* Despite it not being a card, the '''Emergency Contact''' is considered a [[special card]], having a significantly lower chance of appearing compared to other cards.\n* {{dlc|nr}} When used on {{E|Hush}}, damage resistance is briefly lowered. This can be used to deal additional damage to it.\n* Grabs mom's parts when they're out of the doors when used on {{E|Mom}}. Does nothing if no part and monsters are visible.\n* {{E|Isaac}}, {{E|???}}, and first phase of {{E|Hush}} will not retaliate with tears while grabbed.\n* The consumable will have no effect if used in a room without enemies.\n* {{dlc+|r}} This consumable cannot be mimicked by {{i|Blank Card}}, and {{i|Tarot Cloth}} has no effect on it.{{dlc-}}"
+  },
+  "fr": "Appel d'Urgence"
+ },
+ "Jera": {
+  "revid": 260322,
+  "timestamp": "2026-02-25T14:21:01Z",
+  "infobox": "{{header runes}}\n{{Infobox rune\n | name        = Jera\n | type        = rune\n | image scale = 1/10\n | id          = 33\n | quote       = Abundance\n | description = Duplicates all pickups and [[chests]] in the room. Cannot clone other '''Jera''' runes and [[trinkets]].\n | unlocked by = Rune of Jera\n | recharge    = 12\n}}\n\n{{cit|ur}}\n\n",
+  "sections": {
+   "Effects": "* Duplicates all pickups and chests in the room.\n** This includes pickups for sale in the {{r|Shop}}; the duplicates can then be picked up for free.",
+   "Notes": "* Cannot duplicate other '''Jera''' runes and [[trinkets]].\n* Duplicated chests will contain exactly the same type of items: if the original contains a pickup, so will the duplicate.",
+   "Strategy": "* If obtained later in the run, it is recommended to keep it for the {{s|Chest}} / {{s|Dark Room}}, as their first rooms always contain 4 chests that can be duplicated.\n** {{dlc|r}} If '''Jera''' is used in the starting room of the Dark room, the newly spawned {{e|Red Chest}}s will contain four additional and distinct devil deals.",
+   "Synergies": "* {{I|Tarot Cloth|nr}}: Quadruples all pickups and chests in the room.\n* {{p|Wild Card}}: '''Jera''' can duplicate the Wild card, allowing for infinite duplication on the room's pickups.",
+   "Interactions": "* {{I|Tarot Cloth|r}}: No effect.\n* {{i|D20}}: Rerolling duplicated pickups will result in both the original item and the duplicate being rerolled into the exact same pickup.\n* {{i|Diplopia}}: Does not duplicate '''Jera'''.\n* {{i|Hypercoagulation}}: Duplicating temporary hearts makes the duplicates permanent.\n* {{e|Mom's Chest}}: Cannot be duplicated by '''Jera'''.\n\n{{nav}}\n[[Category:Runes]]"
+  },
+  "fr": null
+ },
+ "Soul of Azazel": {
+  "revid": 260307,
+  "timestamp": "2026-02-25T14:13:52Z",
+  "infobox": "{{header soul stones}}\n{{Infobox rune\n | dlc         = r\n | name        = Soul of Azazel\n | type        = soul stone\n | id          = 88\n | quote       = Demon rage!\n | costume     = Collectible Mega Blast appearance.png\n | description = Activates {{i|Mega Blast}} for 7.5 seconds.\n | unlocked by = Soul of Azazel\n | recharge    = 6\n}}\n\n{{cit|ur|r}}\n\n",
+  "sections": {
+   "Effects": "* Activates {{I|Mega Blast}} for 7.5 seconds.",
+   "Notes": "* The fired laser has the same width as a {{i|Mega Blast}} laser.\n* The laser persists between rooms."
+  },
+  "fr": "Âme d'Azazel"
+ },
+ "Ace of Spades (Card)": {
+  "revid": 262757,
+  "timestamp": "2026-03-31T10:28:28Z",
+  "infobox": "{{Header playing cards}}\n{{Infobox card\n | dlc         = a+\n | name        = Ace of Spades\n | type        = card\n | id          = 29\n | quote       = Convert all\n | unlocked by = It's the Key\n | description = Turns all [[pickup]]s, [[trinkets]] and [[chest]]s in the room into {{e|Key}}s.<br>{{dlc|r}} All non-boss enemies in the room are also transformed into keys.\n | recharge    = {{dlcalt|4|r=6}}\n}}\n\n{{disambig msg|the card|the trinket of the same name|Ace of Spades}}\n\n{{cit|uc|a+}}\n\n",
+  "sections": {
+   "Effects": "* Turns all [[pickup]]s, [[trinkets]] and [[chest]]s in the room into {{e|Key}}s.\n* {{dlc|r}} All non-boss enemies in the room are also transformed into keys.",
+   "Notes": "* ''For tips on how to unlock the '''Ace of Spades''', see [[Achievement_Tips#Obscure_Challenge_Achievements| Achievement Tips]].''\n* Any unlocked key variant can appear.\n* {{dlc|r}} On-kill effects such as {{i|Charm of the Vampire}} do not trigger from turning enemies into keys.\n* {{dlc|r}} [[Friendly]] enemies will be transformed into keys.",
+   "Interactions": "* {{I|Tarot Cloth}}: No effect.\n* {{i|Blood Puppy|nr+}}: Using an Ace card on an angry Blood Puppy will create the respective pickup and tame it.\n\n{{nav|fr=As de Pique (Carte)|card|key modifier}}"
+  },
+  "fr": "As de Pique (Carte)"
+ },
+ "Holy Card": {
+  "revid": 265605,
+  "timestamp": "2026-07-16T06:34:26Z",
+  "infobox": "{{header special cards}}\n{{infobox card\n | dlc         = a+\n | type        = special card\n | id          = 51\n | recharge    = 4\n | quote       = You feel protected\n | description = {{dlc|nr}} Grants a shield that blocks the next hostile damage that would be taken in the current [[room]]. Has a chance to spawn another Holy Card on use.<br>{{dlc|r}} Grants a shield that blocks the next hostile damage that would be taken.\n | unlocked by = Holy Card\n}}\n\n{{cit|us|a+}}\n\n",
+  "sections": {
+   "Effects": "* Grants a one-time {{i|Holy Mantle}} effect.\n** {{dlc|nr}} This only applies for the current room.\n** {{dlc|r}} The effect lasts until damage is taken.\n* {{dlc|nr}} Has a 25% chance to display the message \"You feel blessed!\" and spawn another Holy Card.",
+   "Notes": "* Being a [[special card]], the '''Holy Card''' has a significantly lower chance of appearing compared to other cards.\n* The effect cannot be stacked by using multiple Holy Cards.\n* {{C|Tainted Lost}} starts with this card. Additionally, all cards that spawn have a 10% chance of being turned into a Holy Card, and the card can be found even if not unlocked.",
+   "Interactions": "* {{I|Blanket|nr+}}: Holy Card's effect takes priority over the shield from Blanket in {{r|Boss Room}}s.\n** {{dlc|r+}} The shield from Blanket now takes priority.\n* {{I|Holy Mantle}}: Effect stacks with Holy Card, {{dlc|r+}} with Holy Mantle taking priority.\n* {{t|Wooden Cross|nr+}}: Stacks with Holy Card depending on the order of use. If Wooden Cross is picked up after Holy Card has been used, their effects don't stack. If Holy Card is used after Wooden Cross has been picked up, they do. The stacking only lasts for the current room.\n** {{dlc|r+}} The shield from Wooden Cross always stacks no matter the order of use, and will always take priority.\n* {{I|Little Baggy}}: Will make Isaac unable to find Holy Cards, as all cards turn into pills. If Holy Card is dropped after taking Little Baggy, the Holy Card will turn into a random pill.\n* {{I|Dogma|r+}}: Effect stacks with Holy Card, with the latter taking priority.\n\n{{nav|the lost unlock|delirium unlock|fr=Carte Sacrée}}\n[[category:damage-preventing items]]"
+  },
+  "fr": "Carte Sacrée"
+ },
+ "0 - The Fool": {
+  "revid": 271620,
+  "timestamp": "2026-10-13T17:42:53Z",
+  "infobox": "{{header tarot cards}}\n{{Infobox card\n| name =                 0 - The Fool\n| id =  \t             1\n| recharge =             {{dlcalt|4|r=2}}\n| quote =                Where journey begins\n| description =          Teleports Isaac to the starting room of the current floor.\n}}\n\n{{cit|c}}\n\n",
+  "sections": {
+   "Effects": "* Teleports Isaac to the starting room of the current floor.",
+   "Notes": "* If the room teleported out of was hostile, it will be reset.\n* Previously cleared rooms do not reset.\n* If used in the mirror dimension in {{s|Downpour}} or {{s|Dross}}, Isaac will be warped to the starting room of the main floor instead of the mirror world\n* {{dlc+|r}} A 0 - The Fool is guaranteed to appear on {{s|Depths}} / {{s|Necropolis}} / {{s|Dank Depths}} II in a [[marked skull]] after unlocking {{a|A Strange Door}}.{{dlc-}}\n* When {{curse|Maze}} is active, using this card can teleport Isaac to a random room instead.",
+   "Strategy": "* 0 - The Fool is the only teleportation card that guarantees a teleportation to a safe room:\n** {{p|IX - The Hermit }} may teleport Isaac to a {{e|Greed}} fight.\n** {{p|XVII - The Stars}} / {{p|XVIII - The Moon }} may teleport Isaac to a {{r|Treasure Room}} / {{r|Secret Room}} containing enemies.\n** {{p|Joker}} may teleport Isaac to a {{r|Devil Room}} with enemies or a {{e|Krampus}} fight.\n* 0 - The Fool can be used to escape any room that locks down after taking its contents, like {{r|Challenge Room}}s or {{r|Boss Rush}}, effectively \"stealing\" its contents without facing the imposed challenge.\n* 0 - The Fool can be used to escape any boss fight to recover on the current floor.\n* {{dlc+|r}} Using 0 - The Fool during the [[ascent]] can entirely skip a floor, as the light beam is located in the starting room. {{dlc-}}",
+   "Interactions": "* {{i|Tarot Cloth}} : No effect."
+  },
+  "fr": "0 - Le Mat"
+ },
+ "Soul of Bethany": {
+  "revid": 260308,
+  "timestamp": "2026-02-25T14:13:52Z",
+  "infobox": "{{header soul stones}}\n{{Infobox rune\n | dlc         = r\n | name        = Soul of Bethany\n | type        = soul stone\n | id          = 96\n | quote       = Friends from beyond\n | description = Spawns 6 {{i|Book of Virtues}} wisps with random properties.\n | unlocked by = Soul of Bethany\n | recharge    = 6\n}}\n\n{{cit|ur|r}}\n\n",
+  "sections": {
+   "Effects": "* Spawns 6 blue [[wisps]].\n** Each wisp has its own 10% chance to instead be a random wisp.",
+   "Synergies": "* {{i|BFFS!}}: Doubles the base damage, contact damage, and damage scaling per floor of the wisps.\n* {{t|Forgotten Lullaby}}: Doubles the wisps' fire rate.\n* {{t|Baby-Bender}}: Wisp shots become homing shots."
+  },
+  "fr": "Âme de Béthanie"
+ },
+ "Cracked Key": {
+  "revid": 269022,
+  "timestamp": "2026-09-03T20:48:41Z",
+  "infobox": "{{header special cards}}\n{{infobox pickup\n | dlc         = r\n | type        = special card\n | id          = 78\n | quote       = ???\n | description = Creates a room adjacent to a viable wall, like {{i|Red Key|n}}.\n | unlocked by = Red Key\n}}\n\n'''Cracked Key''' is a [[Cards and Runes#Other|consumable item]] added in [[The Binding of Isaac: Repentance]].\n\n",
+  "sections": {
+   "Effects": "* Acts as a single-use {{i|Red Key}}, allowing Isaac to create new rooms by using the key next to a wall where there would be no conditions that could prevent a (secret) room from appearing there. This is indicated by walls that have red door outlines on them.\n** These rooms are most commonly normal rooms, but have a chance to be various [[special room]]s instead, including {{r|Devil Room}}s, {{r|Angel Room}}s, {{r|Shop}}s, {{r|Treasure Room}}s, etc. The red rooms can be connected to the floor's {{r|Ultra Secret Room}}.",
+   "Notes": "* Despite it not being a card, the '''Cracked Key''' is considered a [[special card]], so it has a significantly lower chance of appearing compared to other cards.\n* Cracked Key's main purpose is to allow unlocking Tainted characters in {{s|Home}} without having to rely on finding the Red Key.\n** To create a Cracked Key (once unlocked), drop any [[trinket]] in a {{r|Boss Room}} or a {{r|Treasure Room}} on any floor before acquiring {{i|Dad's Note}}, including the floor Dad's Note is in. After starting the [[Ascent]] by collecting Dad's Note, the trinket left behind will have become a Cracked Key in the corresponding room.\n*** While trinkets are fairly common, there is always a chance one doesn't appear naturally. This chance can be avoided by clearing three consecutive floors without taking damage, which is guaranteed to cause {{T|Perfection}} to spawn.\n*** {{i|Mom's Box}} can be helpful for creating Cracked Keys, providing extra trinkets to leave in Boss rooms or Treasure rooms for later use.\n* Cracked Keys can also spawn in the same condition as any [[Card]].\n* This item cannot be mimicked by Wild Card, {{i|Blank Card}} or {{i|Clear Rune}}, and {{i|Tarot Cloth}} has no effect on it.\n* Using the Cracked Key in {{s|Home}} having unlocked that character's tainted version or as a tainted character will spawn the item {{i|Inner Child}} in the closet where the Tainted character would normally be found, as long as Inner Child is unlocked, otherwise there will be a shopkeeper.\n** {{dlc|r+}} In [[Online Co-Op]], each player will unlock the Tainted version of the character they are playing as, regardless of whether they are alive or not, and if they are alive, they will also see the correct character, else seeing the host's character. However, if the host is playing as a Tainted character, the room will not contain any Tainted characters even if other players have not found their respective Tainted character, and the character will not be unlocked for anyone.\n* If found before the [[Ascent]], the Cracked Key can serve as a {{r|Secret Room}} finder, as secret room entrances do not have red door outlines.\n* Cracked Key cannot appear in [[greed mode]].\n\n{{nav|key|broken|fr=Clé Brisée}}"
+  },
+  "fr": "Clé Brisée"
+ },
+ "Get out of Jail Free Card": {
+  "revid": 261833,
+  "timestamp": "2026-03-26T16:38:28Z",
+  "infobox": "{{header special cards}}\n{{infobox card\n | dlc         = a\n | type        = special card\n | recharge    = {{dlcalt|4|r=2}}\n | description = Upon use, opens all doors in the current room, exactly like {{i|Dad's Key}}.\n | quote       = Open Sesame\n | id          = 47\n | unlocked by = Get out of Jail Free Card\n}}\n\n{{cit|us|a}}\n\n",
+  "sections": {
+   "Effects": "* Opens all doors in the current room, just like {{i|Dad's Key}}.",
+   "Notes": "* Being a [[special card]], the '''Get out of Jail Free Card''' has a significantly lower chance of appearing compared to other cards.\n* Get out of Jail Free Card can open:\n** {{dlc|r}} The door of a {{r|Challenge Room}} after the fight has started.\n** The door to the {{E|Mega Satan}} boss fight. The door will remain open after leaving the room.\n** The fight in {{r|Boss Rush}} to leave early, but cannot be used to get into the Boss Rush room if the time limit has already passed.\n* Get out of Jail Free Card cannot open:\n** {{dlc|nr}} The door of a {{r|Challenge Room}} after the fight has started.\n** The door to {{s|???}}.\n** {{a|A Strange Door}}.\n** {{dlc+|r}} The flesh door to the {{E|Mom's Heart}} boss fight in {{s|Mausoleum}} II / {{s|Gehenna}} II.{{dlc-}}"
+  },
+  "fr": "Carte Chance"
+ },
+ "IX - The Hermit?": {
+  "revid": 267143,
+  "timestamp": "2026-07-29T16:15:50Z",
+  "infobox": "{{header reverse tarot cards}}\n{{Infobox card\n | dlc         = r\n | name        = IX - The Hermit?\n | files name  = IX - Inverted The Hermit\n | type        = card\n | id          = 65\n | quote       = May you see the value of all things in life\n | description = Turns items, trinkets, and pickups in the room into [[coins]]. If there is nothing to sell, drops a {{e|Penny}}.\n | unlocked by = The Hermit\n | recharge    = 1\n}}\n\n{{cit|uc|r}}\n\n",
+  "sections": {
+   "Effects": "* Turns items, trinkets, and pickups in the room into {{e|Penny|text=Coins}}, essentially selling them.\n** All items will be sold for {{pennies|15}}, including items that usually have a different price in the shop, such as {{i|R Key}}.\n** Other pickups and trinkets are sold for their normal {{r|Shop}} price.\n** If there is nothing to sell, drops a single {{e|Penny}}.\n\n=== Pickup Prices ===\n{| class=\"wikitable sortable mw-collapsible striped\"\n ! Name\n ! Price\n |-\n | {{e|Half Red Heart}} || 1\n |-\n | {{e|Red Heart}} / {{e|Scared Heart}} || 3\n |-\n | {{e|Double Heart}} || 6\n |-\n | {{e|Rotten Heart}} || 2\n |-\n | {{e|Blended Heart}} || 3\n |-\n | {{e|Half Soul Heart}} || 2\n |-\n | {{e|Soul Heart}} || 5\n |-\n | {{e|Bone Heart}} || 6\n |-\n | {{e|Black Heart}} || 6\n |-\n | {{e|Gold Heart}} || 10\n |-\n | {{e|Eternal Heart}} || 10\n |-\n | {{e|Bomb}} || 5 \n |-\n | {{e|Double Bomb}} || 10 \n |-\n | data-sort-value=\"Card\" | [[File:TarotCard.png|link=Card]] [[Card]] || 5\n |-\n | {{e|Key}} || 5\n |-\n | {{e|Key Ring}} || 10\n |-\n | Any {{e|Lil' Battery|text=Battery}} || 5\n |-\n | [[File:Pill Black White.png]] [[Pill]] || 5\n |-\n | [[File:Rune1.png]] [[Rune]] (includes Soul Stones) || 5\n |-\n | {{e|Charged Key}} ||10 \n |-\n | {{e|Golden Bomb}} || 10\n |-\n | {{e|Golden Key}} || 10\n |-\n | {{e|Giga Bomb}} || 10\n |-\n | [[Trinket]] || 5\n |-\n | {{e|Grab Bag}} || 7\n |-\n | [[Item]] || 15\n |}",
+   "Notes": "* [[Chest]]s cannot be sold.\n* Selling an item in a {{r|Boss Challenge Room}} or {{r|Boss Rush}} does ''not'' cause waves of bosses to spawn.\n* If used in a room with a choice of multiple item pedestals, only one of the choice objects will be sold and the rest will disappear.",
+   "Strategy": "* For maximum profit, any card, rune, pill or trinket should be gathered to the same room before using '''IX - The Hermit?'''.\n* Since cheap or discounted shop items are still converted to the full 15 cents, this can be used to generate profit.",
+   "Synergies": "* {{I|Tarot Cloth}}: Spawns 1 additional {{e|Penny}}.\n* {{i|Moving Box}}: Allows for transport of items and pickups to the same room. Making more money from one use of '''IX - The Hermit?'''.",
+   "Interactions": "* {{i|Dad's Note}}: Not affected by '''IX - The Hermit?'''. If the room only has Dad's Note, a {{e|Penny}} will spawn.\n* {{c|Tainted ???}}: Poop pickups can't be sold."
+  },
+  "fr": "IX - L'Ermite ?"
+ },
+ "Huge Growth": {
+  "revid": 269278,
+  "timestamp": "2026-09-12T17:00:49Z",
+  "infobox": "{{Header magic cards}}\n{{header special cards}}\n{{infobox card\n | dlc         = a+\n | type        = special card\n | id          = 52\n | recharge    = {{dlcalt|4|r=3}}\n | quote       = Become immense!\n | description = For the current room, makes Isaac larger, allows him to crush [[obstacles]] he walks on, and grants +7 flat [[Damage]] and {{dlc|nr}} +30 [[Range]] {{dlc|r}} +3 [[Range]].\n | unlocked by = Huge Growth\n}}\n\n{{cit|us|a+}}\n\n",
+  "sections": {
+   "Effects": "* Grants the following effects for the current room:\n** Increases Isaac's sprite size and hitbox by 60%. Hitbox cannot be increased past the standard value.\n** +7 flat [[damage]].\n** {{dlc|nr}} +30 [[range]].\n** {{dlc|r}} +3 [[range]].\n** Allows Isaac to walk over [[obstacles]] to destroy them.",
+   "Notes": "* Being a [[special card]], Huge Growth has a significantly lower chance of appearing compared to other cards.\n* This effect doesn't stack if used multiple times in the same room.\n* To unlock, Isaac must be 3 times bigger than his starting size.\n** Isaac's total size is taken into account in unlocking Huge Growth; any size downs, such as [[Pills|One Makes You Small]] pills and {{I|Binky}}, will hinder progression towards the unlock.\n** {{T|Liberty Cap}} will count towards this when the {{I|Magic Mushroom}} effect is active.\n* {{I|Tarot Cloth}} causes {{P|XI - Strength}} to count for 2 size increases.",
+   "Interactions": "* {{i|Tarot Cloth}}: No effect."
+  },
+  "fr": "Croissance Colossale"
+ },
+ "2 of Clubs": {
+  "revid": 262751,
+  "timestamp": "2026-03-31T10:27:06Z",
+  "infobox": "{{Header playing cards}}\n{{Infobox card\n | name        = 2 of Clubs\n | type        = card\n | id          = 23\n | quote       = Item multiplier\n | description = Doubles Isaac's {{E|Bomb}}s.<br>If he has no bombs, gives him 2 instead.\n | recharge    = {{dlcalt|4|r=12}}\n}}\n\n{{cit|c}}\n\n",
+  "sections": {
+   "Effects": "* Doubles Isaac's {{E|Bomb}}s.\n* If Isaac has no bombs, gives 2 bombs instead.",
+   "Strategy": "* The bomb counter cannot exceed 99, so the most optimal time to use '''2 of Clubs''' is when Isaac has 49 or 50 bombs.",
+   "Synergies": "* {{I|Tarot Cloth|nr}}: Quadruples Isaac's bombs.",
+   "Interactions": "* {{I|Tarot Cloth|r}}: No effect.\n* {{c|Tainted ???}}: Does not double the poop count. Gives two [[Blue Flies|blue flies]] instead.\n* {{a|It's the Key}}: Acquiring bombs with '''2 of Clubs''' does not invalidate the achievement condition.\n\n{{nav|fr=2 de Trèfle|card|bomb modifier}}"
+  },
+  "fr": "2 de Trèfle"
+ },
+ "IV - The Emperor": {
+  "revid": 258495,
+  "timestamp": "2026-01-23T11:03:51Z",
+  "infobox": "{{header tarot cards}}\n{{Infobox card\n| name =                 IV - The Emperor\n| id =  \t             5\n| recharge =             4\n| quote =                Challenge me!\n| description =          Teleports Isaac into the {{r|Boss Room}}.\n}}\n\n{{cit|c}}\n\n",
+  "sections": {
+   "Effects": "* Teleports Isaac into the {{r|Boss Room}}.",
+   "Notes": "* Using '''IV - The Emperor''' on a floor that doesn't have a {{r|Boss Room}} will teleport Isaac to a random room.\n* Using '''IV - The Emperor''' in {{s|The Void}} will always teleport you to a random unexplored boss room in priority.\n* On a {{curse|labyrinth}} floor, '''IV - The Emperor''' will usually teleport Isaac to the second boss room; however, it is possible to be teleported to the first one instead.\n* When {{curse|Maze}} is active, using this card can teleport Isaac to a random room instead.\n* '''IV - The Emperor''' cannot appear in [[greed mode]].",
+   "Strategy": "* Once the boss is defeated, or when one is ready to face the boss, '''IV - The Emperor''' can be used to escape dangerous rooms like {{r|Curse Room}}s and {{r|Challenge Room}}s.",
+   "Synergies": "* {{I|Tarot Cloth|r}}: If the boss has not yet been defeated, grants a {{e|Soul Heart}} on top of teleporting Isaac.\n** {{I|Tarot Cloth|r}} + {{i|Blank Card}} + {{i|Car Battery|n}} : Grants 2 soul hearts.",
+   "Interactions": "* {{i|Sol}}: Using this card to defeat the boss earlier can allow more utilization of Sol’s stat boost, curse removal, and mapping, for the remainder of the [[floor]].\n* {{I|Tarot Cloth|nr}}: No effect."
+  },
+  "fr": "IV - L'Empereur"
+ },
+ "Hagalaz": {
+  "revid": 273957,
+  "timestamp": "2026-11-05T04:51:26Z",
+  "infobox": "{{header runes}}\n{{Infobox rune\n | name        = Hagalaz\n | type        = rune\n | image scale = 1/10\n | id          = 32\n | quote       = Destruction\n | description = Destroys all breakable obstacles in the room. Does not affect Key Blocks. {{dlc|r+}} Also destroys or removes the armor of most stone-themed and/or invulnerable enemies, such as {{e|Host}}s, {{e|Stone Grimace}}s, and {{e|Knight}}s, among many others.\n | unlocked by = Rune of Hagalaz\n | recharge    = 2\n}}\n\n{{cit|ur}}\n\n",
+  "sections": {
+   "Effects": "* Destroys all breakable obstacles in the room.\n** Does not affect Key Blocks.\n** {{dlc+|a}} Does not destroy {{e|Movable TNT}}s (though it does destroy {{g|TNT}}s).{{dlc-}}\n* {{dlc+|r+}} Kills all of the following stone-themed enemies:\n{{entity table | Blaster, Carrion Princess, Floast, Brainless Knight, Stoney, Cross Stoney, Stone Grimace, Vomit Grimace, Triple Grimace, Stone Eye, Constant Stone Shooter, Cross Stone Shooter, Brimstone Head, Gaping Maw, Broken Gaping Maw, Quake Grimace, Bomb Grimace, Poky, Slide, Grudge, Ball and Chain, Spikeball, Singe's Ball | collapsed = yes }}{{dlc-}}\n* {{dlc+|r+}} Has special interactions with the following stone-themed enemies:\n** {{e|Host}} - Destroys and leaves behind a {{e|Red Host}}\n** {{e|Hard Host}} - Destroys and leaves behind a {{e|Red Host}}\n** {{e|Mobile Host}} - Destroys and leaves behind a {{e|Flesh Mobile Host}}\n** {{e|Knight}} - Destroys and leaves behind a {{e|Brain}}\n** {{e|Loose Knight}} - Destroys and leaves behind a {{e|Pon}}\n** {{e|Black Knight}} - Destroys and leaves behind a {{e|Pon}}\n** {{e|Floating Knight}} - Destroys and leaves behind a {{e|Brain}}\n** {{e|Bone Knight}} - Destroys and leaves behind a {{e|Brain}}\n** {{e|Rock Spider}} - Destroys and leaves behind a {{e|Spider}}\n** {{e|Tinted Rock Spider}} - Destroys and leaves behind a {{e|Soul Heart}}\n** {{e|Coal Spider}} - Destroys and leaves behind a hot coal\n** {{e|Death's Head}} - Destroys and leaves behind a {{e|Flesh Death's Head}}\n** {{e|Brimstone Death's Head}} - Destroys and leaves behind a {{e|Flesh Death's Head}}\n** {{e|Hardy}} - Destroys and leaves behind a {{e|Dip}}\n** {{e|Tuff Twins}} - Removes their armor plating\n** {{e|The Shell}} - Removes their armor plating, minus the head\n{{dlc-}}",
+   "Notes": "* '''Hagalaz''' cannot create bridges.\n* {{dlc|r+}} Hosts revealed from [[Rocks#Skulls|skulls]] will start out with their armor destroyed, as {{e|Red Host}}s.\n* {{dlc+|r+}} Enemies unaffected by Hagalaz that are notable exceptions: \n** {{e|Danny}}\n** {{e|Coal Boy}}\n** {{e|Selfless Knight}}\n** {{e|Mask + Heart}}\n** {{e|Mask II + 1/2 Heart}}\n** {{e|Quakey}}\n** {{e|Cursed Death's Head}}\n** {{e|Dusty Death's Head}}\n** {{e|Redskull}}\n** {{e|Ultra Death Head}}\n** {{e|Wall Hugger}}\n** {{e|Carrion Queen}}\n** {{e|Great Gideon}}\n** {{e|Mask of Infamy}}\n** {{e|The Visage}}\n{{dlc-}}",
+   "Strategy": "* '''Hagalaz''' is best used in a room with special [[Rocks|rock obstacles]], including mushrooms, urns, skulls, or polyps, as they often drop useful pickups and items. All of these are potentially hazardous when destroyed (mushrooms can explode, polyps can fire bullets in all directions ({{dlc+|r}} or in {{s|Corpse}}, scatter {{e|Maggot}}s){{dlc-}}, urns can scatter {{e|Spider}}s, and skulls can leave behind a {{dlcalt|{{e|Host}}|r+={{e|Red Host}}}}, all with roughly a 20% chance), so give them a wide berth before doing so to avoid damage.",
+   "Interactions": "* {{I|Tarot Cloth}}: No effect."
+  },
+  "fr": null
+ },
+ "Ace of Hearts": {
+  "revid": 262758,
+  "timestamp": "2026-03-31T10:28:41Z",
+  "infobox": "{{Header playing cards}}\n{{Infobox card\n | dlc         = a+\n | name        = Ace of Hearts\n | type        = card\n | id          = 30\n | quote       = Convert all\n | unlocked by = Living on the edge\n | description = Turns all [[pickup]]s, [[trinkets]] and [[chest]]s in the room into [[hearts]].<br>{{dlc|r}} All non-boss enemies in the room are also transformed into hearts.\n | recharge    = {{dlcalt|4|r=6}}\n}}\n\n{{cit|uc|a+}}\n\n",
+  "sections": {
+   "Effects": "* Turns all [[pickup]]s, [[trinkets]] and [[chest]]s in the room into [[hearts]].\n* {{dlc|r}} All non-boss enemies in the room are also transformed into hearts.",
+   "Notes": "* Any unlocked heart variant can appear.\n* {{dlc|r}} On-kill effects such as {{i|Charm of the Vampire}}, do not trigger from turning enemies into hearts.\n* {{dlc|r}} [[Friendly]] enemies will be transformed into hearts.",
+   "Interactions": "* {{I|Tarot Cloth}}: No effect.\n* {{i|Blood Puppy|nr+}}: Using an Ace card on an angry Blood Puppy will create the respective pickup and tame it.\n\n{{nav|fr=As de Cœur|card}}"
+  },
+  "fr": "As de Cœur"
+ },
+ "Dagaz": {
+  "revid": 260324,
+  "timestamp": "2026-02-25T14:21:13Z",
+  "infobox": "{{header runes}}\n{{Infobox rune\n | name        = Dagaz\n | type        = rune\n | image scale = 1/10\n | id          = 35\n | quote       = Purity\n | description = Removes any [[Curse]]s from the current floor and grants a {{e|Soul Heart}}. (This will not remove {{cu|Labyrinth}}.)\n | unlocked by = Rune of Dagaz\n | recharge    = 6\n}}\n\n{{cit|ur}}\n\n",
+  "sections": {
+   "Effects": "* Removes any [[Curse]]s from the current floor.\n* Grants a {{e|Soul Heart}}.",
+   "Notes": "* The effects of [[Amnesia]] and [[??? (Pill)|???]] pills are also negated by '''Dagaz'''.\n* '''Dagaz''' does not remove {{cu|Labyrinth}}.",
+   "Synergies": "* {{I|Tarot Cloth|nr}}: Grants 2 {{e|Soul Heart}}s.",
+   "Interactions": "* {{I|Tarot Cloth|r}}: No effect.\n\n{{nav}}\n[[Category:Runes]]"
+  },
+  "fr": null
+ },
+ "V - The Hierophant?": {
+  "revid": 264775,
+  "timestamp": "2026-05-30T16:30:38Z",
+  "infobox": "{{header reverse tarot cards}}\n{{Infobox card\n | dlc         = r\n | name        = V - The Hierophant?\n | files name  = V - Inverted The Hierophant\n | type        = card\n | id          = 61\n | quote       = Two prayers for the forgotten\n | description = Spawns 2 {{e|Bone Heart|n}}s on the ground.\n | unlocked by = The Hierophant\n | recharge    = 12\n}}\n\n{{cit|uc|r}}\n\n",
+  "sections": {
+   "Effects": "* Spawns 2 {{e|Bone Heart|n}}s on the ground near Isaac.",
+   "Notes": "* Some {{r|Super Secret Room}} layouts can force hearts in them to be of one type. Using '''V - The Hierophant?''' in these rooms can transform the bone hearts into other types of hearts, which may be an unwanted outcome.",
+   "Synergies": "* {{I|Tarot Cloth|n}}: Spawns 3 {{e|Bone Heart}}s.\n** {{I|Tarot Cloth|n}} + {{i|Blank Card}} + {{i|Car Battery|n}} : Spawns 6 bone hearts."
+  },
+  "fr": "V - Le Pape ?"
+ },
+ "XVIII - The Moon?": {
+  "revid": 258524,
+  "timestamp": "2026-01-23T11:05:02Z",
+  "infobox": "{{header reverse tarot cards}}\n{{Infobox card\n | dlc         = r\n | name        = XVIII - The Moon?\n | files name  = XVIII - Inverted The Moon\n | type        = card\n | id          = 74\n | quote       = May you remember lost memories\n | description = Teleports Isaac to the {{r|Ultra Secret Room}}. The pathway back to the normal rooms will be made of {{r|Red Room}}s.\n | unlocked by = The Sun and the Moon\n | recharge    = 2\n}}\n\n{{cit|uc|r}}\n\n",
+  "sections": {
+   "Effects": "* Teleports Isaac to the {{r|Ultra Secret Room}}.\n** The pathway back to the normal rooms will be made of {{r|Red Room}}s.",
+   "Notes": "* Using '''XVIII - The Moon?''' on a floor that doesn't have an ultra secret room will teleport Isaac to a random room.\n* When {{curse|Maze}} is active, using this card can teleport Isaac to a random room instead.\n* '''XVIII - The Moon?''' cannot spawn in [[greed mode]].",
+   "Interactions": "* {{I|Tarot Cloth}}: No effect."
+  },
+  "fr": "XVIII - La Lune ?"
+ },
+ "XXI - The World": {
+  "revid": 262184,
+  "timestamp": "2026-03-26T18:47:41Z",
+  "infobox": "{{header tarot cards}}\n{{Infobox card\n | name        = XXI - The World\n | id          = 22\n | quote       = Open your eyes and see\n | description = Reveals the entire floor, except for the {{r|Super Secret Room}} and {{r|Ultra Secret Room}}.\n| recharge     = {{dlcalt|4|r=3}}\n}}\n\n{{cit|c}}\n\n",
+  "sections": {
+   "Effects": "* Reveals the current floor's entire map, except for the {{r|Super Secret Room}} and {{r|Ultra Secret Room}}.",
+   "Notes": "* {{dlc|r}} '''XXI - The World''' cannot appear in [[greed mode]].",
+   "Interactions": "* {{i|Book of Secrets|r}}: The mapping provided by '''XXI - The World''' does not count as a mapping effect. The amount of times the Book of Secrets must be used before activating the {{i|X-Ray Vision}} effect remains the same.\n* {{I|Tarot Cloth}}: No effect."
+  },
+  "fr": "XXI - Le Monde"
+ },
+ "Soul of Magdalene": {
+  "revid": 260314,
+  "timestamp": "2026-02-25T14:13:52Z",
+  "infobox": "{{header soul stones}}\n{{Infobox rune\n | dlc         = r\n | name        = Soul of Magdalene\n | type        = soul stone\n | id          = 82\n | quote       = Give me your love!\n | description = Surrounds Isaac with a bubbling red aura for the current room. All enemies killed drop {{e|Half Red Heart}}s that disappear in 2 seconds.\n | unlocked by = Soul of Magdalene\n | recharge    =  3\n}}\n\n{{cit|ur|r}}\n\n",
+  "sections": {
+   "Effects": "* Surrounds Isaac with a bubbling red aura for the current room. All enemies killed drop {{e|Half Red Heart}}s that disappear in 2 seconds.",
+   "Synergies": "{{t|Mom's Locket}}: Makes enemies drop full red hearts instead of half red hearts."
+  },
+  "fr": "Âme de Marie"
+ },
+ "XIX - The Sun?": {
+  "revid": 267138,
+  "timestamp": "2026-07-29T16:13:25Z",
+  "infobox": "{{header reverse tarot cards}}\n{{Infobox card\n | dlc         = r\n | name        = XIX - The Sun?\n | files name  = XIX - Inverted The Sun\n | type        = card\n | id          = 75\n | quote       = May the darkness swallow all around you\n | costume     = Collectible Spirit of the Night appearance.png\n | description = Gain {{i|Spirit of the Night}} and +1.5 [[Damage]] for the current floor. Turns Isaac's {{e|Red Heart|text=Red Heart Containers}} into {{e|Bone Heart}}s, but they revert once the effect ends. Also causes {{cu|Darkness}} that cannot be dispelled.\n | unlocked by = The Sun and the Moon\n | recharge    =  6\n}}\n\n{{cit|uc|r}}\n\n",
+  "sections": {
+   "Effects": "* For the duration of the current floor:\n** Grants {{i|Spirit of the Night}} and +1.5 [[Damage]].\n** Turns Isaac's red [[heart container]]s into {{e|Bone Heart||bone hearts}}.\n** Causes a {{cu|Darkness}} that cannot be dispelled.",
+   "Notes": "* When the effect reverts, all bone hearts remaining will be restored to heart containers.\n** Actual bone hearts remain unchanged.\n** If Isaac travels to the next floor with ''only'' empty temporary bone hearts (either by donation or with {{t|Crow Heart}}), '''he will die''' as his resulting health after reverting are only empty heart containers.\n* The card's effect persists in the {{i|Knife Piece 2}} abandoned area, allowing for easier completion of the chase sequence if flight was not acquired before.\n* Picking up health-increasing items while '''XIX - The Sun?''''s effect is active will add normal heart containers.\n** Using '''XIX - The Sun?''' again will convert them into bone hearts.",
+   "Strategy": "* '''XIX - The Sun?''' negates the downsides of items that remove [[heart container]]s on pickup (such as {{i|Dead Cat}} and {{i|Brittle Bones}}) since it converts all [[heart container]]s into {{e|Bone Heart}}s.\n* The bone hearts allow for more uses of the {{r|Sacrifice Room}}.",
+   "Interactions": "* {{i|Night Light}}: Curse of Darkness is not removed, regardless of whether Night Light is picked up before or after using the card. However, the visual effect is still lessened.\n* {{I|Tarot Cloth}}: No effect."
+  },
+  "fr": "XIX - Le Soleil ?"
+ },
+ "Wild Card": {
+  "revid": 259767,
+  "timestamp": "2026-02-15T12:30:59Z",
+  "infobox": "{{header special cards}}\n{{infobox card\n | dlc         = r\n | type        = special card\n | id          = 80\n | recharge    = 6\n | quote       = Again\n | description = Copies the effect of the most recently used [[Pill]], [[Card]], [[Rune]], [[Soul Stone]], or [[activated item]].\n | unlocked by = Wild Card\n}}\n\n{{cit|us|r}}\n\n",
+  "sections": {
+   "Effects": "* Copies the effect of the most recently used [[Pill]], [[Card]], [[Rune]], [[Soul Stone]], or [[activated item]].",
+   "Notes": "* Being a [[special card]], the '''Wild Card''' has a significantly lower chance of appearing compared to other cards.\n* Using {{p|Jera}} on a Wild Card will copy the Wild Card, allowing Isaac to infinitely copy any other consumables in the room.\n* Using {{i|Diplopia}} will copy the Wild Card and any pedestal item in the room, allowing Isaac to infinitely copy any item in the room.",
+   "Synergies": "* {{i|Plan C}}: Activating the Plan C effect resets Isaac's 3 second death timer, allowing for longer boss death animations to play out.\n** {{dlc|r+}} Bosses with longer death animations now make Plan C's cooldown longer, therefore making this strategy a little less useful."
+  },
+  "fr": "Dernière Carte"
+ },
+ "XVII - The Stars?": {
+  "revid": 268638,
+  "timestamp": "2026-08-26T19:56:42Z",
+  "infobox": "{{header reverse tarot cards}}\n{{Infobox card\n | dlc         = r\n | name        = XVII - The Stars?\n | files name  = XVII - Inverted The Stars\n | type        = card\n | id          = 73\n | quote       = May your loss bring fortune\n | description = Removes Isaac's oldest [[passive item]] (ignoring starting items) and creates 2 random item pedestals from the current room's item pool. Does nothing if Isaac has no items.\n | unlocked by = The Stars\n | recharge    = 12\n}}\n\n{{cit|uc|r}}\n\n",
+  "sections": {
+   "Effects": "* Removes Isaac's oldest [[passive item]] (ignoring starting items) and creates 2 random item pedestals from the current room's item pool. '''Does nothing if Isaac has no items.'''",
+   "Synergies": "* {{I|Tarot Cloth}}: Removes 2 items and spawns 4.\n** {{I|Tarot Cloth}} + {{i|Blank Card}}: Only removes one item and spawns two when used by Blank card.",
+   "Interactions": "* {{i|Book of Virtues}}: Will be removed because it is also considered a passive item.\n* {{i|Damocles}}: '''XVII - The Stars?''' does not remove the passive sword item created by Damocles.\n* {{i|Eden's Blessing}}: Items granted by Eden's Blessing are considered starting items by the effect of '''XVII - The Stars?'''. Thus, only the first item picked up within the current run is removed."
+  },
+  "fr": "XVII - L'Étoile ?"
+ },
+ "Soul of Judas": {
+  "revid": 262069,
+  "timestamp": "2026-03-26T18:30:24Z",
+  "infobox": "{{header soul stones}}\n{{Infobox rune\n | dlc         = r\n | name        = Soul of Judas\n | type        = soul stone\n | id          = 84\n | quote       = Right behind you\n | description = Increases Isaac's [[speed]] and makes him invulnerable for 3 seconds and allows him to pass through enemies. Damages all enemies and destroys all projectiles Isaac ran through when the effect ends, and grants a temporary [[Damage]] bonus for each enemy and projectile hit.\n | unlocked by = Soul of Judas\n | recharge    = {{dlcalt|3|r+=2}}\n}}\n\n{{cit|ur|r}}\n\n",
+  "sections": {
+   "Effects": "* Activates the effect of {{i|Dark Arts}} for 3 seconds. Grants a temporary [[damage]] up for each enemy and projectile hit.",
+   "Notes": "* The damage boost effect is identical to {{c|Black Judas}}' / {{c|Tainted Judas}}' special {{i|Dark Arts}} interaction.\n* See the {{i|Dark Arts}} page for more details and notes.",
+   "Strategy": "* Lasting thrice as long as Dark Arts, the '''Soul of Judas''' can be better used to destroy numerous projectiles shot by bosses like {{e|Mega Satan}} and {{e|Hush}}, potentially resulting in major damage buffs."
+  },
+  "fr": "Âme de Judas"
+ },
+ "VI - The Lovers": {
+  "revid": 262152,
+  "timestamp": "2026-03-26T18:42:47Z",
+  "infobox": "{{header tarot cards}}\n{{Infobox card\n | name        = VI - The Lovers\n | id          = 7\n | quote       = May you prosper and be in good health\n | description = Spawns 2 full {{e|Red Heart}}s on the ground.\n | recharge    = {{dlcalt|4|r=6}}\n}}\n\n{{cit|c}}\n\n",
+  "sections": {
+   "Effects": "* Spawns 2 {{e|Red Heart}}s on the ground near Isaac.",
+   "Strategy": "* Some {{r|Super Secret Room}} layouts can force hearts in them to be of one type. Using '''VI - The Lovers''' in these rooms can transform the red hearts into other types of hearts.",
+   "Synergies": "* {{I|Tarot Cloth|n}}: Spawns {{dlc|nr}} 4 / {{dlc|r}} 3 {{e|Red Heart}}s.\n** {{I|Tarot Cloth|n}} + {{i|Blank Card}} + {{i|Car Battery|n}} : Spawns {{dlc|nr}} 8 / {{dlc|r}} 6 Red Hearts."
+  },
+  "fr": "VI - L'Amoureux"
+ },
+ "XVI - The Tower": {
+  "revid": 262734,
+  "timestamp": "2026-03-31T10:10:58Z",
+  "infobox": "{{header tarot cards}}\n{{Infobox card\n | name        = XVI - The Tower\n | id          = 17\n | quote       = Destruction brings creation\n | description = Spawns 6 {{e|Troll Bomb}}s randomly around the room.\n| recharge =             {{dlcalt|4|r=3}}\n}}\n\n{{cit|c}}\n\n",
+  "sections": {
+   "Effects": "* Spawns 6 {{e|Troll Bomb}}s, generally near the center of the [[room]].",
+   "Notes": "* This card's active effect is identical to {{i|Anarchist Cookbook}}'s.\n* Although visually unchanged, all passive {{e|Bomb}} effect items affect the spawned Troll Bombs unless otherwise noted.\n* The bombs spawn one after the other, meaning that they will also explode one after the other and can push each other around.\n** If the room is exited before all bombs are spawned, the remaining bombs will not continue to spawn upon re-entering the room.\n* Exiting the room will reset the troll bombs' fuses.",
+   "Strategy": "* By repeatedly exiting and re-entering the room, the bombs can be slowly pushed towards a [[tinted rock]] or a {{r|Secret Room}}'s entrance.",
+   "Synergies": "* {{I|Tarot Cloth}}: Spawns '''13''' troll bombs.\n** {{I|Tarot Cloth|r}} + {{i|Blank Card}}: Only spawns 6 troll bombs if used with blank card.\n* {{t|Blasting Cap}}: All troll bombs have a 10% chance to drop a {{e|Bomb}} pickup when it explodes.\n* {{i|Remote Detonator}}: The Troll Bombs generated will not explode until Remote Detonator is activated.",
+   "Interactions": "* {{I|Bomber Boy}}: Not recommended. The cross pattern explosion makes it very hard to avoid taking damage.\n* {{i|Mr. Mega}}: No effect.\n* {{I|Pyromaniac}}: Spawned bombs can be used for mass healing.\n* {{T|Safety Scissors}}: Spawned troll bombs become bomb pickups.\n* {{i|Scatter Bombs|a+}}: Not recommended. Each Troll Bomb will spawn several smaller bombs upon exploding, making it very hard to avoid taking damage.\n** {{dlc|r}} No visual change can be seen with the Troll Bombs, but the smaller bombs have the sprite of the smaller normal bombs."
+  },
+  "fr": "XVI - La Maison Dieu"
+ },
+ "VII - The Chariot": {
+  "revid": 274235,
+  "timestamp": "2026-11-06T17:13:21Z",
+  "infobox": "{{header tarot cards}}\n{{Infobox card\n | name        = VII - The Chariot\n | id          = 8\n | quote       = May nothing stand before you\n | description = Gives [[invulnerability]] and +0.28 [[speed]] for six seconds, removing the ability to shoot tears and replacing it with the ability to deal contact damage to enemies.\n| recharge =             {{dlcalt|4|r=3}}\n}}\n\n{{cit|c}}\n\n",
+  "sections": {
+   "Effects": "* For 6 seconds:\n** Gives [[invulnerability]]\n** +0.28 [[speed]]\n** Removes the ability to shoot tears, replacing it with the ability to deal contact damage to enemies.\n*** {{dlc|nr}} Isaac deals 40 contact damage to enemies, once per second.\n*** {{dlc|r}} Isaac deals 20 contact damage to enemies, twice per second.\n**** If an enemy is at 40 HP or less, the contact damage is increased to 40 for that enemy.",
+   "Notes": "* '''VII - The Chariot''''s effect is identical to {{i|My Little Unicorn}}.\n* Ending the current run via opening the end chest while My Little Unicorn is active will cause the credits and main menu music to be sped up. The effect ends upon restarting the game or starting a new run.",
+   "Strategy": "* The invulnerability effect negates all forms of damage, including health loss from {{e|Blood Donation Machine}}s and {{e|Devil Beggar}}s. They can be used for free for the duration of the effect.",
+   "Synergies": "* {{I|Tarot Cloth}}: The effect's length is doubled to 12 seconds.\n** {{I|Tarot Cloth|n}} + {{i|Blank Card}} + {{i|Car Battery|n}} : The effect is quadrupled to 24 seconds."
+  },
+  "fr": "VII - Le Chariot"
+ },
+ "VII - The Chariot?": {
+  "revid": 274097,
+  "timestamp": "2026-11-06T16:55:43Z",
+  "infobox": "{{header reverse tarot cards}}\n{{Infobox card\n | dlc         = r\n | name        = VII - The Chariot?\n | files name  = VII - Inverted The Chariot\n | type        = card\n | id          = 63\n | quote       = May nothing walk past you\n | costume name = Inverted The Chariot\n | description = Isaac becomes an invincible statue with 4× fire rate for 10 seconds. The statue can be nudged slightly by moving and is affected by knockback.\n | unlocked by = The Chariot\n | recharge    = 2\n}}\n\n{{cit|uc|r}}\n\n",
+  "sections": {
+   "Effects": "* Isaac becomes an invincible statue with 4× [[fire rate]] for 10 seconds. The statue can no longer move normally, and will only be nudged slightly when pressing a movement key. However, it is still affected by knockback.",
+   "Notes": "* Unlike most effects that grant [[invulnerability]], '''VII - The Chariot?''' does not negate damage from {{e|Blood Donation Machine}}s and {{e|Devil Beggar}}s.",
+   "Synergies": "* {{i|Rock Bottom}}: The fire rate bonus is retained after the card's effect runs out.",
+   "Interactions": "* {{I|Tarot Cloth}}: No effect."
+  },
+  "fr": "VII - Le Chariot ?"
+ },
+ "XII - The Hanged Man?": {
+  "revid": 258515,
+  "timestamp": "2026-01-23T11:04:53Z",
+  "infobox": "{{header reverse tarot cards}}\n{{Infobox card\n | dlc         = r\n | name        = XII - The Hanged Man?\n | files name  = XII - Inverted The Hanged Man\n | type        = card\n | id          = 68\n | quote       = May your greed know no bounds\n | costume     = Character Keeper appearance.png\n | description = Isaac turns visually into {{c|Keeper}} for 30 seconds, with triple shot and -0.1 [[speed]]. Killed enemies drop a random {{e|Penny||coin}}.\n | unlocked by = The Hanged Man\n | recharge    = 6\n}}\n\n{{cit|uc|r}}\n\n",
+  "sections": {
+   "Effects": "* Isaac turns visually into {{c|Keeper}} for 30 seconds, with triple shot, -0.1 [[Speed]] and a [[tears]] multiplier of x0.51.\n* Killing an enemy during the effect makes them drop a random {{e|Penny||coin}}.",
+   "Notes": "* Once the 30 seconds are passed, Isaac reverts back to his normal state on the spot, he does not need to change rooms to remove the effect.\n* Only enemies killed specifically by Isaac drop coins, those killed by Isaac's [[familiar]]s, or environmental hazards such as {{e|Fire Place}}s do not.\n* Unlike many other on-kill drop resources effects, the coin drops do not suffer from diminishing returns on repeatedly spawned enemies.\n* Further uses of '''XII - The Hanged Man?''' are additive, each adding 30 seconds to the effect's length.\n* The card's effect persists in the {{i|Knife Piece 2}} abandoned area.",
+   "Strategy": "* XII - The Hanged Man? is best used against enemies that spawn many weak enemies such as {{e|Eggy||Eggies}} or {{e|The Duke of Flies}}.",
+   "Synergies": "* {{I|Tarot Cloth}}: Doubles the effect's duration.\n* {{t|Nuh Uh!}}: Slain enemies drop random pickups other than coins and {{e|Key}}s on [[Chapter 4]] and beyond.",
+   "Interactions": "* {{i|Sprinkler}}: Enemies killed by the sprinkler do drop coins."
+  },
+  "fr": "XII - Le Pendu ?"
+ },
+ "XXI - The World?": {
+  "revid": 258521,
+  "timestamp": "2026-01-23T11:05:03Z",
+  "infobox": "{{header reverse tarot cards}}\n{{Infobox card\n | dlc         = r\n | name        = XXI - The World?\n | files name  = XXI - Inverted The World\n | type        = card\n | id          = 77\n | quote       = Step into the abyss\n | description = Creates a trap door which always leads to a {{r|Crawl Space}}.\n | unlocked by = The World\n | recharge    = 2\n}}\n\n{{cit|uc|r}}\n\n",
+  "sections": {
+   "Effects": "* Creates a trap door which always leads to a {{r|Crawl Space}}.",
+   "Interactions": "* {{I|Tarot Cloth}}: No effect."
+  },
+  "fr": "XXI - Le Monde ?"
+ },
+ "XX - Judgement": {
+  "revid": 274103,
+  "timestamp": "2026-11-06T16:55:47Z",
+  "infobox": "{{header tarot cards}}\n{{Infobox card\n | name        = XX - Judgement\n | id          = 21\n | quote       = Judge lest ye be judged\n | description = Spawns a {{e|Beggar}} near Isaac. The beggar can sometimes be a {{e|Devil Beggar}} and rarely a {{e|Battery Bum}}, {{e|Rotten Beggar}}, {{e|Key Master}}, or {{e|Bomb Bum}} instead.\n| recharge =             {{dlcalt|4|r=6}}\n}}\n\n{{cit|c}}\n\n",
+  "sections": {
+   "Effects": "* Spawns a {{e|Beggar}} near Isaac.\n** The beggar can sometimes be a {{e|Devil Beggar}} and rarely a {{e|Key Master}}, {{e|Bomb Bum}}, {{e|Battery Bum}}, or {{e|Rotten Beggar}} instead.",
+   "Notes": "* The probabilities for each type of beggar to spawn are as follows:\n** If Rotten Beggar is unlocked:\n*** 61.50% {{e|Beggar}}\n*** 33.33% {{e|Devil Beggar}}\n*** 1.33% {{e|Battery Bum}}\n*** 1.31% {{e|Rotten Beggar}}\n*** 1.28% {{e|Key Master}}\n*** 1.24% {{e|Bomb Bum}}\n** If Rotten Beggar is not unlocked:\n*** 62.75% {{e|Beggar}}\n*** 33.33% {{e|Devil Beggar}}\n*** 1.33% {{e|Battery Bum}}\n*** 1.31% {{e|Key Master}}\n*** 1.28% {{e|Bomb Bum}}",
+   "Strategy": "* Even if Isaac is short on pickups to give to the beggars, they can still be blown up for more pickups and increased {{r|Devil Room}} / {{r|Angel Room}} chance.\n** To save on bombs, it is recommended to use '''XX - Judgement''' near a [[tinted rock]] or a {{r|Secret Room}}'s entrance, so that they can both be blown up by the same bomb.",
+   "Synergies": "* {{I|Tarot Cloth}}: Spawns two beggars. Each beggar can be any of type.\n** {{I|Tarot Cloth|r}} + {{i|Blank Card}}: Only spawns one beggar when used with blank card."
+  },
+  "fr": "XX - Le Jugement"
+ },
+ "XV - The Devil": {
+  "revid": 262178,
+  "timestamp": "2026-03-26T18:47:05Z",
+  "infobox": "{{header tarot cards}}\n{{Infobox card\n | name        = XV - The Devil\n | id          = 16\n | quote       = Revel in the power of darkness\n | recharge    = {{dlcalt|4|r=3}}\n | costume     = Collectible The Book of Belial appearance.png\n | description = Triggers {{i|The Book of Belial}} effect, granting +2 [[Damage]] for the current room.\n}}\n\n{{cit|c}}\n\n",
+  "sections": {
+   "Effects": "* Grants +2 [[Damage]] for the current room.",
+   "Notes": "* '''XV - The Devil''''s effect is identical to {{i|The Book of Belial}}.\n** Unlike {{i|The Book of Belial}}, the card does not grant increased chances for {{r|Devil Room}}s / {{r|Angel Room}}s to appear after defeating a boss.",
+   "Strategy": "* Since this effect only lasts for a room, it is preferably used against a [[boss]].",
+   "Synergies": "* {{I|Tarot Cloth|r}} / {{i|The Book of Belial|r}} / {{dlc|r}}'''XV - The Devil''': The effects stack, every copy of the effect gives +1 damage.\n* {{i|Blood of the Martyr}}: Also applies a temporary x1,5 damage multiplier.",
+   "Interactions": "* {{I|Tarot Cloth|nr}} / {{i|The Book of Belial|nr}} / {{dlc|nr}}'''XV - The Devil''': No effect."
+  },
+  "fr": "XV - Le Diable"
+ },
+ "XVIII - The Moon": {
+  "revid": 262182,
+  "timestamp": "2026-03-26T18:47:29Z",
+  "infobox": "{{header tarot cards}}\n{{Infobox card\n | name        = XVIII - The Moon\n | id          = 19\n | quote       = May you find all you have lost\n | description = Teleports Isaac to the {{r|Secret Room}}.\n | recharge    = {{dlcalt|4|r=2}}\n}}\n\n{{cit|c}}\n\n",
+  "sections": {
+   "Effects": "* Teleports Isaac to the {{r|Secret Room}}.",
+   "Notes": "* Opens one wall inside the Secret Room, so Isaac can leave even if he doesn't have any {{e|Bomb}}s.\n* '''XVIII - The Moon''' cannot teleport Isaac to the {{r|Super Secret Room}}.\n* Using '''XVIII - The Moon''' on a floor that doesn't have a secret room will teleport Isaac to a random room.\n* When there are two secret rooms (via {{t|Fragmented Card}} and/or {{i|Luna}}), one of the two secret rooms is chosen at random to teleport Isaac into.\n** '''XVIII - The Moon''' will always teleport to an unexplored secret room. If one has been explored, it will teleport to the other.\n* When {{curse|Maze}} is active, using this card can teleport Isaac to a random room instead.\n* '''XVIII - The Moon''' cannot appear in [[greed mode]].",
+   "Strategy": "* '''XVIII - The Moon''' can be used to escape any room that locks down after taking its contents, like {{r|Challenge Room}}s or {{r|Boss Rush}}, effectively \"stealing\" its contents without facing the imposed challenge.\n* The hole in the wall created by teleportation will always be on the wall closest to Isaac when the card was used. This can be exploited to force the hole to appear between a secret room and a locked room of any kind. To do so, the target room must be between the secret room and Isaac.",
+   "Interactions": "* {{i|Luna}}: Allows to access the {{e|Half Soul Heart}} and tears up immediately upon entering the floor, providing protection early on the floor.\n* {{I|Tarot Cloth}}: No effect."
+  },
+  "fr": "XVIII - La Lune"
+ },
+ "Soul of Lilith": {
+  "revid": 260315,
+  "timestamp": "2026-02-25T14:13:52Z",
+  "infobox": "{{header soul stones}}\n{{Infobox rune\n | dlc         = r\n | name        = Soul of Lilith\n | type        = soul stone\n | id          = 92\n | quote       = Motherhood\n | description = Grants one permanent [[familiar]] from the {{ip|Baby Shop|text=Baby Shop pool}}. Can give familiars that Isaac already has.\n | unlocked by = Soul of Lilith\n | recharge    = 12\n}}\n\n{{cit|ur|r}}\n\n",
+  "sections": {
+   "Effects": "* Grants one permanent [[familiar]] from the {{ip|Baby Shop|text=Baby Shop pool}}.\n** Soul of Lilith can give familiars that Isaac already has.\n** [[Item Tags uniquefamiliar|Unique familiars]] can be received only once.",
+   "Notes": "* Soul of Lilith cannot grant {{i|Stitches}} and {{i|Gello|r+}}, as they are both active items.\n* Items granted by Soul of Lilith do not count as collected, and can still spawn in any pool they're in. Familiars obtained this way contribute toward transformations such as {{tf|Conjoined}}.\n* Soul of Lilith takes its familiars from the {{ip|Baby Shop|text=Baby Shop pool}}; however, when Isaac's items are rerolled, those familiars are rerolled in the {{ip|Treasure Room|text=Treasure Room item pool}}.\n* With {{c|Tainted Lost}}, Soul of Lilith is one of the few ways to obtain non-<code>[[Item Tags offensive|offensive]]</code> items.",
+   "Interactions": "* {{c|Tainted Isaac}}: Using Soul of Lilith while Isaac's inventory is full adds a permanent familiar that does not take up an inventory slot.\n** If Soul of Lilith is used while Tainted Isaac has an empty slot, the granted familiar ''will'' take up an inventory slot and can be dropped in exchange for another item as normal.\n* {{i|Void}} / {{i|Abyss}} / {{i|Starter Deck}} (or other ways of holding 2 consumables at once) + {{p|Black Rune}}: Items granted by Soul of Lilith can be destroyed for their respective bonuses right after using the soul stone while the pedestal pickup animation is playing."
+  },
+  "fr": "Âme de Lilith"
+ },
+ "Soul of Lazarus": {
+  "revid": 260313,
+  "timestamp": "2026-02-25T14:13:52Z",
+  "infobox": "{{header soul stones}}\n{{Infobox rune\n | dlc         = r\n | name        = Soul of Lazarus\n | type        = soul stone\n | id          = 89\n | quote       = Life after death\n | description = Isaac dies, and is immediately revived at half a Heart in the same room, with 1.5 second of invincibility time. The soul stone is automatically used upon taking fatal damage, acting as an extra life.\n | unlocked by = Soul of Lazarus\n | recharge    = 1\n}}\n\n{{cit|ur|r}}\n\n",
+  "sections": {
+   "Effects": "* Isaac dies, and is immediately revived at half a Heart in the same room, with 1.5 second of invincibility time. \n** The soul stone is automatically used upon taking fatal damage, acting as an extra life.",
+   "Notes": "* Soul of Lazarus has the highest priority of all [[:Category:Revival items|revival items]].",
+   "Strategy": "* Soul of Lazarus is very precious for {{c|Tainted Lost}} as revival items are very rare with him.\n* Soul of Lazarus can be used to steal a devil deal. If the deal taken would kill Isaac, the soul stone will revive him on the spot.\n* One extremely niche use involves being one hit away from death on red HP, and using the soul stone to kill Isaac in order to preserve his chance for a {{r|Devil Room}}.\n* As a revival item, it can be used to make use of high-risk/guaranteed death items such as {{i|Damocles}} or {{p|Suicide King}}.\n* Since Soul of Lazarus revives Isaac in the same room he died in, it is useful against bosses as reviving does not reset their health.",
+   "Synergies": "* {{i|Plan C}}: Soul of Lazarus allow to use Plan C safely on bosses that have a death animation longer than 3 seconds.",
+   "Interactions": "* {{i|Echo Chamber}}: Getting automatically revived by Soul of Lazarus does not add it to the queue, and directly using the soul stone will not allow for automatic revival in the future."
+  },
+  "fr": "Âme de Lazare"
+ },
+ "Soul of Samson": {
+  "revid": 260316,
+  "timestamp": "2026-02-25T14:13:55Z",
+  "infobox": "{{header soul stones}}\n{{Infobox rune\n | dlc         = r\n | name        = Soul of Samson\n | type        = soul stone\n | id          = 87\n | quote       = Slay a thousand\n | description = Isaac turns berserk for 10 seconds, replacing his tears with a melee jawbone club and gaining +0.4 [[Speed]], some [[Tears]], and +3 flat [[Damage]].\n | unlocked by = Soul of Samson\n | recharge    = 6\n}}\n\n{{cit|ur|r}}\n\n",
+  "sections": {
+   "Effects": "* Isaac turns berserk for 10 seconds, replacing Isaac's tears with a melee jawbone club and gaining +0.4 [[Speed]], some [[Tears]], and +3 flat [[Damage]].\n** The jawbone club works similar to {{c|The Forgotten}}'s bone club.",
+   "Notes": "* The rune's effect is nearly identical to {{i|Berserk!}}, with the exceptions that Isaac will not get any speed bonuses from killing enemies, nor can the duration of the effect be extended. ''See the item page for more detailed information on the effect and notes.''"
+  },
+  "fr": "Âme de Samson"
+ },
+ "XIV - Temperance": {
+  "revid": 274098,
+  "timestamp": "2026-11-06T16:55:44Z",
+  "infobox": "{{header tarot cards}}\n{{Infobox card\n | name        = XIV - Temperance\n | id          = 15\n | quote       = May you be pure in heart\n | description = Creates a {{e|Blood Donation Machine}} near Isaac. {{dlc|a}} Spawns a {{e|Devil Beggar}} instead in [[Greed mode]].\n | recharge    = {{dlcalt|4|r=6}}\n}}\n\n{{cit|c}}\n\n",
+  "sections": {
+   "Effects": "* Spawns a {{e|Blood Donation Machine}} near Isaac.\n* In {{mode|greed}}[[Greed mode]], spawns a {{e|Devil Beggar}} instead.",
+   "Notes": "* Using '''XIV - Temperance''' can, in rare cases, spawn the {{e|Blood Donation Machine}} directly on Isaac, forcing him to use it once. This happens more often if Isaac is against a wall and there are many more machines around him.",
+   "Strategy": "* Even if Isaac is short on HP to use the machines, they can still be blown up for more pickups.\n** To save on bombs, it is recommended to use '''XIV - Temperance''' next to a [[tinted rock]] or a {{r|Secret Room}}'s entrance, so that they can both be blown up by the same bomb.\n* Since the machine/beggar prioritizes taking away {{e|Red Heart}}s, they can be placed next to a {{r|Curse Room}} and entered just after giving health to the machine/beggar. This halves the cost of potential Soul/Black Hearts for entering the Curse Room.",
+   "Synergies": "* {{I|Tarot Cloth}}: Spawns 2 machines.\n** {{I|Tarot Cloth|nr}} + {{i|Blank Card}} + {{i|Car Battery|n}} : Spawns 4 machines.\n** {{I|Tarot Cloth|r}} + {{i|Blank Card}}: Only spawns one machine when used with Blank Card."
+  },
+  "fr": "XIV - Tempérance"
+ },
+ "XI - Strength?": {
+  "revid": 269442,
+  "timestamp": "2026-09-19T13:33:06Z",
+  "infobox": "{{header reverse tarot cards}}\n{{Infobox card\n | dlc         = r\n | name        = XI - Strength?\n | files name  = XI - Inverted Strength\n | type        = card\n | id          = 67\n | quote       = May you break their resolve\n | description = All enemies in the room are [[weakened]], becoming slightly slower and taking double damage from all sources. Affected enemies also have their damage reduced to half a heart. The effect lasts up to one minute, or until the room is left.\n | unlocked by = Strength\n | recharge    = 3\n}}\n\n{{cit|uc|r}}\n\n",
+  "sections": {
+   "Effects": "* All enemies (including [[bosses]]) in the room are [[weakened]], becoming slightly slower, having slightly slowed projectile speed, and taking double damage from all sources for up to a minute or until the room is cleared. Afflicted enemies also have their damage reduced to half a heart.\n* Causes a purple fog to cover the room; this effect is purely visual.\n* The effect lasts up to one minute, or until the room is left.",
+   "Notes": "* Enemies spawned in later on, after Isaac has already used the card, will also be afflicted with weakness as long as the effect is active.\n* Enemies' decreased damage applies even in the {{s|Womb}} stages and beyond.",
+   "Interactions": "* {{I|Tarot Cloth}}: No effect.\n* [[Addicted!]]: Makes Isaac take a full heart of damage even when '''XI - Strength?''' is active."
+  },
+  "fr": "XI - La Force ?"
+ },
+ "Soul of Cain": {
+  "revid": 260309,
+  "timestamp": "2026-02-25T14:13:52Z",
+  "infobox": "{{header soul stones}}\n{{Infobox rune\n | dlc         = r\n | name        = Soul of Cain\n | type        = soul stone\n | id          = 83\n | quote       = Opens the unopenable\n | description = Opens all doors in the room and creates a {{r|Red Room}} on all valid walls. This also destroys the mirror located in {{s|Downpour}} / {{s|Dross}} II.\n | unlocked by = Soul of Cain\n | recharge    = 6\n}}\n\n{{cit|ur|r}}\n\n",
+  "sections": {
+   "Effects": "* Opens all doors in the room.\n* Creates a {{r|Red Room}} on all valid walls of the room. This is indicated by walls that have red door outlines on them.",
+   "Notes": "* '''Soul of Cain''' can destroy the mirror located in {{s|Downpour}} / {{s|Dross}} II.\n* '''Soul of Cain''' can open:\n:# Any normal doors that are closed during combat, even on floors that normally disallow this;\n:# Any dоor requiring {{e|Key}}s;\n:# Any door requiring {{e|Bomb}}s to blow open (including {{r|Secret Room}} and {{r|Super Secret Room}} doors);\n:# {{r|Challenge Room}} and {{r|Boss Challenge Room}} doors regardless of health total;\n:# The door to the {{e|Mega Satan}} arena;\n:# The {{r|Boss Rush}} door from inside;\n:# The doors of a {{r|Mini-Boss Room}} from inside;\n:# Most {{r|Boss Room}} dоors from inside;\n:# The exit door in {{mode|greed}} [[Greed mode]];\n:#* Leaving the main room before clearing a set of waves will reset the wave counter, and repeated waves will not drop coins or charge Isaac's activated item.\n:# The {{s|Mausoleum}} / {{s|Gehenna}} doors without paying the health cost;\n:# The flesh door leading to {{s|Corpse}};\n:# {{a|A Strange Door}}.\n:# The closet containing a tainted character in {{s|Home}}.\n\n* '''Soul of Cain''' cannot open:\n:# The {{r|Boss Rush}} door if the timer has already passed 20 minutes;\n:# The door to the room leading to {{s|???}} if the timer has already passed 30 minutes;\n:# {{r|Angel Room}} or {{r|Devil Room}} doors from the outside;\n:# The door of {{E|Mom}}'s Boss Room from inside;\n:# The door to {{s|The Void}} during the {{e|Hush}} boss fight.",
+   "Strategy": "* '''Soul of Cain''' can serve as a {{r|Secret Room}} finder, as secret room entrances do not have red door outlines.\n* Refer to the {{r|Ultra Secret Room}} page for the strategy to better find it."
+  },
+  "fr": "Âme de Caïn"
+ },
+ "Soul of Eve": {
+  "revid": 262346,
+  "timestamp": "2026-03-29T20:25:12Z",
+  "infobox": "{{header soul stones}}\n{{Infobox rune\n | dlc         = r\n | name        = Soul of Eve\n | type        = soul stone\n | id          = 86\n | quote       = Your very own murder\n | description = 14 {{i|Dead Bird}} familiars fly in and attack enemies. They last 10 seconds and will begin to leave after the limit, but will stay as long as an enemy is alive. They will disappear if Isaac leaves the room.\n | unlocked by = Soul of Eve\n | recharge    = 4\n}}\n\n{{cit|ur|r}}\n\n",
+  "sections": {
+   "Effects": "* Spawns 14 {{I|Dead Bird}} familiars that fly in from off-screen and attack enemies.\n** They last 10 seconds and will begin to leave after the limit, but will stay as long as an enemy is alive. They will disappear if Isaac leaves the room.",
+   "Notes": "* When a bird expires and begins to leave, it will only disappear once it flies to the edge of the screen. If another monster spawns or becomes vulnerable before the bird can fully fly away, it will return and continue attacking.",
+   "Interactions": "* {{i|BFFS!}}: Doubles the damage of the dead birds."
+  },
+  "fr": "Âme d'Ève"
+ },
+ "X - Wheel of Fortune?": {
+  "revid": 258530,
+  "timestamp": "2026-01-23T11:05:03Z",
+  "infobox": "{{header reverse tarot cards}}\n{{Infobox card\n | dlc         = r\n | name        = X - Wheel of Fortune?\n | files name  = X - Inverted Wheel of Fortune\n | type        = card\n | id          = 66\n | quote       = Throw the dice of fate\n | description = Invokes a random {{r|Dice Room}} effect.\n | unlocked by = Wheel of Fortune\n | recharge    = 4\n}}\n\n{{cit|uc|r}}\n\n",
+  "sections": {
+   "Effects": "* Invokes a random {{r|Dice Room}} effect.",
+   "Notes": "* There is no clear indication as to what effect is triggered.",
+   "Synergies": "* {{I|Tarot Cloth}}: Invokes an additional random {{r|Dice Room}} effect."
+  },
+  "fr": "X - La Roue de Fortune ?"
+ },
+ "XVI - The Tower?": {
+  "revid": 269561,
+  "timestamp": "2026-09-23T16:44:07Z",
+  "infobox": "{{header reverse tarot cards}}\n{{Infobox card\n | dlc         = r\n | name        = XVI - The Tower?\n | files name  = XVI - Inverted The Tower\n | type        = card\n | id          = 72\n | quote       = Creation brings destruction\n | description = Creates 7 clusters of random [[rocks]] and other obstacles. Spawned clusters will often contain [[tinted rock]]s, with the possibility of finding more than one in the same room. The pathways between exits can't be blocked.\n | unlocked by = The Tower\n | recharge    = {{dlcalt|3|r+=4}}\n}}\n\n{{cit|uc|r}}\n\n",
+  "sections": {
+   "Effects": "* Creates 7 clusters of random [[rocks]] and other obstacles. The pathways between exits can't be blocked.\n** Every [[rocks|rock]] has a 3% chance to be a [[tinted rock]].",
+   "Strategy": "* It is recommended to use '''XVI - The Tower?''' in a large room, as the clusters will be larger, increasing the chance of spawning tinted rocks.",
+   "Synergies": "* {{I|Tarot Cloth}}: Spawns 14 rock clusters."
+  },
+  "fr": "XVI - La Maison Dieu ?"
+ },
+ "VI - The Lovers?": {
+  "revid": 267635,
+  "timestamp": "2026-08-12T10:17:26Z",
+  "infobox": "{{header reverse tarot cards}}\n{{Infobox card\n | dlc         = r\n | name        = VI - The Lovers?\n | files name  = VI - Inverted The Lovers\n | type        = card\n | id          = 62\n | quote       = May your heart shatter to pieces\n | description = Creates a random item from the current room's item pool. Turns one [[Red Heart Container]] or two {{e|Soul Heart}}s into a [[Broken Heart]].\n | unlocked by = The Lovers\n| recharge =             4\n}}\n\n{{cit|uc|r}}\n\n",
+  "sections": {
+   "Effects": "* Creates a random item pedestal from the current room's item pool.\n* Turns one [[Health#Red_Heart_Containers|Red Heart Container]] or two {{e|Soul Heart}}s into a [[Health#Broken_Hearts|Broken Heart]].",
+   "Notes": "* Can cause Isaac to die if he no longer has health after the conversion.\n* For the purposes of tracking {{i|Heartbreak|n}}'s effect on {{c|The Lost}} / {{c|Tainted Lost}}, VI - The Lovers? doesn't add any hidden [[Broken Heart]]s to their healthbar, allowing them to use the card without penalty.\n* While they're functionally very similar, using VI - The Lovers? does not count as a use of {{i|Magic Skin}}, thus not adding or increasing the chance for future items to be replaced with Magic Skin.\n* For {{c|Keeper}} / {{c|Tainted Keeper}}, broken hearts will lower the maximum amount of coin hearts he can have. Therefore use of this card on them isn't recommended.",
+   "Synergies": "* {{I|Tarot Cloth}}: Removes 2 heart containers or 4 Soul Heart, then adds 2 broken hearts and spawns 2 items."
+  },
+  "fr": "VI - L'Amoureux ?"
+ },
+ "Soul of Isaac": {
+  "revid": 274212,
+  "timestamp": "2026-11-06T17:12:59Z",
+  "infobox": "{{header soul stones}}\n{{Infobox rune\n | dlc         = r\n | name        = Soul of Isaac\n | type        = soul stone\n | id          = 81\n | quote       = Reroll... or not\n | description = Rerolls all items in the room, but they cycle back to the original item after one second, repeating. If more uses are stacked, an additional item per use will be cycled through.\n | unlocked by = Soul of Isaac\n | recharge    = 4\n}}\n\n{{cit|ur|r}}\n\n",
+  "sections": {
+   "Effects": "* Rerolls all items in the room, but they cycle back to the original item after one second, repeating.",
+   "Notes": "* The reroll has the same rules as {{i|The D6}}.\n* If more uses are stacked, an additional item per use will be cycled through.\n* Activation of a {{e|Shop Restock Machine}} will reset the number of items that will be cycled through.",
+   "Strategy": "* It is best to use this in a room with multiple items in order to maximize the amount of items seen, allowing for the most potential choices.\n** A smart idea is to use this in the {{r|Angel Room}}. This is because they often have multiple pedestals, including the one spawned by fighting the [[Angel]].",
+   "Interactions": "* {{c|Isaac}} + {{i|Birthright}} / {{c|Tainted Isaac}} / {{i|Glitched Crown}}: An additional item will be cycled through."
+  },
+  "fr": "Âme d'Isaac"
+ },
+ "VIII - Justice?": {
+  "revid": 269159,
+  "timestamp": "2026-09-08T18:45:02Z",
+  "infobox": "{{header reverse tarot cards}}\n{{Infobox card\n | dlc         = r\n | name        = VIII - Justice?\n | files name  = VIII - Inverted Justice\n | type        = card\n | id          = 64\n | quote       = May your sins come back to torment you\n | description = Creates 2 to 4 {{e|Locked Chest}}s near Isaac.\n | unlocked by = Justice\n | recharge    = 12\n}}\n\n{{cit|uc|r}}\n\n",
+  "sections": {
+   "Effects": "* Spawns 2 - 4 {{e|Locked Chest}}s.",
+   "Notes": "* The spawned Locked Chests have a 0.833% chance to be replaced by {{e|Mega Chest}}s if they are unlocked.",
+   "Synergies": "* {{I|Tarot Cloth}}: Spawns 4-14 {{E|Locked Chest}}s.\n** {{I|Tarot Cloth}} + {{i|Blank Card}}: Only 2-7 chests spawn.",
+   "Interactions": "* {{t|The Left Hand}}: Turns all spawned chests into {{e|Red Chest}}s."
+  },
+  "fr": "VIII - La Justice ?"
+ },
+ "XIV - Temperance?": {
+  "revid": 269726,
+  "timestamp": "2026-09-26T22:54:15Z",
+  "infobox": "{{header reverse tarot cards}}\n{{Infobox card\n | dlc         = r\n | name        = XIV - Temperance?\n | files name  = XIV - Inverted Temperance\n | type        = card\n | id          = 70\n | quote       = May your hunger be satiated\n | description = Forces Isaac to eat 5 random [[pills]] in quick succession. Eaten pill types become identified.\n | unlocked by = Temperance\n | recharge    = 6\n}}\n\n{{cit|uc|r}}\n\n",
+  "sections": {
+   "Effects": "* Forces Isaac to eat several random [[pills]] (from the run's pill pool) in quick succession.\n** Eaten pill types become identified.",
+   "Notes": "* Changing rooms while the pills are eaten does not stop the forced feeding of pills.\n* If unlocked, [[Horse Pills]] can rarely appear in the sequence of force fed pills.",
+   "Synergies": "* {{I|Tarot Cloth}}: Forces Isaac to eat 10 [[pills]].",
+   "Interactions": "* {{i|Acid Baby}}: Each eaten pill triggers Acid Baby's poison effect, dealing 10 damage per pill + extra poison damage.\n* {{t|Endless Nameless}}: Only '''XIV - Temperance?''' itself can be copied, not the pill it generates.\n* {{i|Lil Spewer}}: Each eaten pill changes Lil Spewer effect.\n* [[Vurp!]]: Clones the last pill used."
+  },
+  "fr": "XIV - Tempérance ?"
+ },
+ "X - Wheel of Fortune": {
+  "revid": 274108,
+  "timestamp": "2026-11-06T16:55:51Z",
+  "infobox": "{{header tarot cards}}\n{{Infobox card\n | name        = X - Wheel of Fortune\n | id          = 11\n | quote       = Spin the wheel of destiny\n | description = Spawns a {{e|Slot Machine}} or {{e|Fortune Telling Machine}} near Isaac. <br>{{dlc+|r+}} Also has a 1% chance to spawn a {{e|Crane Game|n}}.{{dlc-}}\n| recharge =             4\n}}\n\n{{cit|c}}\n\n",
+  "sections": {
+   "Effects": "* Spawns a {{e|Slot Machine}} (75% chance) or {{e|Fortune Telling Machine}} (25% chance) near Isaac.\n** {{dlc+|r+}} Also has a 1% chance to spawn a {{e|Crane Game|n}}.{{dlc-}}",
+   "Strategy": "* Even if Isaac is short on coins to use the machines, they can still be blown up for more pickups.\n** To save on bombs, it is recommended to use '''X - Wheel of Fortune''' next to a [[tinted rock]] or a {{r|Secret Room}}'s entrance, so that they can both be blown up by the same bomb.",
+   "Synergies": "* {{I|Tarot Cloth}}: Spawns 2 machines.\n** Each machine can be any of the two types.\n** {{I|Tarot Cloth|nr}} + {{i|Blank Card}} + {{i|Car Battery|n}}: Spawns 4 machines.\n** {{I|Tarot Cloth|r}} + {{i|Blank Card}}: Only spawns one machine when used with Blank Card."
+  },
+  "fr": "X - La Roue de Fortune"
+ },
+ "VIII - Justice": {
+  "revid": 262154,
+  "timestamp": "2026-03-26T18:43:01Z",
+  "infobox": "{{header tarot cards}}\n{{Infobox card\n | name        = VIII - Justice\n | id          = 9\n | quote       = May your future become balanced\n | description = Drops a random type of [[Heart]], {{e|Key}}, {{e|Bomb}}, and [[Coin]] pickup on the ground.\n| recharge =             {{dlcalt|4|r=6}}\n}}\n\n{{cit|c}}\n\n",
+  "sections": {
+   "Effects": "* Drops a random type of [[Heart]], {{e|Key}}, {{e|Bomb}}, and [[Coin]] pickup on the ground.",
+   "Notes": "* The pickups spawned can be of any of their types (if unlocked):\n** The coin can be of any value.\n** The heart can be of any color.\n** The key can be a {{e|Golden Key}}, a {{e|Charged Key}} {{dlc|nr}} but not a {{e|Key Ring}}.\n** The bomb can be double, or even a {{e|Troll Bomb}}.",
+   "Strategy": "* Some {{r|Super Secret Room}} layouts can force hearts in them to be of one type. Using '''VIII - Justice''' in these rooms can force the hearts to be of one specific type.\n* Since the bomb can be a troll bomb, it's better to use '''VIII - Justice''' next to a [[tinted rock]] or a {{r|Secret Room}}'s entrance.",
+   "Synergies": "* {{I|Tarot Cloth}}: Spawns two of each pickup.\n** Each pickup can independently be of any type.\n** {{I|Tarot Cloth|n}} + {{i|Blank Card}} + {{i|Car Battery|n}} : Spawns four of each pickup."
+  },
+  "fr": "VIII - La Justice"
+ },
+ "V - The Hierophant": {
+  "revid": 262151,
+  "timestamp": "2026-03-26T18:42:40Z",
+  "infobox": "{{header tarot cards}}\n{{Infobox card\n| name =                 V - The Hierophant\n| id =  \t             6\n| quote =                Two prayers for the lost\n| description =          Spawns 2 {{e|Soul Heart}}s on the ground.\n| recharge =             {{dlcalt|4|r=12}}\n}}\n\n{{cit|c}}\n\n",
+  "sections": {
+   "Effects": "* Spawns 2 {{e|Soul Heart}}s on the ground near Isaac.",
+   "Notes": "* As the Soul Hearts are spawned on the ground, if the card is used too close to a pit or obstacle, or if there isn’t enough room around Isaac, the hearts can spawn on the other side of the pit or obstacle.\n** Since the hearts need to be picked up and are not directly added to Isaac’s HP they will trigger effects such as {{i|Soul Locket}} or {{i|Immaculate Conception}}.\n* Some {{r|Super Secret Room}} layouts can force hearts in them to be of one type. Using '''V - The Hierophant''' in these rooms can transform the soul hearts into other types of hearts, which may be an unwanted outcome.",
+   "Synergies": "* {{I|Tarot Cloth|n}}: Spawns {{dlc|nr}} 4 / {{dlc|r}} 3 {{e|Soul Heart}}s.\n** {{I|Tarot Cloth|n}} + {{i|Blank Card}} + {{i|Car Battery|n}} : Spawns {{dlc|nr}} 8 / {{dlc|r}} 6 soul hearts."
+  },
+  "fr": "V - Le Pape"
+ },
+ "XV - The Devil?": {
+  "revid": 258528,
+  "timestamp": "2026-01-23T11:05:02Z",
+  "infobox": "{{header reverse tarot cards}}\n{{Infobox card\n | dlc         = r\n | name        = XV - The Devil?\n | files name  = XV - Inverted The Devil\n | type        = card\n | id          = 71\n | quote       = Bask in the light of your mercy\n | costume     = Collectible Fate appearance.png\n | description = Invokes {{i|The Bible}} (which can kill {{E|Mom}}). Grants [[Flight]] and spawns a {{i|Seraphim}} familiar for 30 seconds.\n | unlocked by = The Devil\n | recharge    = 4\n}}\n\n{{cit|uc|r}}\n\n",
+  "sections": {
+   "Effects": "* Invokes {{i|The Bible}} effect.\n* Grants [[Flight]] and spawns a {{i|Seraphim}} familiar for 30 seconds.",
+   "Notes": "* {{i|The Bible}} effect can kill {{e|Mom}}, {{e|Mom's Heart}}, and {{e|It Lives!}}. It will also kill Isaac if '''XV - The Devil?''' is used during the {{e|Satan}} fight.\n** As such, killing Mom with '''XV - The Devil?''' can also unlock {{a|A Halo}}.\n* The card's effect persists in the {{i|Knife Piece 2}} abandoned area, allowing for easier completion of the chase sequence. However, the effect is likely to wear off before the end of the sequence.\n* The Seraphim familiar disappears precisely 30 seconds after use, but the flight ability is removed only after exiting the room the 30 seconds were elapsed in.",
+   "Interactions": "* {{I|Tarot Cloth}}: No effect."
+  },
+  "fr": "XV - Le Diable ?"
+ },
+ "Soul of the Keeper": {
+  "revid": 267088,
+  "timestamp": "2026-07-29T16:11:52Z",
+  "infobox": "{{header soul stones}}\n{{Infobox rune\n | dlc         = r\n | name        = Soul of the Keeper\n | type        = soul stone\n | id          = 93\n | quote       = $$$\n | description = Drops 1-25 random [[Coins]] on the ground.\n | unlocked by = Soul of the Keeper\n | recharge    = 12\n}}\n\n{{cit|ur|r}}\n\n",
+  "sections": {
+   "Effects": "* Drops 1-25 random {{e|Penny|text=Coins}} on the ground.\n** These coins may be any normal type with their respective usual chances: {{E|Penny|text=Pennies}}, {{E|Nickel}}s, {{E|Dime}}s, {{E|Lucky Penny|text=Lucky Pennies}}, {{E|Sticky Nickel}}s or {{E|Golden Penny|text=Golden Pennies}}.\n** Denomination of coins that spawn is not affected by [[luck]].",
+   "Interactions": "* {{t|Nuh Uh!}}: Provides an abundance of resources from [[Chapter 4]] onward."
+  },
+  "fr": "Âme du Gardien"
+ },
+ "Soul of Jacob and Esau": {
+  "revid": 274265,
+  "timestamp": "2026-11-06T17:42:47Z",
+  "infobox": "{{header soul stones}}\n{{Infobox rune\n | dlc         = r\n | name        = Soul of Jacob and Esau\n | type        = soul stone\n | id          = 97\n | quote       = Bound by blood\n | description = Spawns {{c|Esau}} as a temporary secondary character, controlled at the same time as Isaac. He dies with no consequences if his health runs out, and disappears when Isaac leaves the room. Esau has random items equal to the number of items Isaac has, each based on the pools of the items Isaac's were obtained from.\n | unlocked by = Soul of Jacob and Esau\n | recharge    = 4\n}}\n\n{{cit|ur|r}}\n\n",
+  "sections": {
+   "Effects": "* Spawns {{c|Esau}} as a temporary secondary character, controlled at the same time as Isaac. He dies with no consequences if his health runs out, and disappears when Isaac leaves the room.\n* Esau is given random items equal to the number of items Isaac has, each based on the pools of the items Isaac's were obtained from.",
+   "Notes": "* The spawned Esau can interact with {{e|Blood Donation Machine}}s, {{e|Devil Beggar}}s, {{e|Hell Game}}s, and {{r|Sacrifice Room}} allowing {{C|The Lost}} and {{C|Tainted Lost}} to safely use them without dying, or a form of invulnerability.\n* He cannot leave a room, so he can't be used to negate damage from exiting a {{r|Curse Room}}.\n* He also cannot pick up items, nor can he pick up things such as pills/cards/soul stones.\n** He can pick up all other pickups and can replenish his health by picking up hearts.\n* When the '''Soul of Jacob and Esau''' is used, some items given to Esau will also apply to Isaac for the floor. This happens with {{i|Black Candle}} and mapping items such as {{i|The Compass}}, for example.\n** If Esau is given {{i|PHD}} / {{i|False PHD|n}}, pills will remain identified for the rest of the run, even if negative pills aren't converted into positive ones.\n** If Esau is given {{i|Eden's Blessing|n}}, an extra item will be given to Isaac at the start of the next run."
+  },
+  "fr": "Âme de Jacob et Ésaü"
+ },
+ "XX - Judgement?": {
+  "revid": 274106,
+  "timestamp": "2026-11-06T16:55:49Z",
+  "infobox": "{{header reverse tarot cards}}\n{{Infobox card\n | dlc         = r\n | name        = XX - Judgement?\n | files name  = XX - Inverted Judgement\n | type        = card\n | id          = 76\n | quote       = May you redeem those found wanting\n | description = Spawns a {{e|Shop Restock Machine}} near Isaac.\n | unlocked by = Judgement\n | recharge    = 12\n}}\n\n{{cit|uc|r}}\n\n",
+  "sections": {
+   "Effects": "* Spawns a {{e|Shop Restock Machine}} near Isaac.",
+   "Strategy": "* It is recommended to check if Isaac has enough money before entering a {{r|Devil Room}} / {{r|Angel Room}} to reroll their items with this card.\n** A bomb is all the more important in an angel room for obtaining and rerolling the key pieces.",
+   "Synergies": "* {{I|Tarot Cloth}}: Spawns 2 restock machines."
+  },
+  "fr": "XX - Le Jugement ?"
+ },
+ "Suicide King": {
+  "revid": 274074,
+  "timestamp": "2026-11-06T16:55:25Z",
+  "infobox": "{{header special cards}}\n''Not to be confused with [[Suicide King (Challenge)]].\n{{infobox card\n | type        = special card\n | id          = 46\n | recharge    = {{dlcalt|4|r=1}}\n | quote       = A true ending?\n | description = Kills Isaac and spawns lots of Pickups, items, and/or Chests in the same room.\n | unlocked by = Suicide King\n}}\n\n{{cit|us}}\n\n",
+  "sections": {
+   "Effects": "* Kills Isaac and spawns 10 consumables and/or items around the location of use.",
+   "Notes": "* Being a [[special card]], Suicide King has a significantly lower chance of appearing compared to other cards.\n* The spawned collectibles will come from the [[Item Pool]] related to the Room where Suicide King was used (e.g. Angel Room items if used in an {{r|Angel Room}}).",
+   "Strategy": "* Since using Suicide King means death, Isaac will need to have a resurrection item to make a good use of it, such as {{i|1up!}}, the {{i|Ankh}}, the {{i|Dead Cat}}, or being {{C|Lazarus}}.\n** When combined with {{i|Blank Card}} and {{i|Dead Cat}}, the card can be used nine times (spawning a total of 90 consumables and/or items).\n* Suicide King won't always drop a pedestal item, but often drops numerous Chests, meaning that using Suicide King on a [[special room]] or in {{s|Chest}}/{{s|Dark Room}} can be useful to get good items.\n* {{dlc|r}} When doing a [[Repentance Co-Op|true co-op]] run, the player that uses Suicide King can be revived by beating the floor boss. An ideal time to use this card would be during the fight with the floor's boss while its health is low.\n** {{dlc|r+}} In [[Online (open beta)|online co-op]] mode, the player who uses Suicide King can also be revived at any time, for a cost, using the {{e|Revive Machine}}.\n* Although a niche situation, {{i|Echo Chamber}} and multiple Suicide Kings, likely via Echo Chambered {{p|Jera}}, and several extra lives like the Dead Cat allows stacking large amounts of rewards: each Suicide King in the Echo Chamber spawns its rewards, but Isaac dies only once, allowing up to 4x rewards per life. Counting remaining lives and using different consumables to remove the Suicide Kings from the Chamber afterwards is important to keep in mind."
+  },
+  "fr": "Roi Suicidaire"
+ },
+ "XIII - Death": {
+  "revid": 268640,
+  "timestamp": "2026-08-26T21:28:22Z",
+  "infobox": "{{header tarot cards}}\n{{Infobox card\n | name        = XIII - Death\n | id          = 14\n | quote       = Lay waste to all that oppose you\n | description = Triggers {{i|The Necronomicon}} effect, dealing 40 damage to all enemies in the room.\n | recharge    = {{dlcalt|4|r=3}}\n}}\n\n{{cit|c}}\n\n",
+  "sections": {
+   "Effects": "* Deals 40 damage to all enemies in the room.",
+   "Notes": "* '''XIII - Death''''s effect is identical to {{i|The Necronomicon}}'s effect.\n* {{dlc|a}} Damage from the card bypasses [[damage scaling]].",
+   "Synergies": "* {{I|Tarot Cloth}}: Deals 80 damage.\n** {{I|Tarot Cloth|r}} + {{i|Blank Card}}: Deals 40 damage.\n* {{t|A Missing Page|r}} / {{i|Missing Page 2|r}}: Deals +40 damage per copy."
+  },
+  "fr": "XIII - La Mort"
+ },
+ "Soul of the Forgotten": {
+  "revid": 274264,
+  "timestamp": "2026-11-06T17:42:47Z",
+  "infobox": "{{header soul stones}}\n{{Infobox rune\n | dlc         = r\n | name        = Soul of the Forgotten\n | type        = soul stone\n | id          = 95\n | quote       = Skeletal protector\n | description = Spawns {{c|The Forgotten}} as a temporary secondary character, controlled at the same time as Isaac. He dies with no consequences if his health run out, and disappears when Isaac leaves the room. The bone swing deals high damage, and reflects tears.\n | unlocked by = Soul of the Forgotten\n | recharge    = 3\n}}\n\n{{cit|ur|r}}\n\n",
+  "sections": {
+   "Effects": "* Spawns {{c|The Forgotten}} as a temporary secondary character, controlled at the same time as Isaac. He dies with no consequences if his health run out, and disappears when Isaac leaves the room. The bone swing deals high damage, and reflects tears.",
+   "Notes": "* The spawned Forgotten can interact with {{e|Blood Donation Machine}}s, {{e|Devil Beggar}}s, {{e|Hell Game}}s, and {{r|Sacrifice Room}} allowing {{C|The Lost}} and {{C|Tainted Lost}} to safely use them without dying, or a form of invulnerability.\n* He cannot leave a room, so he can't be used to negate damage from exiting a {{r|Curse Room}}.\n* He also cannot pick up items, nor can he pick up things such as pills/cards/soul stones.\n** He can pick up hearts, however he can only replenish his bone hearts by collecting a bone heart pickup.\n* {{dlc|nr+}} If The Forgotten is hit, this will invalidate the conditions for spawning {{t|Perfection}}, regardless of whether or not the main character has been hit.\n* The spawned Forgotten cannot switch to The Soul.\n* {{E|Lucky Penny|text=Lucky Pennies}} picked up by the Forgotten will not give Isaac luck.",
+   "Strategy": "* As mentioned above, the Forgotten can be used to sacrifice health at various sources with no cost to Isaac, enabling Isaac to obtain certain items if lucky enough."
+  },
+  "fr": "Âme du Délaissé"
+ },
+ "XII - The Hanged Man": {
+  "revid": 262174,
+  "timestamp": "2026-03-26T18:46:27Z",
+  "infobox": "{{header tarot cards}}\n{{Infobox card\n | name        = XII - The Hanged Man\n | id          = 13\n | quote       = May you find enlightenment\n | recharge    = {{dlcalt|4|r=3}}\n | costume     = Collectible Transcendence appearance.png\n | description = Grants [[flight]] for the duration of the room.\n}}\n\n{{cit|c}}\n\n",
+  "sections": {
+   "Effects": "* Grants [[flight]] for the duration of the room.",
+   "Notes": "* {{dlc+|r}} During the chase sequence following {{i|Knife Piece 2}}, XII - The Hanged Man may appear behind puzzle element and if reached, allows Isaac to skip an entire room by flying out of it.{{dlc-}}",
+   "Strategy": "* Flight can halve the cost of entering a {{r|Curse Room}}: entering a curse room while flying will not deal any damage. Exiting a curse room by its door will deal damage to Isaac in all cases.",
+   "Interactions": "* {{I|Tarot Cloth}}: No effect."
+  },
+  "fr": "XII - Le Pendu"
+ },
+ "XI - Strength": {
+  "revid": 262173,
+  "timestamp": "2026-03-26T18:46:21Z",
+  "infobox": "{{header tarot cards}}\n{{Infobox card\n | name        = XI - Strength\n | id          = 12\n | quote       = May your power bring rage\n | description = Grants the effects of {{i|Magic Mushroom}} (minus the health restoration) for one room. The added [[Red Heart container]] is not removed if doing so would kill Isaac.\n| recharge =             {{dlcalt|4|r=3}}\n}}\n\n{{cit|c}}\n\n",
+  "sections": {
+   "Effects": "* Grants the effects of {{i|Magic Mushroom}} (minus the health restoration) for one room. The added [[Red Heart container]] is not removed if doing so would kill Isaac.",
+   "Notes": "* {{dlc|nr}} Using '''XI - Strength''' as {{C|???}} will give him a permanent Soul Heart instead of a temporary one.\n* {{dlc+|anr}} When {{C|Keeper}} has only one Coin Heart, he can use '''XI - Strength''' to gain a second one which is also permanent.{{dlc-}}\n** {{dlc|r}} Both of the mentioned characters will lose the temporary health granted by '''XI - Strength'''.",
+   "Strategy": "* Since this effect only lasts for a room, it is preferably used against a [[boss]].\n* {{dlc|nr}} The heart container granted by '''XI - Strength''' cannot be used to purchase a [[devil deal]]. However, if Isaac has no other red heart containers to spend, then one granted by '''XI - Strength''' can be used this way. This also works if the devil deal costs 2 hearts, but Isaac only has 0 or 1 before activating the Strength card.\n** {{dlc|r}} The heart container granted by the card can now be spent for any purposes (e. g. devil deals, {{i|Potato Peeler|n}}, etc.) without any restrictions.",
+   "Synergies": "* {{I|Tarot Cloth}}: Doubles the stat increases, but the [[damage]] multiplier applies only once.\n** {{I|Tarot Cloth|nr}} + {{i|Blank Card}} + {{i|Car Battery|n}} : Quadruples the stat increases.\n** {{I|Tarot Cloth|r}} + {{i|Blank Card}} : Does not double stat increases if used with Blank card."
+  },
+  "fr": "XI - La Force"
+ },
+ "XVII - The Stars": {
+  "revid": 262181,
+  "timestamp": "2026-03-26T18:47:22Z",
+  "infobox": "{{header tarot cards}}\n{{Infobox card\n | name        = XVII - The Stars\n | id          = 18\n | quote       = May you find what you desire\n | description = Teleports Isaac to the {{r|Treasure Room}}. {{dlc+|r}}If there is a {{r|Planetarium}}, teleports Isaac there instead.{{dlc-}}\n | recharge    = {{dlcalt|4|r=2}}\n}}\n\n{{cit|c}}\n\n",
+  "sections": {
+   "Effects": "* Teleports Isaac to the {{r|Treasure Room}}.\n* {{dlc+|r}} If there is a {{r|Planetarium}}, teleports Isaac there instead.{{dlc-}}",
+   "Notes": "* {{dlc|nr}} XVII - The Stars cannot appear in [[greed mode]].\n* Using XVII - The Stars on a floor that doesn't have a {{r|Treasure Room}} / {{r|Planetarium}} will teleport Isaac to a random room.\n* When {{cu|Labyrinth}} is active, one of the two treasure rooms is chosen at random to teleport Isaac into.\n** XVII - The Stars will always teleport to an unexplored treasure room. If one has been explored, it will teleport to the other.\n* When {{curse|Maze}} is active, using this card can teleport Isaac to a random room instead.",
+   "Strategy": "* XVII - The Stars allows to access the {{r|Treasure Room}} / {{r|Planetarium}} without using a key.\n* XVII - The Stars can be used to escape any room that locks down after taking its contents, like {{r|Challenge Room}}s or {{r|Boss Rush}}, effectively \"stealing\" its contents without facing the imposed challenge.",
+   "Synergies": "* {{I|Tarot Cloth|r}}: If the treasure room was unexplored before using XVII - The Stars, it will contain two choice item pedestals, as if {{i|More Options|n}} was active.\n** It has no effect if it teleports to a planetarium.",
+   "Interactions": "* {{I|Tarot Cloth|nr}}: No effect."
+  },
+  "fr": "XVII - L'Étoile"
+ },
+ "XIII - Death?": {
+  "revid": 258516,
+  "timestamp": "2026-01-23T11:04:53Z",
+  "infobox": "{{header reverse tarot cards}}\n{{Infobox card\n | dlc         = r\n | name        = XIII - Death?\n | files name  = XIII - Inverted Death\n | type        = card\n | id          = 69\n | quote       = May life spring forth from the fallen\n | description = Creates a [[friendly]] {{E|Bony}}, {{E|Black Bony}}, {{E|Bone Fly}}, {{E|Revenant}}, {{e|Big Bony}}, or an orbital bone for each enemy killed in the current room.\n | unlocked by = Death\n | recharge    = 4\n}}\n\n{{cit|uc|r}}\n\n",
+  "sections": {
+   "Effects": "* Spawns one of the following for each enemy already killed in the current room:\n** An orbital bone familiar (very common).\n** A [[friendly]] {{e|Bony}} (uncommon).\n** A friendly {{e|Black Bony}} (rare).\n** A friendly {{e|Bone Fly|n}} (uncommon).\n** A friendly {{e|Revenant|n}} (rare).\n** A friendly {{e|Big Bony}} (uncommon chance only if the killed enemy has high enough HP)\n* {{dlc|rnr+}} Spawning an enemy other than a Bony/Black Bony is only possible after dying at least once to said enemy on the save file.\n* The chance to spawn Revenants is greatly increased in {{s|Mausoleum}} / {{s|Gehenna}} / {{s|Sheol}} / {{s|Dark Room}}.",
+   "Notes": "* '''XIII - Death?''''s effect is identical to that of {{i|Book of the Dead}}. ''Refer to its page to see in-depth interactions, detailed spawn chances, and notes about the bone orbitals.''\n* Up to 32 enemy deaths can be tracked in the room. Those locations are used as spawn points for bone orbitals and Bonies.\n** If Isaac leaves the room, the points are reset. Using '''XIII - Death?''' will have no effect.",
+   "Strategy": "* To gain the most value out of '''XIII - Death?''', it is recommended to leave enemies that can summon other enemies alive for longer, which will increase the number of dead enemies in one room.",
+   "Interactions": "* {{I|Tarot Cloth}}: No effect."
+  },
+  "fr": "XIII - La Mort ?"
+ },
+ "Soul of the Lost": {
+  "revid": 269249,
+  "timestamp": "2026-09-10T16:07:12Z",
+  "infobox": "{{header soul stones}}\n{{Infobox rune\n | dlc         = r\n | name        = Soul of the Lost\n | type        = soul stone\n | id          = 91\n | quote       = Leave your body behind\n | description = Turns Isaac into a ghost for the current room as if he touched the {{e|White Fire Place}} in {{s|Downpour}} II / {{s|Dross}} II, temporarily granting {{c|The Lost}}'s properties.\n | unlocked by = Soul of the Lost\n | recharge    = 3\n}}\n\n{{cit|ur|r}}\n\n",
+  "sections": {
+   "Effects": "* Turns Isaac into a ghost for the current room as if he touched the {{e|White Fire Place}} in {{s|Downpour}} II / {{s|Dross}} II, temporarily granting {{c|The Lost}}'s properties.",
+   "Notes": "* '''Soul of The Lost''' does not actually turn the played character into {{c|The Lost}}. As such, completion marks will be attributed to the played character.\n** However, it can be used to enter the Mirror Dimension in Downpour/Dross II. Isaac does not turn back into the original character after entering the mirror.\n* Unlike touching the {{e|White Fire Place}}, the ghost form granted by the rune will always have {{i|Holy Mantle}} even if it hasn't been unlocked yet for {{c|The Lost}}. \n** The {{i|Holy Mantle}} shield gained from this can be stacked with multiple uses.\n* The ghost form can take [[devil deal]]s at no HP cost, but can only take one.",
+   "Strategy": "* Since in ghost form only one devil deal can be taken, it is better (if one has HP to spare) to pay for a devil deal then use '''Soul of the Lost''' on the most expensive item if applicable.\n** Note that, unlike {{c|Tainted Jacob}}'s interaction with {{e|Dark Esau}}, using '''Soul of the Lost''' after taking a deal that would be fatal will '''not''' save you and will result in Isaac dying.\n* '''Soul of The Lost''' can also be used as last resort in a boss fight to allow for one more hit before dying.",
+   "Interactions": "* {{c|The Lost}}: Grants an additional holy mantle shield for the room.\n* {{c|Tainted Lost}}: The shield granted by {{p|Holy Card}} is broken before the one granted by '''Soul of the Lost'''."
+  },
+  "fr": "Âme de l'Égaré"
+ },
+ "XIX - The Sun": {
+  "revid": 274101,
+  "timestamp": "2026-11-06T16:55:45Z",
+  "infobox": "{{header tarot cards}}\n{{Infobox card\n | name        = XIX - The Sun\n | id          = 20\n | quote       = May the light heal and enlighten you\n | description = Restores Isaac to full [[health]], deals 100 damage to all enemies in the room, and reveals the map for the current floor, except for the {{r|Super Secret Room}} and {{r|Ultra Secret Room}}. {{dlc|r}}Removes {{cu|Darkness}} for the current floor.\n| recharge     = {{dlcalt|4|r=12}}\n}}\n\n{{cit|c}}\n\n",
+  "sections": {
+   "Effects": "* Deals 100 damage to all enemies in the room.\n* Reveals the map for the current floor, except for the {{r|Super Secret Room}} and {{r|Ultra Secret Room}}.\n* Restores Isaac to full [[health]].\n* {{dlc|r}} Removes {{cu|Darkness}} for the current floor.",
+   "Notes": "* {{dlc+|r+}} In [[multiplayer]], '''XIX - The Sun''' heals all players. Similarly, {{c|Jacob and Esau}} both receive healing regardless of who used the card, even in singleplayer.{{dlc-}}",
+   "Strategy": "* '''XIX - The Sun''' is a powerful card thanks to its many effects.\n** 100 damage is equivalent to a {{e|Bomb}}'s damage and will kill most enemies.\n** The revealed map allows for optimized charge management.\n** The full heal can help against tough boss fights, and also to make better use of {{e|Blood Donation Machine}}s, {{e|Devil Beggar}}s, {{r|Sacrifice Room}}s, etc.",
+   "Synergies": "* {{I|Tarot Cloth|nr}}: Deals 200 damage to all enemies in the room.\n* {{I|Tarot Cloth|r}}: Deals 400 damage.\n** {{I|Tarot Cloth|r}} + {{i|Blank Card}}: Deals 200 damage when used with blank card.",
+   "Interactions": "* {{i|Book of Secrets|r}}: The mapping provided by '''XIX - The Sun''' does not count as a mapping effect. The amount of times the Book of Secrets must be used before activating the {{i|X-Ray Vision}} effect remains the same."
+  },
+  "fr": "XIX - Le Soleil"
+ },
+ "Soul of Eden": {
+  "revid": 260304,
+  "timestamp": "2026-02-25T14:13:52Z",
+  "infobox": "{{header soul stones}}\n{{Infobox rune\n | dlc         = r\n | name        = Soul of Eden\n | type        = soul stone\n | id          = 90\n | quote       = Embrace chaos\n | description = Rerolls all [[pickups]], [[trinket]]s, and [[item]]s in the room. The rerolled items use random pools, as if {{i|Chaos}} were held.\n | unlocked by = Soul of Eden\n | recharge    = 4\n}}\n{{disambig msg|the soul stone|the item|Eden's Soul}}\n\n{{cit|ur|r}}\n\n",
+  "sections": {
+   "Effects": "* Rerolls all [[pickups]], [[trinket]]s, and [[item]]s in the room.\n** Rerolled items use random item pools, as if {{i|Chaos}} were held.\n** Rerolled pickups and trinkets work identically to the {{i|D20}}.",
+   "Notes": "* The reroll does not change a pedestal's item pool. Normally rerolling an item previously rerolled with the '''Soul of Eden''' will reset it to the current room's pool.\n* {{dlc|r+}} The '''Soul of Eden''' can sometimes spawn within the special bedroom created by {{i|Lil Portal}}.",
+   "Strategy": "* It is better to use the '''Soul of Eden''' in a room with many items, as to maximize the number of rare items that can be obtained."
+  },
+  "fr": "Âme d'Éden (Pierre d'Âme)"
+ }
+}

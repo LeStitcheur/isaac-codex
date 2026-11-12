@@ -1,0 +1,254 @@
+[
+ {
+  "_pageName": "??? (Character)",
+  "dlc": "31",
+  "player": "???",
+  "tears": "+0"
+ },
+ {
+  "_pageName": "Apollyon",
+  "dlc": "28",
+  "player": "Apollyon",
+  "tears": "+0"
+ },
+ {
+  "_pageName": "Azazel",
+  "dlc": "31",
+  "player": "Azazel",
+  "tears": "+0.5; x0.267"
+ },
+ {
+  "_pageName": "Bethany",
+  "dlc": "24",
+  "player": "Bethany",
+  "tears": "+0"
+ },
+ {
+  "_pageName": "Cain",
+  "dlc": "31",
+  "player": "Cain",
+  "tears": "+0"
+ },
+ {
+  "_pageName": "Eden",
+  "dlc": "7",
+  "player": "Eden",
+  "tears": "±0.75"
+ },
+ {
+  "_pageName": "Eden",
+  "dlc": "24",
+  "player": "Eden",
+  "tears": "+0.75 to -0.515"
+ },
+ {
+  "_pageName": "Eve",
+  "dlc": "31",
+  "player": "Eve",
+  "tears": "+0"
+ },
+ {
+  "_pageName": "Isaac",
+  "dlc": "31",
+  "player": "Isaac",
+  "tears": "+0"
+ },
+ {
+  "_pageName": "Jacob & Esau",
+  "dlc": "31",
+  "player": "Esau",
+  "tears": "-0.1"
+ },
+ {
+  "_pageName": "Jacob & Esau",
+  "dlc": "31",
+  "player": "Jacob",
+  "tears": "+0.277"
+ },
+ {
+  "_pageName": "Judas",
+  "dlc": "31",
+  "player": "Black Judas",
+  "tears": "+0"
+ },
+ {
+  "_pageName": "Judas",
+  "dlc": "31",
+  "player": "Judas",
+  "tears": "+0"
+ },
+ {
+  "_pageName": "Keeper",
+  "dlc": "6",
+  "player": "Keeper",
+  "tears": "-2"
+ },
+ {
+  "_pageName": "Keeper",
+  "dlc": "24",
+  "player": "Keeper",
+  "tears": "-1.9"
+ },
+ {
+  "_pageName": "Lazarus",
+  "dlc": "31",
+  "player": "Lazarus",
+  "tears": "+0"
+ },
+ {
+  "_pageName": "Lazarus",
+  "dlc": "31",
+  "player": "Lazarus Risen",
+  "tears": "+0"
+ },
+ {
+  "_pageName": "Lilith",
+  "dlc": "31",
+  "player": "Lilith",
+  "tears": "+0"
+ },
+ {
+  "_pageName": "Magdalene",
+  "dlc": "31",
+  "player": "Magdalene",
+  "tears": "+0"
+ },
+ {
+  "_pageName": "Samson",
+  "dlc": "31",
+  "player": "Samson",
+  "tears": "-0.1"
+ },
+ {
+  "_pageName": "Tainted ???",
+  "dlc": "24",
+  "player": "Tainted ???",
+  "tears": "-0.35"
+ },
+ {
+  "_pageName": "Tainted Apollyon",
+  "dlc": "24",
+  "player": "Tainted Apollyon",
+  "tears": "-0.5"
+ },
+ {
+  "_pageName": "Tainted Azazel",
+  "dlc": "24",
+  "player": "Tainted Azazel",
+  "tears": "+0; x1/3"
+ },
+ {
+  "_pageName": "Tainted Bethany",
+  "dlc": "24",
+  "player": "Tainted Bethany",
+  "tears": "+0"
+ },
+ {
+  "_pageName": "Tainted Cain",
+  "dlc": "24",
+  "player": "Tainted Cain",
+  "tears": "+0"
+ },
+ {
+  "_pageName": "Tainted Eden",
+  "dlc": "24",
+  "player": "Tainted Eden",
+  "tears": "+0.75 to -0.515"
+ },
+ {
+  "_pageName": "Tainted Eve",
+  "dlc": "24",
+  "player": "Tainted Eve",
+  "tears": "-0.5; ×0.66"
+ },
+ {
+  "_pageName": "Tainted Forgotten",
+  "dlc": "24",
+  "player": "Tainted Forgotten",
+  "tears": "+0; x1/2"
+ },
+ {
+  "_pageName": "Tainted Forgotten",
+  "dlc": "24",
+  "player": "Tainted Soul",
+  "tears": "－"
+ },
+ {
+  "_pageName": "Tainted Isaac",
+  "dlc": "24",
+  "player": "Tainted Isaac",
+  "tears": "+0"
+ },
+ {
+  "_pageName": "Tainted Jacob",
+  "dlc": "24",
+  "player": "Tainted Jacob",
+  "tears": "+0.277"
+ },
+ {
+  "_pageName": "Tainted Judas",
+  "dlc": "31",
+  "player": "Tainted Judas",
+  "tears": "+0"
+ },
+ {
+  "_pageName": "Tainted Keeper",
+  "dlc": "24",
+  "player": "Tainted Keeper",
+  "tears": "-2.2"
+ },
+ {
+  "_pageName": "Tainted Lazarus",
+  "dlc": "24",
+  "player": "Dead Tainted Lazarus",
+  "tears": "-0.1"
+ },
+ {
+  "_pageName": "Tainted Lazarus",
+  "dlc": "24",
+  "player": "Tainted Lazarus",
+  "tears": "+0"
+ },
+ {
+  "_pageName": "Tainted Lilith",
+  "dlc": "24",
+  "player": "Tainted Lilith",
+  "tears": "+0"
+ },
+ {
+  "_pageName": "Tainted Lost",
+  "dlc": "24",
+  "player": "Tainted Lost",
+  "tears": "+0"
+ },
+ {
+  "_pageName": "Tainted Magdalene",
+  "dlc": "24",
+  "player": "Tainted Magdalene",
+  "tears": "+0"
+ },
+ {
+  "_pageName": "Tainted Samson",
+  "dlc": "24",
+  "player": "Tainted Samson",
+  "tears": "-0.1"
+ },
+ {
+  "_pageName": "The Forgotten",
+  "dlc": "28",
+  "player": "The Forgotten",
+  "tears": "+0; x1/2"
+ },
+ {
+  "_pageName": "The Forgotten",
+  "dlc": "28",
+  "player": "The Soul",
+  "tears": "+0"
+ },
+ {
+  "_pageName": "The Lost",
+  "dlc": "31",
+  "player": "The Lost",
+  "tears": "+0"
+ }
+]

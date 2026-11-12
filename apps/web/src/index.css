@@ -1,0 +1,94 @@
+@import 'tailwindcss';
+@import '@fontsource/dm-sans/latin-400.css';
+@import '@fontsource/dm-sans/latin-500.css';
+@import '@fontsource/dm-sans/latin-600.css';
+@import '@fontsource/dm-sans/latin-700.css';
+@import '@fontsource/barlow-condensed/latin-700.css';
+
+/*
+ * Système visuel aligné sur LeStitcheur : tableau de bord sombre, cartes ardoise, accent rouge,
+ * DM Sans pour le texte et Barlow Condensed pour la marque. Les noms de jetons historiques
+ * (abyss, parchment, blood…) sont conservés pour que toutes les pages suivent le thème.
+ */
+@theme {
+  --color-abyss: #0d1014;
+  --color-bg: #090b0e;
+  --color-surface: #12171d;
+  --color-surface-2: #1b222b;
+  --color-surface-3: #242e3a;
+  --color-line: #29313b;
+  --color-blood: #ff4157;
+  --color-blood-bright: #ff677b;
+  --color-blood-dark: #b31432;
+  --color-parchment: #f4f6f9;
+  --color-parchment-dark: #aeb7c4;
+  --color-ink: #f0f2f5;
+  --color-muted: #8e98a6;
+  --color-faint: #5f6b7a;
+  --color-q0: #8e98a6;
+  --color-q1: #d9dee6;
+  --color-q2: #74dfa6;
+  --color-q3: #6fa8ff;
+  --color-q4: #ebc581;
+  --color-ok: #74dfa6;
+  --color-warn: #ebc581;
+  --font-sans: 'DM Sans', 'Segoe UI', ui-sans-serif, system-ui, sans-serif;
+  --font-display: 'DM Sans', 'Segoe UI', ui-sans-serif, system-ui, sans-serif;
+  --font-brand: 'Barlow Condensed', 'Bahnschrift Condensed', sans-serif;
+  --font-pixel: 'DM Sans', 'Segoe UI', ui-sans-serif, system-ui, sans-serif;
+  --animate-rise: rise 0.3s ease-out both;
+  @keyframes rise {
+    from { opacity: 0; transform: translateY(6px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+}
+
+@layer base {
+  html {
+    color-scheme: dark;
+    -webkit-text-size-adjust: 100%;
+  }
+  body {
+    @apply text-ink font-sans antialiased;
+    font-size: 14px;
+    line-height: 1.55;
+    font-synthesis: none;
+    text-rendering: optimizeLegibility;
+    background: radial-gradient(ellipse at 90% 0, #33151a33, transparent 40%), var(--color-bg);
+    background-attachment: fixed;
+  }
+  h1, h2, h3, .font-display {
+    font-family: var(--font-display);
+    font-weight: 650;
+    letter-spacing: -0.02em;
+    line-height: 1.2;
+  }
+  h1 { letter-spacing: -0.04em; }
+  ::selection { background: #ab263f; color: white; }
+  a, button { transition: background-color .16s, color .16s, border-color .16s, box-shadow .16s; }
+  :focus-visible { outline: 2px solid #ff6073; outline-offset: 3px; }
+  * { scrollbar-color: #35353e transparent; scrollbar-width: thin; }
+}
+
+@layer components {
+  /* Carte ardoise (.card de LeStitcheur). */
+  .panel {
+    color: var(--color-ink);
+    background: var(--color-surface);
+    border: 1px solid var(--color-line);
+    border-radius: 15px;
+    box-shadow: 0 3px 15px #0001;
+  }
+  .card-hover { transition: border-color .16s, background-color .16s, transform .16s; }
+  .card-hover:hover { border-color: #3d4856; background-color: #161c24; transform: translateY(-1px); }
+  /* Petit libellé en capitales espacées au-dessus des titres. */
+  .eyebrow { font-size: 10px; font-weight: 600; letter-spacing: 0.16em; text-transform: uppercase; color: #6c7988; }
+  .brand-font { font-family: var(--font-brand); font-weight: 700; letter-spacing: 0.05em; }
+  .pixel-border { box-shadow: 0 0 0 1px var(--color-line); }
+  .markup ul { @apply space-y-1; }
+  .markup a { @apply text-blood-bright underline decoration-blood/30 underline-offset-2 hover:decoration-blood-bright; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation: none !important; transition: none !important; }
+}

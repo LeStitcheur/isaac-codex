@@ -1,0 +1,972 @@
+[
+ {
+  "_pageName": "? Card",
+  "alias": "? Card",
+  "description": "When used, copies the effect of Isaac's currently held [[activated collectible]].",
+  "dlc": "30",
+  "id": "48",
+  "link": "? Card",
+  "type": "special card",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "0 - The Fool",
+  "alias": "0 - The Fool",
+  "description": "Teleports Isaac to the starting room of the current floor.",
+  "dlc": "31",
+  "id": "1",
+  "link": "0 - The Fool",
+  "type": "card",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "0 - The Fool?",
+  "alias": "0 - The Fool?",
+  "description": "Drops all [[heart]]s, [[trinket]]s, and [[pickup]]s Isaac currently possesses on the floor, leaving Isaac at half a heart. Pickups may be dropped as items such as <span class=\"tooltip\" data-tooltip=\"i%2Ftooltip%7CA+Quarter\" data-tooltip-dlc=\"24\"><span class=\"tb-icon tb-link-icon\" style=\"--tb-icon-size: 1.4em\">[[File:Collectible A Quarter icon.png|link=A Quarter|alt=|A Quarter]]&zwj;</span>[[:A Quarter|A Quarter]]</span> and <span class=\"tooltip\" data-tooltip=\"i%2Ftooltip%7CBoom%21\" data-tooltip-dlc=\"24\"><span class=\"tb-icon tb-link-icon\" style=\"--tb-icon-size: 1.4em\">[[File:Collectible Boom! icon.png|link=Boom!|alt=|Boom!]]&zwj;</span>[[:Boom!|Boom!]]</span>.",
+  "dlc": "24",
+  "id": "56",
+  "link": "0 - The Fool?",
+  "type": "card",
+  "unlocked_by": "The Fool"
+ },
+ {
+  "_pageName": "2 of Clubs",
+  "alias": "2 of Clubs",
+  "description": "Doubles Isaac's [[File:Bomb.png|link=Bombs|class=tb-icon tb-link-icon|alt=|Bomb]][[:Bombs|Bomb]]s.<br>If he has no bombs, gives him 2 instead.",
+  "dlc": "31",
+  "id": "23",
+  "link": "2 of Clubs",
+  "type": "card",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "2 of Diamonds",
+  "alias": "2 of Diamonds",
+  "description": "Doubles Isaac's <span class=\"tb-icon tb-link-icon\" >[[File:Penny.png|link=Penny (Disambiguation)|alt=|Coins]]&zwj;</span>[[:Penny (Disambiguation)|Coins]].<br>If he has no coins, gives him 2 instead.",
+  "dlc": "31",
+  "id": "24",
+  "link": "2 of Diamonds",
+  "type": "card",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "2 of Hearts",
+  "alias": "2 of Hearts",
+  "description": "Doubles Isaac's current number of <span class=\"tb-icon tb-link-icon\" >[[File:Red Heart.png|link=Hearts#Red Heart|alt=|Red Heart]]&zwj;</span>[[:Hearts#Red Heart|Red Heart]]s.<br>If Isaac only has empty Red Heart containers, he is healed for 1 Red Heart.",
+  "dlc": "31",
+  "id": "26",
+  "link": "2 of Hearts",
+  "type": "card",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "2 of Spades",
+  "alias": "2 of Spades",
+  "description": "Doubles Isaac's [[File:Key.png|link=Keys|class=tb-icon tb-link-icon|alt=|Key]][[:Keys|Key]]s.<br>If he has no keys, gives him 2 instead.",
+  "dlc": "31",
+  "id": "25",
+  "link": "2 of Spades",
+  "type": "card",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "A Card Against Humanity",
+  "alias": "A Card Against Humanity",
+  "description": "Covers the entire room with <span class=\"tb-icon tb-link-icon\" >[[File:Poop.png|link=Poop (Disambiguation)|alt=|Poop]]&zwj;</span>[[:Poop (Disambiguation)|Poop]]. The process is not instant, and the room will not get filled if Isaac leaves before it's done filling.",
+  "dlc": "31",
+  "id": "45",
+  "link": "A Card Against Humanity",
+  "type": "special card",
+  "unlocked_by": "Card Against Humanity"
+ },
+ {
+  "_pageName": "Ace of Clubs",
+  "alias": "Ace of Clubs",
+  "description": "Turns all [[pickup]]s, [[trinkets]] and [[chest]]s in the room into [[File:Bomb.png|link=Bombs|class=tb-icon tb-link-icon|alt=|Bomb]][[:Bombs|Bomb]]s.<br>[[Category:Modified in Repentance]][[File:Dlc r indicator.png|link=|class=dlc cf-tag cf-val-24 |alt=(in Repentance and Repentance+)|Added in Repentance]] All non-boss enemies in the room are also transformed.",
+  "dlc": "28",
+  "id": "27",
+  "link": "Ace of Clubs",
+  "type": "card",
+  "unlocked_by": "Hat trick!"
+ },
+ {
+  "_pageName": "Ace of Diamonds",
+  "alias": "Ace of Diamonds",
+  "description": "Turns all [[pickup]]s, [[trinkets]] and [[chest]]s in the room into [[File:Penny.png|link=Penny (Disambiguation)|class=tb-icon tb-link-icon|alt=|coins]][[:Penny (Disambiguation)|coins]].<br>[[Category:Modified in Repentance]][[File:Dlc r indicator.png|link=|class=dlc cf-tag cf-val-24 |alt=(in Repentance and Repentance+)|Added in Repentance]] All non-boss enemies in the room are also transformed into coins.",
+  "dlc": "28",
+  "id": "28",
+  "link": "Ace of Diamonds",
+  "type": "card",
+  "unlocked_by": "ZIP!"
+ },
+ {
+  "_pageName": "Ace of Hearts",
+  "alias": "Ace of Hearts",
+  "description": "Turns all [[pickup]]s, [[trinkets]] and [[chest]]s in the room into [[hearts]].<br>[[Category:Modified in Repentance]][[File:Dlc r indicator.png|link=|class=dlc cf-tag cf-val-24 |alt=(in Repentance and Repentance+)|Added in Repentance]] All non-boss enemies in the room are also transformed into hearts.",
+  "dlc": "28",
+  "id": "30",
+  "link": "Ace of Hearts",
+  "type": "card",
+  "unlocked_by": "Living on the edge"
+ },
+ {
+  "_pageName": "Ace of Spades (Card)",
+  "alias": "Ace of Spades",
+  "description": "Turns all [[pickup]]s, [[trinkets]] and [[chest]]s in the room into [[File:Key.png|link=Keys|class=tb-icon tb-link-icon|alt=|Key]][[:Keys|Key]]s.<br>[[Category:Modified in Repentance]][[File:Dlc r indicator.png|link=|class=dlc cf-tag cf-val-24 |alt=(in Repentance and Repentance+)|Added in Repentance]] All non-boss enemies in the room are also transformed into keys.",
+  "dlc": "28",
+  "id": "29",
+  "link": "Ace of Spades (Card)",
+  "type": "card",
+  "unlocked_by": "It's the Key"
+ },
+ {
+  "_pageName": "Algiz",
+  "alias": "Algiz",
+  "description": "[[Category:Modified in Repentance]][[File:Dlc nr indicator.png|link=|class=dlc cf-tag cf-val-7 |alt=(except in Repentance and Repentance+)|Removed in Repentance]] Grants a [[shield]] which lasts for 30 seconds.<br>[[Category:Modified in Repentance]][[File:Dlc r indicator.png|link=|class=dlc cf-tag cf-val-24 |alt=(in Repentance and Repentance+)|Added in Repentance]] Grants a [[shield]] which lasts for 20 seconds.",
+  "dlc": "31",
+  "id": "39",
+  "link": "Algiz",
+  "type": "rune",
+  "unlocked_by": "Rune of Algiz"
+ },
+ {
+  "_pageName": "Ancient Recall",
+  "alias": "Ancient Recall",
+  "description": "Spawns 3 random cards.",
+  "dlc": "28",
+  "id": "53",
+  "link": "Ancient Recall",
+  "type": "special card",
+  "unlocked_by": "Ancient Recall"
+ },
+ {
+  "_pageName": "Ansuz",
+  "alias": "Ansuz",
+  "description": "Reveals the whole map, including the [[File:Secret Room Icon.png|link=Secret Room|class=tb-icon tb-link-icon|alt=|]][[:Secret Room|Secret Room]] and the [[File:Super Secret Room Icon.png|link=Super Secret Room|class=tb-icon tb-link-icon|alt=|]][[:Secret Room#Super Secret Rooms|Super Secret Room]]. (This will not remove [[File:Curse of the Lost.png|link=Curses|class=tb-icon tb-link-icon|alt=|Curse of the Lost]][[:Curses|Curse of the Lost]].) [[Category:Modified in Repentance]][[File:Dlc r indicator.png|link=|class=dlc cf-tag cf-val-24 |alt=(in Repentance and Repentance+)|Added in Repentance]] Does not reveal the [[File:Ultra Secret Room Icon.png|link=Ultra Secret Room|class=tb-icon tb-link-icon|alt=|]][[:Secret Room#Ultra Secret Rooms|Ultra Secret Room]].",
+  "dlc": "31",
+  "id": "36",
+  "link": "Ansuz",
+  "type": "rune",
+  "unlocked_by": "Rune of Ansuz"
+ },
+ {
+  "_pageName": "Berkano",
+  "alias": "Berkano",
+  "description": "[[Category:Modified in Afterbirth]][[Category:Modified in Repentance+]][[File:Dlc nr+ indicator.png|link=|class=dlc cf-tag cf-val-15 |alt=(except in Repentance+)|Removed in Repentance+]] Spawns 3 [[Blue Fly|Blue Flies]] and 3 [[Blue Spider]]s.<br>[[Category:Modified in Repentance+]][[File:Dlc r+ indicator.png|link=|class=dlc cf-tag cf-val-16 |alt=(in Repentance+)|Added in Repentance+]] Gives Isaac 3 standard <span class=\"tooltip\" data-tooltip=\"i%2Ftooltip%7CAbyss\" data-tooltip-dlc=\"31\"><span style=\"--tb-icon-size: 1.4em\">[[File:Collectible Abyss icon.png|link=Abyss|class=tb-icon tb-link-icon|alt=|Abyss]]</span>[[:Abyss|Abyss]]</span> locusts for the room.",
+  "dlc": "31",
+  "id": "38",
+  "link": "Berkano",
+  "type": "rune",
+  "unlocked_by": "Rune of Berkano"
+ },
+ {
+  "_pageName": "Black Rune",
+  "alias": "Black Rune",
+  "description": "Deals 40 damage to all enemies in the room. Consumes all pickups in the room and turns them into Blue Flies and Spiders. Consumes all pedestal items in the room and turns them into random stat upgrades.",
+  "dlc": "28",
+  "id": "41",
+  "link": "Black Rune",
+  "type": "rune",
+  "unlocked_by": "Black Rune"
+ },
+ {
+  "_pageName": "Blank Rune",
+  "alias": "Blank Rune",
+  "description": "Grants a random rune effect and has a 25% chance to drop another Blank Rune on the ground upon use. [[Category:Modified in Afterbirth+]][[Category:Modified in Repentance]][[File:Dlc a†nr indicator.png|link=|class=dlc cf-tag cf-val-4 |alt=(in Afterbirth †)|Added in Afterbirth † / Removed in Repentance]] <span class=\"tooltip\" data-tooltip=\"p%2Ftooltip%7CBlack+Rune\" data-tooltip-dlc=\"4\">[[File:Pickup Black Rune icon.png|link=Black Rune|class=tb-icon tb-link-icon|alt=|Black Rune]][[:Black Rune|Black Rune]]</span> is excluded.",
+  "dlc": "30",
+  "id": "40",
+  "link": "Blank Rune",
+  "type": "rune",
+  "unlocked_by": "Blank Rune"
+ },
+ {
+  "_pageName": "Chaos Card",
+  "alias": "Chaos Card",
+  "description": "Throws the card in the direction Isaac is moving, which opens doors, breaks obstacles, and instantly kills any enemy in its path.",
+  "dlc": "31",
+  "id": "42",
+  "link": "Chaos Card",
+  "type": "special card",
+  "unlocked_by": "Chaos Card"
+ },
+ {
+  "_pageName": "Cracked Key",
+  "alias": "Cracked Key",
+  "description": "Creates a room adjacent to a viable wall, like <span class=\"tooltip\" data-tooltip=\"i%2Ftooltip%7CRed+Key\" data-tooltip-dlc=\"24\"><span style=\"--tb-icon-size: 1.4em\">[[File:Collectible Red Key icon.png|link=Red Key|class=tb-icon tb-link-icon|alt=|Red Key]]</span>[[:Red Key|Red Key]]</span>.",
+  "dlc": "24",
+  "id": "78",
+  "link": "Cracked Key",
+  "type": "special card",
+  "unlocked_by": "Red Key"
+ },
+ {
+  "_pageName": "Credit Card",
+  "alias": "Credit Card",
+  "description": "Makes all [[pickup]]s and [[item]]s that cost money or health in the room free.",
+  "dlc": "31",
+  "id": "43",
+  "link": "Credit Card",
+  "type": "special card",
+  "unlocked_by": "Credit Card"
+ },
+ {
+  "_pageName": "Dagaz",
+  "alias": "Dagaz",
+  "description": "Removes any [[Curse]]s from the current floor and grants a [[File:Soul Heart.png|link=Hearts#Soul Heart|class=tb-icon tb-link-icon|alt=|Soul Heart]][[:Hearts#Soul Heart|Soul Heart]]. (This will not remove [[File:Curse of the Labyrinth.png|link=Curses|class=tb-icon tb-link-icon|alt=|Curse of the Labyrinth]][[:Curses|Curse of the Labyrinth]].)",
+  "dlc": "31",
+  "id": "35",
+  "link": "Dagaz",
+  "type": "rune",
+  "unlocked_by": "Rune of Dagaz"
+ },
+ {
+  "_pageName": "Dice Shard",
+  "alias": "Dice Shard",
+  "description": "Upon use, invokes the effects of <span class=\"tooltip\" data-tooltip=\"i%2Ftooltip%7CThe+D6\" data-tooltip-dlc=\"30\"><span style=\"--tb-icon-size: 1.4em\">[[File:Collectible The D6 icon.png|link=The D6|class=tb-icon tb-link-icon|alt=|The D6]]</span>[[:The D6|The D6]]</span> and the <span class=\"tooltip\" data-tooltip=\"i%2Ftooltip%7CD20\" data-tooltip-dlc=\"30\"><span style=\"--tb-icon-size: 1.4em\">[[File:Collectible D20 icon.png|link=D20|class=tb-icon tb-link-icon|alt=|D20]]</span>[[:D20|D20]]</span> at the same time, rerolling all item pedestals and pickups in the room.",
+  "dlc": "30",
+  "id": "49",
+  "link": "Dice Shard",
+  "type": "",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Ehwaz",
+  "alias": "Ehwaz",
+  "description": "Creates a trapdoor leading to the next floor. [[Category:Modified in Repentance]][[File:Dlc nr indicator.png|link=|class=dlc cf-tag cf-val-7 |alt=(except in Repentance and Repentance+)|Removed in Repentance]] Has an estimated 1/12 (8%) chance to create a trapdoor leading to a [[File:Crawl Space Icon.png|link=Crawl Space|class=tb-icon tb-link-icon|alt=|]][[:Crawl Space|Crawl Space]] instead. [[Category:Modified in Repentance]][[File:Dlc r indicator.png|link=|class=dlc cf-tag cf-val-24 |alt=(in Repentance and Repentance+)|Added in Repentance]] Guaranteed to create a trap door to a [[File:Crawl Space Icon.png|link=Crawl Space|class=tb-icon tb-link-icon|alt=|]][[:Crawl Space|Crawl Space]] if used on floor tiles containing certain patterns. Will not create trapdoors if used on the end floor of a challenge.",
+  "dlc": "31",
+  "id": "34",
+  "link": "Ehwaz",
+  "type": "rune",
+  "unlocked_by": "Rune of Ehwaz"
+ },
+ {
+  "_pageName": "Emergency Contact",
+  "alias": "Emergency Contact",
+  "description": "When used, will cause two [[File:Mom's Hand.png|link=Mom's Hand|class=tb-icon tb-link-icon|alt=|Mom's Hand]][[:Mom's Hand|Mom's Hand]]s to come down and grab two random enemies, dealing damage and, if they have 40 or more HP, immobilizing them temporarily.",
+  "dlc": "30",
+  "id": "50",
+  "link": "Emergency Contact",
+  "type": "",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Era Walk",
+  "alias": "Era Walk",
+  "description": "For the current room, enemies are slowed, Isaac's speed is increased by 0.50, and his shot speed is decreased by 1.00.",
+  "dlc": "28",
+  "id": "54",
+  "link": "Era Walk",
+  "type": "special card",
+  "unlocked_by": "Era Walk"
+ },
+ {
+  "_pageName": "Get out of Jail Free Card",
+  "alias": "Get out of Jail Free Card",
+  "description": "Upon use, opens all doors in the current room, exactly like <span class=\"tooltip\" data-tooltip=\"i%2Ftooltip%7CDad%27s+Key\" data-tooltip-dlc=\"30\"><span style=\"--tb-icon-size: 1.4em\">[[File:Collectible Dad's Key icon.png|link=Dad's Key|class=tb-icon tb-link-icon|alt=|Dad's Key]]</span>[[:Dad's Key|Dad's Key]]</span>.",
+  "dlc": "30",
+  "id": "47",
+  "link": "Get out of Jail Free Card",
+  "type": "special card",
+  "unlocked_by": "Get out of Jail Free Card"
+ },
+ {
+  "_pageName": "Hagalaz",
+  "alias": "Hagalaz",
+  "description": "Destroys all breakable obstacles in the room. Does not affect Key Blocks. [[Category:Modified in Repentance+]][[File:Dlc r+ indicator.png|link=|class=dlc cf-tag cf-val-16 |alt=(in Repentance+)|Added in Repentance+]] Also destroys or removes the armor of most stone-themed and/or invulnerable enemies, such as <span class=\"tb-icon tb-link-icon\" >[[File:Host.png|link=Host|alt=|Host]]&zwj;</span>[[:Host|Host]]s, <span class=\"tb-icon tb-link-icon\" >[[File:Stone Grimace.png|link=Stone Grimace|alt=|Stone Grimace]]&zwj;</span>[[:Stone Grimace|Stone Grimace]]s, and <span class=\"tb-icon tb-link-icon\" >[[File:Knight.png|link=Knight|alt=|Knight]]&zwj;</span>[[:Knight|Knight]]s, among many others.",
+  "dlc": "31",
+  "id": "32",
+  "link": "Hagalaz",
+  "type": "rune",
+  "unlocked_by": "Rune of Hagalaz"
+ },
+ {
+  "_pageName": "Holy Card",
+  "alias": "Holy Card",
+  "description": "[[Category:Modified in Repentance]][[File:Dlc nr indicator.png|link=|class=dlc cf-tag cf-val-7 |alt=(except in Repentance and Repentance+)|Removed in Repentance]] Grants a shield that blocks the next hostile damage that would be taken in the current [[room]]. Has a chance to spawn another Holy Card on use.<br>[[Category:Modified in Repentance]][[File:Dlc r indicator.png|link=|class=dlc cf-tag cf-val-24 |alt=(in Repentance and Repentance+)|Added in Repentance]] Grants a shield that blocks the next hostile damage that would be taken.",
+  "dlc": "28",
+  "id": "51",
+  "link": "Holy Card",
+  "type": "special card",
+  "unlocked_by": "Holy Card"
+ },
+ {
+  "_pageName": "Huge Growth",
+  "alias": "Huge Growth",
+  "description": "For the current room, makes Isaac larger, allows him to crush [[obstacles]] he walks on, and grants +7 flat [[Damage]] and [[Category:Modified in Repentance]][[File:Dlc nr indicator.png|link=|class=dlc cf-tag cf-val-7 |alt=(except in Repentance and Repentance+)|Removed in Repentance]] +30 [[Range]] [[Category:Modified in Repentance]][[File:Dlc r indicator.png|link=|class=dlc cf-tag cf-val-24 |alt=(in Repentance and Repentance+)|Added in Repentance]] +3 [[Range]].",
+  "dlc": "28",
+  "id": "52",
+  "link": "Huge Growth",
+  "type": "special card",
+  "unlocked_by": "Huge Growth"
+ },
+ {
+  "_pageName": "I - The Magician",
+  "alias": "I - The Magician",
+  "description": "[[Category:Modified in Repentance]][[File:Dlc nr indicator.png|link=|class=dlc cf-tag cf-val-7 |alt=(except in Repentance and Repentance+)|Removed in Repentance]] Grants [[homing tears]] for the current room.<br>[[Category:Modified in Repentance]][[File:Dlc r indicator.png|link=|class=dlc cf-tag cf-val-24 |alt=(in Repentance and Repentance+)|Added in Repentance]]Grants [[homing tears]] and +3 [[Range]] for the current room.",
+  "dlc": "31",
+  "id": "2",
+  "link": "I - The Magician",
+  "type": "card",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "I - The Magician?",
+  "alias": "I - The Magician?",
+  "description": "Grants a repelling blue aura for one minute that strongly pushes enemies and projectiles away from Isaac.",
+  "dlc": "24",
+  "id": "57",
+  "link": "I - The Magician?",
+  "type": "card",
+  "unlocked_by": "The Magician"
+ },
+ {
+  "_pageName": "II - The High Priestess",
+  "alias": "II - The High Priestess",
+  "description": "[[Mom]]'s dismembered leg stomps on the enemy with the most health, dealing 300 damage and destroying obstacles in the area. If used in an empty room or during the <span class=\"tb-icon tb-link-icon\" >[[File:Boss Mom ingame.png|link=Mom|alt=|Mom]]&zwj;</span>[[:Mom|Mom]] fight, stomps Isaac instead. [[Category:Modified in Afterbirth+]][[File:Dlc a† indicator.png|link=|class=dlc cf-tag cf-val-28 |alt=(except in Rebirth and Afterbirth)|Added in Afterbirth †]] Isaac can move to avoid the stomp.",
+  "dlc": "31",
+  "id": "3",
+  "link": "II - The High Priestess",
+  "type": "card",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "II - The High Priestess?",
+  "alias": "II - The High Priestess?",
+  "description": "[[File:Boss Mom ingame.png|link=Mom|class=tb-icon tb-link-icon|alt=|Mom]][[:Mom|Mom]]'s leg starts stomping down repeatedly, targeting Isaac, for one minute, like holding <span class=\"tooltip\" data-tooltip=\"i%2Ftooltip%7CBroken+Shovel+1\" data-tooltip-dlc=\"24\"><span style=\"--tb-icon-size: 1.4em\">[[File:Collectible Broken Shovel 1 icon.png|link=Broken Shovel|class=tb-icon tb-link-icon|alt=|Broken Shovel]]</span>[[:Broken Shovel|Broken Shovel]]</span>.",
+  "dlc": "24",
+  "id": "58",
+  "link": "II - The High Priestess?",
+  "type": "card",
+  "unlocked_by": "The High Priestess"
+ },
+ {
+  "_pageName": "III - The Empress",
+  "alias": "III - The Empress",
+  "description": "Triggers the <span class=\"tooltip\" data-tooltip=\"i%2Ftooltip%7CWhore+of+Babylon\" data-tooltip-dlc=\"31\"><span style=\"--tb-icon-size: 1.4em\">[[File:Collectible Whore of Babylon icon.png|link=Whore of Babylon|class=tb-icon tb-link-icon|alt=|Whore of Babylon]]</span>[[:Whore of Babylon|Whore of Babylon]]</span> effect (+1.5 [[Damage]], +0.3 [[Speed]]) for the current room, regardless of Isaac's total health.",
+  "dlc": "31",
+  "id": "4",
+  "link": "III - The Empress",
+  "type": "card",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "III - The Empress?",
+  "alias": "III - The Empress?",
+  "description": "Grants 2 temporary [[Red Heart Container]]s, +1.5 [[Fire Rate]], and -0.1 [[Speed]] for one minute, along with <span style=\"--tb-icon-size: 1.4em\">[[File:Character Magdalene icon.png|link=Magdalene|class=tb-icon tb-link-icon|alt=|]]</span>[[:Magdalene|Magdalene]]'s hairstyle. The effect does not stack with itself.",
+  "dlc": "24",
+  "id": "59",
+  "link": "III - The Empress?",
+  "type": "card",
+  "unlocked_by": "The Empress"
+ },
+ {
+  "_pageName": "IV - The Emperor",
+  "alias": "IV - The Emperor",
+  "description": "Teleports Isaac into the [[File:Boss Room Icon.png|link=Boss Room|class=tb-icon tb-link-icon|alt=|]][[:Boss Room|Boss Room]].",
+  "dlc": "31",
+  "id": "5",
+  "link": "IV - The Emperor",
+  "type": "card",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "IV - The Emperor?",
+  "alias": "IV - The Emperor?",
+  "description": "Teleports Isaac into an extra [[File:Boss Room Icon.png|link=Boss Room|class=tb-icon tb-link-icon|alt=|]][[:Boss Room|Boss Room]] from the boss pool two floors deeper than the current floor (but never a final boss). The boss will drop a reward. Exiting the room returns Isaac to where he used the card.",
+  "dlc": "24",
+  "id": "60",
+  "link": "IV - The Emperor?",
+  "type": "card",
+  "unlocked_by": "The Emperor"
+ },
+ {
+  "_pageName": "IX - The Hermit",
+  "alias": "IX - The Hermit",
+  "description": "Teleports Isaac to the [[File:Shop Icon.png|link=Shop|class=tb-icon tb-link-icon|alt=|]][[:Shop|Shop]].",
+  "dlc": "31",
+  "id": "10",
+  "link": "IX - The Hermit",
+  "type": "card",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "IX - The Hermit?",
+  "alias": "IX - The Hermit?",
+  "description": "Turns items, trinkets, and pickups in the room into [[coins]]. If there is nothing to sell, drops a [[File:Penny.png|link=Penny (Disambiguation)|class=tb-icon tb-link-icon|alt=|Penny]][[:Penny (Disambiguation)|Penny]].",
+  "dlc": "24",
+  "id": "65",
+  "link": "IX - The Hermit?",
+  "type": "card",
+  "unlocked_by": "The Hermit"
+ },
+ {
+  "_pageName": "Jera",
+  "alias": "Jera",
+  "description": "Duplicates all pickups and [[chests]] in the room. Cannot clone other '''Jera''' runes and [[trinkets]].",
+  "dlc": "31",
+  "id": "33",
+  "link": "Jera",
+  "type": "rune",
+  "unlocked_by": "Rune of Jera"
+ },
+ {
+  "_pageName": "Joker",
+  "alias": "Joker",
+  "description": "Teleports Isaac to the [[File:Devil Room Icon.png|link=Devil Room|class=tb-icon tb-link-icon|alt=|]][[:Devil Room|Devil Room]] or [[File:Angel Room Icon.png|link=Angel Room|class=tb-icon tb-link-icon|alt=|]][[:Angel Room|Angel Room]].",
+  "dlc": "31",
+  "id": "31",
+  "link": "Joker",
+  "type": "card",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Perthro",
+  "alias": "Perthro",
+  "description": "Rerolls all items in the room (the same effect as <span class=\"tooltip\" data-tooltip=\"i%2Ftooltip%7CThe+D6\" data-tooltip-dlc=\"31\"><span style=\"--tb-icon-size: 1.4em\">[[File:Collectible The D6 icon.png|link=The D6|class=tb-icon tb-link-icon|alt=|The D6]]</span>[[:The D6|The D6]]</span>).",
+  "dlc": "31",
+  "id": "37",
+  "link": "Perthro",
+  "type": "rune",
+  "unlocked_by": "Rune of Perthro"
+ },
+ {
+  "_pageName": "Queen of Hearts",
+  "alias": "Queen of Hearts",
+  "description": "Drops 1-20 full <span class=\"tb-icon tb-link-icon\" >[[File:Red Heart.png|link=Hearts#Red Heart|alt=|Red Heart]]&zwj;</span>[[:Hearts#Red Heart|Red Heart]]s on the ground.",
+  "dlc": "24",
+  "id": "79",
+  "link": "Queen of Hearts",
+  "type": "card",
+  "unlocked_by": "Queen of Hearts"
+ },
+ {
+  "_pageName": "Rules Card",
+  "alias": "Rules Card",
+  "description": "Displays a cryptic statement on the screen, similar to a <span class=\"tb-icon tb-link-icon\" >[[File:Fortune Telling Machine.png|link=Machines#Fortune Telling Machine|alt=|Fortune Telling Machine]]&zwj;</span>[[:Machines#Fortune Telling Machine|Fortune Telling Machine]]. These messages (often) provide hints on bosses, bonus areas, etc.",
+  "dlc": "31",
+  "id": "44",
+  "link": "Rules Card",
+  "type": "special card",
+  "unlocked_by": "Rules Card"
+ },
+ {
+  "_pageName": "Rune Shard",
+  "alias": "Rune Shard",
+  "description": "Activates a random rune effect that's weaker than normal. Only spawns when less than 6 different runes have been unlocked.",
+  "dlc": "24",
+  "id": "55",
+  "link": "Rune Shard",
+  "type": "rune",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "Soul of ???",
+  "alias": "Soul of ???",
+  "description": "Causes 8 [[poison]] farts that leave lingering brown [[creep]], then plants a trail of 7 <span class=\"tooltip\" data-tooltip=\"i%2Ftooltip%7CButt+Bombs\" data-tooltip-dlc=\"24\"><span style=\"--tb-icon-size: 1.4em\">[[File:Collectible Butt Bombs icon.png|link=Butt Bombs|class=tb-icon tb-link-icon|alt=|Butt Bombs]]</span>[[:Butt Bombs|Butt Bombs]]</span> in quick succession. Standing on the creep gives +1.5 [[Fire Rate]] and +1 [[Damage]].",
+  "dlc": "24",
+  "id": "85",
+  "link": "Soul of ???",
+  "type": "soul stone",
+  "unlocked_by": "Soul of ???"
+ },
+ {
+  "_pageName": "Soul of Apollyon",
+  "alias": "Soul of Apollyon",
+  "description": "Spawns 15 random [[locusts]].",
+  "dlc": "24",
+  "id": "94",
+  "link": "Soul of Apollyon",
+  "type": "soul stone",
+  "unlocked_by": "Soul of Apollyon"
+ },
+ {
+  "_pageName": "Soul of Azazel",
+  "alias": "Soul of Azazel",
+  "description": "Activates <span class=\"tooltip\" data-tooltip=\"i%2Ftooltip%7CMega+Blast\" data-tooltip-dlc=\"24\"><span style=\"--tb-icon-size: 1.4em\">[[File:Collectible Mega Blast icon.png|link=Mega Blast|class=tb-icon tb-link-icon|alt=|Mega Blast]]</span>[[:Mega Blast|Mega Blast]]</span> for 7.5 seconds.",
+  "dlc": "24",
+  "id": "88",
+  "link": "Soul of Azazel",
+  "type": "soul stone",
+  "unlocked_by": "Soul of Azazel"
+ },
+ {
+  "_pageName": "Soul of Bethany",
+  "alias": "Soul of Bethany",
+  "description": "Spawns 6 <span class=\"tooltip\" data-tooltip=\"i%2Ftooltip%7CBook+of+Virtues\" data-tooltip-dlc=\"24\"><span style=\"--tb-icon-size: 1.4em\">[[File:Collectible Book of Virtues icon.png|link=Book of Virtues|class=tb-icon tb-link-icon|alt=|Book of Virtues]]</span>[[:Book of Virtues|Book of Virtues]]</span> wisps with random properties.",
+  "dlc": "24",
+  "id": "96",
+  "link": "Soul of Bethany",
+  "type": "soul stone",
+  "unlocked_by": "Soul of Bethany"
+ },
+ {
+  "_pageName": "Soul of Cain",
+  "alias": "Soul of Cain",
+  "description": "Opens all doors in the room and creates a [[File:Red Room Icon.png|link=Red Room|class=tb-icon tb-link-icon|alt=|]][[:Red Key|Red Room]] on all valid walls. This also destroys the mirror located in [[File:Stage Downpour icon.png|link=Downpour|class=tb-icon tb-link-icon|alt=|Downpour]][[:Downpour|Downpour]] / [[File:Stage Dross icon.png|link=Dross|class=tb-icon tb-link-icon|alt=|Dross]][[:Dross|Dross]] II.",
+  "dlc": "24",
+  "id": "83",
+  "link": "Soul of Cain",
+  "type": "soul stone",
+  "unlocked_by": "Soul of Cain"
+ },
+ {
+  "_pageName": "Soul of Eden",
+  "alias": "Soul of Eden",
+  "description": "Rerolls all [[pickups]], [[trinket]]s, and [[item]]s in the room. The rerolled items use random pools, as if <span class=\"tooltip\" data-tooltip=\"i%2Ftooltip%7CChaos\" data-tooltip-dlc=\"24\"><span style=\"--tb-icon-size: 1.4em\">[[File:Collectible Chaos icon.png|link=Chaos|class=tb-icon tb-link-icon|alt=|Chaos]]</span>[[:Chaos|Chaos]]</span> were held.",
+  "dlc": "24",
+  "id": "90",
+  "link": "Soul of Eden",
+  "type": "soul stone",
+  "unlocked_by": "Soul of Eden"
+ },
+ {
+  "_pageName": "Soul of Eve",
+  "alias": "Soul of Eve",
+  "description": "14 <span class=\"tooltip\" data-tooltip=\"i%2Ftooltip%7CDead+Bird\" data-tooltip-dlc=\"24\"><span style=\"--tb-icon-size: 1.4em\">[[File:Collectible Dead Bird icon.png|link=Dead Bird|class=tb-icon tb-link-icon|alt=|Dead Bird]]</span>[[:Dead Bird|Dead Bird]]</span> familiars fly in and attack enemies. They last 10 seconds and will begin to leave after the limit, but will stay as long as an enemy is alive. They will disappear if Isaac leaves the room.",
+  "dlc": "24",
+  "id": "86",
+  "link": "Soul of Eve",
+  "type": "soul stone",
+  "unlocked_by": "Soul of Eve"
+ },
+ {
+  "_pageName": "Soul of Isaac",
+  "alias": "Soul of Isaac",
+  "description": "Rerolls all items in the room, but they cycle back to the original item after one second, repeating. If more uses are stacked, an additional item per use will be cycled through.",
+  "dlc": "24",
+  "id": "81",
+  "link": "Soul of Isaac",
+  "type": "soul stone",
+  "unlocked_by": "Soul of Isaac"
+ },
+ {
+  "_pageName": "Soul of Jacob and Esau",
+  "alias": "Soul of Jacob and Esau",
+  "description": "Spawns <span class=\"tb-icon tb-link-icon\" style=\"--tb-icon-size: 1.4em\">[[File:Character Esau icon.png|link=Esau|alt=|]]&zwj;</span>[[:Jacob & Esau|Esau]] as a temporary secondary character, controlled at the same time as Isaac. He dies with no consequences if his health runs out, and disappears when Isaac leaves the room. Esau has random items equal to the number of items Isaac has, each based on the pools of the items Isaac's were obtained from.",
+  "dlc": "24",
+  "id": "97",
+  "link": "Soul of Jacob and Esau",
+  "type": "soul stone",
+  "unlocked_by": "Soul of Jacob and Esau"
+ },
+ {
+  "_pageName": "Soul of Judas",
+  "alias": "Soul of Judas",
+  "description": "Increases Isaac's [[speed]] and makes him invulnerable for 3 seconds and allows him to pass through enemies. Damages all enemies and destroys all projectiles Isaac ran through when the effect ends, and grants a temporary [[Damage]] bonus for each enemy and projectile hit.",
+  "dlc": "24",
+  "id": "84",
+  "link": "Soul of Judas",
+  "type": "soul stone",
+  "unlocked_by": "Soul of Judas"
+ },
+ {
+  "_pageName": "Soul of Lazarus",
+  "alias": "Soul of Lazarus",
+  "description": "Isaac dies, and is immediately revived at half a Heart in the same room, with 1.5 second of invincibility time. The soul stone is automatically used upon taking fatal damage, acting as an extra life.",
+  "dlc": "24",
+  "id": "89",
+  "link": "Soul of Lazarus",
+  "type": "soul stone",
+  "unlocked_by": "Soul of Lazarus"
+ },
+ {
+  "_pageName": "Soul of Lilith",
+  "alias": "Soul of Lilith",
+  "description": "Grants one permanent [[familiar]] from the <span class=\"tooltip\" data-tooltip=\"ip%2Ftooltip%7CBaby+Shop\" data-tooltip-dlc=\"24\">[[File:Item Pool Baby Shop.png|link=Baby Shop (Item Pool)|class=tb-icon tb-link-icon|alt=|Baby Shop pool]][[:Baby Shop (Item Pool)|Baby Shop pool]]</span>. Can give familiars that Isaac already has.",
+  "dlc": "24",
+  "id": "92",
+  "link": "Soul of Lilith",
+  "type": "soul stone",
+  "unlocked_by": "Soul of Lilith"
+ },
+ {
+  "_pageName": "Soul of Magdalene",
+  "alias": "Soul of Magdalene",
+  "description": "Surrounds Isaac with a bubbling red aura for the current room. All enemies killed drop [[File:Half Red Heart.png|link=Hearts#Half Red Heart|class=tb-icon tb-link-icon|alt=|Half Red Heart]][[:Hearts#Half Red Heart|Half Red Heart]]s that disappear in 2 seconds.",
+  "dlc": "24",
+  "id": "82",
+  "link": "Soul of Magdalene",
+  "type": "soul stone",
+  "unlocked_by": "Soul of Magdalene"
+ },
+ {
+  "_pageName": "Soul of Samson",
+  "alias": "Soul of Samson",
+  "description": "Isaac turns berserk for 10 seconds, replacing his tears with a melee jawbone club and gaining +0.4 [[Speed]], some [[Tears]], and +3 flat [[Damage]].",
+  "dlc": "24",
+  "id": "87",
+  "link": "Soul of Samson",
+  "type": "soul stone",
+  "unlocked_by": "Soul of Samson"
+ },
+ {
+  "_pageName": "Soul of the Forgotten",
+  "alias": "Soul of the Forgotten",
+  "description": "Spawns <span class=\"tb-icon tb-link-icon\" style=\"--tb-icon-size: 1.4em\">[[File:Character The Forgotten icon.png|link=The Forgotten|alt=|]]&zwj;</span>[[:The Forgotten|The Forgotten]] as a temporary secondary character, controlled at the same time as Isaac. He dies with no consequences if his health run out, and disappears when Isaac leaves the room. The bone swing deals high damage, and reflects tears.",
+  "dlc": "24",
+  "id": "95",
+  "link": "Soul of the Forgotten",
+  "type": "soul stone",
+  "unlocked_by": "Soul of the Forgotten"
+ },
+ {
+  "_pageName": "Soul of the Keeper",
+  "alias": "Soul of the Keeper",
+  "description": "Drops 1-25 random [[Coins]] on the ground.",
+  "dlc": "24",
+  "id": "93",
+  "link": "Soul of the Keeper",
+  "type": "soul stone",
+  "unlocked_by": "Soul of the Keeper"
+ },
+ {
+  "_pageName": "Soul of the Lost",
+  "alias": "Soul of the Lost",
+  "description": "Turns Isaac into a ghost for the current room as if he touched the [[File:White Fire Place.png|link=Fire Places#White Fire Place|class=tb-icon tb-link-icon|alt=|White Fire Place]][[:Fire Places#White Fire Place|White Fire Place]] in [[File:Stage Downpour icon.png|link=Downpour|class=tb-icon tb-link-icon|alt=|Downpour]][[:Downpour|Downpour]] II / [[File:Stage Dross icon.png|link=Dross|class=tb-icon tb-link-icon|alt=|Dross]][[:Dross|Dross]] II, temporarily granting <span style=\"--tb-icon-size: 1.4em\">[[File:Character The Lost icon.png|link=The Lost|class=tb-icon tb-link-icon|alt=|]]</span>[[:The Lost|The Lost]]'s properties.",
+  "dlc": "24",
+  "id": "91",
+  "link": "Soul of the Lost",
+  "type": "soul stone",
+  "unlocked_by": "Soul of the Lost"
+ },
+ {
+  "_pageName": "Suicide King",
+  "alias": "Suicide King",
+  "description": "Kills Isaac and spawns lots of Pickups, items, and/or Chests in the same room.",
+  "dlc": "31",
+  "id": "46",
+  "link": "Suicide King",
+  "type": "special card",
+  "unlocked_by": "Suicide King"
+ },
+ {
+  "_pageName": "V - The Hierophant",
+  "alias": "V - The Hierophant",
+  "description": "Spawns 2 [[File:Soul Heart.png|link=Hearts#Soul Heart|class=tb-icon tb-link-icon|alt=|Soul Heart]][[:Hearts#Soul Heart|Soul Heart]]s on the ground.",
+  "dlc": "31",
+  "id": "6",
+  "link": "V - The Hierophant",
+  "type": "card",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "V - The Hierophant?",
+  "alias": "V - The Hierophant?",
+  "description": "Spawns 2 [[File:Bone Heart.png|link=Hearts#Bone Heart|class=tb-icon tb-link-icon|alt=|Bone Heart]][[:Hearts#Bone Heart|Bone Heart]]s on the ground.",
+  "dlc": "24",
+  "id": "61",
+  "link": "V - The Hierophant?",
+  "type": "card",
+  "unlocked_by": "The Hierophant"
+ },
+ {
+  "_pageName": "VI - The Lovers",
+  "alias": "VI - The Lovers",
+  "description": "Spawns 2 full [[File:Red Heart.png|link=Hearts#Red Heart|class=tb-icon tb-link-icon|alt=|Red Heart]][[:Hearts#Red Heart|Red Heart]]s on the ground.",
+  "dlc": "31",
+  "id": "7",
+  "link": "VI - The Lovers",
+  "type": "card",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "VI - The Lovers?",
+  "alias": "VI - The Lovers?",
+  "description": "Creates a random item from the current room's item pool. Turns one [[Red Heart Container]] or two [[File:Soul Heart.png|link=Hearts#Soul Heart|class=tb-icon tb-link-icon|alt=|Soul Heart]][[:Hearts#Soul Heart|Soul Heart]]s into a [[Broken Heart]].",
+  "dlc": "24",
+  "id": "62",
+  "link": "VI - The Lovers?",
+  "type": "card",
+  "unlocked_by": "The Lovers"
+ },
+ {
+  "_pageName": "VII - The Chariot",
+  "alias": "VII - The Chariot",
+  "description": "Gives [[invulnerability]] and +0.28 [[speed]] for six seconds, removing the ability to shoot tears and replacing it with the ability to deal contact damage to enemies.",
+  "dlc": "31",
+  "id": "8",
+  "link": "VII - The Chariot",
+  "type": "card",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "VII - The Chariot?",
+  "alias": "VII - The Chariot?",
+  "description": "Isaac becomes an invincible statue with 4× fire rate for 10 seconds. The statue can be nudged slightly by moving and is affected by knockback.",
+  "dlc": "24",
+  "id": "63",
+  "link": "VII - The Chariot?",
+  "type": "card",
+  "unlocked_by": "The Chariot"
+ },
+ {
+  "_pageName": "VIII - Justice",
+  "alias": "VIII - Justice",
+  "description": "Drops a random type of [[Heart]], [[File:Key.png|link=Keys|class=tb-icon tb-link-icon|alt=|Key]][[:Keys|Key]], [[File:Bomb.png|link=Bombs|class=tb-icon tb-link-icon|alt=|Bomb]][[:Bombs|Bomb]], and [[Coin]] pickup on the ground.",
+  "dlc": "31",
+  "id": "9",
+  "link": "VIII - Justice",
+  "type": "card",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "VIII - Justice?",
+  "alias": "VIII - Justice?",
+  "description": "Creates 2 to 4 [[File:Locked Chest.png|link=Chests#Locked Chest|class=tb-icon tb-link-icon|alt=|Locked Chest]][[:Chests#Locked Chest|Locked Chest]]s near Isaac.",
+  "dlc": "24",
+  "id": "64",
+  "link": "VIII - Justice?",
+  "type": "card",
+  "unlocked_by": "Justice"
+ },
+ {
+  "_pageName": "Wild Card",
+  "alias": "Wild Card",
+  "description": "Copies the effect of the most recently used [[Pill]], [[Card]], [[Rune]], [[Soul Stone]], or [[activated item]].",
+  "dlc": "24",
+  "id": "80",
+  "link": "Wild Card",
+  "type": "special card",
+  "unlocked_by": "Wild Card"
+ },
+ {
+  "_pageName": "X - Wheel of Fortune",
+  "alias": "X - Wheel of Fortune",
+  "description": "Spawns a <span class=\"tb-icon tb-link-icon\" >[[File:Slot Machine.png|link=Machines#Slot Machine|alt=|Slot Machine]]&zwj;</span>[[:Machines#Slot Machine|Slot Machine]] or <span class=\"tb-icon tb-link-icon\" >[[File:Fortune Telling Machine.png|link=Machines#Fortune Telling Machine|alt=|Fortune Telling Machine]]&zwj;</span>[[:Machines#Fortune Telling Machine|Fortune Telling Machine]] near Isaac. <br>[[Category:Modified in Repentance+]][[File:Dlc r+ indicator.png|link=|class=dlc cf-tag cf-val-16 |alt=(in Repentance+)|Added in Repentance+]] Also has a 1% chance to spawn a <span class=\"tb-icon tb-link-icon\" >[[File:Crane Game.png|link=Machines#Crane Game|alt=|Crane Game]]&zwj;</span>[[:Machines#Crane Game|Crane Game]].",
+  "dlc": "31",
+  "id": "11",
+  "link": "X - Wheel of Fortune",
+  "type": "card",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "X - Wheel of Fortune?",
+  "alias": "X - Wheel of Fortune?",
+  "description": "Invokes a random [[File:Dice Room Icon.png|link=Dice Room|class=tb-icon tb-link-icon|alt=|]][[:Dice Room|Dice Room]] effect.",
+  "dlc": "24",
+  "id": "66",
+  "link": "X - Wheel of Fortune?",
+  "type": "card",
+  "unlocked_by": "Wheel of Fortune"
+ },
+ {
+  "_pageName": "XI - Strength",
+  "alias": "XI - Strength",
+  "description": "Grants the effects of <span class=\"tooltip\" data-tooltip=\"i%2Ftooltip%7CMagic+Mushroom\" data-tooltip-dlc=\"31\"><span style=\"--tb-icon-size: 1.4em\">[[File:Collectible Magic Mushroom icon.png|link=Magic Mushroom|class=tb-icon tb-link-icon|alt=|Magic Mushroom]]</span>[[:Magic Mushroom|Magic Mushroom]]</span> (minus the health restoration) for one room. The added [[Red Heart container]] is not removed if doing so would kill Isaac.",
+  "dlc": "31",
+  "id": "12",
+  "link": "XI - Strength",
+  "type": "card",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "XI - Strength?",
+  "alias": "XI - Strength?",
+  "description": "All enemies in the room are [[weakened]], becoming slightly slower and taking double damage from all sources. Affected enemies also have their damage reduced to half a heart. The effect lasts up to one minute, or until the room is left.",
+  "dlc": "24",
+  "id": "67",
+  "link": "XI - Strength?",
+  "type": "card",
+  "unlocked_by": "Strength"
+ },
+ {
+  "_pageName": "XII - The Hanged Man",
+  "alias": "XII - The Hanged Man",
+  "description": "Grants [[flight]] for the duration of the room.",
+  "dlc": "31",
+  "id": "13",
+  "link": "XII - The Hanged Man",
+  "type": "card",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "XII - The Hanged Man?",
+  "alias": "XII - The Hanged Man?",
+  "description": "Isaac turns visually into <span style=\"--tb-icon-size: 1.4em\">[[File:Character Keeper icon.png|link=Keeper|class=tb-icon tb-link-icon|alt=|]]</span>[[:Keeper|Keeper]] for 30 seconds, with triple shot and -0.1 [[speed]]. Killed enemies drop a random [[File:Penny.png|link=Penny (Disambiguation)|class=tb-icon tb-link-icon|alt=|coin]][[:Penny (Disambiguation)|coin]].",
+  "dlc": "24",
+  "id": "68",
+  "link": "XII - The Hanged Man?",
+  "type": "card",
+  "unlocked_by": "The Hanged Man"
+ },
+ {
+  "_pageName": "XIII - Death",
+  "alias": "XIII - Death",
+  "description": "Triggers <span class=\"tooltip\" data-tooltip=\"i%2Ftooltip%7CThe+Necronomicon\" data-tooltip-dlc=\"31\"><span style=\"--tb-icon-size: 1.4em\">[[File:Collectible The Necronomicon icon.png|link=The Necronomicon|class=tb-icon tb-link-icon|alt=|The Necronomicon]]</span>[[:The Necronomicon|The Necronomicon]]</span> effect, dealing 40 damage to all enemies in the room.",
+  "dlc": "31",
+  "id": "14",
+  "link": "XIII - Death",
+  "type": "card",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "XIII - Death?",
+  "alias": "XIII - Death?",
+  "description": "Creates a [[friendly]] [[File:Bony.png|link=Bony|class=tb-icon tb-link-icon|alt=|Bony]][[:Bony|Bony]], [[File:Black Bony.png|link=Bony#Black Bony|class=tb-icon tb-link-icon|alt=|Black Bony]][[:Bony#Black Bony|Black Bony]], [[File:Bone Fly.png|link=Boom Fly#Bone Fly|class=tb-icon tb-link-icon|alt=|Bone Fly]][[:Boom Fly#Bone Fly|Bone Fly]], [[File:Revenant.png|link=Bony#Revenant|class=tb-icon tb-link-icon|alt=|Revenant]][[:Bony#Revenant|Revenant]], [[File:Big Bony.png|link=Fatty#Big Bony|class=tb-icon tb-link-icon|alt=|Big Bony]][[:Fatty#Big Bony|Big Bony]], or an orbital bone for each enemy killed in the current room.",
+  "dlc": "24",
+  "id": "69",
+  "link": "XIII - Death?",
+  "type": "card",
+  "unlocked_by": "Death"
+ },
+ {
+  "_pageName": "XIV - Temperance",
+  "alias": "XIV - Temperance",
+  "description": "Creates a <span class=\"tb-icon tb-link-icon\" >[[File:Blood Donation Machine.png|link=Machines#Blood Donation Machine|alt=|Blood Donation Machine]]&zwj;</span>[[:Machines#Blood Donation Machine|Blood Donation Machine]] near Isaac. [[Category:Modified in Afterbirth]][[File:Dlc a indicator.png|link=|class=dlc cf-tag cf-val-30 |alt=(except in Rebirth)|Added in Afterbirth]] Spawns a <span class=\"tb-icon tb-link-icon\" >[[File:Devil Beggar.png|link=Beggar#Devil Beggar|alt=|Devil Beggar]]&zwj;</span>[[:Beggar#Devil Beggar|Devil Beggar]] instead in [[Greed mode]].",
+  "dlc": "31",
+  "id": "15",
+  "link": "XIV - Temperance",
+  "type": "card",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "XIV - Temperance?",
+  "alias": "XIV - Temperance?",
+  "description": "Forces Isaac to eat 5 random [[pills]] in quick succession. Eaten pill types become identified.",
+  "dlc": "24",
+  "id": "70",
+  "link": "XIV - Temperance?",
+  "type": "card",
+  "unlocked_by": "Temperance"
+ },
+ {
+  "_pageName": "XIX - The Sun",
+  "alias": "XIX - The Sun",
+  "description": "Restores Isaac to full [[health]], deals 100 damage to all enemies in the room, and reveals the map for the current floor, except for the <span class=\"tb-icon tb-link-icon\" >[[File:Super Secret Room Icon.png|link=Super Secret Room|alt=|]]&zwj;</span>[[:Secret Room#Super Secret Rooms|Super Secret Room]] and [[Category:Modified in Repentance]][[File:Dlc r indicator.png|link=|class=dlc cf-tag cf-val-24 |alt=(in Repentance and Repentance+)|Added in Repentance]]<span class=\"tb-icon tb-link-icon\" >[[File:Ultra Secret Room Icon.png|link=Ultra Secret Room|alt=|]]&zwj;</span>[[:Secret Room#Ultra Secret Rooms|Ultra Secret Room]]. [[Category:Modified in Repentance]][[File:Dlc r indicator.png|link=|class=dlc cf-tag cf-val-24 |alt=(in Repentance and Repentance+)|Added in Repentance]]Removes <span class=\"tb-icon tb-link-icon\" >[[File:Curse of Darkness.png|link=Curses|alt=|Curse of Darkness]]&zwj;</span>[[:Curses|Curse of Darkness]] for the current floor.",
+  "dlc": "31",
+  "id": "20",
+  "link": "XIX - The Sun",
+  "type": "card",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "XIX - The Sun?",
+  "alias": "XIX - The Sun?",
+  "description": "Gain <span class=\"tooltip\" data-tooltip=\"i%2Ftooltip%7CSpirit+of+the+Night\" data-tooltip-dlc=\"24\"><span style=\"--tb-icon-size: 1.4em\">[[File:Collectible Spirit of the Night icon.png|link=Spirit of the Night|class=tb-icon tb-link-icon|alt=|Spirit of the Night]]</span>[[:Spirit of the Night|Spirit of the Night]]</span> and +1.5 [[Damage]] for the current floor. Turns Isaac's [[File:Red Heart.png|link=Hearts#Red Heart|class=tb-icon tb-link-icon|alt=|Red Heart Containers]][[:Hearts#Red Heart|Red Heart Containers]] into [[File:Bone Heart.png|link=Hearts#Bone Heart|class=tb-icon tb-link-icon|alt=|Bone Heart]][[:Hearts#Bone Heart|Bone Heart]]s, but they revert once the effect ends. Also causes [[File:Curse of Darkness.png|link=Curses|class=tb-icon tb-link-icon|alt=|Curse of Darkness]][[:Curses|Curse of Darkness]] that cannot be dispelled.",
+  "dlc": "24",
+  "id": "75",
+  "link": "XIX - The Sun?",
+  "type": "card",
+  "unlocked_by": "The Sun and the Moon"
+ },
+ {
+  "_pageName": "XV - The Devil",
+  "alias": "XV - The Devil",
+  "description": "Triggers <span class=\"tooltip\" data-tooltip=\"i%2Ftooltip%7CThe+Book+of+Belial\" data-tooltip-dlc=\"31\"><span style=\"--tb-icon-size: 1.4em\">[[File:Collectible The Book of Belial icon.png|link=The Book of Belial|class=tb-icon tb-link-icon|alt=|The Book of Belial]]</span>[[:The Book of Belial|The Book of Belial]]</span> effect, granting +2 [[Damage]] for the current room.",
+  "dlc": "31",
+  "id": "16",
+  "link": "XV - The Devil",
+  "type": "card",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "XV - The Devil?",
+  "alias": "XV - The Devil?",
+  "description": "Invokes <span class=\"tooltip\" data-tooltip=\"i%2Ftooltip%7CThe+Bible\" data-tooltip-dlc=\"24\"><span style=\"--tb-icon-size: 1.4em\">[[File:Collectible The Bible icon.png|link=The Bible|class=tb-icon tb-link-icon|alt=|The Bible]]</span>[[:The Bible|The Bible]]</span> (which can kill [[File:Boss Mom ingame.png|link=Mom|class=tb-icon tb-link-icon|alt=|Mom]][[:Mom|Mom]]). Grants [[Flight]] and spawns a <span class=\"tooltip\" data-tooltip=\"i%2Ftooltip%7CSeraphim\" data-tooltip-dlc=\"24\"><span style=\"--tb-icon-size: 1.4em\">[[File:Collectible Seraphim icon.png|link=Seraphim|class=tb-icon tb-link-icon|alt=|Seraphim]]</span>[[:Seraphim|Seraphim]]</span> familiar for 30 seconds.",
+  "dlc": "24",
+  "id": "71",
+  "link": "XV - The Devil?",
+  "type": "card",
+  "unlocked_by": "The Devil"
+ },
+ {
+  "_pageName": "XVI - The Tower",
+  "alias": "XVI - The Tower",
+  "description": "Spawns 6 [[File:Troll Bomb.png|link=Bombs#Troll Bomb|class=tb-icon tb-link-icon|alt=|Troll Bomb]][[:Bombs#Troll Bomb|Troll Bomb]]s randomly around the room.",
+  "dlc": "31",
+  "id": "17",
+  "link": "XVI - The Tower",
+  "type": "card",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "XVI - The Tower?",
+  "alias": "XVI - The Tower?",
+  "description": "Creates 7 clusters of random [[rocks]] and other obstacles. Spawned clusters will often contain [[tinted rock]]s, with the possibility of finding more than one in the same room. The pathways between exits can't be blocked.",
+  "dlc": "24",
+  "id": "72",
+  "link": "XVI - The Tower?",
+  "type": "card",
+  "unlocked_by": "The Tower"
+ },
+ {
+  "_pageName": "XVII - The Stars",
+  "alias": "XVII - The Stars",
+  "description": "Teleports Isaac to the [[File:Treasure Room Icon.png|link=Treasure Room|class=tb-icon tb-link-icon|alt=|]][[:Treasure Room|Treasure Room]]. [[Category:Modified in Repentance]][[File:Dlc r indicator.png|link=|class=dlc cf-tag cf-val-24 |alt=(in Repentance and Repentance+)|Added in Repentance]]If there is a [[File:Planetarium Icon.png|link=Planetarium|class=tb-icon tb-link-icon|alt=|]][[:Planetarium|Planetarium]], teleports Isaac there instead.",
+  "dlc": "31",
+  "id": "18",
+  "link": "XVII - The Stars",
+  "type": "card",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "XVII - The Stars?",
+  "alias": "XVII - The Stars?",
+  "description": "Removes Isaac's oldest [[passive item]] (ignoring starting items) and creates 2 random item pedestals from the current room's item pool. Does nothing if Isaac has no items.",
+  "dlc": "24",
+  "id": "73",
+  "link": "XVII - The Stars?",
+  "type": "card",
+  "unlocked_by": "The Stars"
+ },
+ {
+  "_pageName": "XVIII - The Moon",
+  "alias": "XVIII - The Moon",
+  "description": "Teleports Isaac to the [[File:Secret Room Icon.png|link=Secret Room|class=tb-icon tb-link-icon|alt=|]][[:Secret Room|Secret Room]].",
+  "dlc": "31",
+  "id": "19",
+  "link": "XVIII - The Moon",
+  "type": "card",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "XVIII - The Moon?",
+  "alias": "XVIII - The Moon?",
+  "description": "Teleports Isaac to the [[File:Ultra Secret Room Icon.png|link=Ultra Secret Room|class=tb-icon tb-link-icon|alt=|]][[:Secret Room#Ultra Secret Rooms|Ultra Secret Room]]. The pathway back to the normal rooms will be made of [[File:Red Room Icon.png|link=Red Room|class=tb-icon tb-link-icon|alt=|]][[:Red Key|Red Room]]s.",
+  "dlc": "24",
+  "id": "74",
+  "link": "XVIII - The Moon?",
+  "type": "card",
+  "unlocked_by": "The Sun and the Moon"
+ },
+ {
+  "_pageName": "XX - Judgement",
+  "alias": "XX - Judgement",
+  "description": "Spawns a <span class=\"tb-icon tb-link-icon\" >[[File:Beggar.png|link=Beggar|alt=|Beggar]]&zwj;</span>[[:Beggar|Beggar]] near Isaac. The beggar can sometimes be a <span class=\"tb-icon tb-link-icon\" >[[File:Devil Beggar.png|link=Beggar#Devil Beggar|alt=|Devil Beggar]]&zwj;</span>[[:Beggar#Devil Beggar|Devil Beggar]] and rarely a [[Category:Modified in Repentance]][[File:Dlc r indicator.png|link=|class=dlc cf-tag cf-val-24 |alt=(in Repentance and Repentance+)|Added in Repentance]]<span class=\"tb-icon tb-link-icon\" >[[File:Battery Bum.png|link=Beggar#Battery Bum|alt=|Battery Bum]]&zwj;</span>[[:Beggar#Battery Bum|Battery Bum]], [[Category:Modified in Repentance]][[File:Dlc r indicator.png|link=|class=dlc cf-tag cf-val-24 |alt=(in Repentance and Repentance+)|Added in Repentance]]<span class=\"tb-icon tb-link-icon\" >[[File:Rotten Beggar.png|link=Beggar#Rotten Beggar|alt=|Rotten Beggar]]&zwj;</span>[[:Beggar#Rotten Beggar|Rotten Beggar]], <span class=\"tb-icon tb-link-icon\" >[[File:Key Master.png|link=Beggar#Key Master|alt=|Key Master]]&zwj;</span>[[:Beggar#Key Master|Key Master]], or [[Category:Modified in Afterbirth]][[File:Dlc a indicator.png|link=|class=dlc cf-tag cf-val-30 |alt=(except in Rebirth)|Added in Afterbirth]]<span class=\"tb-icon tb-link-icon\" >[[File:Bomb Bum.png|link=Beggar#Bomb Bum|alt=|Bomb Bum]]&zwj;</span>[[:Beggar#Bomb Bum|Bomb Bum]] instead.",
+  "dlc": "31",
+  "id": "21",
+  "link": "XX - Judgement",
+  "type": "card",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "XX - Judgement?",
+  "alias": "XX - Judgement?",
+  "description": "Spawns a <span class=\"tb-icon tb-link-icon\" >[[File:Shop Restock Machine.png|link=Machines#Shop Restock Machine|alt=|Shop Restock Machine]]&zwj;</span>[[:Machines#Shop Restock Machine|Shop Restock Machine]] near Isaac.",
+  "dlc": "24",
+  "id": "76",
+  "link": "XX - Judgement?",
+  "type": "card",
+  "unlocked_by": "Judgement"
+ },
+ {
+  "_pageName": "XXI - The World",
+  "alias": "XXI - The World",
+  "description": "Reveals the entire floor, except for the [[File:Super Secret Room Icon.png|link=Super Secret Room|class=tb-icon tb-link-icon|alt=|]][[:Secret Room#Super Secret Rooms|Super Secret Room]] and [[Category:Modified in Repentance]][[File:Dlc r indicator.png|link=|class=dlc cf-tag cf-val-24 |alt=(in Repentance and Repentance+)|Added in Repentance]][[File:Ultra Secret Room Icon.png|link=Ultra Secret Room|class=tb-icon tb-link-icon|alt=|]][[:Secret Room#Ultra Secret Rooms|Ultra Secret Room]].",
+  "dlc": "31",
+  "id": "22",
+  "link": "XXI - The World",
+  "type": "card",
+  "unlocked_by": ""
+ },
+ {
+  "_pageName": "XXI - The World?",
+  "alias": "XXI - The World?",
+  "description": "Creates a trap door which always leads to a [[File:Crawl Space Icon.png|link=Crawl Space|class=tb-icon tb-link-icon|alt=|]][[:Crawl Space|Crawl Space]].",
+  "dlc": "24",
+  "id": "77",
+  "link": "XXI - The World?",
+  "type": "card",
+  "unlocked_by": "The World"
+ }
+]

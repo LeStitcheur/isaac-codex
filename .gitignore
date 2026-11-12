@@ -1,0 +1,21 @@
+node_modules/
+dist/
+data/*
+!data/.gitkeep
+!data/sprites/
+data/sprites/*
+!data/sprites/README.md
+.env
+*.log
+coverage/
+test-results/
+playwright-report/
+.vite/
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm
+.cache/
+
+# Divers
+ResourceExtractor_log.txt
+.vercel/

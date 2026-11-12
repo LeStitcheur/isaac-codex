@@ -1,0 +1,33 @@
+Isaac Codex — licences
+
+1. Code source (apps/, packages/shared/, scripts/, tests/, e2e/, pterodactyl/, fichiers de configuration) : licence MIT.
+
+MIT License
+
+Copyright (c) 2026 Isaac Codex contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation
+files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy,
+modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software
+is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
+OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR
+IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+2. Données de jeu (packages/game-data/raw/ et packages/game-data/generated/) : extraits de « The Binding of Isaac: Rebirth Wiki »
+   (https://bindingofisaacrebirth.wiki.gg/), sous licence Creative Commons Attribution-ShareAlike 4.0
+   (https://creativecommons.org/licenses/by-sa/4.0/). Toute redistribution doit conserver l'attribution et la même licence.
+
+3. Contenus éditoriaux (packages/game-data/curated/ : guides, parcours, astuces, analyses) : rédigés à partir du wiki ci-dessus,
+   distribués sous la même licence CC BY-SA 4.0.
+
+4. Images de apps/web/public/game-assets/ : découpées localement depuis les mods « Better Character Menu » et
+   « External Item Descriptions » ; elles dérivent des graphismes du jeu. NON couvertes par les licences ci-dessus :
+   usage personnel uniquement, ne pas redistribuer sans l'accord des ayants droit.
+
+The Binding of Isaac est une œuvre d'Edmund McMillen et de Nicalis, Inc. Isaac Codex est un projet communautaire non officiel,
+sans affiliation ni approbation des détenteurs des droits.

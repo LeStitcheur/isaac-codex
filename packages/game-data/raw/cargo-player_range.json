@@ -1,0 +1,356 @@
+[
+ {
+  "_pageName": "??? (Character)",
+  "dlc": "7",
+  "player": "???",
+  "range_base": "23.75"
+ },
+ {
+  "_pageName": "??? (Character)",
+  "dlc": "24",
+  "player": "???",
+  "range_base": "6.5"
+ },
+ {
+  "_pageName": "Apollyon",
+  "dlc": "28",
+  "player": "Apollyon",
+  "range_base": "23.75"
+ },
+ {
+  "_pageName": "Apollyon",
+  "dlc": "28",
+  "player": "Apollyon",
+  "range_base": "6.5"
+ },
+ {
+  "_pageName": "Azazel",
+  "dlc": "7",
+  "player": "Azazel",
+  "range_base": "17.75"
+ },
+ {
+  "_pageName": "Azazel",
+  "dlc": "24",
+  "player": "Azazel",
+  "range_base": "4.5"
+ },
+ {
+  "_pageName": "Bethany",
+  "dlc": "24",
+  "player": "Bethany",
+  "range_base": "6.5"
+ },
+ {
+  "_pageName": "Cain",
+  "dlc": "7",
+  "player": "Cain",
+  "range_base": "17.75"
+ },
+ {
+  "_pageName": "Cain",
+  "dlc": "24",
+  "player": "Cain",
+  "range_base": "4.5"
+ },
+ {
+  "_pageName": "Eden",
+  "dlc": "7",
+  "player": "Eden",
+  "range_base": "23.75 ± 5.00"
+ },
+ {
+  "_pageName": "Eden",
+  "dlc": "24",
+  "player": "Eden",
+  "range_base": "6.5 ± 1.5"
+ },
+ {
+  "_pageName": "Eve",
+  "dlc": "7",
+  "player": "Eve",
+  "range_base": "23.75"
+ },
+ {
+  "_pageName": "Eve",
+  "dlc": "24",
+  "player": "Eve",
+  "range_base": "6.5"
+ },
+ {
+  "_pageName": "Isaac",
+  "dlc": "7",
+  "player": "Isaac",
+  "range_base": "23.75"
+ },
+ {
+  "_pageName": "Isaac",
+  "dlc": "24",
+  "player": "Isaac",
+  "range_base": "6.5"
+ },
+ {
+  "_pageName": "Jacob & Esau",
+  "dlc": "31",
+  "player": "Esau",
+  "range_base": "8.00"
+ },
+ {
+  "_pageName": "Jacob & Esau",
+  "dlc": "31",
+  "player": "Jacob",
+  "range_base": "5.00"
+ },
+ {
+  "_pageName": "Judas",
+  "dlc": "7",
+  "player": "Black Judas",
+  "range_base": "23.75"
+ },
+ {
+  "_pageName": "Judas",
+  "dlc": "7",
+  "player": "Judas",
+  "range_base": "23.75"
+ },
+ {
+  "_pageName": "Judas",
+  "dlc": "24",
+  "player": "Black Judas",
+  "range_base": "6.5"
+ },
+ {
+  "_pageName": "Judas",
+  "dlc": "24",
+  "player": "Judas",
+  "range_base": "6.5"
+ },
+ {
+  "_pageName": "Keeper",
+  "dlc": "6",
+  "player": "Keeper",
+  "range_base": "23.75"
+ },
+ {
+  "_pageName": "Keeper",
+  "dlc": "24",
+  "player": "Keeper",
+  "range_base": "6.5"
+ },
+ {
+  "_pageName": "Lazarus",
+  "dlc": "7",
+  "player": "Lazarus",
+  "range_base": "17.75"
+ },
+ {
+  "_pageName": "Lazarus",
+  "dlc": "7",
+  "player": "Lazarus Risen",
+  "range_base": "23.75"
+ },
+ {
+  "_pageName": "Lazarus",
+  "dlc": "24",
+  "player": "Lazarus",
+  "range_base": "4.5"
+ },
+ {
+  "_pageName": "Lazarus",
+  "dlc": "24",
+  "player": "Lazarus Risen",
+  "range_base": "6.5"
+ },
+ {
+  "_pageName": "Lilith",
+  "dlc": "7",
+  "player": "Lilith",
+  "range_base": "23.75"
+ },
+ {
+  "_pageName": "Lilith",
+  "dlc": "24",
+  "player": "Lilith",
+  "range_base": "6.5"
+ },
+ {
+  "_pageName": "Magdalene",
+  "dlc": "7",
+  "player": "Magdalene",
+  "range_base": "23.75"
+ },
+ {
+  "_pageName": "Magdalene",
+  "dlc": "24",
+  "player": "Magdalene",
+  "range_base": "6.5"
+ },
+ {
+  "_pageName": "Samson",
+  "dlc": "7",
+  "player": "Samson",
+  "range_base": "18.75"
+ },
+ {
+  "_pageName": "Samson",
+  "dlc": "24",
+  "player": "Samson",
+  "range_base": "5.0"
+ },
+ {
+  "_pageName": "Tainted ???",
+  "dlc": "24",
+  "player": "Tainted ???",
+  "range_base": "6.5"
+ },
+ {
+  "_pageName": "Tainted Apollyon",
+  "dlc": "24",
+  "player": "Tainted Apollyon",
+  "range_base": "6.5"
+ },
+ {
+  "_pageName": "Tainted Azazel",
+  "dlc": "24",
+  "player": "Tainted Azazel",
+  "range_base": "6.50"
+ },
+ {
+  "_pageName": "Tainted Bethany",
+  "dlc": "24",
+  "player": "Tainted Bethany",
+  "range_base": "6.5"
+ },
+ {
+  "_pageName": "Tainted Cain",
+  "dlc": "24",
+  "player": "Tainted Cain",
+  "range_base": "4.5"
+ },
+ {
+  "_pageName": "Tainted Eden",
+  "dlc": "24",
+  "player": "Tainted Eden",
+  "range_base": "6.5 ± 1.5"
+ },
+ {
+  "_pageName": "Tainted Eve",
+  "dlc": "24",
+  "player": "Tainted Eve",
+  "range_base": "6.5"
+ },
+ {
+  "_pageName": "Tainted Forgotten",
+  "dlc": "24",
+  "player": "Tainted Forgotten",
+  "range_base": "6.5"
+ },
+ {
+  "_pageName": "Tainted Forgotten",
+  "dlc": "24",
+  "player": "Tainted Soul",
+  "range_base": "－"
+ },
+ {
+  "_pageName": "Tainted Isaac",
+  "dlc": "0",
+  "player": "Tainted Isaac",
+  "range_base": "23.75"
+ },
+ {
+  "_pageName": "Tainted Isaac",
+  "dlc": "24",
+  "player": "Tainted Isaac",
+  "range_base": "6.5"
+ },
+ {
+  "_pageName": "Tainted Jacob",
+  "dlc": "24",
+  "player": "Tainted Jacob",
+  "range_base": "6.5"
+ },
+ {
+  "_pageName": "Tainted Judas",
+  "dlc": "31",
+  "player": "Tainted Judas",
+  "range_base": "4.5"
+ },
+ {
+  "_pageName": "Tainted Keeper",
+  "dlc": "24",
+  "player": "Tainted Keeper",
+  "range_base": "6.5"
+ },
+ {
+  "_pageName": "Tainted Lazarus",
+  "dlc": "24",
+  "player": "Dead Tainted Lazarus",
+  "range_base": "6.50"
+ },
+ {
+  "_pageName": "Tainted Lazarus",
+  "dlc": "24",
+  "player": "Tainted Lazarus",
+  "range_base": "4.50"
+ },
+ {
+  "_pageName": "Tainted Lilith",
+  "dlc": "24",
+  "player": "Tainted Lilith",
+  "range_base": "6.5"
+ },
+ {
+  "_pageName": "Tainted Lost",
+  "dlc": "24",
+  "player": "Tainted Lost",
+  "range_base": "6.5"
+ },
+ {
+  "_pageName": "Tainted Magdalene",
+  "dlc": "24",
+  "player": "Tainted Magdalene",
+  "range_base": "6.5"
+ },
+ {
+  "_pageName": "Tainted Samson",
+  "dlc": "24",
+  "player": "Tainted Samson",
+  "range_base": "5"
+ },
+ {
+  "_pageName": "The Forgotten",
+  "dlc": "4",
+  "player": "The Forgotten",
+  "range_base": "23.75"
+ },
+ {
+  "_pageName": "The Forgotten",
+  "dlc": "4",
+  "player": "The Soul",
+  "range_base": "23.75"
+ },
+ {
+  "_pageName": "The Forgotten",
+  "dlc": "24",
+  "player": "The Forgotten",
+  "range_base": "6.5"
+ },
+ {
+  "_pageName": "The Forgotten",
+  "dlc": "24",
+  "player": "The Soul",
+  "range_base": "6.5"
+ },
+ {
+  "_pageName": "The Lost",
+  "dlc": "7",
+  "player": "The Lost",
+  "range_base": "23.75"
+ },
+ {
+  "_pageName": "The Lost",
+  "dlc": "24",
+  "player": "The Lost",
+  "range_base": "6.5"
+ }
+]

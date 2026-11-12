@@ -1,0 +1,1226 @@
+[
+ {
+  "_pageName": "A Pony",
+  "dlc": "7",
+  "collectible": "A Pony",
+  "recharge": "4"
+ },
+ {
+  "_pageName": "A Pony",
+  "dlc": "24",
+  "collectible": "A Pony",
+  "recharge": "2"
+ },
+ {
+  "_pageName": "Abyss",
+  "dlc": "24",
+  "collectible": "Abyss",
+  "recharge": "4"
+ },
+ {
+  "_pageName": "Alabaster Box",
+  "dlc": "24",
+  "collectible": "Alabaster Box",
+  "recharge": "12"
+ },
+ {
+  "_pageName": "Anarchist Cookbook",
+  "dlc": "31",
+  "collectible": "Anarchist Cookbook",
+  "recharge": "3"
+ },
+ {
+  "_pageName": "Anima Sola",
+  "dlc": "31",
+  "collectible": "Anima Sola",
+  "recharge": "15s"
+ },
+ {
+  "_pageName": "Bag of Crafting",
+  "dlc": "24",
+  "collectible": "Bag of Crafting",
+  "recharge": "unlimited"
+ },
+ {
+  "_pageName": "Berserk!",
+  "dlc": "24",
+  "collectible": "Berserk!",
+  "recharge": "damage"
+ },
+ {
+  "_pageName": "Best Friend",
+  "dlc": "31",
+  "collectible": "Best Friend",
+  "recharge": "3"
+ },
+ {
+  "_pageName": "Black Hole",
+  "dlc": "31",
+  "collectible": "Black Hole",
+  "recharge": "4"
+ },
+ {
+  "_pageName": "Blank Card",
+  "dlc": "7",
+  "collectible": "Blank Card",
+  "recharge": "4"
+ },
+ {
+  "_pageName": "Blank Card",
+  "dlc": "24",
+  "collectible": "Blank Card",
+  "recharge": "variable"
+ },
+ {
+  "_pageName": "Blood Rights",
+  "dlc": "31",
+  "collectible": "Blood Rights",
+  "recharge": "unlimited"
+ },
+ {
+  "_pageName": "Bob's Rotten Head",
+  "dlc": "7",
+  "collectible": "Bob's Rotten Head",
+  "recharge": "3"
+ },
+ {
+  "_pageName": "Bob's Rotten Head",
+  "dlc": "24",
+  "collectible": "Bob's Rotten Head",
+  "recharge": "2"
+ },
+ {
+  "_pageName": "Book of Revelations",
+  "dlc": "31",
+  "collectible": "Book of Revelations",
+  "recharge": "6"
+ },
+ {
+  "_pageName": "Book of Secrets",
+  "dlc": "31",
+  "collectible": "Book of Secrets",
+  "recharge": "6"
+ },
+ {
+  "_pageName": "Book of Shadows",
+  "dlc": "31",
+  "collectible": "Book of Shadows",
+  "recharge": "3"
+ },
+ {
+  "_pageName": "Book of the Dead",
+  "dlc": "4",
+  "collectible": "Book of the Dead",
+  "recharge": "4"
+ },
+ {
+  "_pageName": "Book of the Dead",
+  "dlc": "24",
+  "collectible": "Book of the Dead",
+  "recharge": "6"
+ },
+ {
+  "_pageName": "Book of Virtues",
+  "dlc": "24",
+  "collectible": "Book of Virtues",
+  "recharge": "4"
+ },
+ {
+  "_pageName": "Box of Friends",
+  "dlc": "6",
+  "collectible": "Box of Friends",
+  "recharge": "4"
+ },
+ {
+  "_pageName": "Box of Friends",
+  "dlc": "24",
+  "collectible": "Box of Friends",
+  "recharge": "3"
+ },
+ {
+  "_pageName": "Box of Spiders",
+  "dlc": "31",
+  "collectible": "Box of Spiders",
+  "recharge": "2"
+ },
+ {
+  "_pageName": "Breath of Life",
+  "dlc": "7",
+  "collectible": "Breath of Life",
+  "recharge": "6s"
+ },
+ {
+  "_pageName": "Breath of Life",
+  "dlc": "24",
+  "collectible": "Breath of Life",
+  "recharge": "3s"
+ },
+ {
+  "_pageName": "Broken Glass Cannon",
+  "dlc": "31",
+  "collectible": "Broken Glass Cannon",
+  "recharge": "4"
+ },
+ {
+  "_pageName": "Broken Shovel",
+  "dlc": "28",
+  "collectible": "Broken Shovel 1",
+  "recharge": "4"
+ },
+ {
+  "_pageName": "Brown Nugget",
+  "dlc": "28",
+  "collectible": "Brown Nugget",
+  "recharge": "8s"
+ },
+ {
+  "_pageName": "Butter Bean",
+  "dlc": "15",
+  "collectible": "Butter Bean",
+  "recharge": "3s"
+ },
+ {
+  "_pageName": "Butter Bean",
+  "dlc": "16",
+  "collectible": "Butter Bean",
+  "recharge": "2s"
+ },
+ {
+  "_pageName": "Clear Rune",
+  "dlc": "31",
+  "collectible": "Clear Rune",
+  "recharge": "variable"
+ },
+ {
+  "_pageName": "Clicker",
+  "dlc": "28",
+  "collectible": "Clicker",
+  "recharge": "6"
+ },
+ {
+  "_pageName": "Compost",
+  "dlc": "31",
+  "collectible": "Compost",
+  "recharge": "2"
+ },
+ {
+  "_pageName": "Converter",
+  "dlc": "7",
+  "collectible": "Converter",
+  "recharge": "unlimited"
+ },
+ {
+  "_pageName": "Converter",
+  "dlc": "24",
+  "collectible": "Converter",
+  "recharge": "3"
+ },
+ {
+  "_pageName": "Coupon",
+  "dlc": "31",
+  "collectible": "Coupon",
+  "recharge": "6"
+ },
+ {
+  "_pageName": "Crack the Sky",
+  "dlc": "31",
+  "collectible": "Crack the Sky",
+  "recharge": "4"
+ },
+ {
+  "_pageName": "Crooked Penny",
+  "dlc": "28",
+  "collectible": "Crooked Penny",
+  "recharge": "4"
+ },
+ {
+  "_pageName": "Crystal Ball",
+  "dlc": "31",
+  "collectible": "Crystal Ball",
+  "recharge": "6"
+ },
+ {
+  "_pageName": "D infinity",
+  "dlc": "4",
+  "collectible": "D infinity",
+  "recharge": "2"
+ },
+ {
+  "_pageName": "D infinity",
+  "dlc": "24",
+  "collectible": "D infinity",
+  "recharge": "variable"
+ },
+ {
+  "_pageName": "D1",
+  "dlc": "28",
+  "collectible": "D1",
+  "recharge": "4"
+ },
+ {
+  "_pageName": "D10",
+  "dlc": "7",
+  "collectible": "D10",
+  "recharge": "1"
+ },
+ {
+  "_pageName": "D10",
+  "dlc": "24",
+  "collectible": "D10",
+  "recharge": "2"
+ },
+ {
+  "_pageName": "D100",
+  "dlc": "31",
+  "collectible": "D100",
+  "recharge": "6"
+ },
+ {
+  "_pageName": "D12",
+  "dlc": "30",
+  "collectible": "D12",
+  "recharge": "3"
+ },
+ {
+  "_pageName": "D20",
+  "dlc": "31",
+  "collectible": "D20",
+  "recharge": "6"
+ },
+ {
+  "_pageName": "D4",
+  "dlc": "31",
+  "collectible": "D4",
+  "recharge": "6"
+ },
+ {
+  "_pageName": "D7",
+  "dlc": "30",
+  "collectible": "D7",
+  "recharge": "3"
+ },
+ {
+  "_pageName": "D8",
+  "dlc": "30",
+  "collectible": "D8",
+  "recharge": "4"
+ },
+ {
+  "_pageName": "Dad's Key",
+  "dlc": "31",
+  "collectible": "Dad's Key",
+  "recharge": "2"
+ },
+ {
+  "_pageName": "Damocles",
+  "dlc": "24",
+  "collectible": "Damocles",
+  "recharge": "one time"
+ },
+ {
+  "_pageName": "Dark Arts",
+  "dlc": "24",
+  "collectible": "Dark Arts",
+  "recharge": "6s"
+ },
+ {
+  "_pageName": "Dataminer",
+  "dlc": "28",
+  "collectible": "Dataminer",
+  "recharge": "4"
+ },
+ {
+  "_pageName": "Dead Sea Scrolls",
+  "dlc": "31",
+  "collectible": "Dead Sea Scrolls",
+  "recharge": "2"
+ },
+ {
+  "_pageName": "Death Certificate",
+  "dlc": "24",
+  "collectible": "Death Certificate",
+  "recharge": "one time"
+ },
+ {
+  "_pageName": "Decap Attack",
+  "dlc": "31",
+  "collectible": "Decap Attack",
+  "recharge": "4s"
+ },
+ {
+  "_pageName": "Deck of Cards",
+  "dlc": "31",
+  "collectible": "Deck of Cards",
+  "recharge": "6"
+ },
+ {
+  "_pageName": "Delirious",
+  "dlc": "31",
+  "collectible": "Delirious",
+  "recharge": "12"
+ },
+ {
+  "_pageName": "Diplopia",
+  "dlc": "30",
+  "collectible": "Diplopia",
+  "recharge": "one time"
+ },
+ {
+  "_pageName": "Doctor's Remote",
+  "dlc": "31",
+  "collectible": "Doctor's Remote",
+  "recharge": "2"
+ },
+ {
+  "_pageName": "Dull Razor",
+  "dlc": "28",
+  "collectible": "Dull Razor",
+  "recharge": "2"
+ },
+ {
+  "_pageName": "Eden's Soul",
+  "dlc": "31",
+  "collectible": "Eden's Soul",
+  "recharge": "12"
+ },
+ {
+  "_pageName": "Eraser",
+  "dlc": "31",
+  "collectible": "Eraser",
+  "recharge": "1f"
+ },
+ {
+  "_pageName": "Esau Jr.",
+  "dlc": "31",
+  "collectible": "Esau Jr.",
+  "recharge": "1"
+ },
+ {
+  "_pageName": "Eternal D6",
+  "dlc": "24",
+  "collectible": "Eternal D6",
+  "recharge": "2"
+ },
+ {
+  "_pageName": "Everything Jar",
+  "dlc": "24",
+  "collectible": "Everything Jar",
+  "recharge": "12"
+ },
+ {
+  "_pageName": "Flip",
+  "dlc": "31",
+  "collectible": "Flip",
+  "recharge": "6"
+ },
+ {
+  "_pageName": "Flush!",
+  "dlc": "7",
+  "collectible": "Flush!",
+  "recharge": "6"
+ },
+ {
+  "_pageName": "Flush!",
+  "dlc": "24",
+  "collectible": "Flush!",
+  "recharge": "4"
+ },
+ {
+  "_pageName": "Forget Me Now",
+  "dlc": "31",
+  "collectible": "Forget Me Now",
+  "recharge": "one time"
+ },
+ {
+  "_pageName": "Fortune Cookie",
+  "dlc": "24",
+  "collectible": "Fortune Cookie",
+  "recharge": "2"
+ },
+ {
+  "_pageName": "Free Lemonade",
+  "dlc": "31",
+  "collectible": "Free Lemonade",
+  "recharge": "4"
+ },
+ {
+  "_pageName": "Friend Finder",
+  "dlc": "24",
+  "collectible": "Friend Finder",
+  "recharge": "4"
+ },
+ {
+  "_pageName": "Friendly Ball",
+  "dlc": "7",
+  "collectible": "Friendly Ball",
+  "recharge": "3"
+ },
+ {
+  "_pageName": "Friendly Ball",
+  "dlc": "24",
+  "collectible": "Friendly Ball",
+  "recharge": "2"
+ },
+ {
+  "_pageName": "Gello",
+  "dlc": "24",
+  "collectible": "Gello",
+  "recharge": "2"
+ },
+ {
+  "_pageName": "Genesis",
+  "dlc": "24",
+  "collectible": "Genesis",
+  "recharge": "one time"
+ },
+ {
+  "_pageName": "Glass Cannon",
+  "dlc": "30",
+  "collectible": "Glass Cannon",
+  "recharge": "4s"
+ },
+ {
+  "_pageName": "Glowing Hourglass",
+  "dlc": "6",
+  "collectible": "Glowing Hourglass",
+  "recharge": "2"
+ },
+ {
+  "_pageName": "Glowing Hourglass",
+  "dlc": "24",
+  "collectible": "Glowing Hourglass",
+  "recharge": "unlimited"
+ },
+ {
+  "_pageName": "Golden Razor",
+  "dlc": "24",
+  "collectible": "Golden Razor",
+  "recharge": "unlimited"
+ },
+ {
+  "_pageName": "Guppy's Head",
+  "dlc": "31",
+  "collectible": "Guppy's Head",
+  "recharge": "1"
+ },
+ {
+  "_pageName": "Guppy's Paw",
+  "dlc": "31",
+  "collectible": "Guppy's Paw",
+  "recharge": "unlimited"
+ },
+ {
+  "_pageName": "Head of Krampus",
+  "dlc": "7",
+  "collectible": "Head of Krampus",
+  "recharge": "6"
+ },
+ {
+  "_pageName": "Head of Krampus",
+  "dlc": "24",
+  "collectible": "Head of Krampus",
+  "recharge": "3"
+ },
+ {
+  "_pageName": "Hold",
+  "dlc": "31",
+  "collectible": "Hold",
+  "recharge": "unlimited"
+ },
+ {
+  "_pageName": "How to Jump",
+  "dlc": "31",
+  "collectible": "How to Jump",
+  "recharge": "unlimited"
+ },
+ {
+  "_pageName": "Isaac's Tears",
+  "dlc": "31",
+  "collectible": "Isaac's Tears",
+  "recharge": "6"
+ },
+ {
+  "_pageName": "IV Bag",
+  "dlc": "31",
+  "collectible": "IV Bag",
+  "recharge": "unlimited"
+ },
+ {
+  "_pageName": "Jar of Flies",
+  "dlc": "30",
+  "collectible": "Jar of Flies",
+  "recharge": "unlimited"
+ },
+ {
+  "_pageName": "Jar of Wisps",
+  "dlc": "31",
+  "collectible": "Jar of Wisps",
+  "recharge": "12"
+ },
+ {
+  "_pageName": "Kamikaze!",
+  "dlc": "31",
+  "collectible": "Kamikaze!",
+  "recharge": "unlimited"
+ },
+ {
+  "_pageName": "Keeper's Box",
+  "dlc": "24",
+  "collectible": "Keeper's Box",
+  "recharge": "4"
+ },
+ {
+  "_pageName": "Kidney Bean",
+  "dlc": "6",
+  "collectible": "Kidney Bean",
+  "recharge": "2"
+ },
+ {
+  "_pageName": "Kidney Bean",
+  "dlc": "8",
+  "collectible": "Kidney Bean",
+  "recharge": "1"
+ },
+ {
+  "_pageName": "Kidney Bean",
+  "dlc": "16",
+  "collectible": "Kidney Bean",
+  "recharge": "4s"
+ },
+ {
+  "_pageName": "Larynx",
+  "dlc": "24",
+  "collectible": "Larynx",
+  "recharge": "12"
+ },
+ {
+  "_pageName": "Lemegeton",
+  "dlc": "31",
+  "collectible": "Lemegeton",
+  "recharge": "6"
+ },
+ {
+  "_pageName": "Lemon Mishap",
+  "dlc": "31",
+  "collectible": "Lemon Mishap",
+  "recharge": "2"
+ },
+ {
+  "_pageName": "Magic Fingers",
+  "dlc": "31",
+  "collectible": "Magic Fingers",
+  "recharge": "unlimited"
+ },
+ {
+  "_pageName": "Magic Skin",
+  "dlc": "24",
+  "collectible": "Magic Skin",
+  "recharge": "6"
+ },
+ {
+  "_pageName": "Mama Mega!",
+  "dlc": "28",
+  "collectible": "Mama Mega!",
+  "recharge": "one time"
+ },
+ {
+  "_pageName": "Meat Cleaver",
+  "dlc": "31",
+  "collectible": "Meat Cleaver",
+  "recharge": "2"
+ },
+ {
+  "_pageName": "Mega Bean",
+  "dlc": "14",
+  "collectible": "Mega Bean",
+  "recharge": "3"
+ },
+ {
+  "_pageName": "Mega Bean",
+  "dlc": "16",
+  "collectible": "Mega Bean",
+  "recharge": "6"
+ },
+ {
+  "_pageName": "Mega Blast",
+  "dlc": "30",
+  "collectible": "Mega Blast",
+  "recharge": "12"
+ },
+ {
+  "_pageName": "Mega Mush",
+  "dlc": "24",
+  "collectible": "Mega Mush",
+  "recharge": "12"
+ },
+ {
+  "_pageName": "Metronome",
+  "dlc": "28",
+  "collectible": "Metronome",
+  "recharge": "2"
+ },
+ {
+  "_pageName": "Mine Crafter",
+  "dlc": "30",
+  "collectible": "Mine Crafter",
+  "recharge": "1"
+ },
+ {
+  "_pageName": "Mom's Bottle of Pills",
+  "dlc": "31",
+  "collectible": "Mom's Bottle of Pills",
+  "recharge": "6"
+ },
+ {
+  "_pageName": "Mom's Box",
+  "dlc": "30",
+  "collectible": "Mom's Box",
+  "recharge": "4"
+ },
+ {
+  "_pageName": "Mom's Bra",
+  "dlc": "31",
+  "collectible": "Mom's Bra",
+  "recharge": "3"
+ },
+ {
+  "_pageName": "Mom's Bracelet",
+  "dlc": "24",
+  "collectible": "Mom's Bracelet",
+  "recharge": "1s"
+ },
+ {
+  "_pageName": "Mom's Pad",
+  "dlc": "7",
+  "collectible": "Mom's Pad",
+  "recharge": "3"
+ },
+ {
+  "_pageName": "Mom's Pad",
+  "dlc": "24",
+  "collectible": "Mom's Pad",
+  "recharge": "2"
+ },
+ {
+  "_pageName": "Mom's Shovel",
+  "dlc": "28",
+  "collectible": "Mom's Shovel",
+  "recharge": "4"
+ },
+ {
+  "_pageName": "Monster Manual",
+  "dlc": "7",
+  "collectible": "Monster Manual",
+  "recharge": "3"
+ },
+ {
+  "_pageName": "Monster Manual",
+  "dlc": "24",
+  "collectible": "Monster Manual",
+  "recharge": "6"
+ },
+ {
+  "_pageName": "Monstro's Tooth",
+  "dlc": "31",
+  "collectible": "Monstro's Tooth",
+  "recharge": "3"
+ },
+ {
+  "_pageName": "Moving Box",
+  "dlc": "31",
+  "collectible": "Moving Box",
+  "recharge": "4"
+ },
+ {
+  "_pageName": "Mr. Boom",
+  "dlc": "31",
+  "collectible": "Mr. Boom",
+  "recharge": "2"
+ },
+ {
+  "_pageName": "Mr. ME!",
+  "dlc": "28",
+  "collectible": "Mr. ME!",
+  "recharge": "4"
+ },
+ {
+  "_pageName": "My Little Unicorn",
+  "dlc": "7",
+  "collectible": "My Little Unicorn",
+  "recharge": "6"
+ },
+ {
+  "_pageName": "My Little Unicorn",
+  "dlc": "24",
+  "collectible": "My Little Unicorn",
+  "recharge": "4"
+ },
+ {
+  "_pageName": "Mystery Gift",
+  "dlc": "31",
+  "collectible": "Mystery Gift",
+  "recharge": "one time"
+ },
+ {
+  "_pageName": "Notched Axe",
+  "dlc": "7",
+  "collectible": "Notched Axe",
+  "recharge": "3"
+ },
+ {
+  "_pageName": "Notched Axe",
+  "dlc": "24",
+  "collectible": "Notched Axe",
+  "recharge": "unlimited"
+ },
+ {
+  "_pageName": "Pandora's Box",
+  "dlc": "31",
+  "collectible": "Pandora's Box",
+  "recharge": "one time"
+ },
+ {
+  "_pageName": "Pause",
+  "dlc": "31",
+  "collectible": "Pause",
+  "recharge": "2"
+ },
+ {
+  "_pageName": "Placebo",
+  "dlc": "6",
+  "collectible": "Placebo",
+  "recharge": "4"
+ },
+ {
+  "_pageName": "Placebo",
+  "dlc": "24",
+  "collectible": "Placebo",
+  "recharge": "variable"
+ },
+ {
+  "_pageName": "Plan C",
+  "dlc": "28",
+  "collectible": "Plan C",
+  "recharge": "one time"
+ },
+ {
+  "_pageName": "Plum Flute",
+  "dlc": "24",
+  "collectible": "Plum Flute",
+  "recharge": "4"
+ },
+ {
+  "_pageName": "Portable Slot",
+  "dlc": "31",
+  "collectible": "Portable Slot",
+  "recharge": "unlimited"
+ },
+ {
+  "_pageName": "Potato Peeler",
+  "dlc": "28",
+  "collectible": "Potato Peeler",
+  "recharge": "unlimited"
+ },
+ {
+  "_pageName": "Prayer Card",
+  "dlc": "31",
+  "collectible": "Prayer Card",
+  "recharge": "6"
+ },
+ {
+  "_pageName": "R Key",
+  "dlc": "24",
+  "collectible": "R Key",
+  "recharge": "one time"
+ },
+ {
+  "_pageName": "Razor Blade",
+  "dlc": "31",
+  "collectible": "Razor Blade",
+  "recharge": "unlimited"
+ },
+ {
+  "_pageName": "Recall",
+  "dlc": "24",
+  "collectible": "Recall",
+  "recharge": "3s"
+ },
+ {
+  "_pageName": "Red Candle",
+  "dlc": "31",
+  "collectible": "Red Candle",
+  "recharge": "4s"
+ },
+ {
+  "_pageName": "Red Key",
+  "dlc": "24",
+  "collectible": "Red Key",
+  "recharge": "4"
+ },
+ {
+  "_pageName": "Remote Detonator",
+  "dlc": "31",
+  "collectible": "Remote Detonator",
+  "recharge": "unlimited"
+ },
+ {
+  "_pageName": "Sacrificial Altar",
+  "dlc": "28",
+  "collectible": "Sacrificial Altar",
+  "recharge": "one time"
+ },
+ {
+  "_pageName": "Satanic Bible",
+  "dlc": "31",
+  "collectible": "Satanic Bible",
+  "recharge": "6"
+ },
+ {
+  "_pageName": "Scissors",
+  "dlc": "1",
+  "collectible": "Scissors",
+  "recharge": "6"
+ },
+ {
+  "_pageName": "Scissors",
+  "dlc": "6",
+  "collectible": "Scissors",
+  "recharge": "2"
+ },
+ {
+  "_pageName": "Scissors",
+  "dlc": "24",
+  "collectible": "Scissors",
+  "recharge": "4"
+ },
+ {
+  "_pageName": "Sharp Key",
+  "dlc": "24",
+  "collectible": "Sharp Key",
+  "recharge": "unlimited"
+ },
+ {
+  "_pageName": "Sharp Straw",
+  "dlc": "31",
+  "collectible": "Sharp Straw",
+  "recharge": "10s"
+ },
+ {
+  "_pageName": "Shoop da Whoop!",
+  "dlc": "31",
+  "collectible": "Shoop da Whoop!",
+  "recharge": "2"
+ },
+ {
+  "_pageName": "Smelter",
+  "dlc": "28",
+  "collectible": "Smelter",
+  "recharge": "6"
+ },
+ {
+  "_pageName": "Spider Butt",
+  "dlc": "31",
+  "collectible": "Spider Butt",
+  "recharge": "2"
+ },
+ {
+  "_pageName": "Spin to Win",
+  "dlc": "31",
+  "collectible": "Spin to Win",
+  "recharge": "3s"
+ },
+ {
+  "_pageName": "Spindown Dice",
+  "dlc": "24",
+  "collectible": "Spindown Dice",
+  "recharge": "6"
+ },
+ {
+  "_pageName": "Sprinkler",
+  "dlc": "31",
+  "collectible": "Sprinkler",
+  "recharge": "4"
+ },
+ {
+  "_pageName": "Stitches",
+  "dlc": "24",
+  "collectible": "Stitches",
+  "recharge": "3s"
+ },
+ {
+  "_pageName": "Sulfur",
+  "dlc": "24",
+  "collectible": "Sulfur",
+  "recharge": "3"
+ },
+ {
+  "_pageName": "Sumptorium",
+  "dlc": "31",
+  "collectible": "Sumptorium",
+  "recharge": "10s"
+ },
+ {
+  "_pageName": "Suplex!",
+  "dlc": "24",
+  "collectible": "Suplex!",
+  "recharge": "7s"
+ },
+ {
+  "_pageName": "Tammy's Head",
+  "dlc": "31",
+  "collectible": "Tammy's Head",
+  "recharge": "1"
+ },
+ {
+  "_pageName": "Tear Detonator",
+  "dlc": "6",
+  "collectible": "Tear Detonator",
+  "recharge": "1"
+ },
+ {
+  "_pageName": "Tear Detonator",
+  "dlc": "24",
+  "collectible": "Tear Detonator",
+  "recharge": "15s"
+ },
+ {
+  "_pageName": "Telekinesis",
+  "dlc": "4",
+  "collectible": "Telekinesis",
+  "recharge": "3s"
+ },
+ {
+  "_pageName": "Telekinesis",
+  "dlc": "24",
+  "collectible": "Telekinesis",
+  "recharge": "7s"
+ },
+ {
+  "_pageName": "Telepathy For Dummies",
+  "dlc": "31",
+  "collectible": "Telepathy For Dummies",
+  "recharge": "2"
+ },
+ {
+  "_pageName": "Teleport 2.0",
+  "dlc": "30",
+  "collectible": "Teleport 2.0",
+  "recharge": "4"
+ },
+ {
+  "_pageName": "Teleport!",
+  "dlc": "31",
+  "collectible": "Teleport!",
+  "recharge": "2"
+ },
+ {
+  "_pageName": "The Bean",
+  "dlc": "15",
+  "collectible": "The Bean",
+  "recharge": "1"
+ },
+ {
+  "_pageName": "The Bean",
+  "dlc": "16",
+  "collectible": "The Bean",
+  "recharge": "4s"
+ },
+ {
+  "_pageName": "The Bible",
+  "dlc": "7",
+  "collectible": "The Bible",
+  "recharge": "6"
+ },
+ {
+  "_pageName": "The Bible",
+  "dlc": "24",
+  "collectible": "The Bible",
+  "recharge": "4"
+ },
+ {
+  "_pageName": "The Book of Belial",
+  "dlc": "31",
+  "collectible": "The Book of Belial",
+  "recharge": "3"
+ },
+ {
+  "_pageName": "The Book of Sin",
+  "dlc": "31",
+  "collectible": "The Book of Sin",
+  "recharge": "4"
+ },
+ {
+  "_pageName": "The Boomerang",
+  "dlc": "31",
+  "collectible": "The Boomerang",
+  "recharge": "2s"
+ },
+ {
+  "_pageName": "The Candle",
+  "dlc": "31",
+  "collectible": "The Candle",
+  "recharge": "4s"
+ },
+ {
+  "_pageName": "The D6",
+  "dlc": "31",
+  "collectible": "The D6",
+  "recharge": "6"
+ },
+ {
+  "_pageName": "The Gamekid",
+  "dlc": "7",
+  "collectible": "The Gamekid",
+  "recharge": "6"
+ },
+ {
+  "_pageName": "The Gamekid",
+  "dlc": "24",
+  "collectible": "The Gamekid",
+  "recharge": "4"
+ },
+ {
+  "_pageName": "The Hourglass",
+  "dlc": "31",
+  "collectible": "The Hourglass",
+  "recharge": "2"
+ },
+ {
+  "_pageName": "The Jar",
+  "dlc": "31",
+  "collectible": "The Jar",
+  "recharge": "unlimited"
+ },
+ {
+  "_pageName": "The Nail",
+  "dlc": "31",
+  "collectible": "The Nail",
+  "recharge": "6"
+ },
+ {
+  "_pageName": "The Necronomicon",
+  "dlc": "7",
+  "collectible": "The Necronomicon",
+  "recharge": "6"
+ },
+ {
+  "_pageName": "The Necronomicon",
+  "dlc": "24",
+  "collectible": "The Necronomicon",
+  "recharge": "4"
+ },
+ {
+  "_pageName": "The Pinking Shears",
+  "dlc": "7",
+  "collectible": "The Pinking Shears",
+  "recharge": "6"
+ },
+ {
+  "_pageName": "The Pinking Shears",
+  "dlc": "24",
+  "collectible": "The Pinking Shears",
+  "recharge": "4"
+ },
+ {
+  "_pageName": "The Poop",
+  "dlc": "31",
+  "collectible": "The Poop",
+  "recharge": "1"
+ },
+ {
+  "_pageName": "The Scooper",
+  "dlc": "24",
+  "collectible": "The Scooper",
+  "recharge": "3"
+ },
+ {
+  "_pageName": "Undefined",
+  "dlc": "31",
+  "collectible": "Undefined",
+  "recharge": "6"
+ },
+ {
+  "_pageName": "Unicorn Stump",
+  "dlc": "31",
+  "collectible": "Unicorn Stump",
+  "recharge": "1"
+ },
+ {
+  "_pageName": "Urn of Souls",
+  "dlc": "24",
+  "collectible": "Urn of Souls",
+  "recharge": "unlimited"
+ },
+ {
+  "_pageName": "Vade Retro",
+  "dlc": "24",
+  "collectible": "Vade Retro",
+  "recharge": "unlimited"
+ },
+ {
+  "_pageName": "Ventricle Razor",
+  "dlc": "30",
+  "collectible": "Ventricle Razor",
+  "recharge": "unlimited"
+ },
+ {
+  "_pageName": "Void",
+  "dlc": "12",
+  "collectible": "Void",
+  "recharge": "6"
+ },
+ {
+  "_pageName": "Void",
+  "dlc": "16",
+  "collectible": "Void",
+  "recharge": "4"
+ },
+ {
+  "_pageName": "Wait What?",
+  "dlc": "28",
+  "collectible": "Wait What?",
+  "recharge": "10s"
+ },
+ {
+  "_pageName": "Wavy Cap",
+  "dlc": "31",
+  "collectible": "Wavy Cap",
+  "recharge": "0.5s"
+ },
+ {
+  "_pageName": "We Need To Go Deeper!",
+  "dlc": "31",
+  "collectible": "We Need To Go Deeper!",
+  "recharge": "6"
+ },
+ {
+  "_pageName": "White Pony",
+  "dlc": "7",
+  "collectible": "White Pony",
+  "recharge": "6"
+ },
+ {
+  "_pageName": "White Pony",
+  "dlc": "24",
+  "collectible": "White Pony",
+  "recharge": "2"
+ },
+ {
+  "_pageName": "Wooden Nickel",
+  "dlc": "30",
+  "collectible": "Wooden Nickel",
+  "recharge": "1"
+ },
+ {
+  "_pageName": "Yuck Heart",
+  "dlc": "24",
+  "collectible": "Yuck Heart",
+  "recharge": "4"
+ },
+ {
+  "_pageName": "Yum Heart",
+  "dlc": "31",
+  "collectible": "Yum Heart",
+  "recharge": "4"
+ }
+]

@@ -1,0 +1,113 @@
+{
+ "batchcomplete": true,
+ "query": {
+  "rightsinfo": {
+   "url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "text": "Creative Commons Attribution-ShareAlike 4.0 License"
+  },
+  "general": {
+   "mainpage": "Binding of Isaac: Rebirth Wiki",
+   "base": "https://bindingofisaacrebirth.wiki.gg/",
+   "sitename": "The Binding of Isaac: Rebirth Wiki",
+   "mainpageisdomainroot": true,
+   "logo": "https://bindingofisaacrebirth.wiki.gg/images/Site-logo.png?6d8810",
+   "generator": "MediaWiki 1.43.6",
+   "phpversion": "8.1",
+   "phpsapi": "fpm-fcgi",
+   "dbtype": "mysql",
+   "dbversion": "8.0.45",
+   "imagewhitelistenabled": false,
+   "langconversion": true,
+   "linkconversion": true,
+   "titleconversion": true,
+   "linkprefixcharset": "",
+   "linkprefix": "",
+   "linktrail": "/^([a-z]+)(.*)$/sD",
+   "legaltitlechars": " %!\"$&'()*,\\-.\\/0-9:;=?@A-Z\\\\^_`a-z~\\x80-\\xFF+",
+   "invalidusernamechars": "@:>=",
+   "allunicodefixes": false,
+   "fixarabicunicode": true,
+   "fixmalayalamunicode": true,
+   "git-hash": "4e2b2c835083cb549229549d1be13f28e5e53486",
+   "git-branch": "wgg/1.43",
+   "case": "first-letter",
+   "lang": "en",
+   "fallback": [],
+   "rtl": false,
+   "fallback8bitEncoding": "windows-1252",
+   "readonly": false,
+   "writeapi": true,
+   "maxarticlesize": 4194304,
+   "timezone": "UTC",
+   "timeoffset": 0,
+   "articlepath": "/wiki/$1",
+   "scriptpath": "",
+   "script": "/index.php",
+   "variantarticlepath": "/wiki/$1?variant=$2",
+   "server": "https://bindingofisaacrebirth.wiki.gg",
+   "servername": "bindingofisaacrebirth.wiki.gg",
+   "wikiid": "bindingofisaacrebirth_en",
+   "time": "2026-11-08T01:18:59Z",
+   "misermode": false,
+   "uploadsenabled": true,
+   "maxuploadsize": 15728640,
+   "minuploadchunksize": 1024,
+   "galleryoptions": {
+    "imagesPerRow": 0,
+    "imageWidth": 120,
+    "imageHeight": 120,
+    "captionLength": true,
+    "showBytes": true,
+    "showDimensions": true,
+    "mode": "traditional"
+   },
+   "thumblimits": {
+    "0": 160,
+    "1": 240,
+    "2": 320
+   },
+   "imagelimits": {
+    "0": {
+     "width": 320,
+     "height": 240
+    },
+    "1": {
+     "width": 640,
+     "height": 480
+    },
+    "2": {
+     "width": 1280,
+     "height": 1024
+    },
+    "3": {
+     "width": 2560,
+     "height": 2048
+    }
+   },
+   "favicon": "https://bindingofisaacrebirth.wiki.gg/images/Site-favicon.ico?ceb3d2",
+   "centralidlookupprovider": "local",
+   "allcentralidlookupproviders": [
+    "local"
+   ],
+   "interwikimagic": true,
+   "magiclinks": {
+    "ISBN": false,
+    "PMID": false,
+    "RFC": false
+   },
+   "categorycollation": "uppercase",
+   "nofollowlinks": true,
+   "nofollownsexceptions": [],
+   "nofollowdomainexceptions": [
+    "mediawiki.org",
+    "wiki.gg",
+    "indie.io",
+    "freedom.gg",
+    "mediawiki.org"
+   ],
+   "externallinktarget": false,
+   "max-page-id": 19262,
+   "citeresponsivereferences": true
+  }
+ }
+}

@@ -1,0 +1,92 @@
+[
+  {
+    "slug": "the-lost",
+    "title": "Débloquer The Lost",
+    "summary": "Missing Poster (The Lamb avec Isaac), puis mourir dans une Sacrifice Room en le tenant.",
+    "goalAchievementIds": ["The Lost"],
+    "guideSlug": "debloquer-the-lost",
+    "steps": [
+      { "title": "Débloquer The Negative", "body": "Vaincre ⟦e:Satan⟧ 5 fois (n'importe quel personnage). Facilite l'accès à la ⟦s:Dark Room⟧.", "achievementIds": ["The Negative"], "random": false },
+      { "title": "Vaincre The Lamb avec Isaac", "body": "Débloque le trinket ⟦t:Missing Poster⟧.", "achievementIds": ["Missing Poster"], "random": false },
+      { "title": "Trouver le poster et une Sacrifice Room", "body": "Trinket et salle apparaissent aléatoirement : ⟦i:Mom's Box⟧ aide beaucoup. Mourez dans la Sacrifice Room en tenant le poster.", "achievementIds": ["The Lost"], "random": true }
+    ]
+  },
+  {
+    "slug": "the-forgotten",
+    "title": "Débloquer The Forgotten",
+    "summary": "Reconstituer Mom's Shovel en une partie (boss du premier étage en moins d'une minute, puis Boss Rush) et creuser dans la Dark Room.",
+    "goalAchievementIds": ["The Forgotten"],
+    "guideSlug": "debloquer-the-forgotten",
+    "steps": [
+      { "title": "Débloquer The Negative", "body": "Vaincre ⟦e:Satan⟧ 5 fois : The Negative garantit l'accès à la Dark Room, indispensable à la dernière étape.", "achievementIds": ["The Negative"], "random": false },
+      { "title": "Avoir vaincu The Lamb au moins une fois", "body": "Condition préalable à l'apparition de la pelle.", "achievementIds": [], "random": false },
+      { "title": "Partie « pelle »", "body": "Boss du premier étage en moins d'une minute → bombe dans la salle de départ → ⟦i:Broken Shovel 1⟧ ; Boss Rush terminé en la tenant → ⟦i:Mom's Shovel⟧ ; creuser la tombe de la Dark Room.", "achievementIds": ["The Forgotten"], "random": false }
+    ]
+  },
+  {
+    "slug": "keeper",
+    "title": "Débloquer Keeper",
+    "summary": "1000 pièces au total dans la Greed Donation Machine, en profitant du mode Greedier dès 500.",
+    "goalAchievementIds": ["Keeper"],
+    "guideSlug": "debloquer-keeper",
+    "steps": [
+      { "title": "Premiers paliers", "body": "Les premiers dons débloquent des améliorations utiles au mode Greed.", "achievementIds": ["Lucky Pennies", "Special Hanging Shopkeepers", "Wooden Nickel", "Cain holds Paperclip"], "random": false },
+      { "title": "Atteindre 500 pièces", "body": "Débloque le mode Greedier : risque de blocage plafonné à 1 %.", "achievementIds": ["Greedier!"], "random": false },
+      { "title": "Atteindre 999 puis 1000 pièces", "body": "Le 1000e don fait exploser la machine et débloque ⟦c:Keeper⟧.", "achievementIds": ["Generosity", "Keeper"], "random": false }
+    ]
+  },
+  {
+    "slug": "tainted",
+    "title": "Débloquer les personnages Tainted",
+    "summary": "Ouvrir la route alternative, vaincre Mother, atteindre Home et ouvrir le placard avec chaque personnage.",
+    "goalAchievementIds": ["The Broken", "The Dauntless", "The Hoarder", "The Deceiver", "The Soiled", "The Curdled", "The Savage", "The Benighted", "The Enigma", "The Capricious", "The Baleful", "The Harlot", "The Miser", "The Empty", "The Fettered", "The Zealot", "The Deserter"],
+    "guideSlug": "debloquer-les-tainted",
+    "steps": [
+      { "title": "Ouvrir le Blue Womb", "body": "Vaincre ⟦e:Mom's Heart⟧ 10 fois.", "achievementIds": ["Blue Womb"], "random": false },
+      { "title": "Vaincre Hush 3 fois", "body": "Débloque la sortie secrète vers ⟦s:Downpour⟧ / ⟦s:Dross⟧.", "achievementIds": ["A Secret Exit"], "random": false },
+      { "title": "Vaincre Mother", "body": "Couteau en deux morceaux (Downpour II puis Mines II), Mausoleum, Corpse. Débloque « A Strange Door ».", "achievementIds": ["A Strange Door"], "random": false },
+      { "title": "Atteindre Home une première fois", "body": "Le coffre de Mom donne la ⟦i:Red Key⟧ la première fois.", "achievementIds": ["Red Key"], "random": false },
+      { "title": "Ouvrir le placard avec chaque personnage", "body": "Red Key, Cracked Key (trinket laissé avant l'Ascension) ou Soul of Cain, sur le mur gauche du couloir de Home.", "achievementIds": ["The Broken", "The Dauntless", "The Hoarder", "The Deceiver", "The Soiled", "The Curdled", "The Savage", "The Benighted", "The Enigma", "The Capricious", "The Baleful", "The Harlot", "The Miser", "The Empty", "The Fettered", "The Zealot", "The Deserter"], "random": false }
+    ]
+  },
+  {
+    "slug": "d6",
+    "title": "Débloquer le D6",
+    "summary": "Débloquer ??? puis vaincre Isaac avec lui.",
+    "goalAchievementIds": ["The D6"],
+    "guideSlug": "debloquer-le-d6",
+    "steps": [
+      { "title": "Débloquer ???", "body": "Vaincre ⟦e:Mom's Heart⟧ 10 fois.", "achievementIds": ["???"], "random": false },
+      { "title": "Vaincre Isaac avec ???", "body": "Rayon de lumière après Mom's Heart, puis ⟦e:Isaac⟧ à la fin de la Cathedral.", "achievementIds": ["The D6"], "random": false }
+    ]
+  },
+  {
+    "slug": "greedier",
+    "title": "Optimiser les déblocages Greedier",
+    "summary": "Débloquer le mode Greedier puis vaincre Ultra Greedier avec chaque personnage normal.",
+    "goalAchievementIds": ["D1", "Glyph of Balance", "Sack of Sacks", "Eye of Belial", "Meconium", "Crow Heart", "Stem Cell", "Bat Wing", "Plan C", "Metronome", "Dad's Lost Coin", "Duality", "Eye of Greed", "Black Rune", "Dad's Ring", "Vade Retro", "Genesis"],
+    "guideSlug": "optimiser-greed-donation-machine",
+    "steps": [
+      { "title": "Débloquer Greedier", "body": "Donner 500 pièces au total à la Greed Donation Machine.", "achievementIds": ["Greedier!"], "random": false },
+      { "title": "Personnages faciles d'abord", "body": "Commencez par les personnages robustes (Azazel, Magdalene, Isaac…) pour accumuler des déblocages et des dons en même temps : en Greedier, le risque de blocage de la machine est plafonné à 1 %.", "achievementIds": ["Bat Wing", "Glyph of Balance", "D1", "Sack of Sacks", "Stem Cell", "Black Rune"], "random": false },
+      { "title": "Personnages exigeants", "body": "Terminez avec les personnages plus difficiles.", "achievementIds": ["Eye of Belial", "Meconium", "Crow Heart", "Plan C", "Metronome", "Dad's Lost Coin", "Duality", "Eye of Greed", "Dad's Ring", "Vade Retro", "Genesis"], "random": false }
+    ]
+  },
+  {
+    "slug": "dead-god",
+    "title": "Préparer la progression vers Dead God",
+    "summary": "Les grandes étapes structurantes avant de viser les 641 succès (Repentance+). Dead God exige tous les autres succès et l'intégralité des objets de la collection.",
+    "goalAchievementIds": ["Dead God"],
+    "guideSlug": "marques-de-completion-efficaces",
+    "steps": [
+      { "title": "Ouvrir les étages de base", "body": "Womb, It Lives!, The Polaroid, The Negative.", "achievementIds": ["The Womb", "It Lives!", "The Polaroid", "The Negative"], "random": false },
+      { "title": "Blue Womb et The Void", "body": "10 victoires contre Mom's Heart, puis Hush.", "achievementIds": ["Blue Womb", "New Area"], "random": false },
+      { "title": "Chemin alternatif", "body": "Hush ×3, puis Mother.", "achievementIds": ["A Secret Exit", "A Strange Door"], "random": false },
+      { "title": "Home et Red Key", "body": "Atteindre Home et ouvrir le coffre de Mom.", "achievementIds": ["Red Key"], "random": false },
+      { "title": "Machines de dons", "body": "Donation Machine (999) et Greed Donation Machine (1000).", "achievementIds": ["Stop Watch", "Keeper"], "random": false },
+      { "title": "Personnages secrets", "body": "The Lost et The Forgotten.", "achievementIds": ["The Lost", "The Forgotten"], "random": false },
+      { "title": "Toutes les marques difficiles", "body": "Mega Mush (tous les non-Tainted) puis Death Certificate (tous les personnages).", "achievementIds": ["Mega Mush", "Death Certificate"], "random": false },
+      { "title": "Dead God", "body": "Tous les autres succès + collection complète.", "achievementIds": ["Dead God"], "random": false }
+    ]
+  }
+]

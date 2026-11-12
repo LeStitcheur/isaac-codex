@@ -1,0 +1,142 @@
+{
+    "_comment": "Egg Pterodactyl pour Isaac Codex (format PTDL_v2, Panel 1.x). Voir pterodactyl/README.md.",
+    "meta": {
+        "version": "PTDL_v2",
+        "update_url": null
+    },
+    "exported_at": "2026-11-08T12:00:00+00:00",
+    "name": "Isaac Codex - Node.js",
+    "author": "mrloveur76@gmail.com",
+    "description": "Isaac Codex : encyclopédie interactive non officielle de The Binding of Isaac (Node.js 22, Fastify, SQLite). Le serveur sert l'API et le frontend compilé sur le port attribué. Les données (SQLite, sauvegardes, sprites) sont conservées dans /home/container/data.",
+    "features": null,
+    "docker_images": {
+        "Node.js 22": "ghcr.io/parkervcp/yolks:nodejs_22"
+    },
+    "file_denylist": [],
+    "startup": "bash scripts/start.sh",
+    "config": {
+        "files": "{}",
+        "startup": "{\r\n    \"done\": \"Isaac Codex listening\"\r\n}",
+        "logs": "{}",
+        "stop": "^C"
+    },
+    "scripts": {
+        "installation": {
+            "script": "#!/bin/bash\r\n# Installation d'Isaac Codex (conteneur d'installation Debian + Node.js 22, outils de compilation inclus).\r\nset -euo pipefail\r\nmkdir -p /mnt/server\r\ncd /mnt/server\r\nmkdir -p data\r\n\r\nif [ -n \"${GIT_REPO:-}\" ]; then\r\n    echo \"[egg] Récupération du code depuis ${GIT_REPO} (branche ${GIT_BRANCH:-main})\"\r\n    if [ -d .git ]; then\r\n        git fetch --depth 1 origin \"${GIT_BRANCH:-main}\"\r\n        git reset --hard \"origin/${GIT_BRANCH:-main}\"\r\n    else\r\n        rm -rf /tmp/isaac-codex-src\r\n        git clone --depth 1 --branch \"${GIT_BRANCH:-main}\" \"${GIT_REPO}\" /tmp/isaac-codex-src\r\n        cp -a /tmp/isaac-codex-src/. /mnt/server/\r\n    fi\r\nfi\r\n\r\nif [ -f package.json ] && [ -f scripts/install.sh ]; then\r\n    bash scripts/install.sh\r\nelse\r\n    echo \"[egg] Aucun code source trouvé dans /home/container.\"\r\n    echo \"[egg] Déposez le projet via SFTP ou le gestionnaire de fichiers, puis démarrez le serveur :\"\r\n    echo \"[egg] scripts/start.sh installera et compilera automatiquement.\"\r\nfi\r\necho \"[egg] Installation terminée.\"",
+            "container": "node:22-bookworm",
+            "entrypoint": "bash"
+        }
+    },
+    "variables": [
+        {
+            "name": "Environnement Node",
+            "description": "production (recommandé) ou development.",
+            "env_variable": "NODE_ENV",
+            "default_value": "production",
+            "user_viewable": true,
+            "user_editable": true,
+            "rules": "required|string|in:production,development",
+            "field_type": "text"
+        },
+        {
+            "name": "Port HTTP (facultatif)",
+            "description": "Laisser vide : le port attribué par Pterodactyl (SERVER_PORT) est utilisé automatiquement. Ne renseigner que pour forcer un autre port.",
+            "env_variable": "PORT",
+            "default_value": "",
+            "user_viewable": true,
+            "user_editable": true,
+            "rules": "nullable|integer|between:1,65535",
+            "field_type": "text"
+        },
+        {
+            "name": "Adresse d'écoute",
+            "description": "0.0.0.0 pour accepter les connexions sur l'allocation du serveur.",
+            "env_variable": "HOST",
+            "default_value": "0.0.0.0",
+            "user_viewable": true,
+            "user_editable": true,
+            "rules": "required|string|max:64",
+            "field_type": "text"
+        },
+        {
+            "name": "Chemin de la base SQLite",
+            "description": "Relatif à /home/container. Doit rester dans le dossier data/ pour être conservé et sauvegardé.",
+            "env_variable": "DATABASE_PATH",
+            "default_value": "data/isaac-codex.sqlite",
+            "user_viewable": true,
+            "user_editable": true,
+            "rules": "required|string|max:255",
+            "field_type": "text"
+        },
+        {
+            "name": "Niveau de journalisation",
+            "description": "trace, debug, info, warn ou error. Les requêtes HTTP ne sont journalisées qu'en debug/trace.",
+            "env_variable": "LOG_LEVEL",
+            "default_value": "info",
+            "user_viewable": true,
+            "user_editable": true,
+            "rules": "required|string|in:trace,debug,info,warn,error",
+            "field_type": "text"
+        },
+        {
+            "name": "Format des journaux",
+            "description": "pretty (lisible dans la console du panel) ou json.",
+            "env_variable": "LOG_FORMAT",
+            "default_value": "pretty",
+            "user_viewable": true,
+            "user_editable": true,
+            "rules": "required|string|in:pretty,json",
+            "field_type": "text"
+        },
+        {
+            "name": "URL publique",
+            "description": "URL HTTPS publique de l'application derrière le reverse proxy (ex. https://codex.example.fr). Facultative, affichée dans les journaux.",
+            "env_variable": "APP_BASE_URL",
+            "default_value": "",
+            "user_viewable": true,
+            "user_editable": true,
+            "rules": "nullable|string|max:255",
+            "field_type": "text"
+        },
+        {
+            "name": "Faire confiance au reverse proxy",
+            "description": "true derrière un reverse proxy HTTPS (lecture de X-Forwarded-For pour la limitation de débit).",
+            "env_variable": "TRUST_PROXY",
+            "default_value": "true",
+            "user_viewable": true,
+            "user_editable": true,
+            "rules": "required|string|in:true,false",
+            "field_type": "text"
+        },
+        {
+            "name": "Autoriser la création de profils",
+            "description": "false pour une instance publique en consultation seule.",
+            "env_variable": "ALLOW_PROFILE_CREATION",
+            "default_value": "true",
+            "user_viewable": true,
+            "user_editable": true,
+            "rules": "required|string|in:true,false",
+            "field_type": "text"
+        },
+        {
+            "name": "Dépôt Git (facultatif)",
+            "description": "URL d'un dépôt Git contenant le projet, utilisée uniquement par le script d'installation/réinstallation. Laisser vide pour un dépôt par SFTP.",
+            "env_variable": "GIT_REPO",
+            "default_value": "",
+            "user_viewable": true,
+            "user_editable": true,
+            "rules": "nullable|string|max:255",
+            "field_type": "text"
+        },
+        {
+            "name": "Branche Git",
+            "description": "Branche utilisée si un dépôt Git est renseigné.",
+            "env_variable": "GIT_BRANCH",
+            "default_value": "main",
+            "user_viewable": true,
+            "user_editable": true,
+            "rules": "required|string|max:100",
+            "field_type": "text"
+        }
+    ]
+}

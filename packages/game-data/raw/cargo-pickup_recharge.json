@@ -1,0 +1,1017 @@
+[
+ {
+  "_pageName": "? Card",
+  "card_recharge": "one time",
+  "dlc": "30",
+  "pickup": "? Card",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "0 - The Fool",
+  "card_recharge": "2",
+  "dlc": "24",
+  "pickup": "0 - The Fool",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "0 - The Fool",
+  "card_recharge": "4",
+  "dlc": "7",
+  "pickup": "0 - The Fool",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "0 - The Fool?",
+  "card_recharge": "12",
+  "dlc": "24",
+  "pickup": "0 - The Fool?",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "2 of Clubs",
+  "card_recharge": "12",
+  "dlc": "24",
+  "pickup": "2 of Clubs",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "2 of Clubs",
+  "card_recharge": "4",
+  "dlc": "7",
+  "pickup": "2 of Clubs",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "2 of Diamonds",
+  "card_recharge": "12",
+  "dlc": "24",
+  "pickup": "2 of Diamonds",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "2 of Diamonds",
+  "card_recharge": "4",
+  "dlc": "7",
+  "pickup": "2 of Diamonds",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "2 of Hearts",
+  "card_recharge": "12",
+  "dlc": "24",
+  "pickup": "2 of Hearts",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "2 of Hearts",
+  "card_recharge": "4",
+  "dlc": "7",
+  "pickup": "2 of Hearts",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "2 of Spades",
+  "card_recharge": "12",
+  "dlc": "24",
+  "pickup": "2 of Spades",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "2 of Spades",
+  "card_recharge": "4",
+  "dlc": "7",
+  "pickup": "2 of Spades",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "A Card Against Humanity",
+  "card_recharge": "4",
+  "dlc": "7",
+  "pickup": "A Card Against Humanity",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "A Card Against Humanity",
+  "card_recharge": "6",
+  "dlc": "24",
+  "pickup": "A Card Against Humanity",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "Ace of Clubs",
+  "card_recharge": "4",
+  "dlc": "4",
+  "pickup": "Ace of Clubs",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "Ace of Clubs",
+  "card_recharge": "6",
+  "dlc": "24",
+  "pickup": "Ace of Clubs",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "Ace of Diamonds",
+  "card_recharge": "4",
+  "dlc": "4",
+  "pickup": "Ace of Diamonds",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "Ace of Diamonds",
+  "card_recharge": "6",
+  "dlc": "24",
+  "pickup": "Ace of Diamonds",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "Ace of Hearts",
+  "card_recharge": "4",
+  "dlc": "4",
+  "pickup": "Ace of Hearts",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "Ace of Hearts",
+  "card_recharge": "6",
+  "dlc": "24",
+  "pickup": "Ace of Hearts",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "Ace of Spades (Card)",
+  "card_recharge": "4",
+  "dlc": "4",
+  "pickup": "Ace of Spades",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "Ace of Spades (Card)",
+  "card_recharge": "6",
+  "dlc": "24",
+  "pickup": "Ace of Spades",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "Algiz",
+  "card_recharge": "",
+  "dlc": "24",
+  "pickup": "Algiz",
+  "rune_recharge": "4"
+ },
+ {
+  "_pageName": "Algiz",
+  "card_recharge": "4",
+  "dlc": "7",
+  "pickup": "Algiz",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "Ancient Recall",
+  "card_recharge": "12",
+  "dlc": "24",
+  "pickup": "Ancient Recall",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "Ancient Recall",
+  "card_recharge": "4",
+  "dlc": "4",
+  "pickup": "Ancient Recall",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "Ansuz",
+  "card_recharge": "",
+  "dlc": "24",
+  "pickup": "Ansuz",
+  "rune_recharge": "2"
+ },
+ {
+  "_pageName": "Ansuz",
+  "card_recharge": "4",
+  "dlc": "7",
+  "pickup": "Ansuz",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "Berkano",
+  "card_recharge": "",
+  "dlc": "8",
+  "pickup": "Berkano",
+  "rune_recharge": "2"
+ },
+ {
+  "_pageName": "Berkano",
+  "card_recharge": "",
+  "dlc": "16",
+  "pickup": "Berkano",
+  "rune_recharge": "4"
+ },
+ {
+  "_pageName": "Berkano",
+  "card_recharge": "4",
+  "dlc": "7",
+  "pickup": "Berkano",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "Black Rune",
+  "card_recharge": "",
+  "dlc": "24",
+  "pickup": "Black Rune",
+  "rune_recharge": "4"
+ },
+ {
+  "_pageName": "Black Rune",
+  "card_recharge": "4",
+  "dlc": "4",
+  "pickup": "Black Rune",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "Blank Rune",
+  "card_recharge": "",
+  "dlc": "24",
+  "pickup": "Blank Rune",
+  "rune_recharge": "3"
+ },
+ {
+  "_pageName": "Blank Rune",
+  "card_recharge": "4",
+  "dlc": "6",
+  "pickup": "Blank Rune",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "Chaos Card",
+  "card_recharge": "4",
+  "dlc": "7",
+  "pickup": "Chaos Card",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "Chaos Card",
+  "card_recharge": "6",
+  "dlc": "24",
+  "pickup": "Chaos Card",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "Credit Card",
+  "card_recharge": "4",
+  "dlc": "7",
+  "pickup": "Credit Card",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "Credit Card",
+  "card_recharge": "6",
+  "dlc": "24",
+  "pickup": "Credit Card",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "Dagaz",
+  "card_recharge": "",
+  "dlc": "24",
+  "pickup": "Dagaz",
+  "rune_recharge": "6"
+ },
+ {
+  "_pageName": "Dagaz",
+  "card_recharge": "4",
+  "dlc": "7",
+  "pickup": "Dagaz",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "Ehwaz",
+  "card_recharge": "",
+  "dlc": "24",
+  "pickup": "Ehwaz",
+  "rune_recharge": "4"
+ },
+ {
+  "_pageName": "Ehwaz",
+  "card_recharge": "4",
+  "dlc": "7",
+  "pickup": "Ehwaz",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "Era Walk",
+  "card_recharge": "3",
+  "dlc": "24",
+  "pickup": "Era Walk",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "Era Walk",
+  "card_recharge": "4",
+  "dlc": "4",
+  "pickup": "Era Walk",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "Get out of Jail Free Card",
+  "card_recharge": "2",
+  "dlc": "24",
+  "pickup": "Get out of Jail Free Card",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "Get out of Jail Free Card",
+  "card_recharge": "4",
+  "dlc": "6",
+  "pickup": "Get out of Jail Free Card",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "Hagalaz",
+  "card_recharge": "",
+  "dlc": "24",
+  "pickup": "Hagalaz",
+  "rune_recharge": "2"
+ },
+ {
+  "_pageName": "Hagalaz",
+  "card_recharge": "4",
+  "dlc": "7",
+  "pickup": "Hagalaz",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "Holy Card",
+  "card_recharge": "4",
+  "dlc": "28",
+  "pickup": "Holy Card",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "Huge Growth",
+  "card_recharge": "3",
+  "dlc": "24",
+  "pickup": "Huge Growth",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "Huge Growth",
+  "card_recharge": "4",
+  "dlc": "4",
+  "pickup": "Huge Growth",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "I - The Magician",
+  "card_recharge": "2",
+  "dlc": "24",
+  "pickup": "I - The Magician",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "I - The Magician",
+  "card_recharge": "4",
+  "dlc": "7",
+  "pickup": "I - The Magician",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "I - The Magician?",
+  "card_recharge": "4",
+  "dlc": "24",
+  "pickup": "I - The Magician?",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "II - The High Priestess",
+  "card_recharge": "2",
+  "dlc": "24",
+  "pickup": "II - The High Priestess",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "II - The High Priestess",
+  "card_recharge": "4",
+  "dlc": "7",
+  "pickup": "II - The High Priestess",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "II - The High Priestess?",
+  "card_recharge": "4",
+  "dlc": "24",
+  "pickup": "II - The High Priestess?",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "III - The Empress",
+  "card_recharge": "3",
+  "dlc": "24",
+  "pickup": "III - The Empress",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "III - The Empress",
+  "card_recharge": "4",
+  "dlc": "7",
+  "pickup": "III - The Empress",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "III - The Empress?",
+  "card_recharge": "4",
+  "dlc": "24",
+  "pickup": "III - The Empress?",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "IV - The Emperor",
+  "card_recharge": "4",
+  "dlc": "31",
+  "pickup": "IV - The Emperor",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "IV - The Emperor?",
+  "card_recharge": "2",
+  "dlc": "24",
+  "pickup": "IV - The Emperor?",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "IX - The Hermit",
+  "card_recharge": "2",
+  "dlc": "24",
+  "pickup": "IX - The Hermit",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "IX - The Hermit",
+  "card_recharge": "4",
+  "dlc": "7",
+  "pickup": "IX - The Hermit",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "IX - The Hermit?",
+  "card_recharge": "1",
+  "dlc": "24",
+  "pickup": "IX - The Hermit?",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "Jera",
+  "card_recharge": "",
+  "dlc": "24",
+  "pickup": "Jera",
+  "rune_recharge": "12"
+ },
+ {
+  "_pageName": "Jera",
+  "card_recharge": "4",
+  "dlc": "7",
+  "pickup": "Jera",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "Joker",
+  "card_recharge": "2",
+  "dlc": "24",
+  "pickup": "Joker",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "Joker",
+  "card_recharge": "4",
+  "dlc": "7",
+  "pickup": "Joker",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "Perthro",
+  "card_recharge": "",
+  "dlc": "24",
+  "pickup": "Perthro",
+  "rune_recharge": "4"
+ },
+ {
+  "_pageName": "Perthro",
+  "card_recharge": "4",
+  "dlc": "7",
+  "pickup": "Perthro",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "Queen of Hearts",
+  "card_recharge": "12",
+  "dlc": "24",
+  "pickup": "Queen of Hearts",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "Rules Card",
+  "card_recharge": "1",
+  "dlc": "24",
+  "pickup": "Rules Card",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "Rules Card",
+  "card_recharge": "4",
+  "dlc": "7",
+  "pickup": "Rules Card",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "Rune Shard",
+  "card_recharge": "",
+  "dlc": "24",
+  "pickup": "Rune Shard",
+  "rune_recharge": "1"
+ },
+ {
+  "_pageName": "Soul of ???",
+  "card_recharge": "",
+  "dlc": "24",
+  "pickup": "Soul of ???",
+  "rune_recharge": "3"
+ },
+ {
+  "_pageName": "Soul of Apollyon",
+  "card_recharge": "",
+  "dlc": "24",
+  "pickup": "Soul of Apollyon",
+  "rune_recharge": "6"
+ },
+ {
+  "_pageName": "Soul of Azazel",
+  "card_recharge": "",
+  "dlc": "24",
+  "pickup": "Soul of Azazel",
+  "rune_recharge": "6"
+ },
+ {
+  "_pageName": "Soul of Bethany",
+  "card_recharge": "",
+  "dlc": "24",
+  "pickup": "Soul of Bethany",
+  "rune_recharge": "6"
+ },
+ {
+  "_pageName": "Soul of Cain",
+  "card_recharge": "",
+  "dlc": "24",
+  "pickup": "Soul of Cain",
+  "rune_recharge": "6"
+ },
+ {
+  "_pageName": "Soul of Eden",
+  "card_recharge": "",
+  "dlc": "24",
+  "pickup": "Soul of Eden",
+  "rune_recharge": "4"
+ },
+ {
+  "_pageName": "Soul of Eve",
+  "card_recharge": "",
+  "dlc": "24",
+  "pickup": "Soul of Eve",
+  "rune_recharge": "4"
+ },
+ {
+  "_pageName": "Soul of Isaac",
+  "card_recharge": "",
+  "dlc": "24",
+  "pickup": "Soul of Isaac",
+  "rune_recharge": "4"
+ },
+ {
+  "_pageName": "Soul of Jacob and Esau",
+  "card_recharge": "",
+  "dlc": "24",
+  "pickup": "Soul of Jacob and Esau",
+  "rune_recharge": "4"
+ },
+ {
+  "_pageName": "Soul of Judas",
+  "card_recharge": "",
+  "dlc": "8",
+  "pickup": "Soul of Judas",
+  "rune_recharge": "3"
+ },
+ {
+  "_pageName": "Soul of Judas",
+  "card_recharge": "",
+  "dlc": "16",
+  "pickup": "Soul of Judas",
+  "rune_recharge": "2"
+ },
+ {
+  "_pageName": "Soul of Lazarus",
+  "card_recharge": "",
+  "dlc": "24",
+  "pickup": "Soul of Lazarus",
+  "rune_recharge": "1"
+ },
+ {
+  "_pageName": "Soul of Lilith",
+  "card_recharge": "",
+  "dlc": "24",
+  "pickup": "Soul of Lilith",
+  "rune_recharge": "12"
+ },
+ {
+  "_pageName": "Soul of Magdalene",
+  "card_recharge": "",
+  "dlc": "24",
+  "pickup": "Soul of Magdalene",
+  "rune_recharge": "3"
+ },
+ {
+  "_pageName": "Soul of Samson",
+  "card_recharge": "",
+  "dlc": "24",
+  "pickup": "Soul of Samson",
+  "rune_recharge": "6"
+ },
+ {
+  "_pageName": "Soul of the Forgotten",
+  "card_recharge": "",
+  "dlc": "24",
+  "pickup": "Soul of the Forgotten",
+  "rune_recharge": "3"
+ },
+ {
+  "_pageName": "Soul of the Keeper",
+  "card_recharge": "",
+  "dlc": "24",
+  "pickup": "Soul of the Keeper",
+  "rune_recharge": "12"
+ },
+ {
+  "_pageName": "Soul of the Lost",
+  "card_recharge": "",
+  "dlc": "24",
+  "pickup": "Soul of the Lost",
+  "rune_recharge": "3"
+ },
+ {
+  "_pageName": "Suicide King",
+  "card_recharge": "1",
+  "dlc": "24",
+  "pickup": "Suicide King",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "Suicide King",
+  "card_recharge": "4",
+  "dlc": "7",
+  "pickup": "Suicide King",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "V - The Hierophant",
+  "card_recharge": "12",
+  "dlc": "24",
+  "pickup": "V - The Hierophant",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "V - The Hierophant",
+  "card_recharge": "4",
+  "dlc": "7",
+  "pickup": "V - The Hierophant",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "V - The Hierophant?",
+  "card_recharge": "12",
+  "dlc": "24",
+  "pickup": "V - The Hierophant?",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "VI - The Lovers",
+  "card_recharge": "4",
+  "dlc": "7",
+  "pickup": "VI - The Lovers",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "VI - The Lovers",
+  "card_recharge": "6",
+  "dlc": "24",
+  "pickup": "VI - The Lovers",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "VI - The Lovers?",
+  "card_recharge": "4",
+  "dlc": "24",
+  "pickup": "VI - The Lovers?",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "VII - The Chariot",
+  "card_recharge": "3",
+  "dlc": "24",
+  "pickup": "VII - The Chariot",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "VII - The Chariot",
+  "card_recharge": "4",
+  "dlc": "7",
+  "pickup": "VII - The Chariot",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "VII - The Chariot?",
+  "card_recharge": "2",
+  "dlc": "24",
+  "pickup": "VII - The Chariot?",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "VIII - Justice",
+  "card_recharge": "4",
+  "dlc": "7",
+  "pickup": "VIII - Justice",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "VIII - Justice",
+  "card_recharge": "6",
+  "dlc": "24",
+  "pickup": "VIII - Justice",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "VIII - Justice?",
+  "card_recharge": "12",
+  "dlc": "24",
+  "pickup": "VIII - Justice?",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "Wild Card",
+  "card_recharge": "6",
+  "dlc": "24",
+  "pickup": "Wild Card",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "X - Wheel of Fortune",
+  "card_recharge": "4",
+  "dlc": "31",
+  "pickup": "X - Wheel of Fortune",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "X - Wheel of Fortune?",
+  "card_recharge": "4",
+  "dlc": "24",
+  "pickup": "X - Wheel of Fortune?",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "XI - Strength",
+  "card_recharge": "3",
+  "dlc": "24",
+  "pickup": "XI - Strength",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "XI - Strength",
+  "card_recharge": "4",
+  "dlc": "7",
+  "pickup": "XI - Strength",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "XI - Strength?",
+  "card_recharge": "3",
+  "dlc": "24",
+  "pickup": "XI - Strength?",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "XII - The Hanged Man",
+  "card_recharge": "3",
+  "dlc": "24",
+  "pickup": "XII - The Hanged Man",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "XII - The Hanged Man",
+  "card_recharge": "4",
+  "dlc": "7",
+  "pickup": "XII - The Hanged Man",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "XII - The Hanged Man?",
+  "card_recharge": "6",
+  "dlc": "24",
+  "pickup": "XII - The Hanged Man?",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "XIII - Death",
+  "card_recharge": "3",
+  "dlc": "24",
+  "pickup": "XIII - Death",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "XIII - Death",
+  "card_recharge": "4",
+  "dlc": "7",
+  "pickup": "XIII - Death",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "XIII - Death?",
+  "card_recharge": "4",
+  "dlc": "24",
+  "pickup": "XIII - Death?",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "XIV - Temperance",
+  "card_recharge": "4",
+  "dlc": "7",
+  "pickup": "XIV - Temperance",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "XIV - Temperance",
+  "card_recharge": "6",
+  "dlc": "24",
+  "pickup": "XIV - Temperance",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "XIV - Temperance?",
+  "card_recharge": "6",
+  "dlc": "24",
+  "pickup": "XIV - Temperance?",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "XIX - The Sun",
+  "card_recharge": "12",
+  "dlc": "24",
+  "pickup": "XIX - The Sun",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "XIX - The Sun",
+  "card_recharge": "4",
+  "dlc": "7",
+  "pickup": "XIX - The Sun",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "XIX - The Sun?",
+  "card_recharge": "6",
+  "dlc": "24",
+  "pickup": "XIX - The Sun?",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "XV - The Devil",
+  "card_recharge": "3",
+  "dlc": "24",
+  "pickup": "XV - The Devil",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "XV - The Devil",
+  "card_recharge": "4",
+  "dlc": "7",
+  "pickup": "XV - The Devil",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "XV - The Devil?",
+  "card_recharge": "4",
+  "dlc": "24",
+  "pickup": "XV - The Devil?",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "XVI - The Tower",
+  "card_recharge": "3",
+  "dlc": "24",
+  "pickup": "XVI - The Tower",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "XVI - The Tower",
+  "card_recharge": "4",
+  "dlc": "7",
+  "pickup": "XVI - The Tower",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "XVI - The Tower?",
+  "card_recharge": "3",
+  "dlc": "8",
+  "pickup": "XVI - The Tower?",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "XVI - The Tower?",
+  "card_recharge": "4",
+  "dlc": "16",
+  "pickup": "XVI - The Tower?",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "XVII - The Stars",
+  "card_recharge": "2",
+  "dlc": "24",
+  "pickup": "XVII - The Stars",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "XVII - The Stars",
+  "card_recharge": "4",
+  "dlc": "7",
+  "pickup": "XVII - The Stars",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "XVII - The Stars?",
+  "card_recharge": "12",
+  "dlc": "24",
+  "pickup": "XVII - The Stars?",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "XVIII - The Moon",
+  "card_recharge": "2",
+  "dlc": "24",
+  "pickup": "XVIII - The Moon",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "XVIII - The Moon",
+  "card_recharge": "4",
+  "dlc": "7",
+  "pickup": "XVIII - The Moon",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "XVIII - The Moon?",
+  "card_recharge": "2",
+  "dlc": "24",
+  "pickup": "XVIII - The Moon?",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "XX - Judgement",
+  "card_recharge": "4",
+  "dlc": "7",
+  "pickup": "XX - Judgement",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "XX - Judgement",
+  "card_recharge": "6",
+  "dlc": "24",
+  "pickup": "XX - Judgement",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "XX - Judgement?",
+  "card_recharge": "12",
+  "dlc": "24",
+  "pickup": "XX - Judgement?",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "XXI - The World",
+  "card_recharge": "3",
+  "dlc": "24",
+  "pickup": "XXI - The World",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "XXI - The World",
+  "card_recharge": "4",
+  "dlc": "7",
+  "pickup": "XXI - The World",
+  "rune_recharge": ""
+ },
+ {
+  "_pageName": "XXI - The World?",
+  "card_recharge": "2",
+  "dlc": "24",
+  "pickup": "XXI - The World?",
+  "rune_recharge": ""
+ }
+]

@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    "target": "ES2023",
+    "module": "ESNext",
+    "moduleResolution": "Bundler",
+    "lib": ["ES2023"],
+    "types": ["node"],
+    "strict": true,
+    "noUncheckedIndexedAccess": true,
+    "noImplicitOverride": true,
+    "noFallthroughCasesInSwitch": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "allowImportingTsExtensions": false,
+    "noEmit": true,
+    "baseUrl": ".",
+    "paths": {
+      "@isaac-codex/shared": ["packages/shared/src/index.ts"]
+    }
+  },
+  "include": ["apps/server/src", "apps/server/*.ts", "packages/shared/src", "scripts", "tests", "e2e", "*.ts"],
+  "exclude": ["node_modules", "dist", "apps/web"]
+}

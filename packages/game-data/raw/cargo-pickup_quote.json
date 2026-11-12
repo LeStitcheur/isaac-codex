@@ -1,0 +1,584 @@
+[
+ {
+  "_pageName": "? Card",
+  "dlc": "30",
+  "pickup": "? Card",
+  "quote": "Double active"
+ },
+ {
+  "_pageName": "0 - The Fool",
+  "dlc": "31",
+  "pickup": "0 - The Fool",
+  "quote": "Where journey begins"
+ },
+ {
+  "_pageName": "0 - The Fool?",
+  "dlc": "24",
+  "pickup": "0 - The Fool?",
+  "quote": "Let go and move on"
+ },
+ {
+  "_pageName": "2 of Clubs",
+  "dlc": "31",
+  "pickup": "2 of Clubs",
+  "quote": "Item multiplier"
+ },
+ {
+  "_pageName": "2 of Diamonds",
+  "dlc": "31",
+  "pickup": "2 of Diamonds",
+  "quote": "Item multiplier"
+ },
+ {
+  "_pageName": "2 of Hearts",
+  "dlc": "31",
+  "pickup": "2 of Hearts",
+  "quote": "Item multiplier"
+ },
+ {
+  "_pageName": "2 of Spades",
+  "dlc": "31",
+  "pickup": "2 of Spades",
+  "quote": "Item multiplier"
+ },
+ {
+  "_pageName": "A Card Against Humanity",
+  "dlc": "31",
+  "pickup": "A Card Against Humanity",
+  "quote": "Something stinks..."
+ },
+ {
+  "_pageName": "Ace of Clubs",
+  "dlc": "28",
+  "pickup": "Ace of Clubs",
+  "quote": "Convert all"
+ },
+ {
+  "_pageName": "Ace of Diamonds",
+  "dlc": "28",
+  "pickup": "Ace of Diamonds",
+  "quote": "Convert all"
+ },
+ {
+  "_pageName": "Ace of Hearts",
+  "dlc": "28",
+  "pickup": "Ace of Hearts",
+  "quote": "Convert all"
+ },
+ {
+  "_pageName": "Ace of Spades (Card)",
+  "dlc": "28",
+  "pickup": "Ace of Spades",
+  "quote": "Convert all"
+ },
+ {
+  "_pageName": "Algiz",
+  "dlc": "31",
+  "pickup": "Algiz",
+  "quote": "Resistance"
+ },
+ {
+  "_pageName": "Ancient Recall",
+  "dlc": "28",
+  "pickup": "Ancient Recall",
+  "quote": "Draw 3 cards"
+ },
+ {
+  "_pageName": "Ansuz",
+  "dlc": "31",
+  "pickup": "Ansuz",
+  "quote": "Vision"
+ },
+ {
+  "_pageName": "Berkano",
+  "dlc": "31",
+  "pickup": "Berkano",
+  "quote": "Companionship"
+ },
+ {
+  "_pageName": "Black Rune",
+  "dlc": "28",
+  "pickup": "Black Rune",
+  "quote": "Void"
+ },
+ {
+  "_pageName": "Blank Rune",
+  "dlc": "30",
+  "pickup": "Blank Rune",
+  "quote": "???"
+ },
+ {
+  "_pageName": "Chaos Card",
+  "dlc": "31",
+  "pickup": "Chaos Card",
+  "quote": "???"
+ },
+ {
+  "_pageName": "Cracked Key",
+  "dlc": "24",
+  "pickup": "Cracked Key",
+  "quote": "???"
+ },
+ {
+  "_pageName": "Credit Card",
+  "dlc": "31",
+  "pickup": "Credit Card",
+  "quote": "Charge it!"
+ },
+ {
+  "_pageName": "Dagaz",
+  "dlc": "31",
+  "pickup": "Dagaz",
+  "quote": "Purity"
+ },
+ {
+  "_pageName": "Dice Shard",
+  "dlc": "30",
+  "pickup": "Dice Shard",
+  "quote": "D6 + D20"
+ },
+ {
+  "_pageName": "Ehwaz",
+  "dlc": "31",
+  "pickup": "Ehwaz",
+  "quote": "Passage"
+ },
+ {
+  "_pageName": "Emergency Contact",
+  "dlc": "30",
+  "pickup": "Emergency Contact",
+  "quote": "Help from above"
+ },
+ {
+  "_pageName": "Era Walk",
+  "dlc": "28",
+  "pickup": "Era Walk",
+  "quote": "Savor the moment"
+ },
+ {
+  "_pageName": "Get out of Jail Free Card",
+  "dlc": "30",
+  "pickup": "Get out of Jail Free Card",
+  "quote": "Open Sesame"
+ },
+ {
+  "_pageName": "Hagalaz",
+  "dlc": "31",
+  "pickup": "Hagalaz",
+  "quote": "Destruction"
+ },
+ {
+  "_pageName": "Holy Card",
+  "dlc": "28",
+  "pickup": "Holy Card",
+  "quote": "You feel protected"
+ },
+ {
+  "_pageName": "Huge Growth",
+  "dlc": "28",
+  "pickup": "Huge Growth",
+  "quote": "Become immense!"
+ },
+ {
+  "_pageName": "I - The Magician",
+  "dlc": "31",
+  "pickup": "I - The Magician",
+  "quote": "May you never miss your goal"
+ },
+ {
+  "_pageName": "I - The Magician?",
+  "dlc": "24",
+  "pickup": "I - The Magician?",
+  "quote": "May no harm come to you"
+ },
+ {
+  "_pageName": "II - The High Priestess",
+  "dlc": "31",
+  "pickup": "II - The High Priestess",
+  "quote": "Mother is watching you"
+ },
+ {
+  "_pageName": "II - The High Priestess?",
+  "dlc": "24",
+  "pickup": "II - The High Priestess?",
+  "quote": "Run"
+ },
+ {
+  "_pageName": "III - The Empress",
+  "dlc": "31",
+  "pickup": "III - The Empress",
+  "quote": "May your rage bring power"
+ },
+ {
+  "_pageName": "III - The Empress?",
+  "dlc": "24",
+  "pickup": "III - The Empress?",
+  "quote": "May your love bring protection"
+ },
+ {
+  "_pageName": "IV - The Emperor",
+  "dlc": "31",
+  "pickup": "IV - The Emperor",
+  "quote": "Challenge me!"
+ },
+ {
+  "_pageName": "IV - The Emperor?",
+  "dlc": "24",
+  "pickup": "IV - The Emperor?",
+  "quote": "May you find a worthy opponent"
+ },
+ {
+  "_pageName": "IX - The Hermit",
+  "dlc": "31",
+  "pickup": "IX - The Hermit",
+  "quote": "May you see what life has to offer"
+ },
+ {
+  "_pageName": "IX - The Hermit?",
+  "dlc": "24",
+  "pickup": "IX - The Hermit?",
+  "quote": "May you see the value of all things in life"
+ },
+ {
+  "_pageName": "Jera",
+  "dlc": "31",
+  "pickup": "Jera",
+  "quote": "Abundance"
+ },
+ {
+  "_pageName": "Joker",
+  "dlc": "31",
+  "pickup": "Joker",
+  "quote": "???"
+ },
+ {
+  "_pageName": "Perthro",
+  "dlc": "31",
+  "pickup": "Perthro",
+  "quote": "Change"
+ },
+ {
+  "_pageName": "Queen of Hearts",
+  "dlc": "24",
+  "pickup": "Queen of Hearts",
+  "quote": "&lt;3"
+ },
+ {
+  "_pageName": "Rules Card",
+  "dlc": "31",
+  "pickup": "Rules Card",
+  "quote": "???"
+ },
+ {
+  "_pageName": "Rune Shard",
+  "dlc": "24",
+  "pickup": "Rune Shard",
+  "quote": "It still glows faintly"
+ },
+ {
+  "_pageName": "Soul of ???",
+  "dlc": "24",
+  "pickup": "Soul of ???",
+  "quote": "Chemical warfare"
+ },
+ {
+  "_pageName": "Soul of Apollyon",
+  "dlc": "24",
+  "pickup": "Soul of Apollyon",
+  "quote": "Bringer of calamity"
+ },
+ {
+  "_pageName": "Soul of Azazel",
+  "dlc": "24",
+  "pickup": "Soul of Azazel",
+  "quote": "Demon rage!"
+ },
+ {
+  "_pageName": "Soul of Bethany",
+  "dlc": "24",
+  "pickup": "Soul of Bethany",
+  "quote": "Friends from beyond"
+ },
+ {
+  "_pageName": "Soul of Cain",
+  "dlc": "24",
+  "pickup": "Soul of Cain",
+  "quote": "Opens the unopenable"
+ },
+ {
+  "_pageName": "Soul of Eden",
+  "dlc": "24",
+  "pickup": "Soul of Eden",
+  "quote": "Embrace chaos"
+ },
+ {
+  "_pageName": "Soul of Eve",
+  "dlc": "24",
+  "pickup": "Soul of Eve",
+  "quote": "Your very own murder"
+ },
+ {
+  "_pageName": "Soul of Isaac",
+  "dlc": "24",
+  "pickup": "Soul of Isaac",
+  "quote": "Reroll... or not"
+ },
+ {
+  "_pageName": "Soul of Jacob and Esau",
+  "dlc": "24",
+  "pickup": "Soul of Jacob and Esau",
+  "quote": "Bound by blood"
+ },
+ {
+  "_pageName": "Soul of Judas",
+  "dlc": "24",
+  "pickup": "Soul of Judas",
+  "quote": "Right behind you"
+ },
+ {
+  "_pageName": "Soul of Lazarus",
+  "dlc": "24",
+  "pickup": "Soul of Lazarus",
+  "quote": "Life after death"
+ },
+ {
+  "_pageName": "Soul of Lilith",
+  "dlc": "24",
+  "pickup": "Soul of Lilith",
+  "quote": "Motherhood"
+ },
+ {
+  "_pageName": "Soul of Magdalene",
+  "dlc": "24",
+  "pickup": "Soul of Magdalene",
+  "quote": "Give me your love!"
+ },
+ {
+  "_pageName": "Soul of Samson",
+  "dlc": "24",
+  "pickup": "Soul of Samson",
+  "quote": "Slay a thousand"
+ },
+ {
+  "_pageName": "Soul of the Forgotten",
+  "dlc": "24",
+  "pickup": "Soul of the Forgotten",
+  "quote": "Skeletal protector"
+ },
+ {
+  "_pageName": "Soul of the Keeper",
+  "dlc": "24",
+  "pickup": "Soul of the Keeper",
+  "quote": "$$$"
+ },
+ {
+  "_pageName": "Soul of the Lost",
+  "dlc": "24",
+  "pickup": "Soul of the Lost",
+  "quote": "Leave your body behind"
+ },
+ {
+  "_pageName": "Suicide King",
+  "dlc": "31",
+  "pickup": "Suicide King",
+  "quote": "A true ending?"
+ },
+ {
+  "_pageName": "V - The Hierophant",
+  "dlc": "31",
+  "pickup": "V - The Hierophant",
+  "quote": "Two prayers for the lost"
+ },
+ {
+  "_pageName": "V - The Hierophant?",
+  "dlc": "24",
+  "pickup": "V - The Hierophant?",
+  "quote": "Two prayers for the forgotten"
+ },
+ {
+  "_pageName": "VI - The Lovers",
+  "dlc": "31",
+  "pickup": "VI - The Lovers",
+  "quote": "May you prosper and be in good health"
+ },
+ {
+  "_pageName": "VI - The Lovers?",
+  "dlc": "24",
+  "pickup": "VI - The Lovers?",
+  "quote": "May your heart shatter to pieces"
+ },
+ {
+  "_pageName": "VII - The Chariot",
+  "dlc": "31",
+  "pickup": "VII - The Chariot",
+  "quote": "May nothing stand before you"
+ },
+ {
+  "_pageName": "VII - The Chariot?",
+  "dlc": "24",
+  "pickup": "VII - The Chariot?",
+  "quote": "May nothing walk past you"
+ },
+ {
+  "_pageName": "VIII - Justice",
+  "dlc": "31",
+  "pickup": "VIII - Justice",
+  "quote": "May your future become balanced"
+ },
+ {
+  "_pageName": "VIII - Justice?",
+  "dlc": "24",
+  "pickup": "VIII - Justice?",
+  "quote": "May your sins come back to torment you"
+ },
+ {
+  "_pageName": "Wild Card",
+  "dlc": "24",
+  "pickup": "Wild Card",
+  "quote": "Again"
+ },
+ {
+  "_pageName": "X - Wheel of Fortune",
+  "dlc": "31",
+  "pickup": "X - Wheel of Fortune",
+  "quote": "Spin the wheel of destiny"
+ },
+ {
+  "_pageName": "X - Wheel of Fortune?",
+  "dlc": "24",
+  "pickup": "X - Wheel of Fortune?",
+  "quote": "Throw the dice of fate"
+ },
+ {
+  "_pageName": "XI - Strength",
+  "dlc": "31",
+  "pickup": "XI - Strength",
+  "quote": "May your power bring rage"
+ },
+ {
+  "_pageName": "XI - Strength?",
+  "dlc": "24",
+  "pickup": "XI - Strength?",
+  "quote": "May you break their resolve"
+ },
+ {
+  "_pageName": "XII - The Hanged Man",
+  "dlc": "31",
+  "pickup": "XII - The Hanged Man",
+  "quote": "May you find enlightenment"
+ },
+ {
+  "_pageName": "XII - The Hanged Man?",
+  "dlc": "24",
+  "pickup": "XII - The Hanged Man?",
+  "quote": "May your greed know no bounds"
+ },
+ {
+  "_pageName": "XIII - Death",
+  "dlc": "31",
+  "pickup": "XIII - Death",
+  "quote": "Lay waste to all that oppose you"
+ },
+ {
+  "_pageName": "XIII - Death?",
+  "dlc": "24",
+  "pickup": "XIII - Death?",
+  "quote": "May life spring forth from the fallen"
+ },
+ {
+  "_pageName": "XIV - Temperance",
+  "dlc": "31",
+  "pickup": "XIV - Temperance",
+  "quote": "May you be pure in heart"
+ },
+ {
+  "_pageName": "XIV - Temperance?",
+  "dlc": "24",
+  "pickup": "XIV - Temperance?",
+  "quote": "May your hunger be satiated"
+ },
+ {
+  "_pageName": "XIX - The Sun",
+  "dlc": "31",
+  "pickup": "XIX - The Sun",
+  "quote": "May the light heal and enlighten you"
+ },
+ {
+  "_pageName": "XIX - The Sun?",
+  "dlc": "24",
+  "pickup": "XIX - The Sun?",
+  "quote": "May the darkness swallow all around you"
+ },
+ {
+  "_pageName": "XV - The Devil",
+  "dlc": "31",
+  "pickup": "XV - The Devil",
+  "quote": "Revel in the power of darkness"
+ },
+ {
+  "_pageName": "XV - The Devil?",
+  "dlc": "24",
+  "pickup": "XV - The Devil?",
+  "quote": "Bask in the light of your mercy"
+ },
+ {
+  "_pageName": "XVI - The Tower",
+  "dlc": "31",
+  "pickup": "XVI - The Tower",
+  "quote": "Destruction brings creation"
+ },
+ {
+  "_pageName": "XVI - The Tower?",
+  "dlc": "24",
+  "pickup": "XVI - The Tower?",
+  "quote": "Creation brings destruction"
+ },
+ {
+  "_pageName": "XVII - The Stars",
+  "dlc": "31",
+  "pickup": "XVII - The Stars",
+  "quote": "May you find what you desire"
+ },
+ {
+  "_pageName": "XVII - The Stars?",
+  "dlc": "24",
+  "pickup": "XVII - The Stars?",
+  "quote": "May your loss bring fortune"
+ },
+ {
+  "_pageName": "XVIII - The Moon",
+  "dlc": "31",
+  "pickup": "XVIII - The Moon",
+  "quote": "May you find all you have lost"
+ },
+ {
+  "_pageName": "XVIII - The Moon?",
+  "dlc": "24",
+  "pickup": "XVIII - The Moon?",
+  "quote": "May you remember lost memories"
+ },
+ {
+  "_pageName": "XX - Judgement",
+  "dlc": "31",
+  "pickup": "XX - Judgement",
+  "quote": "Judge lest ye be judged"
+ },
+ {
+  "_pageName": "XX - Judgement?",
+  "dlc": "24",
+  "pickup": "XX - Judgement?",
+  "quote": "May you redeem those found wanting"
+ },
+ {
+  "_pageName": "XXI - The World",
+  "dlc": "31",
+  "pickup": "XXI - The World",
+  "quote": "Open your eyes and see"
+ },
+ {
+  "_pageName": "XXI - The World?",
+  "dlc": "24",
+  "pickup": "XXI - The World?",
+  "quote": "Step into the abyss"
+ }
+]

@@ -1,0 +1,3428 @@
+[
+ {
+  "_pageName": "??? (Boss)",
+  "dlc": "31",
+  "entity": "???",
+  "name": "???"
+ },
+ {
+  "_pageName": "Angel",
+  "dlc": "31",
+  "entity": "Gabriel",
+  "name": "Gabriel"
+ },
+ {
+  "_pageName": "Angel",
+  "dlc": "31",
+  "entity": "Uriel",
+  "name": "Uriel"
+ },
+ {
+  "_pageName": "Baby",
+  "dlc": "24",
+  "entity": "Angelic Baby (small)",
+  "name": "Angelic Baby (small)"
+ },
+ {
+  "_pageName": "Baby",
+  "dlc": "24",
+  "entity": "Baby Begotten",
+  "name": "Baby Begotten"
+ },
+ {
+  "_pageName": "Baby",
+  "dlc": "24",
+  "entity": "Unborn",
+  "name": "Unborn"
+ },
+ {
+  "_pageName": "Baby",
+  "dlc": "24",
+  "entity": "Wrinkly Baby",
+  "name": "Wrinkly Baby"
+ },
+ {
+  "_pageName": "Baby",
+  "dlc": "30",
+  "entity": "Imp",
+  "name": "Imp"
+ },
+ {
+  "_pageName": "Baby",
+  "dlc": "31",
+  "entity": "Angelic Baby",
+  "name": "Angelic Baby"
+ },
+ {
+  "_pageName": "Baby",
+  "dlc": "31",
+  "entity": "Baby",
+  "name": "Baby"
+ },
+ {
+  "_pageName": "Baby Long Legs",
+  "dlc": "31",
+  "entity": "Baby Long Legs",
+  "name": "Baby Long Legs"
+ },
+ {
+  "_pageName": "Baby Long Legs",
+  "dlc": "31",
+  "entity": "Small Baby Long Legs",
+  "name": "Small Baby Long Legs"
+ },
+ {
+  "_pageName": "Baby Plum",
+  "dlc": "24",
+  "entity": "Baby Plum",
+  "name": "Baby Plum"
+ },
+ {
+  "_pageName": "Ball and Chain",
+  "dlc": "24",
+  "entity": "Ball and Chain",
+  "name": "Ball and Chain"
+ },
+ {
+  "_pageName": "Ball and Chain",
+  "dlc": "24",
+  "entity": "Singe's Ball",
+  "name": "Singe's Ball"
+ },
+ {
+  "_pageName": "Ball and Chain",
+  "dlc": "24",
+  "entity": "Spikeball",
+  "name": "Spikeball"
+ },
+ {
+  "_pageName": "Batteries",
+  "dlc": "31",
+  "entity": "Golden Battery",
+  "name": "Golden Battery"
+ },
+ {
+  "_pageName": "Batteries",
+  "dlc": "31",
+  "entity": "Lil' Battery",
+  "name": "Lil' Battery"
+ },
+ {
+  "_pageName": "Batteries",
+  "dlc": "31",
+  "entity": "Mega Battery",
+  "name": "Mega Battery"
+ },
+ {
+  "_pageName": "Batteries",
+  "dlc": "31",
+  "entity": "Micro Battery",
+  "name": "Micro Battery"
+ },
+ {
+  "_pageName": "Beggar",
+  "dlc": "24",
+  "entity": "Battery Bum",
+  "name": "Battery Bum"
+ },
+ {
+  "_pageName": "Beggar",
+  "dlc": "24",
+  "entity": "Hell Game",
+  "name": "Hell Game"
+ },
+ {
+  "_pageName": "Beggar",
+  "dlc": "24",
+  "entity": "Rotten Beggar",
+  "name": "Rotten Beggar"
+ },
+ {
+  "_pageName": "Beggar",
+  "dlc": "30",
+  "entity": "Bomb Bum",
+  "name": "Bomb Bum"
+ },
+ {
+  "_pageName": "Beggar",
+  "dlc": "31",
+  "entity": "Beggar",
+  "name": "Beggar"
+ },
+ {
+  "_pageName": "Beggar",
+  "dlc": "31",
+  "entity": "Devil Beggar",
+  "name": "Devil Beggar"
+ },
+ {
+  "_pageName": "Beggar",
+  "dlc": "31",
+  "entity": "Key Master",
+  "name": "Key Master"
+ },
+ {
+  "_pageName": "Beggar",
+  "dlc": "31",
+  "entity": "Shell Game",
+  "name": "Shell Game"
+ },
+ {
+  "_pageName": "Big Horn",
+  "dlc": "31",
+  "entity": "Big Horn",
+  "name": "Big Horn"
+ },
+ {
+  "_pageName": "Bishop",
+  "dlc": "24",
+  "entity": "Bishop",
+  "name": "Bishop"
+ },
+ {
+  "_pageName": "Blaster",
+  "dlc": "24",
+  "entity": "Blaster",
+  "name": "Blaster"
+ },
+ {
+  "_pageName": "Blastocyst",
+  "dlc": "31",
+  "entity": "Blastocyst",
+  "name": "Blastocyst"
+ },
+ {
+  "_pageName": "Blighted Ovum",
+  "dlc": "31",
+  "entity": "Blighted Ovum",
+  "name": "Blighted Ovum"
+ },
+ {
+  "_pageName": "Blood Puppy",
+  "dlc": "24",
+  "entity": "Blood Puppy",
+  "name": "Blood Puppy"
+ },
+ {
+  "_pageName": "Boil",
+  "dlc": "24",
+  "entity": "Pustule",
+  "name": "Pustule"
+ },
+ {
+  "_pageName": "Boil",
+  "dlc": "28",
+  "entity": "Gush",
+  "name": "Gush"
+ },
+ {
+  "_pageName": "Boil",
+  "dlc": "30",
+  "entity": "Blue Boil",
+  "name": "Blue Boil"
+ },
+ {
+  "_pageName": "Boil",
+  "dlc": "31",
+  "entity": "Boil",
+  "name": "Boil"
+ },
+ {
+  "_pageName": "Boil",
+  "dlc": "31",
+  "entity": "Gut",
+  "name": "Gut"
+ },
+ {
+  "_pageName": "Boil",
+  "dlc": "31",
+  "entity": "Sack",
+  "name": "Sack"
+ },
+ {
+  "_pageName": "Boil",
+  "dlc": "31",
+  "entity": "Walking Boil",
+  "name": "Walking Boil"
+ },
+ {
+  "_pageName": "Boil",
+  "dlc": "31",
+  "entity": "Walking Gut",
+  "name": "Walking Gut"
+ },
+ {
+  "_pageName": "Boil",
+  "dlc": "31",
+  "entity": "Walking Sack",
+  "name": "Walking Sack"
+ },
+ {
+  "_pageName": "Bombgagger",
+  "dlc": "24",
+  "entity": "Bombgagger",
+  "name": "Bombgagger"
+ },
+ {
+  "_pageName": "Bombs",
+  "dlc": "24",
+  "entity": "Big Poop Nugget",
+  "name": "Big Poop Nugget"
+ },
+ {
+  "_pageName": "Bombs",
+  "dlc": "24",
+  "entity": "Giga Bomb",
+  "name": "Giga Bomb"
+ },
+ {
+  "_pageName": "Bombs",
+  "dlc": "24",
+  "entity": "Golden Troll Bomb",
+  "name": "Golden Troll Bomb"
+ },
+ {
+  "_pageName": "Bombs",
+  "dlc": "24",
+  "entity": "Poop Nugget",
+  "name": "Poop Nugget"
+ },
+ {
+  "_pageName": "Bombs",
+  "dlc": "24",
+  "entity": "Throwable Bomb",
+  "name": "Throwable Bomb"
+ },
+ {
+  "_pageName": "Bombs",
+  "dlc": "30",
+  "entity": "Golden Bomb",
+  "name": "Golden Bomb"
+ },
+ {
+  "_pageName": "Bombs",
+  "dlc": "31",
+  "entity": "Bomb",
+  "name": "Bomb"
+ },
+ {
+  "_pageName": "Bombs",
+  "dlc": "31",
+  "entity": "Double Bomb",
+  "name": "Double Bomb"
+ },
+ {
+  "_pageName": "Bombs",
+  "dlc": "31",
+  "entity": "Mega Troll Bomb",
+  "name": "Mega Troll Bomb"
+ },
+ {
+  "_pageName": "Bombs",
+  "dlc": "31",
+  "entity": "Troll Bomb",
+  "name": "Troll Bomb"
+ },
+ {
+  "_pageName": "Bony",
+  "dlc": "31",
+  "entity": "Black Bony",
+  "name": "Black Bony"
+ },
+ {
+  "_pageName": "Bony",
+  "dlc": "31",
+  "entity": "Bony",
+  "name": "Bony"
+ },
+ {
+  "_pageName": "Bony",
+  "dlc": "31",
+  "entity": "Holy Bony",
+  "name": "Holy Bony"
+ },
+ {
+  "_pageName": "Bony",
+  "dlc": "31",
+  "entity": "Maze Roamer",
+  "name": "Maze Roamer"
+ },
+ {
+  "_pageName": "Bony",
+  "dlc": "31",
+  "entity": "Quad Revenant",
+  "name": "Quad Revenant"
+ },
+ {
+  "_pageName": "Bony",
+  "dlc": "31",
+  "entity": "Revenant",
+  "name": "Revenant"
+ },
+ {
+  "_pageName": "Boom Fly",
+  "dlc": "24",
+  "entity": "Bone Fly",
+  "name": "Bone Fly"
+ },
+ {
+  "_pageName": "Boom Fly",
+  "dlc": "24",
+  "entity": "Dragon Fly",
+  "name": "Dragon Fly"
+ },
+ {
+  "_pageName": "Boom Fly",
+  "dlc": "24",
+  "entity": "Dragon Fly X",
+  "name": "Dragon Fly X"
+ },
+ {
+  "_pageName": "Boom Fly",
+  "dlc": "24",
+  "entity": "Sick Boom Fly",
+  "name": "Sick Boom Fly"
+ },
+ {
+  "_pageName": "Boom Fly",
+  "dlc": "24",
+  "entity": "Tainted Boom Fly",
+  "name": "Tainted Boom Fly"
+ },
+ {
+  "_pageName": "Boom Fly",
+  "dlc": "30",
+  "entity": "Drowned Boom Fly",
+  "name": "Drowned Boom Fly"
+ },
+ {
+  "_pageName": "Boom Fly",
+  "dlc": "31",
+  "entity": "Boom Fly",
+  "name": "Boom Fly"
+ },
+ {
+  "_pageName": "Boom Fly",
+  "dlc": "31",
+  "entity": "Red Boom Fly",
+  "name": "Red Boom Fly"
+ },
+ {
+  "_pageName": "Brain",
+  "dlc": "24",
+  "entity": "Festering Guts",
+  "name": "Festering Guts"
+ },
+ {
+  "_pageName": "Brain",
+  "dlc": "24",
+  "entity": "Pon",
+  "name": "Pon"
+ },
+ {
+  "_pageName": "Brain",
+  "dlc": "28",
+  "entity": "Poison Mind",
+  "name": "Poison Mind"
+ },
+ {
+  "_pageName": "Brain",
+  "dlc": "30",
+  "entity": "Black Globin's Head",
+  "name": "Black Globin's Head"
+ },
+ {
+  "_pageName": "Brain",
+  "dlc": "31",
+  "entity": "Brain",
+  "name": "Brain"
+ },
+ {
+  "_pageName": "Brownie",
+  "dlc": "31",
+  "entity": "Brownie",
+  "name": "Brownie"
+ },
+ {
+  "_pageName": "Bumbino",
+  "dlc": "24",
+  "entity": "Bumbino",
+  "name": "Bumbino"
+ },
+ {
+  "_pageName": "Buttlicker",
+  "dlc": "31",
+  "entity": "Butt Slicker",
+  "name": "Butt Slicker"
+ },
+ {
+  "_pageName": "Buttlicker",
+  "dlc": "31",
+  "entity": "Buttlicker",
+  "name": "Buttlicker"
+ },
+ {
+  "_pageName": "C.H.A.D.",
+  "dlc": "31",
+  "entity": "C.H.A.D.",
+  "name": "C.H.A.D."
+ },
+ {
+  "_pageName": "Candler",
+  "dlc": "31",
+  "entity": "Candler",
+  "name": "Candler"
+ },
+ {
+  "_pageName": "Carrion Queen",
+  "dlc": "31",
+  "entity": "Carrion Queen",
+  "name": "Carrion Queen"
+ },
+ {
+  "_pageName": "Charger",
+  "dlc": "24",
+  "entity": "Carrion Princess",
+  "name": "Carrion Princess"
+ },
+ {
+  "_pageName": "Charger",
+  "dlc": "24",
+  "entity": "Elleech",
+  "name": "Elleech"
+ },
+ {
+  "_pageName": "Charger",
+  "dlc": "24",
+  "entity": "Level 2 Charger",
+  "name": "Level 2 Charger"
+ },
+ {
+  "_pageName": "Charger",
+  "dlc": "28",
+  "entity": "Dank Charger",
+  "name": "Dank Charger"
+ },
+ {
+  "_pageName": "Charger",
+  "dlc": "30",
+  "entity": "Drowned Charger",
+  "name": "Drowned Charger"
+ },
+ {
+  "_pageName": "Charger",
+  "dlc": "31",
+  "entity": "Charger",
+  "name": "Charger"
+ },
+ {
+  "_pageName": "Chests",
+  "dlc": "24",
+  "entity": "Haunted Chest",
+  "name": "Haunted Chest"
+ },
+ {
+  "_pageName": "Chests",
+  "dlc": "24",
+  "entity": "Mega Chest",
+  "name": "Mega Chest"
+ },
+ {
+  "_pageName": "Chests",
+  "dlc": "24",
+  "entity": "Mom's Chest",
+  "name": "Mom's Chest"
+ },
+ {
+  "_pageName": "Chests",
+  "dlc": "24",
+  "entity": "Old Chest",
+  "name": "Old Chest"
+ },
+ {
+  "_pageName": "Chests",
+  "dlc": "24",
+  "entity": "Wooden Chest",
+  "name": "Wooden Chest"
+ },
+ {
+  "_pageName": "Chests",
+  "dlc": "28",
+  "entity": "Mimic Chest",
+  "name": "Mimic Chest"
+ },
+ {
+  "_pageName": "Chests",
+  "dlc": "30",
+  "entity": "Eternal Chest",
+  "name": "Eternal Chest"
+ },
+ {
+  "_pageName": "Chests",
+  "dlc": "30",
+  "entity": "Spiked Chest",
+  "name": "Spiked Chest"
+ },
+ {
+  "_pageName": "Chests",
+  "dlc": "31",
+  "entity": "Bomb Chest",
+  "name": "Bomb Chest"
+ },
+ {
+  "_pageName": "Chests",
+  "dlc": "31",
+  "entity": "Chest",
+  "name": "Chest"
+ },
+ {
+  "_pageName": "Chests",
+  "dlc": "31",
+  "entity": "Locked Chest",
+  "name": "Locked Chest"
+ },
+ {
+  "_pageName": "Chests",
+  "dlc": "31",
+  "entity": "Red Chest",
+  "name": "Red Chest"
+ },
+ {
+  "_pageName": "Chimera",
+  "dlc": "24",
+  "entity": "Chimera",
+  "name": "Chimera"
+ },
+ {
+  "_pageName": "Chub",
+  "dlc": "31",
+  "entity": "Chub",
+  "name": "Chub"
+ },
+ {
+  "_pageName": "Clog",
+  "dlc": "24",
+  "entity": "Clog",
+  "name": "Clog"
+ },
+ {
+  "_pageName": "Clotty",
+  "dlc": "24",
+  "entity": "Cloggy",
+  "name": "Cloggy"
+ },
+ {
+  "_pageName": "Clotty",
+  "dlc": "24",
+  "entity": "Grilled Clotty",
+  "name": "Grilled Clotty"
+ },
+ {
+  "_pageName": "Clotty",
+  "dlc": "31",
+  "entity": "Clot",
+  "name": "Clot"
+ },
+ {
+  "_pageName": "Clotty",
+  "dlc": "31",
+  "entity": "Clotty",
+  "name": "Clotty"
+ },
+ {
+  "_pageName": "Clotty",
+  "dlc": "31",
+  "entity": "I.Blob",
+  "name": "I.Blob"
+ },
+ {
+  "_pageName": "Clutch",
+  "dlc": "24",
+  "entity": "Clutch",
+  "name": "Clutch"
+ },
+ {
+  "_pageName": "Cod Worm",
+  "dlc": "31",
+  "entity": "Cod Worm",
+  "name": "Cod Worm"
+ },
+ {
+  "_pageName": "Cohort",
+  "dlc": "31",
+  "entity": "Cohort",
+  "name": "Cohort"
+ },
+ {
+  "_pageName": "Coins",
+  "dlc": "24",
+  "entity": "Golden Penny",
+  "name": "Golden Penny"
+ },
+ {
+  "_pageName": "Coins",
+  "dlc": "30",
+  "entity": "Lucky Penny",
+  "name": "Lucky Penny"
+ },
+ {
+  "_pageName": "Coins",
+  "dlc": "30",
+  "entity": "Sticky Nickel",
+  "name": "Sticky Nickel"
+ },
+ {
+  "_pageName": "Coins",
+  "dlc": "31",
+  "entity": "Dime",
+  "name": "Dime"
+ },
+ {
+  "_pageName": "Coins",
+  "dlc": "31",
+  "entity": "Double Penny",
+  "name": "Double Penny"
+ },
+ {
+  "_pageName": "Coins",
+  "dlc": "31",
+  "entity": "Nickel",
+  "name": "Nickel"
+ },
+ {
+  "_pageName": "Coins",
+  "dlc": "31",
+  "entity": "Penny",
+  "name": "Penny"
+ },
+ {
+  "_pageName": "Colostomia",
+  "dlc": "24",
+  "entity": "Colostomia",
+  "name": "Colostomia"
+ },
+ {
+  "_pageName": "Conquest",
+  "dlc": "31",
+  "entity": "Conquest",
+  "name": "Conquest"
+ },
+ {
+  "_pageName": "Corn Mine",
+  "dlc": "31",
+  "entity": "Corn Mine",
+  "name": "Corn Mine"
+ },
+ {
+  "_pageName": "Crazy Long Legs",
+  "dlc": "31",
+  "entity": "Crazy Long Legs",
+  "name": "Crazy Long Legs"
+ },
+ {
+  "_pageName": "Crazy Long Legs",
+  "dlc": "31",
+  "entity": "Small Crazy Long Legs",
+  "name": "Small Crazy Long Legs"
+ },
+ {
+  "_pageName": "Cultist",
+  "dlc": "24",
+  "entity": "Blood Cultist",
+  "name": "Blood Cultist"
+ },
+ {
+  "_pageName": "Cultist",
+  "dlc": "24",
+  "entity": "Cultist",
+  "name": "Cultist"
+ },
+ {
+  "_pageName": "Daddy Long Legs",
+  "dlc": "31",
+  "entity": "Daddy Long Legs",
+  "name": "Daddy Long Legs"
+ },
+ {
+  "_pageName": "Dangle",
+  "dlc": "30",
+  "entity": "Dangle",
+  "name": "Dangle"
+ },
+ {
+  "_pageName": "Danny",
+  "dlc": "31",
+  "entity": "Coal Boy",
+  "name": "Coal Boy"
+ },
+ {
+  "_pageName": "Danny",
+  "dlc": "31",
+  "entity": "Danny",
+  "name": "Danny"
+ },
+ {
+  "_pageName": "Dark Ball",
+  "dlc": "24",
+  "entity": "Ultra Pestilence Fly Ball",
+  "name": "Ultra Pestilence Fly Ball"
+ },
+ {
+  "_pageName": "Dark Ball",
+  "dlc": "24",
+  "entity": "Visage Plasma",
+  "name": "Visage Plasma"
+ },
+ {
+  "_pageName": "Dark Ball",
+  "dlc": "28",
+  "entity": "Purple Ball",
+  "name": "Purple Ball"
+ },
+ {
+  "_pageName": "Dark Ball",
+  "dlc": "30",
+  "entity": "Dark Ball",
+  "name": "Dark Ball"
+ },
+ {
+  "_pageName": "Dark One",
+  "dlc": "31",
+  "entity": "Dark One",
+  "name": "Dark One"
+ },
+ {
+  "_pageName": "Death (Boss)",
+  "dlc": "31",
+  "entity": "Death",
+  "name": "Death"
+ },
+ {
+  "_pageName": "Death Scythe",
+  "dlc": "24",
+  "entity": "Ultra Death Scythe",
+  "name": "Ultra Death Scythe"
+ },
+ {
+  "_pageName": "Death Scythe",
+  "dlc": "31",
+  "entity": "Death Scythe",
+  "name": "Death Scythe"
+ },
+ {
+  "_pageName": "Death's Head",
+  "dlc": "24",
+  "entity": "Brimstone Death's Head",
+  "name": "Brimstone Death's Head"
+ },
+ {
+  "_pageName": "Death's Head",
+  "dlc": "24",
+  "entity": "Cursed Death's Head",
+  "name": "Cursed Death's Head"
+ },
+ {
+  "_pageName": "Death's Head",
+  "dlc": "24",
+  "entity": "Dusty Death's Head",
+  "name": "Dusty Death's Head"
+ },
+ {
+  "_pageName": "Death's Head",
+  "dlc": "24",
+  "entity": "Redskull",
+  "name": "Redskull"
+ },
+ {
+  "_pageName": "Death's Head",
+  "dlc": "24",
+  "entity": "Ultra Death Head",
+  "name": "Ultra Death Head"
+ },
+ {
+  "_pageName": "Death's Head",
+  "dlc": "30",
+  "entity": "Dank Death's Head",
+  "name": "Dank Death's Head"
+ },
+ {
+  "_pageName": "Death's Head",
+  "dlc": "30",
+  "entity": "Flesh Death's Head",
+  "name": "Flesh Death's Head"
+ },
+ {
+  "_pageName": "Death's Head",
+  "dlc": "31",
+  "entity": "Death's Head",
+  "name": "Death's Head"
+ },
+ {
+  "_pageName": "Delirium",
+  "dlc": "31",
+  "entity": "Delirium",
+  "name": "Delirium"
+ },
+ {
+  "_pageName": "Dingle",
+  "dlc": "31",
+  "entity": "Dingle",
+  "name": "Dingle"
+ },
+ {
+  "_pageName": "Dip",
+  "dlc": "31",
+  "entity": "Big Corn",
+  "name": "Big Corn"
+ },
+ {
+  "_pageName": "Dip",
+  "dlc": "31",
+  "entity": "Brownie Corn",
+  "name": "Brownie Corn"
+ },
+ {
+  "_pageName": "Dip",
+  "dlc": "31",
+  "entity": "Corn",
+  "name": "Corn"
+ },
+ {
+  "_pageName": "Dip",
+  "dlc": "31",
+  "entity": "Dip",
+  "name": "Dip"
+ },
+ {
+  "_pageName": "Dip",
+  "dlc": "31",
+  "entity": "Drip",
+  "name": "Drip"
+ },
+ {
+  "_pageName": "Dogma",
+  "dlc": "24",
+  "entity": "Dogma",
+  "name": "Dogma"
+ },
+ {
+  "_pageName": "Donation Machine",
+  "dlc": "31",
+  "entity": "Donation Machine",
+  "name": "Donation Machine"
+ },
+ {
+  "_pageName": "Dople",
+  "dlc": "31",
+  "entity": "Dople",
+  "name": "Dople"
+ },
+ {
+  "_pageName": "Dople",
+  "dlc": "31",
+  "entity": "Evil Twin",
+  "name": "Evil Twin"
+ },
+ {
+  "_pageName": "Dukie",
+  "dlc": "31",
+  "entity": "Dukie",
+  "name": "Dukie"
+ },
+ {
+  "_pageName": "Dummy",
+  "dlc": "31",
+  "entity": "Dummy",
+  "name": "Dummy"
+ },
+ {
+  "_pageName": "Dump",
+  "dlc": "31",
+  "entity": "Dump",
+  "name": "Dump"
+ },
+ {
+  "_pageName": "Dump",
+  "dlc": "31",
+  "entity": "Dump Head",
+  "name": "Dump Head"
+ },
+ {
+  "_pageName": "Dust",
+  "dlc": "31",
+  "entity": "Dust",
+  "name": "Dust"
+ },
+ {
+  "_pageName": "Embryo",
+  "dlc": "31",
+  "entity": "Embryo",
+  "name": "Embryo"
+ },
+ {
+  "_pageName": "Envy",
+  "dlc": "31",
+  "entity": "Envy",
+  "name": "Envy"
+ },
+ {
+  "_pageName": "Exorcist",
+  "dlc": "31",
+  "entity": "Exorcist",
+  "name": "Exorcist"
+ },
+ {
+  "_pageName": "Exorcist",
+  "dlc": "31",
+  "entity": "Fanatic",
+  "name": "Fanatic"
+ },
+ {
+  "_pageName": "Eye",
+  "dlc": "24",
+  "entity": "Holy Eye",
+  "name": "Holy Eye"
+ },
+ {
+  "_pageName": "Eye",
+  "dlc": "31",
+  "entity": "Bloodshot Eye",
+  "name": "Bloodshot Eye"
+ },
+ {
+  "_pageName": "Eye",
+  "dlc": "31",
+  "entity": "Eye",
+  "name": "Eye"
+ },
+ {
+  "_pageName": "Faceless",
+  "dlc": "31",
+  "entity": "Faceless",
+  "name": "Faceless"
+ },
+ {
+  "_pageName": "Faceless",
+  "dlc": "31",
+  "entity": "Tainted Faceless",
+  "name": "Tainted Faceless"
+ },
+ {
+  "_pageName": "Famine",
+  "dlc": "31",
+  "entity": "Famine",
+  "name": "Famine"
+ },
+ {
+  "_pageName": "Fatty",
+  "dlc": "24",
+  "entity": "Big Bony",
+  "name": "Big Bony"
+ },
+ {
+  "_pageName": "Fatty",
+  "dlc": "24",
+  "entity": "Bloaty",
+  "name": "Bloaty"
+ },
+ {
+  "_pageName": "Fatty",
+  "dlc": "24",
+  "entity": "Bubbles",
+  "name": "Bubbles"
+ },
+ {
+  "_pageName": "Fatty",
+  "dlc": "24",
+  "entity": "Fetal Demon",
+  "name": "Fetal Demon"
+ },
+ {
+  "_pageName": "Fatty",
+  "dlc": "24",
+  "entity": "Gutted Fatty",
+  "name": "Gutted Fatty"
+ },
+ {
+  "_pageName": "Fatty",
+  "dlc": "24",
+  "entity": "Gutted Fatty Eye",
+  "name": "Gutted Fatty Eye"
+ },
+ {
+  "_pageName": "Fatty",
+  "dlc": "24",
+  "entity": "Peeping Fatty",
+  "name": "Peeping Fatty"
+ },
+ {
+  "_pageName": "Fatty",
+  "dlc": "24",
+  "entity": "Peeping Fatty Eye",
+  "name": "Peeping Fatty Eye"
+ },
+ {
+  "_pageName": "Fatty",
+  "dlc": "24",
+  "entity": "Quakey",
+  "name": "Quakey"
+ },
+ {
+  "_pageName": "Fatty",
+  "dlc": "24",
+  "entity": "Shady",
+  "name": "Shady"
+ },
+ {
+  "_pageName": "Fatty",
+  "dlc": "24",
+  "entity": "Vis Fatty",
+  "name": "Vis Fatty"
+ },
+ {
+  "_pageName": "Fatty",
+  "dlc": "28",
+  "entity": "Cross Stoney",
+  "name": "Cross Stoney"
+ },
+ {
+  "_pageName": "Fatty",
+  "dlc": "28",
+  "entity": "Stoney",
+  "name": "Stoney"
+ },
+ {
+  "_pageName": "Fatty",
+  "dlc": "30",
+  "entity": "Blue Conjoined Fatty",
+  "name": "Blue Conjoined Fatty"
+ },
+ {
+  "_pageName": "Fatty",
+  "dlc": "30",
+  "entity": "Conjoined Fatty",
+  "name": "Conjoined Fatty"
+ },
+ {
+  "_pageName": "Fatty",
+  "dlc": "30",
+  "entity": "Flaming Fatty",
+  "name": "Flaming Fatty"
+ },
+ {
+  "_pageName": "Fatty",
+  "dlc": "31",
+  "entity": "Blubber",
+  "name": "Blubber"
+ },
+ {
+  "_pageName": "Fatty",
+  "dlc": "31",
+  "entity": "Fat Sack",
+  "name": "Fat Sack"
+ },
+ {
+  "_pageName": "Fatty",
+  "dlc": "31",
+  "entity": "Fatty",
+  "name": "Fatty"
+ },
+ {
+  "_pageName": "Fatty",
+  "dlc": "31",
+  "entity": "Half Sack",
+  "name": "Half Sack"
+ },
+ {
+  "_pageName": "Fatty",
+  "dlc": "31",
+  "entity": "Pale Fatty",
+  "name": "Pale Fatty"
+ },
+ {
+  "_pageName": "Fire Places",
+  "dlc": "24",
+  "entity": "White Fire Place",
+  "name": "White Fire Place"
+ },
+ {
+  "_pageName": "Fire Places",
+  "dlc": "31",
+  "entity": "Blue Fire Place",
+  "name": "Blue Fire Place"
+ },
+ {
+  "_pageName": "Fire Places",
+  "dlc": "31",
+  "entity": "Fire Place",
+  "name": "Fire Place"
+ },
+ {
+  "_pageName": "Fire Places",
+  "dlc": "31",
+  "entity": "Purple Fire Place",
+  "name": "Purple Fire Place"
+ },
+ {
+  "_pageName": "Fire Places",
+  "dlc": "31",
+  "entity": "Red Fire Place",
+  "name": "Red Fire Place"
+ },
+ {
+  "_pageName": "Fissure",
+  "dlc": "31",
+  "entity": "Fissure",
+  "name": "Fissure"
+ },
+ {
+  "_pageName": "Fistula",
+  "dlc": "31",
+  "entity": "Fistula",
+  "name": "Fistula"
+ },
+ {
+  "_pageName": "Fistuloid",
+  "dlc": "28",
+  "entity": "Fistuloid",
+  "name": "Fistuloid"
+ },
+ {
+  "_pageName": "Flesh Maiden",
+  "dlc": "31",
+  "entity": "Flesh Maiden",
+  "name": "Flesh Maiden"
+ },
+ {
+  "_pageName": "Fly",
+  "dlc": "24",
+  "entity": "Army Fly",
+  "name": "Army Fly"
+ },
+ {
+  "_pageName": "Fly",
+  "dlc": "24",
+  "entity": "Ultra Famine Fly",
+  "name": "Ultra Famine Fly"
+ },
+ {
+  "_pageName": "Fly",
+  "dlc": "24",
+  "entity": "Ultra Pestilence Fly",
+  "name": "Ultra Pestilence Fly"
+ },
+ {
+  "_pageName": "Fly",
+  "dlc": "24",
+  "entity": "Willo",
+  "name": "Willo"
+ },
+ {
+  "_pageName": "Fly",
+  "dlc": "30",
+  "entity": "Dart Fly",
+  "name": "Dart Fly"
+ },
+ {
+  "_pageName": "Fly",
+  "dlc": "30",
+  "entity": "Hush Fly",
+  "name": "Hush Fly"
+ },
+ {
+  "_pageName": "Fly",
+  "dlc": "30",
+  "entity": "Swarm",
+  "name": "Swarm"
+ },
+ {
+  "_pageName": "Fly",
+  "dlc": "31",
+  "entity": "Attack Fly",
+  "name": "Attack Fly"
+ },
+ {
+  "_pageName": "Fly",
+  "dlc": "31",
+  "entity": "Eternal Fly",
+  "name": "Eternal Fly"
+ },
+ {
+  "_pageName": "Fly",
+  "dlc": "31",
+  "entity": "Fly",
+  "name": "Fly"
+ },
+ {
+  "_pageName": "Fly",
+  "dlc": "31",
+  "entity": "Moter",
+  "name": "Moter"
+ },
+ {
+  "_pageName": "Fly",
+  "dlc": "31",
+  "entity": "Ring Fly",
+  "name": "Ring Fly"
+ },
+ {
+  "_pageName": "Fly Bomb",
+  "dlc": "24",
+  "entity": "Eternal Fly Bomb",
+  "name": "Eternal Fly Bomb"
+ },
+ {
+  "_pageName": "Fly Bomb",
+  "dlc": "24",
+  "entity": "Fly Bomb",
+  "name": "Fly Bomb"
+ },
+ {
+  "_pageName": "Fly Trap",
+  "dlc": "31",
+  "entity": "Fly Trap",
+  "name": "Fly Trap"
+ },
+ {
+  "_pageName": "Fred",
+  "dlc": "31",
+  "entity": "Fred",
+  "name": "Fred"
+ },
+ {
+  "_pageName": "Gaper",
+  "dlc": "24",
+  "entity": "Blurb",
+  "name": "Blurb"
+ },
+ {
+  "_pageName": "Gaper",
+  "dlc": "24",
+  "entity": "Crackle",
+  "name": "Crackle"
+ },
+ {
+  "_pageName": "Gaper",
+  "dlc": "24",
+  "entity": "Dead Isaac",
+  "name": "Dead Isaac"
+ },
+ {
+  "_pageName": "Gaper",
+  "dlc": "24",
+  "entity": "Deep Gaper",
+  "name": "Deep Gaper"
+ },
+ {
+  "_pageName": "Gaper",
+  "dlc": "24",
+  "entity": "Level 2 Gaper",
+  "name": "Level 2 Gaper"
+ },
+ {
+  "_pageName": "Gaper",
+  "dlc": "24",
+  "entity": "Rotten Gaper",
+  "name": "Rotten Gaper"
+ },
+ {
+  "_pageName": "Gaper",
+  "dlc": "24",
+  "entity": "Twitchy",
+  "name": "Twitchy"
+ },
+ {
+  "_pageName": "Gaper",
+  "dlc": "24",
+  "entity": "Wraith",
+  "name": "Wraith"
+ },
+ {
+  "_pageName": "Gaper",
+  "dlc": "30",
+  "entity": "Blue Gaper",
+  "name": "Blue Gaper"
+ },
+ {
+  "_pageName": "Gaper",
+  "dlc": "30",
+  "entity": "Cyclopia",
+  "name": "Cyclopia"
+ },
+ {
+  "_pageName": "Gaper",
+  "dlc": "30",
+  "entity": "Flaming Gaper",
+  "name": "Flaming Gaper"
+ },
+ {
+  "_pageName": "Gaper",
+  "dlc": "30",
+  "entity": "Greed Gaper",
+  "name": "Greed Gaper"
+ },
+ {
+  "_pageName": "Gaper",
+  "dlc": "31",
+  "entity": "Frowning Gaper",
+  "name": "Frowning Gaper"
+ },
+ {
+  "_pageName": "Gaper",
+  "dlc": "31",
+  "entity": "Gaper",
+  "name": "Gaper"
+ },
+ {
+  "_pageName": "Gaper",
+  "dlc": "31",
+  "entity": "Gurgle",
+  "name": "Gurgle"
+ },
+ {
+  "_pageName": "Gaper",
+  "dlc": "31",
+  "entity": "Nulls",
+  "name": "Nulls"
+ },
+ {
+  "_pageName": "Gasbag",
+  "dlc": "24",
+  "entity": "Gasbag",
+  "name": "Gasbag"
+ },
+ {
+  "_pageName": "Gemini",
+  "dlc": "31",
+  "entity": "Gemini",
+  "name": "Gemini"
+ },
+ {
+  "_pageName": "Gish",
+  "dlc": "31",
+  "entity": "Gish",
+  "name": "Gish"
+ },
+ {
+  "_pageName": "Globin",
+  "dlc": "24",
+  "entity": "Clickety Clack",
+  "name": "Clickety Clack"
+ },
+ {
+  "_pageName": "Globin",
+  "dlc": "24",
+  "entity": "Cursed Globin",
+  "name": "Cursed Globin"
+ },
+ {
+  "_pageName": "Globin",
+  "dlc": "30",
+  "entity": "Black Globin",
+  "name": "Black Globin"
+ },
+ {
+  "_pageName": "Globin",
+  "dlc": "30",
+  "entity": "Dank Globin",
+  "name": "Dank Globin"
+ },
+ {
+  "_pageName": "Globin",
+  "dlc": "31",
+  "entity": "Gazing Globin",
+  "name": "Gazing Globin"
+ },
+ {
+  "_pageName": "Globin",
+  "dlc": "31",
+  "entity": "Globin",
+  "name": "Globin"
+ },
+ {
+  "_pageName": "Gluttony",
+  "dlc": "31",
+  "entity": "Gluttony",
+  "name": "Gluttony"
+ },
+ {
+  "_pageName": "Goat",
+  "dlc": "31",
+  "entity": "Black Goat",
+  "name": "Black Goat"
+ },
+ {
+  "_pageName": "Goat",
+  "dlc": "31",
+  "entity": "Goat",
+  "name": "Goat"
+ },
+ {
+  "_pageName": "Great Gideon",
+  "dlc": "24",
+  "entity": "Great Gideon",
+  "name": "Great Gideon"
+ },
+ {
+  "_pageName": "Greed",
+  "dlc": "31",
+  "entity": "Greed",
+  "name": "Greed"
+ },
+ {
+  "_pageName": "Greed Donation Machine",
+  "dlc": "30",
+  "entity": "Greed Donation Machine",
+  "name": "Greed Donation Machine"
+ },
+ {
+  "_pageName": "Grub",
+  "dlc": "31",
+  "entity": "Grub",
+  "name": "Grub"
+ },
+ {
+  "_pageName": "Gurdy",
+  "dlc": "31",
+  "entity": "Gurdy",
+  "name": "Gurdy"
+ },
+ {
+  "_pageName": "Gurdy Jr.",
+  "dlc": "31",
+  "entity": "Gurdy Jr.",
+  "name": "Gurdy Jr."
+ },
+ {
+  "_pageName": "Gurgling (Enemy)",
+  "dlc": "31",
+  "entity": "Gurgling",
+  "name": "Gurgling"
+ },
+ {
+  "_pageName": "Gurglings",
+  "dlc": "31",
+  "entity": "Gurglings",
+  "name": "Gurglings"
+ },
+ {
+  "_pageName": "Guts",
+  "dlc": "24",
+  "entity": "Cyst",
+  "name": "Cyst"
+ },
+ {
+  "_pageName": "Guts",
+  "dlc": "24",
+  "entity": "Slog",
+  "name": "Slog"
+ },
+ {
+  "_pageName": "Guts",
+  "dlc": "30",
+  "entity": "Scarred Guts",
+  "name": "Scarred Guts"
+ },
+ {
+  "_pageName": "Guts",
+  "dlc": "31",
+  "entity": "Guts",
+  "name": "Guts"
+ },
+ {
+  "_pageName": "Gyro",
+  "dlc": "31",
+  "entity": "Grilled Gyro",
+  "name": "Grilled Gyro"
+ },
+ {
+  "_pageName": "Gyro",
+  "dlc": "31",
+  "entity": "Gyro",
+  "name": "Gyro"
+ },
+ {
+  "_pageName": "Hanger",
+  "dlc": "31",
+  "entity": "Hanger",
+  "name": "Hanger"
+ },
+ {
+  "_pageName": "Headless Horseman",
+  "dlc": "31",
+  "entity": "Headless Horseman",
+  "name": "Headless Horseman"
+ },
+ {
+  "_pageName": "Hearts",
+  "dlc": "24",
+  "entity": "Rotten Heart",
+  "name": "Rotten Heart"
+ },
+ {
+  "_pageName": "Hearts",
+  "dlc": "28",
+  "entity": "Blended Heart",
+  "name": "Blended Heart"
+ },
+ {
+  "_pageName": "Hearts",
+  "dlc": "28",
+  "entity": "Bone Heart",
+  "name": "Bone Heart"
+ },
+ {
+  "_pageName": "Hearts",
+  "dlc": "28",
+  "entity": "Half Soul Heart",
+  "name": "Half Soul Heart"
+ },
+ {
+  "_pageName": "Hearts",
+  "dlc": "28",
+  "entity": "Scared Heart",
+  "name": "Scared Heart"
+ },
+ {
+  "_pageName": "Hearts",
+  "dlc": "30",
+  "entity": "Gold Heart",
+  "name": "Gold Heart"
+ },
+ {
+  "_pageName": "Hearts",
+  "dlc": "31",
+  "entity": "Black Heart",
+  "name": "Black Heart"
+ },
+ {
+  "_pageName": "Hearts",
+  "dlc": "31",
+  "entity": "Double Heart",
+  "name": "Double Heart"
+ },
+ {
+  "_pageName": "Hearts",
+  "dlc": "31",
+  "entity": "Eternal Heart",
+  "name": "Eternal Heart"
+ },
+ {
+  "_pageName": "Hearts",
+  "dlc": "31",
+  "entity": "Half Red Heart",
+  "name": "Half Red Heart"
+ },
+ {
+  "_pageName": "Hearts",
+  "dlc": "31",
+  "entity": "Red Heart",
+  "name": "Red Heart"
+ },
+ {
+  "_pageName": "Hearts",
+  "dlc": "31",
+  "entity": "Soul Heart",
+  "name": "Soul Heart"
+ },
+ {
+  "_pageName": "Henry",
+  "dlc": "31",
+  "entity": "Henry",
+  "name": "Henry"
+ },
+ {
+  "_pageName": "Homunculus",
+  "dlc": "31",
+  "entity": "Begotten",
+  "name": "Begotten"
+ },
+ {
+  "_pageName": "Homunculus",
+  "dlc": "31",
+  "entity": "Homunculus",
+  "name": "Homunculus"
+ },
+ {
+  "_pageName": "Hopper",
+  "dlc": "24",
+  "entity": "Eggy",
+  "name": "Eggy"
+ },
+ {
+  "_pageName": "Hopper",
+  "dlc": "24",
+  "entity": "Sticky Leaper",
+  "name": "Sticky Leaper"
+ },
+ {
+  "_pageName": "Hopper",
+  "dlc": "24",
+  "entity": "Tainted Hopper",
+  "name": "Tainted Hopper"
+ },
+ {
+  "_pageName": "Hopper",
+  "dlc": "31",
+  "entity": "Flaming Hopper",
+  "name": "Flaming Hopper"
+ },
+ {
+  "_pageName": "Hopper",
+  "dlc": "31",
+  "entity": "Hopper",
+  "name": "Hopper"
+ },
+ {
+  "_pageName": "Hopper",
+  "dlc": "31",
+  "entity": "Leaper",
+  "name": "Leaper"
+ },
+ {
+  "_pageName": "Horf",
+  "dlc": "24",
+  "entity": "Level 2 Horf",
+  "name": "Level 2 Horf"
+ },
+ {
+  "_pageName": "Horf",
+  "dlc": "24",
+  "entity": "Necro",
+  "name": "Necro"
+ },
+ {
+  "_pageName": "Horf",
+  "dlc": "24",
+  "entity": "Sub Horf",
+  "name": "Sub Horf"
+ },
+ {
+  "_pageName": "Horf",
+  "dlc": "24",
+  "entity": "Tainted Sub Horf",
+  "name": "Tainted Sub Horf"
+ },
+ {
+  "_pageName": "Horf",
+  "dlc": "31",
+  "entity": "Horf",
+  "name": "Horf"
+ },
+ {
+  "_pageName": "Horf",
+  "dlc": "31",
+  "entity": "Psychic Horf",
+  "name": "Psychic Horf"
+ },
+ {
+  "_pageName": "Hornfel",
+  "dlc": "24",
+  "entity": "Hornfel",
+  "name": "Hornfel"
+ },
+ {
+  "_pageName": "Host",
+  "dlc": "24",
+  "entity": "Floast",
+  "name": "Floast"
+ },
+ {
+  "_pageName": "Host",
+  "dlc": "24",
+  "entity": "Hard Host",
+  "name": "Hard Host"
+ },
+ {
+  "_pageName": "Host",
+  "dlc": "28",
+  "entity": "Mushroom",
+  "name": "Mushroom"
+ },
+ {
+  "_pageName": "Host",
+  "dlc": "31",
+  "entity": "Flesh Mobile Host",
+  "name": "Flesh Mobile Host"
+ },
+ {
+  "_pageName": "Host",
+  "dlc": "31",
+  "entity": "Host",
+  "name": "Host"
+ },
+ {
+  "_pageName": "Host",
+  "dlc": "31",
+  "entity": "Mobile Host",
+  "name": "Mobile Host"
+ },
+ {
+  "_pageName": "Host",
+  "dlc": "31",
+  "entity": "Red Host",
+  "name": "Red Host"
+ },
+ {
+  "_pageName": "Hush",
+  "dlc": "30",
+  "entity": "Hush",
+  "name": "Hush"
+ },
+ {
+  "_pageName": "Isaac (Boss)",
+  "dlc": "31",
+  "entity": "Isaac",
+  "name": "Isaac"
+ },
+ {
+  "_pageName": "It Lives!",
+  "dlc": "31",
+  "entity": "It Lives!",
+  "name": "It Lives!"
+ },
+ {
+  "_pageName": "Keeper (Enemy)",
+  "dlc": "31",
+  "entity": "Keeper",
+  "name": "Keeper"
+ },
+ {
+  "_pageName": "Keys",
+  "dlc": "28",
+  "entity": "Charged Key",
+  "name": "Charged Key"
+ },
+ {
+  "_pageName": "Keys",
+  "dlc": "31",
+  "entity": "Golden Key",
+  "name": "Golden Key"
+ },
+ {
+  "_pageName": "Keys",
+  "dlc": "31",
+  "entity": "Key",
+  "name": "Key"
+ },
+ {
+  "_pageName": "Keys",
+  "dlc": "31",
+  "entity": "Key Ring",
+  "name": "Key Ring"
+ },
+ {
+  "_pageName": "Knight",
+  "dlc": "24",
+  "entity": "Black Knight",
+  "name": "Black Knight"
+ },
+ {
+  "_pageName": "Knight",
+  "dlc": "24",
+  "entity": "Brainless Knight",
+  "name": "Brainless Knight"
+ },
+ {
+  "_pageName": "Knight",
+  "dlc": "24",
+  "entity": "Loose Knight",
+  "name": "Loose Knight"
+ },
+ {
+  "_pageName": "Knight",
+  "dlc": "30",
+  "entity": "Bone Knight",
+  "name": "Bone Knight"
+ },
+ {
+  "_pageName": "Knight",
+  "dlc": "31",
+  "entity": "Floating Knight",
+  "name": "Floating Knight"
+ },
+ {
+  "_pageName": "Knight",
+  "dlc": "31",
+  "entity": "Knight",
+  "name": "Knight"
+ },
+ {
+  "_pageName": "Knight",
+  "dlc": "31",
+  "entity": "Selfless Knight",
+  "name": "Selfless Knight"
+ },
+ {
+  "_pageName": "Krampus",
+  "dlc": "31",
+  "entity": "Krampus",
+  "name": "Krampus"
+ },
+ {
+  "_pageName": "Larry Jr.",
+  "dlc": "31",
+  "entity": "Larry Jr.",
+  "name": "Larry Jr."
+ },
+ {
+  "_pageName": "Leech (Enemy)",
+  "dlc": "24",
+  "entity": "Adult Leech",
+  "name": "Adult Leech"
+ },
+ {
+  "_pageName": "Leech (Enemy)",
+  "dlc": "24",
+  "entity": "Small Leech",
+  "name": "Small Leech"
+ },
+ {
+  "_pageName": "Leech (Enemy)",
+  "dlc": "31",
+  "entity": "Holy Leech",
+  "name": "Holy Leech"
+ },
+ {
+  "_pageName": "Leech (Enemy)",
+  "dlc": "31",
+  "entity": "Kamikaze Leech",
+  "name": "Kamikaze Leech"
+ },
+ {
+  "_pageName": "Leech (Enemy)",
+  "dlc": "31",
+  "entity": "Leech",
+  "name": "Leech"
+ },
+ {
+  "_pageName": "Level 2 Fly",
+  "dlc": "7",
+  "entity": "Level 2 Fly",
+  "name": "lvl2 Fly"
+ },
+ {
+  "_pageName": "Level 2 Fly",
+  "dlc": "24",
+  "entity": "Level 2 Fly",
+  "name": "Level 2 Fly"
+ },
+ {
+  "_pageName": "Level 2 Fly",
+  "dlc": "24",
+  "entity": "Level 2 Willo",
+  "name": "Level 2 Willo"
+ },
+ {
+  "_pageName": "Level 2 Fly",
+  "dlc": "31",
+  "entity": "Full Fly",
+  "name": "Full Fly"
+ },
+ {
+  "_pageName": "Level 2 Spider",
+  "dlc": "7",
+  "entity": "Level 2 Spider",
+  "name": "lvl2 Spider"
+ },
+ {
+  "_pageName": "Level 2 Spider",
+  "dlc": "24",
+  "entity": "Level 2 Spider",
+  "name": "Level 2 Spider"
+ },
+ {
+  "_pageName": "Level 2 Spider",
+  "dlc": "31",
+  "entity": "Migraine",
+  "name": "Migraine"
+ },
+ {
+  "_pageName": "Level 2 Spider",
+  "dlc": "31",
+  "entity": "Ticking Spider",
+  "name": "Ticking Spider"
+ },
+ {
+  "_pageName": "Lil Blub",
+  "dlc": "24",
+  "entity": "Lil Blub",
+  "name": "Lil Blub"
+ },
+ {
+  "_pageName": "Lil' Haunt",
+  "dlc": "31",
+  "entity": "Lil' Haunt",
+  "name": "Lil' Haunt"
+ },
+ {
+  "_pageName": "Little Horn",
+  "dlc": "31",
+  "entity": "Little Horn",
+  "name": "Little Horn"
+ },
+ {
+  "_pageName": "Loki",
+  "dlc": "31",
+  "entity": "Loki",
+  "name": "Loki"
+ },
+ {
+  "_pageName": "Lokii",
+  "dlc": "31",
+  "entity": "Lokii",
+  "name": "Lokii"
+ },
+ {
+  "_pageName": "Lump",
+  "dlc": "28",
+  "entity": "Tar Boy",
+  "name": "Tar Boy"
+ },
+ {
+  "_pageName": "Lump",
+  "dlc": "31",
+  "entity": "Lump",
+  "name": "Lump"
+ },
+ {
+  "_pageName": "Lust",
+  "dlc": "31",
+  "entity": "Lust",
+  "name": "Lust"
+ },
+ {
+  "_pageName": "Machines",
+  "dlc": "16",
+  "entity": "Revive Machine",
+  "name": "Revive Machine"
+ },
+ {
+  "_pageName": "Machines",
+  "dlc": "24",
+  "entity": "Confessional",
+  "name": "Confessional"
+ },
+ {
+  "_pageName": "Machines",
+  "dlc": "24",
+  "entity": "Crane Game",
+  "name": "Crane Game"
+ },
+ {
+  "_pageName": "Machines",
+  "dlc": "28",
+  "entity": "Mom's Dressing Table",
+  "name": "Mom's Dressing Table"
+ },
+ {
+  "_pageName": "Machines",
+  "dlc": "30",
+  "entity": "Shop Restock Machine",
+  "name": "Shop Restock Machine"
+ },
+ {
+  "_pageName": "Machines",
+  "dlc": "31",
+  "entity": "Blood Donation Machine",
+  "name": "Blood Donation Machine"
+ },
+ {
+  "_pageName": "Machines",
+  "dlc": "31",
+  "entity": "Fortune Telling Machine",
+  "name": "Fortune Telling Machine"
+ },
+ {
+  "_pageName": "Machines",
+  "dlc": "31",
+  "entity": "Slot Machine",
+  "name": "Slot Machine"
+ },
+ {
+  "_pageName": "Maggot",
+  "dlc": "24",
+  "entity": "Small Maggot",
+  "name": "Small Maggot"
+ },
+ {
+  "_pageName": "Maggot",
+  "dlc": "31",
+  "entity": "Maggot",
+  "name": "Maggot"
+ },
+ {
+  "_pageName": "Mama Gurdy",
+  "dlc": "31",
+  "entity": "Mama Gurdy",
+  "name": "Mama Gurdy"
+ },
+ {
+  "_pageName": "Mask + Heart",
+  "dlc": "24",
+  "entity": "Mask II + 1/2 Heart",
+  "name": "Mask II + 1/2 Heart"
+ },
+ {
+  "_pageName": "Mask + Heart",
+  "dlc": "31",
+  "entity": "Mask + Heart",
+  "name": "Mask + Heart"
+ },
+ {
+  "_pageName": "Mask of Infamy",
+  "dlc": "31",
+  "entity": "Mask of Infamy",
+  "name": "Mask of Infamy"
+ },
+ {
+  "_pageName": "Maw",
+  "dlc": "31",
+  "entity": "Maw",
+  "name": "Maw"
+ },
+ {
+  "_pageName": "Maw",
+  "dlc": "31",
+  "entity": "Psychic Maw",
+  "name": "Psychic Maw"
+ },
+ {
+  "_pageName": "Maw",
+  "dlc": "31",
+  "entity": "Red Maw",
+  "name": "Red Maw"
+ },
+ {
+  "_pageName": "Meatball",
+  "dlc": "31",
+  "entity": "Meatball",
+  "name": "Meatball"
+ },
+ {
+  "_pageName": "Mega Fatty",
+  "dlc": "31",
+  "entity": "Mega Fatty",
+  "name": "Mega Fatty"
+ },
+ {
+  "_pageName": "Mega Maw",
+  "dlc": "31",
+  "entity": "Mega Maw",
+  "name": "Mega Maw"
+ },
+ {
+  "_pageName": "Mega Satan",
+  "dlc": "31",
+  "entity": "Mega Satan",
+  "name": "Mega Satan"
+ },
+ {
+  "_pageName": "MemBrain",
+  "dlc": "31",
+  "entity": "Dead Meat",
+  "name": "Dead Meat"
+ },
+ {
+  "_pageName": "MemBrain",
+  "dlc": "31",
+  "entity": "Dinga",
+  "name": "Dinga"
+ },
+ {
+  "_pageName": "MemBrain",
+  "dlc": "31",
+  "entity": "Mama Guts",
+  "name": "Mama Guts"
+ },
+ {
+  "_pageName": "MemBrain",
+  "dlc": "31",
+  "entity": "Mega Clotty",
+  "name": "Mega Clotty"
+ },
+ {
+  "_pageName": "MemBrain",
+  "dlc": "31",
+  "entity": "MemBrain",
+  "name": "MemBrain"
+ },
+ {
+  "_pageName": "Min-Min",
+  "dlc": "31",
+  "entity": "Min-Min",
+  "name": "Min-Min"
+ },
+ {
+  "_pageName": "Ministro",
+  "dlc": "28",
+  "entity": "Ministro",
+  "name": "Ministro"
+ },
+ {
+  "_pageName": "Mole",
+  "dlc": "24",
+  "entity": "Mole",
+  "name": "Mole"
+ },
+ {
+  "_pageName": "Mole",
+  "dlc": "24",
+  "entity": "Tainted Mole",
+  "name": "Tainted Mole"
+ },
+ {
+  "_pageName": "Mom",
+  "dlc": "31",
+  "entity": "Mom",
+  "name": "Mom"
+ },
+ {
+  "_pageName": "Mom's Hand",
+  "dlc": "31",
+  "entity": "Mom's Dead Hand",
+  "name": "Mom's Dead Hand"
+ },
+ {
+  "_pageName": "Mom's Hand",
+  "dlc": "31",
+  "entity": "Mom's Hand",
+  "name": "Mom's Hand"
+ },
+ {
+  "_pageName": "Mom's Heart",
+  "dlc": "31",
+  "entity": "Mom's Heart",
+  "name": "Mom's Heart"
+ },
+ {
+  "_pageName": "Monstro",
+  "dlc": "31",
+  "entity": "Monstro",
+  "name": "Monstro"
+ },
+ {
+  "_pageName": "Monstro II",
+  "dlc": "31",
+  "entity": "Monstro II",
+  "name": "Monstro II"
+ },
+ {
+  "_pageName": "Morningstar",
+  "dlc": "31",
+  "entity": "Morningstar",
+  "name": "Morningstar"
+ },
+ {
+  "_pageName": "Mother",
+  "dlc": "24",
+  "entity": "Mother",
+  "name": "Mother"
+ },
+ {
+  "_pageName": "Mother's Shadow",
+  "dlc": "24",
+  "entity": "Mother's Shadow",
+  "name": "Mother's Shadow"
+ },
+ {
+  "_pageName": "Mr. Fred",
+  "dlc": "31",
+  "entity": "Mr. Fred",
+  "name": "Mr. Fred"
+ },
+ {
+  "_pageName": "Mr. Maw",
+  "dlc": "28",
+  "entity": "Mr. Mine",
+  "name": "Mr. Mine"
+ },
+ {
+  "_pageName": "Mr. Maw",
+  "dlc": "28",
+  "entity": "Mr. Red Maw",
+  "name": "Mr. Red Maw"
+ },
+ {
+  "_pageName": "Mr. Maw",
+  "dlc": "31",
+  "entity": "Mr. Maw",
+  "name": "Mr. Maw"
+ },
+ {
+  "_pageName": "Mr. Maw",
+  "dlc": "31",
+  "entity": "Swinger",
+  "name": "Swinger"
+ },
+ {
+  "_pageName": "Mulligan",
+  "dlc": "24",
+  "entity": "Bouncer",
+  "name": "Bouncer"
+ },
+ {
+  "_pageName": "Mulligan",
+  "dlc": "24",
+  "entity": "Gas Dwarf",
+  "name": "Gas Dwarf"
+ },
+ {
+  "_pageName": "Mulligan",
+  "dlc": "24",
+  "entity": "Holy Mulligan",
+  "name": "Holy Mulligan"
+ },
+ {
+  "_pageName": "Mulligan",
+  "dlc": "24",
+  "entity": "Mullighoul",
+  "name": "Mullighoul"
+ },
+ {
+  "_pageName": "Mulligan",
+  "dlc": "24",
+  "entity": "Prey",
+  "name": "Prey"
+ },
+ {
+  "_pageName": "Mulligan",
+  "dlc": "24",
+  "entity": "Tainted Mulligan",
+  "name": "Tainted Mulligan"
+ },
+ {
+  "_pageName": "Mulligan",
+  "dlc": "28",
+  "entity": "Leper",
+  "name": "Leper"
+ },
+ {
+  "_pageName": "Mulligan",
+  "dlc": "28",
+  "entity": "Leper Flesh",
+  "name": "Leper Flesh"
+ },
+ {
+  "_pageName": "Mulligan",
+  "dlc": "30",
+  "entity": "Drowned Hive",
+  "name": "Drowned Hive"
+ },
+ {
+  "_pageName": "Mulligan",
+  "dlc": "31",
+  "entity": "Hive",
+  "name": "Hive"
+ },
+ {
+  "_pageName": "Mulligan",
+  "dlc": "31",
+  "entity": "Mulliboom",
+  "name": "Mulliboom"
+ },
+ {
+  "_pageName": "Mulligan",
+  "dlc": "31",
+  "entity": "Mulligan",
+  "name": "Mulligan"
+ },
+ {
+  "_pageName": "Mulligan",
+  "dlc": "31",
+  "entity": "Mulligoon",
+  "name": "Mulligoon"
+ },
+ {
+  "_pageName": "Mulligan",
+  "dlc": "31",
+  "entity": "Nest",
+  "name": "Nest"
+ },
+ {
+  "_pageName": "My Shadow",
+  "dlc": "31",
+  "entity": "My Shadow",
+  "name": "My Shadow"
+ },
+ {
+  "_pageName": "Needle",
+  "dlc": "24",
+  "entity": "Needle",
+  "name": "Needle"
+ },
+ {
+  "_pageName": "Needle",
+  "dlc": "24",
+  "entity": "Pasty",
+  "name": "Pasty"
+ },
+ {
+  "_pageName": "Nerve Ending",
+  "dlc": "28",
+  "entity": "Nerve Ending 2",
+  "name": "Nerve Ending 2"
+ },
+ {
+  "_pageName": "Nerve Ending",
+  "dlc": "31",
+  "entity": "Nerve Ending",
+  "name": "Nerve Ending"
+ },
+ {
+  "_pageName": "One Tooth",
+  "dlc": "30",
+  "entity": "Fat Bat",
+  "name": "Fat Bat"
+ },
+ {
+  "_pageName": "One Tooth",
+  "dlc": "31",
+  "entity": "One Tooth",
+  "name": "One Tooth"
+ },
+ {
+  "_pageName": "Oob",
+  "dlc": "31",
+  "entity": "Black Maw",
+  "name": "Black Maw"
+ },
+ {
+  "_pageName": "Oob",
+  "dlc": "31",
+  "entity": "Oob",
+  "name": "Oob"
+ },
+ {
+  "_pageName": "Pacer",
+  "dlc": "24",
+  "entity": "Level 2 Gusher",
+  "name": "Level 2 Gusher"
+ },
+ {
+  "_pageName": "Pacer",
+  "dlc": "30",
+  "entity": "Black Globin's Body",
+  "name": "Black Globin's Body"
+ },
+ {
+  "_pageName": "Pacer",
+  "dlc": "31",
+  "entity": "Gusher",
+  "name": "Gusher"
+ },
+ {
+  "_pageName": "Pacer",
+  "dlc": "31",
+  "entity": "Pacer",
+  "name": "Pacer"
+ },
+ {
+  "_pageName": "Pacer",
+  "dlc": "31",
+  "entity": "Splasher",
+  "name": "Splasher"
+ },
+ {
+  "_pageName": "Para-Bite",
+  "dlc": "30",
+  "entity": "Scarred Para-Bite",
+  "name": "Scarred Para-Bite"
+ },
+ {
+  "_pageName": "Para-Bite",
+  "dlc": "31",
+  "entity": "Para-Bite",
+  "name": "Para-Bite"
+ },
+ {
+  "_pageName": "Peep",
+  "dlc": "31",
+  "entity": "Peep",
+  "name": "Peep"
+ },
+ {
+  "_pageName": "Peep Eye",
+  "dlc": "31",
+  "entity": "Bloat Eye",
+  "name": "Bloat Eye"
+ },
+ {
+  "_pageName": "Peep Eye",
+  "dlc": "31",
+  "entity": "Mockulus",
+  "name": "Mockulus"
+ },
+ {
+  "_pageName": "Peep Eye",
+  "dlc": "31",
+  "entity": "Peep Eye",
+  "name": "Peep Eye"
+ },
+ {
+  "_pageName": "Pestilence",
+  "dlc": "31",
+  "entity": "Pestilence",
+  "name": "Pestilence"
+ },
+ {
+  "_pageName": "Pin",
+  "dlc": "31",
+  "entity": "Pin",
+  "name": "Pin"
+ },
+ {
+  "_pageName": "Pitfall",
+  "dlc": "31",
+  "entity": "Pitfall",
+  "name": "Pitfall"
+ },
+ {
+  "_pageName": "Pitfall",
+  "dlc": "31",
+  "entity": "Suction Pitfall",
+  "name": "Suction Pitfall"
+ },
+ {
+  "_pageName": "Pitfall",
+  "dlc": "31",
+  "entity": "Teleport Pitfall",
+  "name": "Teleport Pitfall"
+ },
+ {
+  "_pageName": "Poky",
+  "dlc": "24",
+  "entity": "Grudge",
+  "name": "Grudge"
+ },
+ {
+  "_pageName": "Poky",
+  "dlc": "31",
+  "entity": "Poky",
+  "name": "Poky"
+ },
+ {
+  "_pageName": "Poky",
+  "dlc": "31",
+  "entity": "Slide",
+  "name": "Slide"
+ },
+ {
+  "_pageName": "Poky",
+  "dlc": "31",
+  "entity": "Wall Hugger",
+  "name": "Wall Hugger"
+ },
+ {
+  "_pageName": "Polty",
+  "dlc": "31",
+  "entity": "Kineti",
+  "name": "Kineti"
+ },
+ {
+  "_pageName": "Polty",
+  "dlc": "31",
+  "entity": "Polty",
+  "name": "Polty"
+ },
+ {
+  "_pageName": "Polycephalus",
+  "dlc": "31",
+  "entity": "Polycephalus",
+  "name": "Polycephalus"
+ },
+ {
+  "_pageName": "Poot Mine",
+  "dlc": "31",
+  "entity": "Poot Mine",
+  "name": "Poot Mine"
+ },
+ {
+  "_pageName": "Pooter",
+  "dlc": "24",
+  "entity": "Tainted Pooter",
+  "name": "Tainted Pooter"
+ },
+ {
+  "_pageName": "Pooter",
+  "dlc": "31",
+  "entity": "Pooter",
+  "name": "Pooter"
+ },
+ {
+  "_pageName": "Pooter",
+  "dlc": "31",
+  "entity": "Super Pooter",
+  "name": "Super Pooter"
+ },
+ {
+  "_pageName": "Portal",
+  "dlc": "24",
+  "entity": "Lil Portal",
+  "name": "Lil Portal"
+ },
+ {
+  "_pageName": "Portal",
+  "dlc": "28",
+  "entity": "Portal",
+  "name": "Portal"
+ },
+ {
+  "_pageName": "Pride",
+  "dlc": "31",
+  "entity": "Pride",
+  "name": "Pride"
+ },
+ {
+  "_pageName": "Rag Man",
+  "dlc": "30",
+  "entity": "Rag Man",
+  "name": "Rag Man"
+ },
+ {
+  "_pageName": "Rag Mega",
+  "dlc": "31",
+  "entity": "Rag Mega",
+  "name": "Rag Mega"
+ },
+ {
+  "_pageName": "Reap Creep",
+  "dlc": "24",
+  "entity": "Reap Creep",
+  "name": "Reap Creep"
+ },
+ {
+  "_pageName": "Rock Spider",
+  "dlc": "31",
+  "entity": "Coal Spider",
+  "name": "Coal Spider"
+ },
+ {
+  "_pageName": "Rock Spider",
+  "dlc": "31",
+  "entity": "Rock Spider",
+  "name": "Rock Spider"
+ },
+ {
+  "_pageName": "Rock Spider",
+  "dlc": "31",
+  "entity": "Tinted Rock Spider",
+  "name": "Tinted Rock Spider"
+ },
+ {
+  "_pageName": "Rotgut",
+  "dlc": "24",
+  "entity": "Rotgut",
+  "name": "Rotgut"
+ },
+ {
+  "_pageName": "Round Worm",
+  "dlc": "31",
+  "entity": "Fire Worm",
+  "name": "Fire Worm"
+ },
+ {
+  "_pageName": "Round Worm",
+  "dlc": "31",
+  "entity": "Night Crawler",
+  "name": "Night Crawler"
+ },
+ {
+  "_pageName": "Round Worm",
+  "dlc": "31",
+  "entity": "Round Worm",
+  "name": "Round Worm"
+ },
+ {
+  "_pageName": "Round Worm",
+  "dlc": "31",
+  "entity": "Roundy",
+  "name": "Roundy"
+ },
+ {
+  "_pageName": "Round Worm",
+  "dlc": "31",
+  "entity": "Tainted Round Worm",
+  "name": "Tainted Round Worm"
+ },
+ {
+  "_pageName": "Round Worm",
+  "dlc": "31",
+  "entity": "Tainted Tube Worm",
+  "name": "Tainted Tube Worm"
+ },
+ {
+  "_pageName": "Round Worm",
+  "dlc": "31",
+  "entity": "Tube Worm",
+  "name": "Tube Worm"
+ },
+ {
+  "_pageName": "Round Worm",
+  "dlc": "31",
+  "entity": "Ulcer",
+  "name": "Ulcer"
+ },
+ {
+  "_pageName": "Sacks",
+  "dlc": "31",
+  "entity": "Black Sack",
+  "name": "Black Sack"
+ },
+ {
+  "_pageName": "Sacks",
+  "dlc": "31",
+  "entity": "Grab Bag",
+  "name": "Grab Bag"
+ },
+ {
+  "_pageName": "Satan",
+  "dlc": "31",
+  "entity": "Satan",
+  "name": "Satan"
+ },
+ {
+  "_pageName": "Scolex",
+  "dlc": "31",
+  "entity": "Scolex",
+  "name": "Scolex"
+ },
+ {
+  "_pageName": "Shopkeeper",
+  "dlc": "30",
+  "entity": "Special Shopkeeper",
+  "name": "Special Shopkeeper"
+ },
+ {
+  "_pageName": "Shopkeeper",
+  "dlc": "31",
+  "entity": "Shopkeeper",
+  "name": "Shopkeeper"
+ },
+ {
+  "_pageName": "Singe",
+  "dlc": "31",
+  "entity": "Singe",
+  "name": "Singe"
+ },
+ {
+  "_pageName": "Siren Minion",
+  "dlc": "31",
+  "entity": "Siren Helper",
+  "name": "Siren Helper"
+ },
+ {
+  "_pageName": "Siren Minion",
+  "dlc": "31",
+  "entity": "Siren Minion",
+  "name": "Siren Minion"
+ },
+ {
+  "_pageName": "Sisters Vis",
+  "dlc": "28",
+  "entity": "Sisters Vis",
+  "name": "Sisters Vis"
+ },
+ {
+  "_pageName": "Skinny",
+  "dlc": "28",
+  "entity": "Crispy",
+  "name": "Crispy"
+ },
+ {
+  "_pageName": "Skinny",
+  "dlc": "31",
+  "entity": "Rotty",
+  "name": "Rotty"
+ },
+ {
+  "_pageName": "Skinny",
+  "dlc": "31",
+  "entity": "Skinny",
+  "name": "Skinny"
+ },
+ {
+  "_pageName": "Sloth",
+  "dlc": "31",
+  "entity": "Sloth",
+  "name": "Sloth"
+ },
+ {
+  "_pageName": "Spider",
+  "dlc": "24",
+  "entity": "Strider",
+  "name": "Strider"
+ },
+ {
+  "_pageName": "Spider",
+  "dlc": "24",
+  "entity": "Swarm Spider",
+  "name": "Swarm Spider"
+ },
+ {
+  "_pageName": "Spider",
+  "dlc": "31",
+  "entity": "Big Spider",
+  "name": "Big Spider"
+ },
+ {
+  "_pageName": "Spider",
+  "dlc": "31",
+  "entity": "Spider",
+  "name": "Spider"
+ },
+ {
+  "_pageName": "Spitty",
+  "dlc": "24",
+  "entity": "Tainted Spitty",
+  "name": "Tainted Spitty"
+ },
+ {
+  "_pageName": "Spitty",
+  "dlc": "31",
+  "entity": "Conjoined Spitty",
+  "name": "Conjoined Spitty"
+ },
+ {
+  "_pageName": "Spitty",
+  "dlc": "31",
+  "entity": "Spitty",
+  "name": "Spitty"
+ },
+ {
+  "_pageName": "Squirt",
+  "dlc": "24",
+  "entity": "Hardy",
+  "name": "Hardy"
+ },
+ {
+  "_pageName": "Squirt",
+  "dlc": "24",
+  "entity": "Splurt",
+  "name": "Splurt"
+ },
+ {
+  "_pageName": "Squirt",
+  "dlc": "30",
+  "entity": "Dank Squirt",
+  "name": "Dank Squirt"
+ },
+ {
+  "_pageName": "Squirt",
+  "dlc": "31",
+  "entity": "Squirt",
+  "name": "Squirt"
+ },
+ {
+  "_pageName": "Steven",
+  "dlc": "31",
+  "entity": "Steven",
+  "name": "Steven"
+ },
+ {
+  "_pageName": "Stone Grimace",
+  "dlc": "24",
+  "entity": "Bomb Grimace",
+  "name": "Bomb Grimace"
+ },
+ {
+  "_pageName": "Stone Grimace",
+  "dlc": "24",
+  "entity": "Quake Grimace",
+  "name": "Quake Grimace"
+ },
+ {
+  "_pageName": "Stone Grimace",
+  "dlc": "24",
+  "entity": "Triple Grimace",
+  "name": "Triple Grimace"
+ },
+ {
+  "_pageName": "Stone Grimace",
+  "dlc": "28",
+  "entity": "Cross Stone Shooter",
+  "name": "Cross Stone Shooter"
+ },
+ {
+  "_pageName": "Stone Grimace",
+  "dlc": "31",
+  "entity": "Brimstone Head",
+  "name": "Brimstone Head"
+ },
+ {
+  "_pageName": "Stone Grimace",
+  "dlc": "31",
+  "entity": "Broken Gaping Maw",
+  "name": "Broken Gaping Maw"
+ },
+ {
+  "_pageName": "Stone Grimace",
+  "dlc": "31",
+  "entity": "Constant Stone Shooter",
+  "name": "Constant Stone Shooter"
+ },
+ {
+  "_pageName": "Stone Grimace",
+  "dlc": "31",
+  "entity": "Gaping Maw",
+  "name": "Gaping Maw"
+ },
+ {
+  "_pageName": "Stone Grimace",
+  "dlc": "31",
+  "entity": "Stone Eye",
+  "name": "Stone Eye"
+ },
+ {
+  "_pageName": "Stone Grimace",
+  "dlc": "31",
+  "entity": "Stone Grimace",
+  "name": "Stone Grimace"
+ },
+ {
+  "_pageName": "Stone Grimace",
+  "dlc": "31",
+  "entity": "Vomit Grimace",
+  "name": "Vomit Grimace"
+ },
+ {
+  "_pageName": "Sucker",
+  "dlc": "24",
+  "entity": "Bloodfly",
+  "name": "Bloodfly"
+ },
+ {
+  "_pageName": "Sucker",
+  "dlc": "24",
+  "entity": "Bulb",
+  "name": "Bulb"
+ },
+ {
+  "_pageName": "Sucker",
+  "dlc": "24",
+  "entity": "Ink",
+  "name": "Ink"
+ },
+ {
+  "_pageName": "Sucker",
+  "dlc": "24",
+  "entity": "Mama Fly",
+  "name": "Mama Fly"
+ },
+ {
+  "_pageName": "Sucker",
+  "dlc": "24",
+  "entity": "Tainted Sucker",
+  "name": "Tainted Sucker"
+ },
+ {
+  "_pageName": "Sucker",
+  "dlc": "28",
+  "entity": "Soul Sucker",
+  "name": "Soul Sucker"
+ },
+ {
+  "_pageName": "Sucker",
+  "dlc": "31",
+  "entity": "Spit",
+  "name": "Spit"
+ },
+ {
+  "_pageName": "Sucker",
+  "dlc": "31",
+  "entity": "Sucker",
+  "name": "Sucker"
+ },
+ {
+  "_pageName": "Super Envy",
+  "dlc": "31",
+  "entity": "Super Envy",
+  "name": "Super Envy"
+ },
+ {
+  "_pageName": "Super Gluttony",
+  "dlc": "31",
+  "entity": "Super Gluttony",
+  "name": "Super Gluttony"
+ },
+ {
+  "_pageName": "Super Greed",
+  "dlc": "31",
+  "entity": "Super Greed",
+  "name": "Super Greed"
+ },
+ {
+  "_pageName": "Super Lust",
+  "dlc": "31",
+  "entity": "Super Lust",
+  "name": "Super Lust"
+ },
+ {
+  "_pageName": "Super Pride",
+  "dlc": "31",
+  "entity": "Super Pride",
+  "name": "Super Pride"
+ },
+ {
+  "_pageName": "Super Sloth",
+  "dlc": "31",
+  "entity": "Super Sloth",
+  "name": "Super Sloth"
+ },
+ {
+  "_pageName": "Super Wrath",
+  "dlc": "31",
+  "entity": "Super Wrath",
+  "name": "Super Wrath"
+ },
+ {
+  "_pageName": "Swarmer",
+  "dlc": "31",
+  "entity": "Swarmer",
+  "name": "Swarmer"
+ },
+ {
+  "_pageName": "Tainted Jacob",
+  "dlc": "24",
+  "entity": "Dark Esau",
+  "name": "Dark Esau"
+ },
+ {
+  "_pageName": "Teratoma",
+  "dlc": "31",
+  "entity": "Teratoma",
+  "name": "Teratoma"
+ },
+ {
+  "_pageName": "The Adversary",
+  "dlc": "31",
+  "entity": "The Adversary",
+  "name": "The Adversary"
+ },
+ {
+  "_pageName": "The Beast",
+  "dlc": "24",
+  "entity": "The Beast",
+  "name": "The Beast"
+ },
+ {
+  "_pageName": "The Bloat",
+  "dlc": "31",
+  "entity": "The Bloat",
+  "name": "The Bloat"
+ },
+ {
+  "_pageName": "The Cage",
+  "dlc": "31",
+  "entity": "The Cage",
+  "name": "The Cage"
+ },
+ {
+  "_pageName": "The Duke of Flies",
+  "dlc": "31",
+  "entity": "The Duke of Flies",
+  "name": "The Duke of Flies"
+ },
+ {
+  "_pageName": "The Fallen",
+  "dlc": "31",
+  "entity": "The Fallen",
+  "name": "The Fallen"
+ },
+ {
+  "_pageName": "The Forsaken",
+  "dlc": "30",
+  "entity": "The Forsaken",
+  "name": "The Forsaken"
+ },
+ {
+  "_pageName": "The Frail",
+  "dlc": "31",
+  "entity": "The Frail",
+  "name": "The Frail"
+ },
+ {
+  "_pageName": "The Gate",
+  "dlc": "31",
+  "entity": "The Gate",
+  "name": "The Gate"
+ },
+ {
+  "_pageName": "The Haunt",
+  "dlc": "31",
+  "entity": "The Haunt",
+  "name": "The Haunt"
+ },
+ {
+  "_pageName": "The Heretic",
+  "dlc": "24",
+  "entity": "The Heretic",
+  "name": "The Heretic"
+ },
+ {
+  "_pageName": "The Hollow",
+  "dlc": "31",
+  "entity": "The Hollow",
+  "name": "The Hollow"
+ },
+ {
+  "_pageName": "The Horny Boys",
+  "dlc": "31",
+  "entity": "The Horny Boys",
+  "name": "The Horny Boys"
+ },
+ {
+  "_pageName": "The Husk",
+  "dlc": "31",
+  "entity": "The Husk",
+  "name": "The Husk"
+ },
+ {
+  "_pageName": "The Lamb",
+  "dlc": "31",
+  "entity": "The Lamb",
+  "name": "The Lamb"
+ },
+ {
+  "_pageName": "The Matriarch",
+  "dlc": "28",
+  "entity": "The Matriarch",
+  "name": "The Matriarch"
+ },
+ {
+  "_pageName": "The Pile",
+  "dlc": "24",
+  "entity": "The Pile",
+  "name": "The Pile"
+ },
+ {
+  "_pageName": "The Rainmaker",
+  "dlc": "31",
+  "entity": "The Rainmaker",
+  "name": "The Rainmaker"
+ },
+ {
+  "_pageName": "The Scourge",
+  "dlc": "31",
+  "entity": "The Scourge",
+  "name": "The Scourge"
+ },
+ {
+  "_pageName": "The Shell",
+  "dlc": "24",
+  "entity": "The Shell",
+  "name": "The Shell"
+ },
+ {
+  "_pageName": "The Siren",
+  "dlc": "31",
+  "entity": "The Siren",
+  "name": "The Siren"
+ },
+ {
+  "_pageName": "The Stain",
+  "dlc": "31",
+  "entity": "The Stain",
+  "name": "The Stain"
+ },
+ {
+  "_pageName": "The Visage",
+  "dlc": "31",
+  "entity": "The Visage",
+  "name": "The Visage"
+ },
+ {
+  "_pageName": "The Wretched",
+  "dlc": "31",
+  "entity": "The Wretched",
+  "name": "The Wretched"
+ },
+ {
+  "_pageName": "TNT",
+  "dlc": "24",
+  "entity": "Mine Crafter TNT",
+  "name": "Mine Crafter TNT"
+ },
+ {
+  "_pageName": "TNT",
+  "dlc": "30",
+  "entity": "Movable TNT",
+  "name": "Movable TNT"
+ },
+ {
+  "_pageName": "Triachnid",
+  "dlc": "31",
+  "entity": "Triachnid",
+  "name": "Triachnid"
+ },
+ {
+  "_pageName": "Trite",
+  "dlc": "6",
+  "entity": "Rag Man's Ragling",
+  "name": "Rag man's Rag Ling"
+ },
+ {
+  "_pageName": "Trite",
+  "dlc": "24",
+  "entity": "Rag Man's Ragling",
+  "name": "Rag Man's Ragling"
+ },
+ {
+  "_pageName": "Trite",
+  "dlc": "28",
+  "entity": "Blister",
+  "name": "Blister"
+ },
+ {
+  "_pageName": "Trite",
+  "dlc": "31",
+  "entity": "Ragling",
+  "name": "Ragling"
+ },
+ {
+  "_pageName": "Trite",
+  "dlc": "31",
+  "entity": "Trite",
+  "name": "Trite"
+ },
+ {
+  "_pageName": "Tuff Twins",
+  "dlc": "31",
+  "entity": "Tuff Twins",
+  "name": "Tuff Twins"
+ },
+ {
+  "_pageName": "Tumor",
+  "dlc": "24",
+  "entity": "Planetoid",
+  "name": "Planetoid"
+ },
+ {
+  "_pageName": "Tumor",
+  "dlc": "24",
+  "entity": "Poofer",
+  "name": "Poofer"
+ },
+ {
+  "_pageName": "Tumor",
+  "dlc": "31",
+  "entity": "Camillo Jr.",
+  "name": "Camillo Jr."
+ },
+ {
+  "_pageName": "Tumor",
+  "dlc": "31",
+  "entity": "Psy Tumor",
+  "name": "Psy Tumor"
+ },
+ {
+  "_pageName": "Tumor",
+  "dlc": "31",
+  "entity": "Tumor",
+  "name": "Tumor"
+ },
+ {
+  "_pageName": "Turdlet",
+  "dlc": "24",
+  "entity": "Turdlet",
+  "name": "Turdlet"
+ },
+ {
+  "_pageName": "Turdlings",
+  "dlc": "30",
+  "entity": "Turdlings",
+  "name": "Turdlings"
+ },
+ {
+  "_pageName": "Ultra Death",
+  "dlc": "24",
+  "entity": "Ultra Death",
+  "name": "Ultra Death"
+ },
+ {
+  "_pageName": "Ultra Famine",
+  "dlc": "24",
+  "entity": "Ultra Famine",
+  "name": "Ultra Famine"
+ },
+ {
+  "_pageName": "Ultra Greed",
+  "dlc": "28",
+  "entity": "Ultra Greedier",
+  "name": "Ultra Greedier"
+ },
+ {
+  "_pageName": "Ultra Greed",
+  "dlc": "30",
+  "entity": "Ultra Greed",
+  "name": "Ultra Greed"
+ },
+ {
+  "_pageName": "Ultra Greed Coin",
+  "dlc": "31",
+  "entity": "Ultra Greed Coin (Bomb)",
+  "name": "Ultra Greed Coin (Bomb)"
+ },
+ {
+  "_pageName": "Ultra Greed Coin",
+  "dlc": "31",
+  "entity": "Ultra Greed Coin (Heart)",
+  "name": "Ultra Greed Coin (Heart)"
+ },
+ {
+  "_pageName": "Ultra Greed Coin",
+  "dlc": "31",
+  "entity": "Ultra Greed Coin (Key)",
+  "name": "Ultra Greed Coin (Key)"
+ },
+ {
+  "_pageName": "Ultra Greed Coin",
+  "dlc": "31",
+  "entity": "Ultra Greed Coin (Spinner)",
+  "name": "Ultra Greed Coin (Spinner)"
+ },
+ {
+  "_pageName": "Ultra Pestilence",
+  "dlc": "24",
+  "entity": "Ultra Pestilence",
+  "name": "Ultra Pestilence"
+ },
+ {
+  "_pageName": "Ultra Pride",
+  "dlc": "31",
+  "entity": "Ultra Pride",
+  "name": "Ultra Pride"
+ },
+ {
+  "_pageName": "Ultra War",
+  "dlc": "31",
+  "entity": "Ultra War",
+  "name": "Ultra War"
+ },
+ {
+  "_pageName": "Vis",
+  "dlc": "24",
+  "entity": "Evis",
+  "name": "Evis"
+ },
+ {
+  "_pageName": "Vis",
+  "dlc": "24",
+  "entity": "Vis Versa",
+  "name": "Vis Versa"
+ },
+ {
+  "_pageName": "Vis",
+  "dlc": "30",
+  "entity": "Scarred Double Vis",
+  "name": "Scarred Double Vis"
+ },
+ {
+  "_pageName": "Vis",
+  "dlc": "31",
+  "entity": "Chubber",
+  "name": "Chubber"
+ },
+ {
+  "_pageName": "Vis",
+  "dlc": "31",
+  "entity": "Double Vis",
+  "name": "Double Vis"
+ },
+ {
+  "_pageName": "Vis",
+  "dlc": "31",
+  "entity": "Vis",
+  "name": "Vis"
+ },
+ {
+  "_pageName": "Wall Creep",
+  "dlc": "24",
+  "entity": "Soy Creep",
+  "name": "Soy Creep"
+ },
+ {
+  "_pageName": "Wall Creep",
+  "dlc": "24",
+  "entity": "Tainted Soy Creep",
+  "name": "Tainted Soy Creep"
+ },
+ {
+  "_pageName": "Wall Creep",
+  "dlc": "28",
+  "entity": "The Thing",
+  "name": "The Thing"
+ },
+ {
+  "_pageName": "Wall Creep",
+  "dlc": "31",
+  "entity": "Blind Creep",
+  "name": "Blind Creep"
+ },
+ {
+  "_pageName": "Wall Creep",
+  "dlc": "31",
+  "entity": "Rage Creep",
+  "name": "Rage Creep"
+ },
+ {
+  "_pageName": "Wall Creep",
+  "dlc": "31",
+  "entity": "Wall Creep",
+  "name": "Wall Creep"
+ },
+ {
+  "_pageName": "War",
+  "dlc": "31",
+  "entity": "War",
+  "name": "War"
+ },
+ {
+  "_pageName": "Whipper",
+  "dlc": "31",
+  "entity": "Flagellant",
+  "name": "Flagellant"
+ },
+ {
+  "_pageName": "Whipper",
+  "dlc": "31",
+  "entity": "Snapper",
+  "name": "Snapper"
+ },
+ {
+  "_pageName": "Whipper",
+  "dlc": "31",
+  "entity": "Whipper",
+  "name": "Whipper"
+ },
+ {
+  "_pageName": "Widow",
+  "dlc": "31",
+  "entity": "Widow",
+  "name": "Widow"
+ },
+ {
+  "_pageName": "Wizoob",
+  "dlc": "30",
+  "entity": "Red Ghost",
+  "name": "Red Ghost"
+ },
+ {
+  "_pageName": "Wizoob",
+  "dlc": "31",
+  "entity": "Wizoob",
+  "name": "Wizoob"
+ },
+ {
+  "_pageName": "Wormwood",
+  "dlc": "24",
+  "entity": "Wormwood",
+  "name": "Wormwood"
+ },
+ {
+  "_pageName": "Wrath",
+  "dlc": "31",
+  "entity": "Wrath",
+  "name": "Wrath"
+ }
+]

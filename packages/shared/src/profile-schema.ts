@@ -35,10 +35,10 @@ const keyString = z.string().min(1).max(64).regex(/^[A-Za-z0-9-]+$/);
 export const profileName = z.string().trim().min(1, 'Nom requis').max(40, '40 caractères maximum');
 export const password = z.string().min(8, '8 caractères minimum').max(200);
 
-export const createProfileBody = z.object({ name: profileName, password: password.optional() });
+export const createProfileBody = z.object({ name: profileName, password });
 export const loginBody = z.object({ name: profileName, password });
 export const updateProfileBody = z
-  .object({ name: profileName.optional(), password: password.nullable().optional(), currentPassword: z.string().max(200).optional() })
+  .object({ name: profileName.optional(), password: password.optional(), currentPassword: z.string().max(200).optional() })
   .refine((b) => b.name !== undefined || b.password !== undefined, 'Aucune modification');
 
 export const progressPatch = z
@@ -72,12 +72,15 @@ export const profileExport = z
   .strict();
 export type ProfileExport = z.infer<typeof profileExport>;
 
-export const importBody = z.object({
-  data: profileExport,
-  mode: z.enum(['new', 'replace']).default('new'),
-  name: profileName.optional(),
-  password: password.optional(),
-});
+/** Import : `replace` écrase la progression du compte connecté ; `new` crée un compte (mot de passe obligatoire). */
+export const importBody = z
+  .object({
+    data: profileExport,
+    mode: z.enum(['new', 'replace']).default('new'),
+    name: profileName.optional(),
+    password: password.optional(),
+  })
+  .refine((b) => b.mode === 'replace' || b.password !== undefined, { message: 'Mot de passe requis pour créer un compte', path: ['password'] });
 
 export interface ProfileProgress {
   profileId: string;

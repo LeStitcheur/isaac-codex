@@ -32,7 +32,7 @@ describe('fonction serverless', () => {
     expect((await fetch(`${base}/api/health`)).status).toBe(200);
   });
   it('crée un profil (base des profils en mémoire sans Turso)', async () => {
-    const r = await fetch(`${base}/api?__path=profiles`, { method: 'POST', headers: { 'content-type': 'application/json' }, body: JSON.stringify({ name: 'Vercel' }) });
+    const r = await fetch(`${base}/api?__path=profiles`, { method: 'POST', headers: { 'content-type': 'application/json' }, body: JSON.stringify({ name: 'Vercel', password: 'motdepasse-test' }) });
     expect(r.status).toBe(201);
   });
 });

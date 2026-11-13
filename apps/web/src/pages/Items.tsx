@@ -193,7 +193,7 @@ export function ItemsPage() {
                   <Select id="f-pool" value={filters.pool ?? ''} onChange={(e) => set({ pool: e.target.value || null })}>
                     <option value="">Tous</option>
                     {meta.data?.pools.map((p) => (
-                      <option key={p.key} value={p.key}>{p.nameFr ?? p.nameEn}</option>
+                      <option key={p.key} value={p.key}>{p.nameEn}</option>
                     ))}
                   </Select>
                 </div>
@@ -202,7 +202,7 @@ export function ItemsPage() {
                   <Select id="f-tr" value={filters.transformation ?? ''} onChange={(e) => set({ transformation: e.target.value || null })}>
                     <option value="">Toutes</option>
                     {meta.data?.transformations.map((t) => (
-                      <option key={t.slug} value={t.slug}>{t.nameFr ?? t.nameEn}</option>
+                      <option key={t.slug} value={t.slug}>{t.nameEn}</option>
                     ))}
                   </Select>
                 </div>
@@ -267,7 +267,7 @@ export function ItemsPage() {
                             <span className="truncate font-medium text-ink">{displayName(t)}</span>
                             <VersionBadge mask={t.mask} />
                           </div>
-                          <div className="text-xs text-faint">Trinket #{t.id}{t.nameFr && t.nameFr !== t.nameEn ? ` · ${t.nameEn}` : ''}</div>
+                          <div className="text-xs text-faint">Trinket #{t.id}{t.nameFr && t.nameFr !== t.nameEn ? ` · ${t.nameFr}` : ''}</div>
                           <p className="mt-1 line-clamp-2 text-sm text-muted">{markupToText(t.description)}</p>
                         </div>
                       </Link>

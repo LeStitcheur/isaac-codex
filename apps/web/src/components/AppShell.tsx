@@ -2,12 +2,13 @@ import { useEffect, useRef, useState, type ReactNode } from 'react';
 import { Link, NavLink, Outlet, useLocation } from 'react-router';
 import { useQueryClient } from '@tanstack/react-query';
 import {
-  BookOpen, ChevronRight, Coins, Compass, FlaskConical, Gem, Home, Info, Map as MapIcon, Menu, PanelLeftClose, PanelLeftOpen, Search, Skull, Sparkles,
-  Target, Trophy, UserRound, Users, X,
+  BookOpen, ChevronRight, Coins, Compass, Download, FlaskConical, Gem, Home, Info, Map as MapIcon, Menu, PanelLeftClose, PanelLeftOpen, Search, Skull,
+  Sparkles, Target, Trophy, UserRound, Users, X,
 } from 'lucide-react';
 import { PLATFORMS, VERSIONS } from '@isaac-codex/shared';
-import { api, ApiError } from '@/lib/api';
 import { useActiveProfile, useProfileStore } from '@/lib/profile-store';
+import { usePwaInstall } from '@/lib/pwa';
+import { AuthScreen } from './AuthScreen';
 import { useMeta, usePatchProgress, useProgress } from '@/lib/queries';
 import { cn } from '@/lib/utils';
 import { asset } from '@/lib/game-assets';
@@ -67,24 +68,45 @@ function Brand({ collapsed }: { collapsed?: boolean }) {
   );
 }
 
-/** Crée automatiquement un profil local au premier lancement (aucun compte requis). */
-function useEnsureProfile() {
-  const profiles = useProfileStore((s) => s.profiles);
-  const add = useProfileStore((s) => s.add);
-  const [error, setError] = useState<string | null>(null);
-  const creating = useRef(false);
+/**
+ * Ouverture/fermeture du menu mobile au doigt : glisser de gauche à droite l'ouvre, de droite à gauche le ferme.
+ * Ignoré dans les zones à défilement horizontal (carrousels, tableaux) et pour les gestes surtout verticaux.
+ */
+function useSwipeMenu(open: boolean, setOpen: (v: boolean) => void) {
+  const start = useRef<{ x: number; y: number; t: number } | null>(null);
   useEffect(() => {
-    if (profiles.length || creating.current) return;
-    creating.current = true;
-    const name = `Joueur-${Math.random().toString(36).slice(2, 6).toUpperCase()}`;
-    api<{ profile: { id: string; name: string }; token: string }>('/api/profiles', { method: 'POST', body: { name }, auth: false })
-      .then((r) => add({ id: r.profile.id, name: r.profile.name, token: r.token }))
-      .catch((e) => setError(e instanceof ApiError ? e.message : 'Impossible de créer un profil'))
-      .finally(() => {
-        creating.current = false;
-      });
-  }, [profiles.length, add]);
-  return error;
+    const scrollsX = (el: EventTarget | null): boolean => {
+      if (!(el instanceof Element)) return false;
+      for (let n: Element | null = el; n && n !== document.body; n = n.parentElement) {
+        if (n instanceof HTMLElement && n.dataset.noSwipe !== undefined) return true;
+        const ox = getComputedStyle(n).overflowX;
+        if ((ox === 'auto' || ox === 'scroll') && n.scrollWidth > n.clientWidth + 1) return true;
+      }
+      return false;
+    };
+    const onStart = (e: TouchEvent) => {
+      const t = e.touches[0];
+      if (e.touches.length !== 1 || !t || window.innerWidth >= 768) return;
+      start.current = scrollsX(e.target) ? null : { x: t.clientX, y: t.clientY, t: Date.now() };
+    };
+    const onEnd = (e: TouchEvent) => {
+      const s = start.current;
+      const t = e.changedTouches[0];
+      start.current = null;
+      if (!s || !t || Date.now() - s.t > 600) return;
+      const dx = t.clientX - s.x;
+      const dy = t.clientY - s.y;
+      if (Math.abs(dx) < 60 || Math.abs(dy) > Math.abs(dx) * 0.6) return;
+      if (dx > 0 && !open) setOpen(true);
+      else if (dx < 0 && open) setOpen(false);
+    };
+    window.addEventListener('touchstart', onStart, { passive: true });
+    window.addEventListener('touchend', onEnd, { passive: true });
+    return () => {
+      window.removeEventListener('touchstart', onStart);
+      window.removeEventListener('touchend', onEnd);
+    };
+  }, [open, setOpen]);
 }
 
 function Sidebar({ collapsed, onNavigate }: { collapsed: boolean; onNavigate?: () => void }) {
@@ -131,6 +153,7 @@ function ProfileQuickSettings() {
   const profile = useActiveProfile();
   const profiles = useProfileStore((s) => s.profiles);
   const setActive = useProfileStore((s) => s.setActive);
+  const setAuthOpen = useProfileStore((s) => s.setAuthOpen);
   const { data: progress } = useProgress();
   const patch = usePatchProgress();
   const qc = useQueryClient();
@@ -163,12 +186,18 @@ function ProfileQuickSettings() {
         ))}
       </Select>
       {profiles.length > 1 ? (
-        <Select aria-label="Profil actif" className="h-9 w-auto max-w-40 text-xs" value={profile?.id ?? ''} onChange={(e) => setActive(e.target.value)}>
+        <Select
+          aria-label="Compte actif"
+          className="h-9 w-auto max-w-40 text-xs"
+          value={profile?.id ?? ''}
+          onChange={(e) => (e.target.value === '__add' ? setAuthOpen(true) : setActive(e.target.value))}
+        >
           {profiles.map((p) => (
             <option key={p.id} value={p.id}>
               {p.name}
             </option>
           ))}
+          <option value="__add">＋ Ajouter un compte…</option>
         </Select>
       ) : (
         <NavLink to="/profil" title={profile?.name} aria-label={`Profil ${profile?.name ?? ''}`} className="grid size-[33px] shrink-0 place-items-center rounded-full border border-[#5f2a38] bg-[#2f1922] text-[13px] font-semibold uppercase text-[#ff7187] hover:border-[#ff7187]">
@@ -179,17 +208,38 @@ function ProfileQuickSettings() {
   );
 }
 
+/** Proposé uniquement quand le navigateur permet l'installation (Android/Chrome, non encore installée). */
+function InstallButton({ className }: { className?: string }) {
+  const { install } = usePwaInstall();
+  if (!install) return null;
+  return (
+    <Button variant="outline" size="sm" className={className} onClick={() => void install()}>
+      <Download /> Installer l'application
+    </Button>
+  );
+}
+
 export function AppShell() {
+  const profile = useActiveProfile();
+  const authOpen = useProfileStore((s) => s.authOpen);
+  const setAuthOpen = useProfileStore((s) => s.setAuthOpen);
+  // Plus de session invité : sans compte actif, seul l'écran de connexion est accessible.
+  if (!profile) return <AuthScreen />;
+  if (authOpen) return <AuthScreen onCancel={() => setAuthOpen(false)} />;
+  return <Shell />;
+}
+
+function Shell() {
   const collapsed = useProfileStore((s) => s.sidebarCollapsed);
   const toggle = useProfileStore((s) => s.toggleSidebar);
   const [mobileOpen, setMobileOpen] = useState(false);
   const [searchOpen, setSearchOpen] = useState(false);
   const location = useLocation();
-  const profileError = useEnsureProfile();
   const meta = useMeta();
   const profile = useActiveProfile();
   const { data: progress } = useProgress();
   const section = currentSection(location.pathname);
+  useSwipeMenu(mobileOpen, setMobileOpen);
 
   useEffect(() => {
     const onKey = (e: KeyboardEvent) => {
@@ -223,6 +273,7 @@ export function AppShell() {
           <Sidebar collapsed={collapsed} />
         </div>
         <div className="space-y-3 px-3.5 pb-3.5 pt-5">
+          {!collapsed && <InstallButton className="w-full" />}
           {!collapsed && (
             <NavLink to="/profil" className="flex items-center gap-2.5 rounded-[10px] border border-[#29313b] bg-[#141a21] px-[11px] py-[13px] hover:border-[#3d4856]">
               <span className="relative text-[#a1b0c3]">
@@ -230,7 +281,7 @@ export function AppShell() {
                 <i className={cn('absolute -bottom-0.5 -right-0.5 size-1.5 rounded-full border border-[#141a21]', progress ? 'bg-ok' : 'bg-blood')} />
               </span>
               <span className="min-w-0">
-                <strong className="block truncate text-[11px] font-semibold">{profile?.name ?? 'Profil local'}</strong>
+                <strong className="block truncate text-[11px] font-semibold">{profile?.name}</strong>
                 <span className="block truncate text-[9px] text-[#6d7d8d]">{VERSIONS.find((v) => v.key === progress?.settings.gameVersion)?.label ?? 'Repentance'}</span>
               </span>
               <ChevronRight className="ml-auto size-4 text-[#596675]" />
@@ -253,6 +304,7 @@ export function AppShell() {
               </Button>
             </div>
             <Sidebar collapsed={false} onNavigate={() => setMobileOpen(false)} />
+            <InstallButton className="mx-3.5 mb-6 w-[calc(100%-1.75rem)]" />
           </aside>
         </div>
       )}
@@ -285,9 +337,10 @@ export function AppShell() {
           </div>
         </header>
 
-        {profileError && (
-          <div className="border-b border-blood/30 bg-blood/10 px-8 py-2 text-xs text-ink">
-            Profil indisponible : {profileError} — la consultation reste possible, mais la progression ne peut pas être enregistrée.
+        {progress && !progress.hasPassword && (
+          <div className="border-b border-blood/30 bg-blood/10 px-4 py-2 text-xs text-ink sm:px-8">
+            Ce compte n'a pas encore de mot de passe : sans lui, impossible de vous reconnecter.{' '}
+            <NavLink to="/profil" className="font-semibold underline">Définir un mot de passe</NavLink>
           </div>
         )}
 

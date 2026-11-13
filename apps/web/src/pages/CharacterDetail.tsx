@@ -1,6 +1,7 @@
 import { useEffect } from 'react';
 import { Link, useParams } from 'react-router';
-import { useQuery } from '@tanstack/react-query';
+import { keepPreviousData, useQuery } from '@tanstack/react-query';
+import { CharacterSwitcher, characterQuery } from '@/components/CharacterSwitcher';
 import { Check, Crown, ShieldAlert, ThumbsDown, ThumbsUp } from 'lucide-react';
 import type { Achievement, Character, CompletionMark, MarkKey, MarkUnlock } from '@isaac-codex/shared';
 import { api } from '@/lib/api';
@@ -57,7 +58,8 @@ function MarkCell({ slug, mark, value }: { slug: string; mark: CompletionMark; v
 
 export function CharacterDetailPage() {
   const { slug = '' } = useParams();
-  const q = useQuery({ queryKey: ['character', slug], queryFn: () => api<CharacterResponse>(`/api/characters/${slug}`, { auth: false }) });
+  // L'ancienne fiche reste affichée pendant le chargement de la suivante : pas d'écran vide entre deux personnages.
+  const q = useQuery({ ...characterQuery<CharacterResponse>(slug), placeholderData: keepPreviousData });
   const { model, progress } = useProgressModel();
   const recordView = useRecordView();
   useEffect(() => {
@@ -65,7 +67,7 @@ export function CharacterDetailPage() {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [q.data?.character.slug]);
 
-  if (q.isLoading) return <Loading />;
+  if (q.isLoading) return <div className="space-y-5"><CharacterSwitcher slug={slug} /><Loading /></div>;
   if (q.error || !q.data) return <ErrorState error={q.error} />;
   const { character: c, markUnlocks, completionMarks } = q.data;
   const bit = model?.bit ?? 8;
@@ -75,7 +77,8 @@ export function CharacterDetailPage() {
   const unlocksByMark = (key: MarkKey) => markUnlocks.filter((m) => m.marks.includes(key));
 
   return (
-    <div className="space-y-5">
+    <div className={cn('space-y-5 transition-opacity', q.isPlaceholderData && 'opacity-60')}>
+      <CharacterSwitcher slug={slug} />
       <PageHeader
         kicker={c.tainted ? 'Personnage Tainted' : 'Personnage'}
         title={
@@ -83,7 +86,7 @@ export function CharacterDetailPage() {
             <Sprite kind="character" id={c.slug} size={84} className="bg-transparent ring-0 drop-shadow-[3px_4px_0_rgb(0_0_0/0.6)]" />
             <span>
               <span className="block">{displayName(c)}</span>
-              {c.nameFr && c.nameFr !== c.nameEn && <span className="block text-base text-muted">{c.nameEn}</span>}
+              {c.nameFr && c.nameFr !== c.nameEn && <span className="block text-base text-muted">{c.nameFr}</span>}
             </span>
           </span>
         }
@@ -141,7 +144,7 @@ export function CharacterDetailPage() {
           {q.data.startingItems.length ? (
             <div className="flex flex-wrap gap-2">
               {q.data.startingItems.map((s) => (
-                <EntityChip key={`${s.kind}:${s.key}`} kind={s.kind as 'item'} id={s.key} name={s.nameFr ?? s.name} />
+                <EntityChip key={`${s.kind}:${s.key}`} kind={s.kind as 'item'} id={s.key} name={s.name} />
               ))}
             </div>
           ) : (

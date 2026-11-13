@@ -72,7 +72,7 @@ export function BossDetailPage() {
       <Link to="/boss" className="text-sm text-muted hover:text-ink">← Tous les boss</Link>
       <PageHeader
         kicker={b.type === 'boss' ? 'Boss' : 'Mini-boss'}
-        title={<span className="flex items-center gap-4"><Sprite kind="boss" id={b.slug} size={64} /> {displayName(b)}</span>}
+        title={<span className="flex items-center gap-4"><Sprite kind="boss" id={b.slug} size={64} /><span><span className="block">{displayName(b)}</span>{b.nameFr && b.nameFr !== b.nameEn && <span className="block text-base text-muted">{b.nameFr}</span>}</span></span>}
         actions={<VersionBadge mask={b.mask} />}
       />
       <div className="grid gap-4 lg:grid-cols-3">

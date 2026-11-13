@@ -6,6 +6,7 @@ import { App } from './App';
 import { TooltipProvider } from './components/ui';
 import { ApiError } from './lib/api';
 import './index.css';
+import './lib/pwa'; // capture précoce de l'invite d'installation Android
 
 const queryClient = new QueryClient({
   defaultOptions: {
@@ -27,3 +28,10 @@ createRoot(document.getElementById('root')!).render(
     </QueryClientProvider>
   </StrictMode>,
 );
+
+// Application installable : service worker en production uniquement (pas de cache gênant en développement).
+if (import.meta.env.PROD && 'serviceWorker' in navigator) {
+  window.addEventListener('load', () => {
+    navigator.serviceWorker.register('/sw.js').catch((e) => console.warn('Service worker non enregistré :', e));
+  });
+}

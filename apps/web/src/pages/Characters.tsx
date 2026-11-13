@@ -51,7 +51,7 @@ export function CharactersPage() {
                   <h2 className="truncate text-[15px] font-semibold text-parchment">{displayName(c)}</h2>
                   <VersionBadge mask={c.mask} />
                 </div>
-                <p className="truncate text-xs text-muted">{displayName(c)}{c.nameFr && c.nameFr !== c.nameEn ? ` · ${c.nameEn}` : ''}</p>
+                <p className="truncate text-xs text-muted">{c.nameFr && c.nameFr !== c.nameEn ? c.nameFr : ' '}</p>
                 <div className="mt-2">
                   <Hearts health={c.health} />
                 </div>

@@ -1,6 +1,6 @@
 import { useRef, useState } from 'react';
 import { useQueryClient } from '@tanstack/react-query';
-import { Download, KeyRound, LogIn, Plus, Trash2, Upload, UserRound } from 'lucide-react';
+import { Download, KeyRound, LogOut, Plus, Trash2, Upload, UserRound } from 'lucide-react';
 import { PLATFORMS, VERSIONS, profileExport } from '@isaac-codex/shared';
 import { api, ApiError } from '@/lib/api';
 import { useActiveProfile, useProfileStore } from '@/lib/profile-store';
@@ -31,19 +31,13 @@ export function ProfilePage() {
   const { data: progress } = useProgress();
   const patch = usePatchProgress();
   const qc = useQueryClient();
-  const create = useAction();
+  const accounts = useAction();
   const manage = useAction();
-  const login = useAction();
   const io = useAction();
-  const [newName, setNewName] = useState('');
-  const [newPwd, setNewPwd] = useState('');
   const [rename, setRename] = useState('');
   const [pwd, setPwd] = useState('');
   const [currentPwd, setCurrentPwd] = useState('');
-  const [loginName, setLoginName] = useState('');
-  const [loginPwd, setLoginPwd] = useState('');
   const fileRef = useRef<HTMLInputElement>(null);
-  const [importMode, setImportMode] = useState<'new' | 'replace'>('new');
 
   const onImport = async (file: File) =>
     io.run(async () => {
@@ -56,78 +50,60 @@ export function ProfilePage() {
       }
       const parsed = profileExport.safeParse(json);
       if (!parsed.success) throw new Error(`Export invalide : ${parsed.error.issues.slice(0, 3).map((i) => `${i.path.join('.')} ${i.message}`).join(' ; ')}`);
-      const r = await api<{ profile: { id: string; name: string }; token: string | null; imported: Record<string, number>; skipped: number; datasetMismatch: boolean }>(
-        '/api/profiles/import',
-        { method: 'POST', body: { data: parsed.data, mode: importMode }, auth: importMode === 'replace' },
-      );
-      if (r.token) store.add({ id: r.profile.id, name: r.profile.name, token: r.token });
+      if (!window.confirm(`Remplacer toute la progression de « ${progress?.name} » par celle de ce fichier ?`)) return;
+      const r = await api<{ profile: { id: string; name: string }; imported: Record<string, number>; skipped: number; datasetMismatch: boolean }>('/api/profiles/import', {
+        method: 'POST',
+        body: { data: parsed.data, mode: 'replace' },
+      });
       await qc.invalidateQueries({ queryKey: ['progress'] });
-      return `Import réussi dans « ${r.profile.name} » : ${r.imported.unlocks} succès, ${r.imported.marks} marques, ${r.imported.favorites} favoris.${r.skipped ? ` ${r.skipped} entrée(s) inconnue(s) ignorée(s).` : ''}${r.datasetMismatch ? ' (export issu d\'une autre version des données)' : ''}`;
+      return `Import réussi dans « ${r.profile.name} » : ${r.imported.unlocks} succès, ${r.imported.marks} marques, ${r.imported.favorites} favoris.${r.skipped ? ` ${r.skipped} entrée(s) inconnue(s) ignorée(s).` : ''}${r.datasetMismatch ? " (export issu d'une autre version des données)" : ''}`;
     });
 
   return (
     <div className="space-y-5">
-      <PageHeader icon={<UserRound />} title="Profil et sauvegardes" subtitle="Aucun compte n'est obligatoire. Chaque profil a sa propre progression, ses favoris et ses paramètres, stockés sur le serveur et protégés par un jeton secret." />
+      <PageHeader
+        icon={<UserRound />}
+        title="Compte et sauvegardes"
+        subtitle="Chaque compte a sa propre progression, ses favoris et ses paramètres, enregistrés sur le serveur et accessibles depuis tous vos appareils."
+      />
 
-      <div className="grid gap-4 lg:grid-cols-2">
-        <Section title="Profils de ce navigateur">
-          <ul className="space-y-2">
-            {store.profiles.map((p) => (
-              <li key={p.id} className={cn('flex items-center justify-between gap-2 rounded-md p-2 ring-1', p.id === active?.id ? 'bg-surface-2 ring-parchment/40' : 'ring-parchment/10')}>
-                <span className="truncate">{p.name}</span>
-                {p.id === active?.id ? <Badge variant="ok">Actif</Badge> : <Button size="sm" variant="outline" onClick={() => store.setActive(p.id)}>Utiliser</Button>}
-              </li>
-            ))}
-          </ul>
-          <div className="mt-4 space-y-2 border-t border-parchment/10 pt-4">
-            <Label htmlFor="np">Nouveau profil</Label>
-            <Input id="np" value={newName} onChange={(e) => setNewName(e.target.value)} placeholder="Nom du profil" maxLength={40} />
-            <Input type="password" value={newPwd} onChange={(e) => setNewPwd(e.target.value)} placeholder="Mot de passe (facultatif, 8 caractères min.)" autoComplete="new-password" />
+      <Section title="Comptes sur cet appareil">
+        <ul className="space-y-2">
+          {store.profiles.map((p) => (
+            <li key={p.id} className={cn('flex items-center justify-between gap-2 rounded-md p-2 ring-1', p.id === active?.id ? 'bg-surface-2 ring-parchment/40' : 'ring-parchment/10')}>
+              <span className="truncate">{p.name}</span>
+              {p.id === active?.id ? (
+                <Badge variant="ok">Connecté</Badge>
+              ) : (
+                <Button size="sm" variant="outline" onClick={() => store.setActive(p.id)}>
+                  Basculer
+                </Button>
+              )}
+            </li>
+          ))}
+        </ul>
+        <div className="mt-4 flex flex-wrap gap-2">
+          <Button variant="outline" onClick={() => store.setAuthOpen(true)}>
+            <Plus /> Ajouter un compte
+          </Button>
+          {active && (
             <Button
+              variant="ghost"
               onClick={() =>
-                create.run(async () => {
-                  const r = await api<{ profile: { id: string; name: string }; token: string }>('/api/profiles', {
-                    method: 'POST',
-                    body: { name: newName, password: newPwd || undefined },
-                    auth: false,
-                  });
-                  store.add({ id: r.profile.id, name: r.profile.name, token: r.token });
-                  setNewName('');
-                  setNewPwd('');
-                  return `Profil « ${r.profile.name} » créé et activé.`;
+                accounts.run(async () => {
+                  // Révocation du jeton côté serveur (au mieux), puis oubli du compte sur cet appareil.
+                  await api(`/api/profiles/${active.id}/logout`, { method: 'POST' }).catch(() => undefined);
+                  store.logout(active.id);
                 })
               }
-              disabled={!newName.trim()}
+              data-testid="logout"
             >
-              <Plus /> Créer
+              <LogOut /> Se déconnecter
             </Button>
-            <create.Message />
-          </div>
-        </Section>
-
-        <Section title="Récupérer un profil protégé">
-          <p className="mb-3 text-sm text-muted">Si vous avez défini un mot de passe, vous pouvez retrouver votre profil sur un autre appareil.</p>
-          <div className="space-y-2">
-            <Input value={loginName} onChange={(e) => setLoginName(e.target.value)} placeholder="Nom du profil" autoComplete="username" />
-            <Input type="password" value={loginPwd} onChange={(e) => setLoginPwd(e.target.value)} placeholder="Mot de passe" autoComplete="current-password" />
-            <Button
-              variant="outline"
-              onClick={() =>
-                login.run(async () => {
-                  const r = await api<{ profile: { id: string; name: string }; token: string }>('/api/profiles/login', { method: 'POST', body: { name: loginName, password: loginPwd }, auth: false });
-                  store.add({ id: r.profile.id, name: r.profile.name, token: r.token });
-                  setLoginPwd('');
-                  return `Connecté à « ${r.profile.name} ».`;
-                })
-              }
-              disabled={!loginName || loginPwd.length < 8}
-            >
-              <LogIn /> Se connecter
-            </Button>
-            <login.Message />
-          </div>
-        </Section>
-      </div>
+          )}
+        </div>
+        <accounts.Message />
+      </Section>
 
       {active && progress && (
         <>
@@ -171,53 +147,39 @@ export function ProfilePage() {
                         store.rename(active.id, r.profile.name);
                         setRename('');
                         await qc.invalidateQueries({ queryKey: ['progress'] });
-                        return 'Profil renommé.';
+                        return 'Compte renommé.';
                       })
                     }
                   >
                     Renommer
                   </Button>
                 </div>
-                <Label htmlFor="pw" className="mt-3 block"><KeyRound className="mr-1 inline size-4" /> Mot de passe {progress.hasPassword ? '(défini)' : '(aucun)'}</Label>
+                <Label htmlFor="pw" className="mt-3 block">
+                  <KeyRound className="mr-1 inline size-4" /> {progress.hasPassword ? 'Changer le mot de passe' : 'Définir un mot de passe (obligatoire pour se reconnecter)'}
+                </Label>
                 {progress.hasPassword && <Input type="password" value={currentPwd} onChange={(e) => setCurrentPwd(e.target.value)} placeholder="Mot de passe actuel" autoComplete="current-password" />}
                 <Input id="pw" type="password" value={pwd} onChange={(e) => setPwd(e.target.value)} placeholder="Nouveau mot de passe (8 caractères min.)" autoComplete="new-password" />
-                <div className="flex gap-2">
-                  <Button
-                    variant="outline"
-                    disabled={pwd.length < 8}
-                    onClick={() =>
-                      manage.run(async () => {
-                        await api(`/api/profiles/${active.id}`, { method: 'PATCH', body: { password: pwd, currentPassword: currentPwd || undefined } });
-                        setPwd('');
-                        setCurrentPwd('');
-                        await qc.invalidateQueries({ queryKey: ['progress'] });
-                        return 'Mot de passe enregistré.';
-                      })
-                    }
-                  >
-                    Enregistrer
-                  </Button>
-                  {progress.hasPassword && (
-                    <Button
-                      variant="ghost"
-                      onClick={() =>
-                        manage.run(async () => {
-                          await api(`/api/profiles/${active.id}`, { method: 'PATCH', body: { password: null, currentPassword: currentPwd } });
-                          await qc.invalidateQueries({ queryKey: ['progress'] });
-                          return 'Mot de passe supprimé.';
-                        })
-                      }
-                    >
-                      Supprimer le mot de passe
-                    </Button>
-                  )}
-                </div>
+                <Button
+                  variant="outline"
+                  disabled={pwd.length < 8}
+                  onClick={() =>
+                    manage.run(async () => {
+                      await api(`/api/profiles/${active.id}`, { method: 'PATCH', body: { password: pwd, currentPassword: currentPwd || undefined } });
+                      setPwd('');
+                      setCurrentPwd('');
+                      await qc.invalidateQueries({ queryKey: ['progress'] });
+                      return 'Mot de passe enregistré.';
+                    })
+                  }
+                >
+                  Enregistrer
+                </Button>
                 <manage.Message />
               </div>
             </Section>
 
             <Section title="Export, import et sauvegarde">
-              <p className="mb-3 text-sm text-muted">L'export JSON contient toute la progression du profil (sans le jeton ni le mot de passe).</p>
+              <p className="mb-3 text-sm text-muted">L'export JSON contient toute la progression du compte (sans le jeton ni le mot de passe). L'import remplace la progression du compte connecté.</p>
               <div className="flex flex-wrap gap-2">
                 <Button
                   variant="parchment"
@@ -232,10 +194,6 @@ export function ProfilePage() {
                 >
                   <Download /> Exporter en JSON
                 </Button>
-                <Select value={importMode} onChange={(e) => setImportMode(e.target.value as 'new' | 'replace')} className="w-auto" aria-label="Mode d'import">
-                  <option value="new">Importer dans un nouveau profil</option>
-                  <option value="replace">Remplacer la progression du profil actif</option>
-                </Select>
                 <Button variant="outline" onClick={() => fileRef.current?.click()}>
                   <Upload /> Importer…
                 </Button>
@@ -257,20 +215,19 @@ export function ProfilePage() {
           </div>
 
           <Section title="Zone sensible">
-            <p className="mb-3 text-sm text-muted">Supprime définitivement ce profil et toute sa progression du serveur. Pensez à exporter avant.</p>
+            <p className="mb-3 text-sm text-muted">Supprime définitivement ce compte et toute sa progression du serveur. Pensez à exporter avant.</p>
             <Button
               variant="outline"
               className="border-blood/50 text-blood-bright hover:bg-blood/15"
               onClick={() =>
                 manage.run(async () => {
-                  if (!window.confirm(`Supprimer définitivement le profil « ${progress.name} » ?`)) return;
+                  if (!window.confirm(`Supprimer définitivement le compte « ${progress.name} » ?`)) return;
                   await api(`/api/profiles/${active.id}`, { method: 'DELETE' });
-                  store.remove(active.id);
-                  return 'Profil supprimé.';
+                  store.logout(active.id);
                 })
               }
             >
-              <Trash2 /> Supprimer ce profil
+              <Trash2 /> Supprimer ce compte
             </Button>
           </Section>
         </>

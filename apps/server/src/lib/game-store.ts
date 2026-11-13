@@ -378,15 +378,15 @@ export function loadGameStore(handle: DbHandle): GameStore {
     'card': 'Carte', 'special card': 'Carte spéciale', 'rune': 'Rune', 'soul stone': "Pierre d'âme", 'pill': 'Pilule', 'other': 'Consommable',
   };
   const searchDocs: SearchDoc[] = [
-    ...items.map((i) => ({ kind: 'item' as const, key: String(i.id), title: i.nameFr ?? i.nameEn, subtitle: `Objet ${i.kind === 'active' ? 'actif' : 'passif'} #${i.id}`, nameEn: i.nameEn, nameFr: i.nameFr ?? '', idText: String(i.id), extra: i.quote ?? '' })),
-    ...trinkets.map((t) => ({ kind: 'trinket' as const, key: String(t.id), title: t.nameFr ?? t.nameEn, subtitle: `Trinket #${t.id}`, nameEn: t.nameEn, nameFr: t.nameFr ?? '', idText: `t${t.id}`, extra: t.quote ?? '' })),
-    ...consumables.map((c) => ({ kind: 'consumable' as const, key: c.slug, title: c.nameFr ?? c.nameEn, subtitle: KIND_FR[c.kind] ?? 'Consommable', nameEn: c.nameEn, nameFr: c.nameFr ?? '', idText: '', extra: '' })),
-    ...characters.map((c) => ({ kind: 'character' as const, key: c.slug, title: c.nameFr ?? c.nameEn, subtitle: c.tainted ? 'Personnage Tainted' : 'Personnage', nameEn: c.nameEn, nameFr: c.nameFr ?? '', idText: '', extra: c.slug })),
-    ...bosses.map((b) => ({ kind: 'boss' as const, key: b.slug, title: b.nameFr ?? b.nameEn, subtitle: b.type === 'boss' ? 'Boss' : 'Mini-boss', nameEn: b.nameEn, nameFr: b.nameFr ?? '', idText: '', extra: '' })),
-    ...floors.map((f) => ({ kind: 'floor' as const, key: f.slug, title: f.nameFr ?? f.nameEn, subtitle: `Étage — chapitre ${f.chapter}`, nameEn: f.nameEn, nameFr: f.nameFr ?? '', idText: '', extra: '' })),
+    ...items.map((i) => ({ kind: 'item' as const, key: String(i.id), title: i.nameEn, subtitle: `Objet ${i.kind === 'active' ? 'actif' : 'passif'} #${i.id}`, nameEn: i.nameEn, nameFr: i.nameFr ?? '', idText: String(i.id), extra: i.quote ?? '' })),
+    ...trinkets.map((t) => ({ kind: 'trinket' as const, key: String(t.id), title: t.nameEn, subtitle: `Trinket #${t.id}`, nameEn: t.nameEn, nameFr: t.nameFr ?? '', idText: `t${t.id}`, extra: t.quote ?? '' })),
+    ...consumables.map((c) => ({ kind: 'consumable' as const, key: c.slug, title: c.nameEn, subtitle: KIND_FR[c.kind] ?? 'Consommable', nameEn: c.nameEn, nameFr: c.nameFr ?? '', idText: '', extra: '' })),
+    ...characters.map((c) => ({ kind: 'character' as const, key: c.slug, title: c.nameEn, subtitle: c.tainted ? 'Personnage Tainted' : 'Personnage', nameEn: c.nameEn, nameFr: c.nameFr ?? '', idText: '', extra: c.slug })),
+    ...bosses.map((b) => ({ kind: 'boss' as const, key: b.slug, title: b.nameEn, subtitle: b.type === 'boss' ? 'Boss' : 'Mini-boss', nameEn: b.nameEn, nameFr: b.nameFr ?? '', idText: '', extra: '' })),
+    ...floors.map((f) => ({ kind: 'floor' as const, key: f.slug, title: f.nameEn, subtitle: `Étage — chapitre ${f.chapter}`, nameEn: f.nameEn, nameFr: f.nameFr ?? '', idText: '', extra: '' })),
     ...achievements.map((a) => ({ kind: 'achievement' as const, key: String(a.id), title: a.name, subtitle: `Succès #${a.id}`, nameEn: a.name, nameFr: '', idText: `a${a.id}`, extra: markupToText(a.requirement) })),
     ...guides.map((g) => ({ kind: 'guide' as const, key: g.slug, title: g.title, subtitle: 'Guide', nameEn: '', nameFr: g.title, idText: '', extra: markupToText(g.summary) })),
-    ...transformations.map((t) => ({ kind: 'transformation' as const, key: t.slug, title: t.nameFr ?? t.nameEn, subtitle: 'Transformation', nameEn: t.nameEn, nameFr: t.nameFr ?? '', idText: '', extra: '' })),
+    ...transformations.map((t) => ({ kind: 'transformation' as const, key: t.slug, title: t.nameEn, subtitle: 'Transformation', nameEn: t.nameEn, nameFr: t.nameFr ?? '', idText: '', extra: '' })),
   ];
   const search = new Fuse(searchDocs, {
     keys: [

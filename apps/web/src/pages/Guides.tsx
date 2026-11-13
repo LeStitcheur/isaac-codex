@@ -123,7 +123,7 @@ export function GuideDetailPage() {
           {q.data.related.length > 0 && (
             <Section title="Fiches liées">
               <div className="flex flex-wrap gap-2">
-                {q.data.related.map((r) => <EntityChip key={`${r.kind}:${r.key}`} kind={r.kind as 'item'} id={r.key} name={r.nameFr ?? r.name} />)}
+                {q.data.related.map((r) => <EntityChip key={`${r.kind}:${r.key}`} kind={r.kind as 'item'} id={r.key} name={r.name} />)}
               </div>
             </Section>
           )}

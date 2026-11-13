@@ -47,7 +47,8 @@ afterAll(async () => {
   }
 });
 
-const createProfile = async (name: string, password?: string) => {
+const PWD = 'motdepasse-test';
+const createProfile = async (name: string, password = PWD) => {
   const r = await app.inject({ method: 'POST', url: '/api/profiles', payload: { name, password } });
   expect(r.statusCode).toBe(201);
   return r.json() as { profile: { id: string }; token: string };
@@ -142,7 +143,8 @@ describe('profils : sécurité et progression', () => {
   });
   it('refuse les noms en double et valide les entrées', async () => {
     await createProfile('Unique');
-    expect((await app.inject({ method: 'POST', url: '/api/profiles', payload: { name: 'unique' } })).statusCode).toBe(409);
+    expect((await app.inject({ method: 'POST', url: '/api/profiles', payload: { name: 'unique', password: PWD } })).statusCode).toBe(409);
+    expect((await app.inject({ method: 'POST', url: '/api/profiles', payload: { name: 'SansMotDePasse' } })).statusCode).toBe(400);
     expect((await app.inject({ method: 'POST', url: '/api/profiles', payload: { name: '' } })).statusCode).toBe(400);
     const p = await createProfile('Validation');
     const bad = await app.inject({ method: 'PATCH', url: `/api/profiles/${p.profile.id}/progress`, headers: auth(p.token), payload: { marks: [{ characterSlug: 'isaac', markKey: 'nope', difficulty: 'hard' }] } });
@@ -172,7 +174,8 @@ describe('profils : sécurité et progression', () => {
     const exp = (await app.inject({ method: 'POST', url: `/api/profiles/${p.profile.id}/export`, headers: auth(p.token) })).json();
     expect(exp.format).toBe('isaac-codex-profile');
     expect(JSON.stringify(exp)).not.toContain(p.token);
-    const imp = await app.inject({ method: 'POST', url: '/api/profiles/import', payload: { data: exp, mode: 'new' } });
+    const imp = await app.inject({ method: 'POST', url: '/api/profiles/import', payload: { data: exp, mode: 'new', password: PWD } });
+    expect((await app.inject({ method: 'POST', url: '/api/profiles/import', payload: { data: exp, mode: 'new' } })).statusCode).toBe(400);
     expect(imp.statusCode).toBe(201);
     const body = imp.json();
     expect(body.profile.name).toBe('Export (2)');

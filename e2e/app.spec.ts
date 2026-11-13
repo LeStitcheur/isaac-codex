@@ -1,6 +1,73 @@
-import { expect, test } from '@playwright/test';
+/// <reference lib="dom" />
+import { expect, test, type Page } from '@playwright/test';
+
+const PASSWORD = 'motdepasse-e2e';
+
+/** Plus de session invité : chaque test commence par créer un compte unique. */
+async function signUp(page: Page, name = `e2e-${Date.now().toString(36)}-${Math.random().toString(36).slice(2, 6)}`) {
+  await page.goto('/');
+  await page.getByRole('tab', { name: 'Créer un compte' }).click();
+  await page.getByTestId('auth-name').fill(name);
+  await page.getByTestId('auth-password').fill(PASSWORD);
+  await page.getByTestId('auth-confirm').fill(PASSWORD);
+  await page.getByTestId('auth-submit').click();
+  await expect(page.getByTestId('open-search')).toBeVisible();
+  return name;
+}
+
+test.describe('compte obligatoire', () => {
+  test("affiche l'écran de connexion, crée un compte, se déconnecte puis se reconnecte", async ({ page }) => {
+    await page.goto('/objets');
+    await expect(page.getByTestId('auth-submit')).toBeVisible();
+    await expect(page.getByTestId('open-search')).toHaveCount(0);
+    const name = await signUp(page);
+    await page.goto('/profil');
+    await page.getByTestId('logout').click();
+    await expect(page.getByTestId('auth-submit')).toBeVisible();
+    await page.getByRole('tab', { name: 'Se connecter' }).click();
+    await page.getByTestId('auth-name').fill(name);
+    await page.getByTestId('auth-password').fill(PASSWORD);
+    await page.getByTestId('auth-submit').click();
+    await expect(page.getByTestId('open-search')).toBeVisible();
+  });
+});
 
 test.describe('parcours essentiels', () => {
+  test.beforeEach(async ({ page }) => {
+    page.on('dialog', (d) => void d.accept());
+    await signUp(page);
+  });
+
+  test('ouvrir et fermer le menu mobile en glissant le doigt', async ({ page, isMobile }) => {
+    test.skip(!isMobile, 'geste propre au mobile');
+    const swipe = (fromX: number, toX: number) =>
+      page.evaluate(
+        ([a, b]) => {
+          const target = document.querySelector('main')!;
+          const touch = (x: number) => new Touch({ identifier: 1, target, clientX: x, clientY: 300 });
+          target.dispatchEvent(new TouchEvent('touchstart', { touches: [touch(a!)], changedTouches: [touch(a!)], bubbles: true }));
+          target.dispatchEvent(new TouchEvent('touchend', { touches: [], changedTouches: [touch(b!)], bubbles: true }));
+        },
+        [fromX, toX],
+      );
+    await expect(page.getByRole('button', { name: 'Fermer le menu' })).toHaveCount(0);
+    await swipe(20, 220);
+    await expect(page.getByRole('button', { name: 'Fermer le menu' })).toBeVisible();
+    await swipe(250, 30);
+    await expect(page.getByRole('button', { name: 'Fermer le menu' })).toHaveCount(0);
+  });
+
+  test('changer rapidement de personnage', async ({ page }) => {
+    await page.goto('/personnages/isaac');
+    await expect(page.getByTestId('character-switcher')).toBeVisible();
+    await page.getByRole('link', { name: /Personnage suivant/ }).click();
+    await expect(page).toHaveURL(/\/personnages\/magdalene$/);
+    await page.keyboard.press('ArrowLeft');
+    await expect(page).toHaveURL(/\/personnages\/isaac$/);
+    await page.getByRole('link', { name: /^(Tainted|Voir Tainted Isaac)$/ }).click();
+    await expect(page).toHaveURL(/\/personnages\/tainted-isaac$/);
+  });
+
   test('rechercher un objet et ouvrir sa fiche', async ({ page }) => {
     await page.goto('/');
     await page.getByTestId('open-search').click();

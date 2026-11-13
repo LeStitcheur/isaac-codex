@@ -25,14 +25,14 @@ function SynergyList({ list, emptyLabel }: { list: SynergyView[]; emptyLabel: st
         return (
           <li key={i} className={cn('rounded-md border border-parchment/10 bg-abyss/40 p-3', out && 'opacity-50')} title={out ? `Ne concerne pas votre version (${maskLabel(s.mask!)})` : undefined}>
             <div className="mb-1 flex flex-wrap items-center gap-2">
-              <EntityChip kind={s.other.kind as 'item'} id={s.other.key} name={s.other.nameFr ?? s.other.name} />
+              <EntityChip kind={s.other.kind as 'item'} id={s.other.key} name={s.other.name} />
               {s.mask !== null && <VersionBadge mask={s.mask} />}
               {s.possiblyNegative && (
                 <Tip content="Détection automatique de formulations négatives dans le texte du wiki : à lire attentivement.">
                   <Badge variant="warn" className="cursor-help"><AlertTriangle className="size-3" /> Possiblement négative</Badge>
                 </Tip>
               )}
-              {s.direction === 'in' && <span className="text-xs text-faint">(documenté sur la fiche de {s.other.nameFr ?? s.other.name})</span>}
+              {s.direction === 'in' && <span className="text-xs text-faint">(documenté sur la fiche de {s.other.name})</span>}
             </div>
             <Markup text={s.text} className="text-sm" />
           </li>
@@ -141,7 +141,7 @@ export function ItemDetailPage() {
             <Sprite kind="item" id={item.id} quality={item.quality} size={72} className="rounded-xl bg-[#141920] p-2 pixel-border" />
             <span>
               <span data-testid="item-title">{displayName(item)}</span>
-              {item.nameFr && item.nameFr !== item.nameEn && <span className="block text-base text-muted">{item.nameEn}</span>}
+              {item.nameFr && item.nameFr !== item.nameEn && <span className="block text-base text-muted">{item.nameFr}</span>}
             </span>
           </span>
         }
@@ -204,7 +204,7 @@ export function ItemDetailPage() {
                   <li key={`${p.pool.key}-${p.mask}`} className="flex items-center justify-between gap-2">
                     <Link to={`/objets?pool=${encodeURIComponent(p.pool.key)}`} className="flex items-center gap-1.5 hover:underline">
                       <GameIcon src={poolIcon(p.pool.key)} size={14} />
-                      {p.pool.nameFr ?? p.pool.nameEn}
+                      {p.pool.nameEn}
                     </Link>
                     <span className="flex items-center gap-2 text-xs text-faint">
                       poids {p.weight}
@@ -224,7 +224,7 @@ export function ItemDetailPage() {
                   <li key={t.slug}>
                     <Link to={`/synergies?transformation=${t.slug}`} className="flex items-center gap-2 font-display text-lg text-parchment hover:underline">
                       <GameIcon src={asset('transformations', t.slug)} size={22} />
-                      {t.nameFr ?? t.nameEn}
+                      {t.nameEn}
                     </Link>
                     <Markup text={t.description} className="text-muted" />
                   </li>
@@ -270,7 +270,7 @@ export function TrinketDetailPage() {
             <Sprite kind="trinket" id={t.id} size={72} className="rounded-xl bg-[#141920] p-2 pixel-border" />
             <span>
               {displayName(t)}
-              {t.nameFr && t.nameFr !== t.nameEn && <span className="block text-base text-muted">{t.nameEn}</span>}
+              {t.nameFr && t.nameFr !== t.nameEn && <span className="block text-base text-muted">{t.nameFr}</span>}
             </span>
           </span>
         }
@@ -320,7 +320,7 @@ export function ConsumableDetailPage() {
             <Sprite kind="consumable" id={c.slug} size={72} src={consumableIcon(c)} className="bg-transparent ring-0 object-contain" />
             <span>
               {displayName(c)}
-              {c.nameFr && c.nameFr !== c.nameEn && <span className="block text-base text-muted">{c.nameEn}</span>}
+              {c.nameFr && c.nameFr !== c.nameEn && <span className="block text-base text-muted">{c.nameFr}</span>}
             </span>
           </span>
         }

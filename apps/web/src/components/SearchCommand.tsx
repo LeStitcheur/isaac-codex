@@ -114,7 +114,7 @@ export function SearchCommand({ open, onOpenChange }: { open: boolean; onOpenCha
                     <span className="block truncate text-ink">{r.title}</span>
                     <span className="block truncate text-xs text-muted">
                       {r.subtitle}
-                      {r.nameFr && r.nameEn && r.nameFr !== r.nameEn ? ` · ${r.nameEn}` : ''}
+                      {r.nameFr && r.nameEn && r.nameFr !== r.nameEn ? ` · ${r.nameFr}` : ''}
                     </span>
                   </span>
                   <span className="hidden text-xs text-faint sm:inline">{KIND_LABEL[r.kind]}</span>

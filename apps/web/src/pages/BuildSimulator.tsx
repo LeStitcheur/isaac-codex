@@ -89,7 +89,7 @@ export function BuildSimulatorPage() {
                 <ul className="space-y-2" data-testid="build-synergies">
                   {a.synergies.map((s, i) => (
                     <li key={i} className="rounded-md bg-abyss/40 p-2">
-                      <div className="mb-1 text-sm text-parchment">{s.aLabel.nameFr ?? s.aLabel.name} + {s.bLabel.nameFr ?? s.bLabel.name}</div>
+                      <div className="mb-1 text-sm text-parchment">{s.aLabel.name} + {s.bLabel.name}</div>
                       <Markup text={s.text} className="text-sm" />
                     </li>
                   ))}
@@ -104,7 +104,7 @@ export function BuildSimulatorPage() {
                   {a.interactions.map((s, i) => (
                     <li key={i} className="rounded-md bg-abyss/40 p-2">
                       <div className="mb-1 flex items-center gap-2 text-sm text-parchment">
-                        {s.aLabel.nameFr ?? s.aLabel.name} + {s.bLabel.nameFr ?? s.bLabel.name}
+                        {s.aLabel.name} + {s.bLabel.name}
                         {s.possiblyNegative && <Badge variant="warn"><AlertTriangle className="size-3" /> possiblement négative</Badge>}
                       </div>
                       <Markup text={s.text} className="text-sm" />
@@ -127,7 +127,7 @@ export function BuildSimulatorPage() {
                         <span className={t.complete ? 'text-ok' : 'text-muted'}>{t.complete ? 'Transformation obtenue' : `${t.count}/3`}</span>
                       </div>
                       <Progress value={Math.min(100, (t.count / 3) * 100)} tone={t.complete ? 'ok' : 'parchment'} className="mt-1" />
-                      {!t.complete && <p className="mt-1 text-xs text-faint">Manquants possibles : {t.missingLabels.slice(0, 6).map((m) => m.nameFr ?? m.name).join(', ')}{t.missingLabels.length > 6 ? '…' : ''}</p>}
+                      {!t.complete && <p className="mt-1 text-xs text-faint">Manquants possibles : {t.missingLabels.slice(0, 6).map((m) => m.name).join(', ')}{t.missingLabels.length > 6 ? '…' : ''}</p>}
                     </li>
                   ))}
                 </ul>
@@ -158,7 +158,7 @@ export function BuildSimulatorPage() {
               <ul className="grid gap-2 sm:grid-cols-2 lg:grid-cols-3">
                 {a.suggestions.map((s) => (
                   <li key={`${s.ref.kind}:${s.ref.key}`} className="rounded-md bg-abyss/40 p-2">
-                    <EntityChip kind={s.ref.kind as 'item'} id={s.ref.key} name={s.label.nameFr ?? s.label.name} />
+                    <EntityChip kind={s.ref.kind as 'item'} id={s.ref.key} name={s.label.name} />
                     <ul className="mt-1 text-xs text-muted">{s.reasons.map((r) => <li key={r}>• {r}</li>)}</ul>
                   </li>
                 ))}

@@ -6,10 +6,10 @@ export function cn(...inputs: ClassValue[]) {
   return twMerge(clsx(inputs));
 }
 
-/** Nom affiché : français si disponible, sinon anglais. */
+/** Nom affiché : le nom officiel du jeu (anglais) ; le nom français du wiki est montré à part, en sous-titre. */
 export function displayName(e: { nameFr?: string | null; nameEn?: string; name?: string } | null | undefined): string {
   if (!e) return '';
-  return e.nameFr || e.nameEn || e.name || '';
+  return e.nameEn || e.name || e.nameFr || '';
 }
 
 export function entityHref(kind: string, key: string): string {

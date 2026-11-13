@@ -7,6 +7,7 @@ import { readFileSync, existsSync } from 'node:fs';
 import path from 'node:path';
 import { dataset as datasetSchema, type Dataset, VERSIONS } from '../../../../packages/shared/src/index.js';
 import type { DbHandle } from './client.js';
+import { applyTranslations, readTranslations } from './translations.js';
 
 export function datasetPath(rootDir: string): string {
   return path.join(rootDir, 'packages/game-data/generated/dataset.json');
@@ -29,6 +30,8 @@ export function loadDatasetFile(file: string): Dataset {
   if (!existsSync(file)) throw new Error(`Jeu de données introuvable : ${file}. Exécutez « npm run data:build ».`);
   const parsed = datasetSchema.safeParse(JSON.parse(readFileSync(file, 'utf8')));
   if (!parsed.success) throw new Error(`Jeu de données invalide : ${parsed.error.issues.slice(0, 3).map((i) => `${i.path.join('.')}: ${i.message}`).join(' ; ')}`);
+  // Traductions françaises des textes détaillés (si le fichier existe) : packages/game-data/curated/translations-fr.json.
+  applyTranslations(parsed.data, readTranslations(path.resolve(path.dirname(file), '../../..')));
   return parsed.data;
 }
 

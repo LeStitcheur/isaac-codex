@@ -72,7 +72,7 @@ function ItemSynergies({ picked }: { picked: PickedRef }) {
               {g.items.map((s, i) => (
                 <li key={i} className="rounded-md bg-abyss/40 p-2">
                   <div className="mb-1 flex items-center gap-2">
-                    <EntityChip kind={s.other.kind as 'item'} id={s.other.key} name={s.other.nameFr ?? s.other.name} />
+                    <EntityChip kind={s.other.kind as 'item'} id={s.other.key} name={s.other.name} />
                     {s.mask !== null && <VersionBadge mask={s.mask} />}
                   </div>
                   <Markup text={s.text} className="text-sm" />
@@ -128,7 +128,7 @@ function Compare() {
             </div>
           ))}
           {q.data.sharedTransformations.length > 0 && (
-            <p className="text-sm">Transformation commune : {q.data.sharedTransformations.map((t) => t.nameFr ?? t.nameEn).join(', ')}</p>
+            <p className="text-sm">Transformation commune : {q.data.sharedTransformations.map((t) => t.nameEn).join(', ')}</p>
           )}
           {q.data.note && <p className="text-sm text-muted">{q.data.note}</p>}
         </div>
@@ -150,7 +150,7 @@ function Transformations({ highlight }: { highlight: string | null }) {
           <div className="mb-1 flex items-center justify-between gap-2">
             <h3 className="flex items-center gap-2 font-display text-xl text-parchment">
               <GameIcon src={asset('transformations', t.slug)} size={28} />
-              {t.nameFr ?? t.nameEn}
+              {t.nameEn}
             </h3>
             <VersionBadge mask={t.mask} />
           </div>
@@ -158,7 +158,7 @@ function Transformations({ highlight }: { highlight: string | null }) {
           <p className="mt-2 text-xs text-muted">Condition : <Markup text={t.requirement} inline /></p>
           <div className="mt-2 flex flex-wrap gap-1.5">
             {t.membersLabels.map((m) => (
-              <EntityChip key={`${m.kind}:${m.key}`} kind={m.kind as 'item'} id={m.key} name={m.nameFr ?? m.name} />
+              <EntityChip key={`${m.kind}:${m.key}`} kind={m.kind as 'item'} id={m.key} name={m.name} />
             ))}
           </div>
         </div>

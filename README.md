@@ -15,7 +15,9 @@ Encyclopédie interactive **non officielle** de *The Binding of Isaac* (Rebirth 
 - **Guides** : 14 guides rédigés en français (dont les 12 prioritaires), avec prérequis, étapes, conseils, risques, alternatives et notes par version.
 - **Machines de dons** : Donation Machine et Greed Donation Machine, paliers, prochaine récompense, progression.
 - **Boss et étages** : 123 boss/mini-boss, 27 étages, 6 routes illustrées (normale, Cathedral/Chest, Sheol/Dark Room, Void, Mother, The Beast).
-- **Profils** sans compte : plusieurs profils, progression/favoris/paramètres indépendants (version du jeu, plateforme dont Nintendo Switch), mot de passe facultatif, **export/import JSON**, sauvegardes SQLite.
+- **Comptes** (nom + mot de passe, obligatoires dès l'accueil) : plusieurs comptes par appareil avec bascule rapide, progression/favoris/paramètres indépendants (version du jeu, plateforme dont Nintendo Switch), **export/import JSON**.
+- **Application installable** sur Android (PWA), consultation hors ligne des pages déjà vues, menu ouvert d'un glissement du doigt.
+- **Noms officiels du jeu** (anglais) partout, nom français du wiki en sous-titre ; bascule rapide entre personnages (bande de portraits, ← → et T au clavier).
 - Interface sombre façon tableau de bord (même système visuel que LeStitcheur), sprites du jeu, responsive (mobile), barre latérale repliable.
 
 Version de référence : **Repentance** ; les différences Repentance+ et des anciennes versions sont signalées (badges, lignes atténuées hors version).
@@ -64,6 +66,32 @@ Chaque `git push` sur `main` redéploie la production ; les autres branches obti
 
 Hors Vercel (local, Pterodactyl), rien ne change : sans variable Turso, les profils restent dans le fichier SQLite `DATABASE_PATH`.
 
+### Publier une mise à jour : `npm run deploy`
+
+```bash
+npm run deploy                          # vérifie, commite et pousse sur GitHub → Vercel redéploie
+npm run deploy -- "Nouveaux guides"     # avec un message de commit
+npm run deploy -- --dry-run             # vérifications seules, rien n'est poussé
+```
+
+Étapes : branche `main` à jour (rebase si besoin) → typecheck → tests → build → commit → `git push`. La première erreur arrête tout : rien de cassé n'est publié. GitHub Actions (`.github/workflows/ci.yml`) refait ces vérifications à chaque push.
+
+### Application Android (PWA)
+
+Le site est installable : sur Android (Chrome), bouton **« Installer l'application »** dans le menu, ou menu ⋮ → *Installer l'application*. Icônes générées par `npm run assets:icons` ; le service worker (`apps/web/public/sw.js`) met en cache l'interface et les pages consultées (lecture hors ligne), jamais les données de compte.
+
+### Traduction des notes détaillées
+
+Les descriptions, effets, notes, stratégies et synergies sont traduits par l'API Claude (Message Batches, −50 %), une seule fois, dans `packages/game-data/curated/translations-fr.json` (à committer) :
+
+```bash
+npm run data:translate -- --dry-run                 # estimation, aucun coût
+ANTHROPIC_API_KEY=sk-ant-… npm run data:translate   # tout (≈ 2,3 M caractères)
+npm run data:translate -- --skip-synergies          # fiches seulement (≈ 1,5 M caractères)
+```
+
+Modèle par défaut `claude-opus-5-5` (`--model` ou `TRANSLATE_MODEL` pour un autre). Les noms propres restent ceux du jeu (anglais) et le balisage (liens, icônes) est vérifié ; un texte anglais modifié par le wiki redevient anglais jusqu'à la traduction suivante. Relancer la commande ne traduit que ce qui manque.
+
 ## Déploiement sur Pterodactyl
 
 1. Panel → Admin → Nests → **Import Egg** → `pterodactyl/egg-isaac-codex.json`.
@@ -89,7 +117,7 @@ Détails : [`pterodactyl/README.md`](pterodactyl/README.md) · [`docs/DEPLOIEMEN
 | `BACKUP_ON_START` / `BACKUP_KEEP` | `true` / `7` | sauvegardes automatiques |
 | `RATE_LIMIT_MAX` / `AUTH_RATE_LIMIT_MAX` | `300` / `10` | limitation de débit |
 | `SPRITES_DIR` | `data/sprites` | sprites fournis par l'utilisateur |
-| `TURSO_DATABASE_URL` / `TURSO_AUTH_TOKEN` | — | base des profils libSQL/Turso (obligatoire sur Vercel ; sinon fichier local) |
+| `TURSO_DATABASE_URL` / `TURSO_AUTH_TOKEN` | — | base des comptes libSQL/Turso (obligatoire sur Vercel ; sinon fichier local) |
 
 ## Données et sources
 
